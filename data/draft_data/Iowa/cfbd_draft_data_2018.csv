@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3894849,101707,2294,Iowa,Big Ten,Chicago,2018,39,2,7,James Daniels,Center,75,306,18,1,90,"{'city': 'Warren', 'state': 'OH', 'country': 'USA', 'latitude': '41.237557', 'longitude': '-80.818417', 'countyFips': '39155'}"
+3144984,101663,2294,Iowa,Big Ten,Green Bay,2018,45,2,13,Josh Jackson,Cornerback,72,196,27,4,88,"{'city': 'Corinth', 'state': 'TX', 'country': 'USA', 'latitude': '33.1540091', 'longitude': '-97.0647322', 'countyFips': '48121'}"
+545427,101569,2294,Iowa,Big Ten,Denver,2018,106,4,6,Josey Jewell,Inside Linebacker,73,234,91,3,72,"{'city': 'Decorah', 'state': 'IA', 'country': 'USA', 'latitude': '43.3033056', 'longitude': '-91.7857092', 'countyFips': '19191'}"

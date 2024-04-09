@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3124779,101825,98,Western Kentucky,Conference USA,Chicago,2018,115,4,15,Joel Iyiegbuniwe,Outside Linebacker,73,230,,27,30,"{'city': 'Bowling Green', 'state': 'KY', 'country': 'USA', 'latitude': '36.9903199', 'longitude': '-86.4436018', 'countyFips': '21227'}"
+549804,101717,98,Western Kentucky,Conference USA,Dallas,2018,171,5,34,Mike White,Quarterback,77,224,120.0,9,68,"{'city': 'Pembroke Pines', 'state': 'FL', 'country': 'USA', 'latitude': '26.02322025', 'longitude': '-80.34123906625615', 'countyFips': '12011'}"

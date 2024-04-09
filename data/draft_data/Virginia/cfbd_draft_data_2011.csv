@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+183648,26075,258,Virginia,ACC,New England,2011,33,2,1,Ras-I Dowling,Cornerback,73,198,39,5,86,"{'city': 'Chesapeake', 'state': 'VA', 'country': 'USA', 'latitude': '36.7183708', 'longitude': '-76.2466798', 'countyFips': '51550'}"

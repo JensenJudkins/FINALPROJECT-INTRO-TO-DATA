@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+503961,34843,57,Florida,SEC,New England,2014,29,1,29,Dominique Easley,Defensive Tackle,74,288,64,5,77,"{'city': 'Staten Island', 'state': 'NY', 'country': 'USA', 'latitude': '40.564209', 'longitude': '-74.12530461995391', 'countyFips': '36085'}"
+503982,33693,57,Florida,SEC,Philadelphia,2014,101,4,1,Jaylen Watkins,Cornerback,72,194,85,12,70,"{'city': 'Cape Coral', 'state': 'FL', 'country': 'USA', 'latitude': '26.6059432', 'longitude': '-81.9806771', 'countyFips': '12071'}"
+501558,34747,57,Florida,SEC,New Orleans,2014,169,5,29,Ronald Powell,Outside Linebacker,75,237,200,18,48,"{'city': 'Moreno Valley', 'state': 'CA', 'country': 'USA', 'latitude': '33.937517', 'longitude': '-117.2305944', 'countyFips': '06065'}"
+-1009853,33683,57,Florida,SEC,New England,2014,179,6,3,Jon Halapio,Offensive Guard,76,323,226,15,43,"{'city': 'St. Petersburg', 'state': 'FL', 'country': 'USA', 'latitude': '27.7703796', 'longitude': '-82.6695085', 'countyFips': '12103'}"

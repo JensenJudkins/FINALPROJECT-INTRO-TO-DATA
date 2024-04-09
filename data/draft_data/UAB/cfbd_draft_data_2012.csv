@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2267517,27449,5,UAB,Conference USA,New York,2012,201,6,31,Matt Mccants,Offensive Tackle,78,308,,23,31,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

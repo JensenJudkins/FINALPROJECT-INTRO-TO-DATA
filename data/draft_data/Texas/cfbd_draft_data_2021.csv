@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4262199,104743,251,Texas,Big 12,Washington,2021,51,2,19,Samuel Cosmi,Offensive Tackle,78,314,66,8,78,"{'city': 'Humble', 'state': 'TX', 'country': 'USA', 'latitude': '29.9988312', 'longitude': '-95.2621553', 'countyFips': '48201'}"
+4362094,104834,251,Texas,Big 12,Cincinnati,2021,69,3,5,Joseph Ossai,Defensive End,76,256,84,4,74,"{'city': 'Conroe', 'state': 'TX', 'country': 'USA', 'latitude': '30.3118769', 'longitude': '-95.4560512', 'countyFips': '48339'}"
+4262197,105184,251,Texas,Big 12,Atlanta,2021,148,5,4,Ta'Quon Graham,Defensive Tackle,75,292,263,23,35,"{'city': 'Temple', 'state': 'TX', 'country': 'USA', 'latitude': '31.098207', 'longitude': '-97.3427847', 'countyFips': '48027'}"
+4362077,104807,251,Texas,Big 12,Denver,2021,152,5,8,Caden Sterns,Safety,72,202,139,10,64,"{'city': 'Cibolo', 'state': 'TX', 'country': 'USA', 'latitude': '29.5707831', 'longitude': '-98.2330927', 'countyFips': '48187'}"
+4241820,104851,251,Texas,Big 12,Indianapolis,2021,218,6,34,Sam Ehlinger,Quarterback,73,220,247,12,38,"{'city': 'Austin', 'state': 'TX', 'country': 'USA', 'latitude': '30.2711286', 'longitude': '-97.7436995', 'countyFips': '48453'}"

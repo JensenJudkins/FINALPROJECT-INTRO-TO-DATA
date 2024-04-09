@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2466921,33709,120,Maryland,ACC,New York,2014,80,3,16,Dex McDougle,Cornerback,70,196,202,28,47,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

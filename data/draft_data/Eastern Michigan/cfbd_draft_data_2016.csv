@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+536053,50426,2199,Eastern Michigan,Mid-American,Dallas,2016,216,6,41,Darius Jackson,Running Back,72,220,,26,30,"{'city': 'Sparta', 'state': 'IL', 'country': 'USA', 'latitude': '38.1231053', 'longitude': '-89.7017658', 'countyFips': '17157'}"

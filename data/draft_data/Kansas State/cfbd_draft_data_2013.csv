@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+377699,30379,2306,Kansas State,Big 12,Baltimore,2013,56,2,24,Arthur Brown,Outside Linebacker,72,241,48.0,3,86,"{'city': 'Wichita', 'state': 'KS', 'country': 'USA', 'latitude': '37.6922361', 'longitude': '-97.3375448', 'countyFips': '20173'}"
+487950,30014,2306,Kansas State,Big 12,Seattle,2013,123,4,26,Chris Harper,Wide Receiver,73,229,147.0,16,61,"{'city': 'Wichita', 'state': 'KS', 'country': 'USA', 'latitude': '37.6922361', 'longitude': '-97.3375448', 'countyFips': '20173'}"
+481498,30034,2306,Kansas State,Big 12,Kansas City,2013,204,6,36,Braden Wilson,Fullback,76,251,,6,31,"{'city': 'Smith Center', 'state': 'KS', 'country': 'USA', 'latitude': '39.779179', 'longitude': '-98.785075', 'countyFips': '20183'}"

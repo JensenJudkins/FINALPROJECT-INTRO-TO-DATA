@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4362759,104934,142,Missouri,SEC,Kansas City,2021,58,2,26,Nick Bolton,Inside Linebacker,71,237,40,4,87,"{'city': 'Frisco', 'state': 'TX', 'country': 'USA', 'latitude': '33.1506744', 'longitude': '-96.8236116', 'countyFips': '48085'}"
+4241195,105306,142,Missouri,SEC,Las Vegas,2021,143,4,38,Tyree Gillespie,Safety,72,207,157,12,59,"{'city': 'Ocala', 'state': 'FL', 'country': 'USA', 'latitude': '29.1871986', 'longitude': '-82.1400923', 'countyFips': '12083'}"
+4241217,105309,142,Missouri,SEC,Chicago,2021,151,5,7,Larry Borom,Offensive Tackle,77,322,259,19,36,"{'city': 'Bloomfield Hills', 'state': 'MI', 'country': 'USA', 'latitude': '42.583645', 'longitude': '-83.2454883', 'countyFips': '26125'}"
+4241199,105328,142,Missouri,SEC,New England,2021,188,6,4,Joshuah Bledsoe,Safety,71,204,174,13,57,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+4241205,104867,142,Missouri,SEC,Los Angeles,2021,198,6,14,Larry Rountree III,Running Back,71,211,182,12,55,"{'city': 'Raleigh', 'state': 'NC', 'country': 'USA', 'latitude': '35.7803977', 'longitude': '-78.6390989', 'countyFips': '37183'}"

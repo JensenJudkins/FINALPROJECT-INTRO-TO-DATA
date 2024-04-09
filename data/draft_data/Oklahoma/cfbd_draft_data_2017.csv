@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3116385,51784,201,Oklahoma,Big 12,Cincinnati,2017,48,2,16,Joe Mixon,Running Back,73,228,47.0,5,84,"{'city': 'Oakley', 'state': 'CA', 'country': 'USA', 'latitude': '37.9974219', 'longitude': '-121.7124536', 'countyFips': '06013'}"
+3892889,51814,201,Oklahoma,Big 12,Jacksonville,2017,110,4,3,Dede Westbrook,Wide Receiver,72,178,188.0,27,52,"{'city': 'Cameron', 'state': 'TX', 'country': 'USA', 'latitude': '30.8532454', 'longitude': '-96.9769304', 'countyFips': '48331'}"
+3116389,51659,201,Oklahoma,Big 12,Washington,2017,114,4,7,Samaje Perine,Running Back,71,233,71.0,6,77,"{'city': 'Pflugerville', 'state': 'TX', 'country': 'USA', 'latitude': '30.4393696', 'longitude': '-97.6200043', 'countyFips': '48453'}"
+550490,51882,201,Oklahoma,Big 12,Cincinnati,2017,193,6,9,Jordan Evans,Inside Linebacker,75,232,,23,30,"{'city': 'Norman', 'state': 'OK', 'country': 'USA', 'latitude': '35.2225717', 'longitude': '-97.4394816', 'countyFips': '40027'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1015119,29283,2305,Kansas,Big 12,Cincinnati,2013,156,5,23,Tanner Hawkinson,Offensive Tackle,77,298,197,16,51,"{'city': 'McPherson', 'state': 'KS', 'country': 'USA', 'latitude': '38.3708415', 'longitude': '-97.6642087', 'countyFips': '20113'}"

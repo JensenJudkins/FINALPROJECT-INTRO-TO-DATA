@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3052470,52072,2509,Purdue,Big Ten,Green Bay,2017,175,5,32,Deangelo Yancey,Wide Receiver,74,220,194,28,51,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

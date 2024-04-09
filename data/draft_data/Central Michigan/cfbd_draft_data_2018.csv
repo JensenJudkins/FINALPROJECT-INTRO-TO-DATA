@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3915486,101614,2117,Central Michigan,Mid-American,Minnesota,2018,157,5,20,Tyler Conklin,Tight End,75,254,147,7,62,"{'city': 'Chesterfield', 'state': 'MI', 'country': 'USA', 'latitude': '38.661953', 'longitude': '-90.5643258', 'countyFips': '29189'}"

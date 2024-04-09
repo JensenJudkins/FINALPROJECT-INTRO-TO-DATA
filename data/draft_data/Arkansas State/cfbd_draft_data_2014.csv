@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+481409,34158,2032,Arkansas State,Sun Belt,Los Angeles,2014,165,5,25,Ryan Carrethers,Defensive Tackle,73,337,231,23,42,"{'city': 'Nashville', 'state': 'TN', 'country': 'USA', 'latitude': '36.1622296', 'longitude': '-86.7743531', 'countyFips': '47037'}"

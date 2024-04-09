@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482107,33624,2309,Kent State,Mid-American,Pittsburgh,2014,97,3,33,Dri Archer,Running Back,68,173,98,9,68,"{'city': 'Laurel', 'state': 'FL', 'country': 'USA', 'latitude': '27.1303319', 'longitude': '-82.453152', 'countyFips': '12115'}"

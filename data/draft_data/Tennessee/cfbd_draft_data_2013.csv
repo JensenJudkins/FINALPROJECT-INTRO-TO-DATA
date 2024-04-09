@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+532092,30260,2633,Tennessee,SEC,Minnesota,2013,29,1,29,Cordarrelle Patterson,Wide Receiver,74,216,29,3,89,"{'city': 'Rock Hill', 'state': 'SC', 'country': 'USA', 'latitude': '34.9248667', 'longitude': '-81.0250784', 'countyFips': '45091'}"
+501520,29238,2633,Tennessee,SEC,Tennessee,2013,34,2,2,Justin Hunter,Wide Receiver,76,196,25,2,90,"{'city': 'Virginia Beach', 'state': 'VA', 'country': 'USA', 'latitude': '36.8529841', 'longitude': '-75.9774183', 'countyFips': '51810'}"
+-1034445,30349,2633,Tennessee,SEC,Miami,2013,77,3,15,Dallas Thomas,Offensive Guard,78,306,94,6,73,"{'city': 'Baton Rouge', 'state': 'LA', 'country': 'USA', 'latitude': '30.4459596', 'longitude': '-91.18738', 'countyFips': '22033'}"
+379316,29665,2633,Tennessee,SEC,Las Vegas,2013,184,6,16,Mychal Rivera,Tight End,75,242,239,15,45,"{'city': 'Valencia', 'state': 'CA', 'country': 'USA', 'latitude': '34.1466768', 'longitude': '-117.2725427', 'countyFips': '06071'}"

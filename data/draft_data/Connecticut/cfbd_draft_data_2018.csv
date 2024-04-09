@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546678,101791,41,Connecticut,American Athletic,New York,2018,180,6,6,Folorunso Fatukasi,Defensive Tackle,76,318,128,12,67,"{'city': 'Far Rockaway', 'state': 'NY', 'country': 'USA', 'latitude': '40.6053825', 'longitude': '-73.7551326', 'countyFips': '36081'}"

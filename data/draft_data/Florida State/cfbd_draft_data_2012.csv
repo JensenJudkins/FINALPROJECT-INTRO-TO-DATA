@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+377665,27673,52,Florida State,ACC,Buffalo,2012,105,4,10,Nigel Bradham,Outside Linebacker,74,241,120.0,7,65,"{'city': 'Crawfordville', 'state': 'FL', 'country': 'USA', 'latitude': '30.1760358', 'longitude': '-84.3751778', 'countyFips': '12129'}"
+-1011081,27672,52,Florida State,ACC,Buffalo,2012,144,5,9,Zebrie Sanders,Offensive Tackle,78,320,89.0,8,72,"{'city': 'Dayton', 'state': 'OH', 'country': 'USA', 'latitude': '39.7589478', 'longitude': '-84.1916069', 'countyFips': '39113'}"
+507160,27675,52,Florida State,ACC,Jacksonville,2012,176,6,6,Mike Harris,Cornerback,70,188,,34,32,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+-1011065,27670,52,Florida State,ACC,Green Bay,2012,241,7,34,Andrew Datko,Offensive Tackle,78,315,202.0,17,45,"{'city': 'Weston', 'state': 'FL', 'country': 'USA', 'latitude': '26.103632', 'longitude': '-80.40310198173701', 'countyFips': '12011'}"

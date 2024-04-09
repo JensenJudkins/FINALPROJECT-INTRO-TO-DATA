@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+232016,27308,2,Auburn,SEC,Carolina,2011,1,1,1,Cam Newton,Quarterback,77,248,15,2,93,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+480377,27293,2,Auburn,SEC,Detroit,2011,13,1,13,Nick Fairley,Defensive Tackle,75,291,11,2,94,"{'city': 'Mobile', 'state': 'AL', 'country': 'USA', 'latitude': '30.6943566', 'longitude': '-88.0430541', 'countyFips': '01097'}"
+-1003800,27386,2,Auburn,SEC,Tennessee,2011,212,7,9,Zach Clayton,Defensive Tackle,74,299,216,18,44,"{'city': 'Opelika', 'state': 'AL', 'country': 'USA', 'latitude': '32.72667', 'longitude': '-85.39249304591837', 'countyFips': '01081'}"
+238288,26089,2,Auburn,SEC,Carolina,2011,244,7,41,Lee Ziemba,Offensive Tackle,78,317,104,9,71,"{'city': 'Rogers', 'state': 'AR', 'country': 'USA', 'latitude': '36.3320197', 'longitude': '-94.1185366', 'countyFips': '05007'}"

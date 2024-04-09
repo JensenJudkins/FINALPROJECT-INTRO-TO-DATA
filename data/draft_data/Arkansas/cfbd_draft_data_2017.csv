@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1002242,51530,8,Arkansas,SEC,New England,2017,131,4,25,Deatrich Wise Jr.,Defensive End,77,274,176,15,56,"{'city': 'Carrollton', 'state': 'TX', 'country': 'USA', 'latitude': '32.9537349', 'longitude': '-96.8902816', 'countyFips': '48113'}"
+535889,51577,8,Arkansas,SEC,Washington,2017,154,5,10,Jeremy Sprinkle,Tight End,77,252,170,12,58,"{'city': 'White Hall', 'state': 'AR', 'country': 'USA', 'latitude': '34.2739862', 'longitude': '-92.0909766', 'countyFips': '05069'}"
+3892689,51996,8,Arkansas,SEC,Detroit,2017,205,6,21,Jeremiah Ledbetter,Defensive End,75,280,167,14,58,"{'city': 'Orlando', 'state': 'FL', 'country': 'USA', 'latitude': '28.5421109', 'longitude': '-81.3790304', 'countyFips': '12095'}"

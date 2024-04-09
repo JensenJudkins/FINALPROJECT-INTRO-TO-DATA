@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4430807,106312,251,Texas,Big 12,Atlanta,2023,8,1,8,Bijan Robinson,Running Back,71,215,2,1,96,"{'city': 'Tucson', 'state': 'AZ', 'country': 'USA', 'latitude': '32.2228765', 'longitude': '-110.9748477', 'countyFips': '04019'}"
+4362088,106407,251,Texas,Big 12,Dallas,2023,90,3,27,DeMarvion Overshown,Inside Linebacker,75,229,89,6,71,"{'city': 'Arp', 'state': 'TX', 'country': 'USA', 'latitude': '32.2254831', 'longitude': '-95.059035', 'countyFips': '48423'}"
+4426386,106750,251,Texas,Big 12,Chicago,2023,115,4,13,Roschon Johnson,Running Back,72,219,84,6,73,"{'city': 'Port Neches', 'state': 'TX', 'country': 'USA', 'latitude': '29.9913244', 'longitude': '-93.9585067', 'countyFips': '48245'}"
+4362117,106650,251,Texas,Big 12,Kansas City,2023,194,6,17,Keondre Coburn,Defensive Tackle,74,332,244,18,42,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+4362116,106747,251,Texas,Big 12,Philadelphia,2023,249,7,32,Moro Ojomo,Defensive End,75,292,119,13,65,"{'city': 'Katy', 'state': 'TX', 'country': 'USA', 'latitude': '29.7857853', 'longitude': '-95.8243956', 'countyFips': '48157'}"

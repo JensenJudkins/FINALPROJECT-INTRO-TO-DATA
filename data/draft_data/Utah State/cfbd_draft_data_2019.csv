@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4361606,103889,328,Utah State,Mountain West,Kansas City,2019,214,6,41,Darwin Thompson,Running Back,68,198,305,29,39,"{'city': 'Jenks', 'state': 'OK', 'country': 'USA', 'latitude': '36.0228734', 'longitude': '-95.9683278', 'countyFips': '40143'}"

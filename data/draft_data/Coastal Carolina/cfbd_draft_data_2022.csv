@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4361050,105718,324,Coastal Carolina,Sun Belt,Baltimore,2022,139,4,34,Isaiah Likely,Tight End,77,245,104,6,71,"{'city': 'Malden', 'state': 'MA', 'country': 'USA', 'latitude': '42.4250964', 'longitude': '-71.066163', 'countyFips': '25017'}"
+4241089,106030,324,Coastal Carolina,Sun Belt,Cincinnati,2022,252,7,31,Jeffrey Gunter,Defensive End,76,258,198,18,55,"{'city': 'Durham', 'state': 'NC', 'country': 'USA', 'latitude': '35.996653', 'longitude': '-78.9018053', 'countyFips': '37063'}"

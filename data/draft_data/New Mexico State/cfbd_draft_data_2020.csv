@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4040790,104682,166,New Mexico State,FBS Independents,Detroit,2020,172,5,27,Jason Huntley,Running Back,68,190,,,,"{'city': 'Arlington', 'state': 'TX', 'country': 'USA', 'latitude': '32.701938999999996', 'longitude': '-97.10562379033699', 'countyFips': '48439'}"

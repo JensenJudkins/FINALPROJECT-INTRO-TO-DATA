@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4245655,104876,277,West Virginia,Big 12,Cleveland,2021,153,5,9,Tony Fields II,Inside Linebacker,72,222,193,16,52,"{'city': 'Las Vegas', 'state': 'NV', 'country': 'USA', 'latitude': '36.1672559', 'longitude': '-115.1485163', 'countyFips': '32003'}"

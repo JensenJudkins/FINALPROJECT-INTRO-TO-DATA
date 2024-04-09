@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4239719,105447,2084,Buffalo,Mid-American,Las Vegas,2021,79,3,16,Malcolm Koonce,Outside Linebacker,74,249,191,20,53,"{'city': 'Peekskill', 'state': 'NY', 'country': 'USA', 'latitude': '41.289811', 'longitude': '-73.9204922', 'countyFips': '36119'}"

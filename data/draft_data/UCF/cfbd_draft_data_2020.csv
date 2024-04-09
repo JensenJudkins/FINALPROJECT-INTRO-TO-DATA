@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4243537,104457,2116,UCF,American Athletic,Buffalo,2020,128,4,22,Gabriel Davis,Wide Receiver,74,216,156,27,57,"{'city': 'Sanford', 'state': 'FL', 'country': 'USA', 'latitude': '28.8117297', 'longitude': '-81.2680345', 'countyFips': '12117'}"

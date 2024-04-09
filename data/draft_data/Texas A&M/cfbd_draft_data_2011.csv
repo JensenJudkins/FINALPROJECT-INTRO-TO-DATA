@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+245254,27009,245,Texas A&M,Big 12,Denver,2011,2,1,2,Von Miller,Outside Linebacker,75,246,2,1,97,"{'city': 'DeSoto', 'state': 'TX', 'country': 'USA', 'latitude': '32.6061241', 'longitude': '-96.865612653687', 'countyFips': '48113'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1023772,33655,2440,Nevada,Mountain West,Cleveland,2014,35,2,3,Joel Bitonio,Offensive Tackle,76,302,31,6,89,"{'city': 'Long Beach', 'state': 'CA', 'country': 'USA', 'latitude': '33.7690164', 'longitude': '-118.1916048', 'countyFips': '06037'}"

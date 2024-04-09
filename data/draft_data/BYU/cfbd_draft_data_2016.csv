@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+536127,49535,252,BYU,FBS Independents,Baltimore,2016,70,3,7,Bronson Kaufusi,Defensive End,79,285,91,11,72,"{'city': 'Provo', 'state': 'UT', 'country': 'USA', 'latitude': '40.2338438', 'longitude': '-111.6585337', 'countyFips': '49049'}"

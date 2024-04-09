@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1002323,34133,8,Arkansas,SEC,Detroit,2014,76,3,12,Travis Swanson,Center,77,312,175.0,4,51,"{'city': 'Kingwood', 'state': 'TX', 'country': 'USA', 'latitude': '30.0497077', 'longitude': '-95.1846301', 'countyFips': '48201'}"
+-1002321,33645,8,Arkansas,SEC,Jacksonville,2014,159,5,19,Chris Smith,Defensive End,73,266,112.0,10,65,"{'city': 'Mount Ulla', 'state': 'NC', 'country': 'USA', 'latitude': '35.6584725', 'longitude': '-80.7267361', 'countyFips': '37159'}"
+515938,34809,8,Arkansas,SEC,Seattle,2014,227,7,12,Kiero Small,Fullback,68,247,,5,30,"{'city': 'Baltimore', 'state': 'MD', 'country': 'USA', 'latitude': '39.2908816', 'longitude': '-76.610759', 'countyFips': '24510'}"
+504071,34824,8,Arkansas,SEC,Washington,2014,228,7,13,Zach Hocker,Place Kicker,72,189,,3,30,"{'city': 'Russellville', 'state': 'AR', 'country': 'USA', 'latitude': '35.2784173', 'longitude': '-93.1337856', 'countyFips': '05115'}"

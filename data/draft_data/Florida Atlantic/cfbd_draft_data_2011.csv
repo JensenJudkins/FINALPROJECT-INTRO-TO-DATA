@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2219807,26147,2226,Florida Atlantic,Sun Belt,Arizona,2011,69,3,5,Robert Housler,Tight End,77,248,124,5,66,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

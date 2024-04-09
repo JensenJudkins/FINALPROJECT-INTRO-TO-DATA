@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546653,51661,221,Pittsburgh,ACC,Pittsburgh,2017,105,3,41,James Conner,Running Back,74,233,122,10,68,"{'city': 'Erie', 'state': 'PA', 'country': 'USA', 'latitude': '42.1294712', 'longitude': '-80.0852695', 'countyFips': '42049'}"
+-1029425,51636,221,Pittsburgh,ACC,Arizona,2017,115,4,8,Dorian Johnson,Offensive Guard,77,300,89,4,74,"{'city': 'Belle Vernon', 'state': 'PA', 'country': 'USA', 'latitude': '40.1250725', 'longitude': '-79.8664356', 'countyFips': '42051'}"
+532065,51779,221,Pittsburgh,ACC,Buffalo,2017,171,5,28,Nathan Peterman,Quarterback,75,226,69,6,77,"{'city': 'Fruit Cove', 'state': 'FL', 'country': 'USA', 'latitude': '30.0928745', 'longitude': '-81.60699194552737', 'countyFips': '12109'}"
+-1029414,51989,221,Pittsburgh,ACC,New York,2017,200,6,16,Adam Bisnowaty,Offensive Guard,78,304,160,7,59,"{'city': 'Pittsburgh', 'state': 'PA', 'country': 'USA', 'latitude': '40.4416941', 'longitude': '-79.9900861', 'countyFips': '42003'}"
+511655,48753,221,Pittsburgh,ACC,Los Angeles,2017,234,7,16,Ejuan Price,Outside Linebacker,71,241,197,11,50,"{'city': 'Rankin', 'state': 'PA', 'country': 'USA', 'latitude': '40.412569', 'longitude': '-79.8792161', 'countyFips': '42003'}"

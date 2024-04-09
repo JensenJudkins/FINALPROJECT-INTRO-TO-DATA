@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+512039,29485,344,Mississippi State,SEC,Detroit,2013,36,2,4,Darius Slay,Cornerback,72,192,64,9,79,"{'city': 'Brunswick', 'state': 'GA', 'country': 'USA', 'latitude': '31.1499528', 'longitude': '-81.4914894', 'countyFips': '13127'}"
+483145,29962,344,Mississippi State,SEC,Tampa Bay,2013,43,2,11,Johnthan Banks,Cornerback,74,185,55,7,83,"{'city': 'Maben', 'state': 'MS', 'country': 'USA', 'latitude': '33.554293799999996', 'longitude': '-89.08071261681248', 'countyFips': '28105'}"
+-1022117,29314,344,Mississippi State,SEC,Green Bay,2013,167,5,34,Josh Boyd,Defensive Tackle,75,310,237,19,45,"{'city': 'Philadelphia', 'state': 'MS', 'country': 'USA', 'latitude': '32.7703841', 'longitude': '-89.1153488', 'countyFips': '28099'}"

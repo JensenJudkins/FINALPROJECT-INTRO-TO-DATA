@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+500839,46815,2294,Iowa,Big Ten,Washington,2015,5,1,5,Brandon Scherff,Offensive Tackle,77,319,6,1,93,"{'city': 'Denison', 'state': 'IA', 'country': 'USA', 'latitude': '42.0177658', 'longitude': '-95.3552757', 'countyFips': '19047'}"
+-1014315,46866,2294,Iowa,Big Ten,Baltimore,2015,90,3,26,Carl Davis,Defensive Tackle,77,320,57,7,81,"{'city': 'Sterling Heights', 'state': 'MI', 'country': 'USA', 'latitude': '42.5803122', 'longitude': '-83.0302033', 'countyFips': '26099'}"
+-1014316,46967,2294,Iowa,Big Ten,Los Angeles,2015,119,4,20,Andrew Donnal,Offensive Tackle,78,313,158,16,52,"{'city': 'Monclova', 'state': 'OH', 'country': 'USA', 'latitude': '41.5586632', 'longitude': '-83.7329931', 'countyFips': '39095'}"

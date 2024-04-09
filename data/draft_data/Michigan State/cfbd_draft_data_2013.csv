@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2515397,30218,127,Michigan State,Big Ten,Pittsburgh,2013,48,2,16,Le'veon Bell,Running Back,73,230,89,5,74,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+481715,29194,127,Michigan State,Big Ten,Miami,2013,106,4,9,Dion Sims,Tight End,77,262,146,7,61,"{'city': 'Detroit', 'state': 'MI', 'country': 'USA', 'latitude': '42.3315509', 'longitude': '-83.0466403', 'countyFips': '26163'}"
+-1020798,29958,127,Michigan State,Big Ten,Tampa Bay,2013,126,4,29,William Gholston,Defensive End,78,281,95,10,73,"{'city': 'Detroit', 'state': 'MI', 'country': 'USA', 'latitude': '42.3315509', 'longitude': '-83.0466403', 'countyFips': '26163'}"

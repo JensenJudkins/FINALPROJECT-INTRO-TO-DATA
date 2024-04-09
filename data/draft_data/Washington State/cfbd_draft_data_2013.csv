@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+504845,29253,265,Washington State,Pac-12,Chicago,2013,236,7,30,Marquess Wilson,Wide Receiver,75,194,208,26,50,"{'city': 'Tulare', 'state': 'CA', 'country': 'USA', 'latitude': '36.2077351', 'longitude': '-119.3473421', 'countyFips': '06107'}"

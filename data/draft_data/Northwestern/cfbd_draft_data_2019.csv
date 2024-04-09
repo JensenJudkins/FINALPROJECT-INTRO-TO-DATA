@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3116144,103610,77,Northwestern,Big Ten,Philadelphia,2019,167,5,29,Clayton Thorson,Quarterback,76,222,138,9,65,"{'city': 'Wheaton', 'state': 'IL', 'country': 'USA', 'latitude': '41.8646959', 'longitude': '-88.1101709', 'countyFips': '17043'}"

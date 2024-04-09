@@ -1,0 +1,7 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1022444,46840,142,Missouri,SEC,Denver,2015,23,1,23,Shane Ray,Outside Linebacker,75,245,31,5,88,"{'city': 'Shawnee Mission', 'state': 'KS', 'country': 'USA', 'latitude': '38.99134745', 'longitude': '-94.63274030884841', 'countyFips': '20091'}"
+2971433,46868,142,Missouri,SEC,Tennessee,2015,40,2,8,Dorial Green-Beckham,Wide Receiver,77,237,59,11,80,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+-1022442,46900,142,Missouri,SEC,Kansas City,2015,49,2,17,Mitch Morse,Offensive Guard,77,305,91,5,70,"{'city': 'Austin', 'state': 'TX', 'country': 'USA', 'latitude': '30.2711286', 'longitude': '-97.7436995', 'countyFips': '48453'}"
+531379,46884,142,Missouri,SEC,Arizona,2015,58,2,26,Markus Golden,Defensive End,74,260,75,8,77,"{'city': 'St. Louis', 'state': 'MO', 'country': 'USA', 'latitude': '38.6268039', 'longitude': '-90.1994097', 'countyFips': '29510'}"
+501832,47119,142,Missouri,SEC,Los Angeles,2015,201,6,25,Bud Sasser,Wide Receiver,75,219,310,44,33,"{'city': 'Denton', 'state': 'TX', 'country': 'USA', 'latitude': '33.2150386', 'longitude': '-97.1330516', 'countyFips': '48121'}"
+501826,47059,142,Missouri,SEC,New Orleans,2015,230,7,13,Marcus Murphy,Running Back,68,193,250,23,40,"{'city': 'DeSoto', 'state': 'TX', 'country': 'USA', 'latitude': '32.6061241', 'longitude': '-96.865612653687', 'countyFips': '48113'}"

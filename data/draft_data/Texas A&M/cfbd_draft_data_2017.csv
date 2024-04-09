@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3122132,51534,245,Texas A&M,SEC,Cleveland,2017,1,1,1,Myles Garrett,Defensive End,77,272,1,1,95,"{'city': 'Arlington', 'state': 'TX', 'country': 'USA', 'latitude': '32.701938999999996', 'longitude': '-97.10562379033699', 'countyFips': '48439'}"
+3895859,51605,245,Texas A&M,SEC,Tampa Bay,2017,50,2,18,Justin Evans,Safety,72,199,92,9,74,"{'city': 'Wiggins', 'state': 'MS', 'country': 'USA', 'latitude': '30.858244', 'longitude': '-89.1353283', 'countyFips': '28131'}"
+549867,51535,245,Texas A&M,SEC,Carolina,2017,77,3,13,Daeshon Hall,Defensive End,77,266,93,11,73,"{'city': 'Seattle', 'state': 'WA', 'country': 'USA', 'latitude': '47.6038321', 'longitude': '-122.3300624', 'countyFips': '53033'}"
+559694,51587,245,Texas A&M,SEC,Los Angeles,2017,117,4,10,Josh Reynolds,Wide Receiver,75,194,130,17,67,"{'city': 'San Antonio', 'state': 'TX', 'country': 'USA', 'latitude': '29.4246002', 'longitude': '-98.4951405', 'countyFips': '48029'}"
+-1035094,51703,245,Texas A&M,SEC,Baltimore,2017,159,5,15,Jermaine Eluemunor,Offensive Tackle,76,332,117,7,69,"{'city': 'Denville', 'state': 'NJ', 'country': 'USA', 'latitude': '40.883806', 'longitude': '-74.4809999', 'countyFips': '34027'}"

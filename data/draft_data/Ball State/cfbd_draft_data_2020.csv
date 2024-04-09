@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3915470,104655,2050,Ball State,Mid-American,Indianapolis,2020,149,5,3,Danny Pinter,Offensive Guard,76,306,244,22,39,"{'city': 'South Bend', 'state': 'IN', 'country': 'USA', 'latitude': '41.6833813', 'longitude': '-86.2500066', 'countyFips': '18141'}"

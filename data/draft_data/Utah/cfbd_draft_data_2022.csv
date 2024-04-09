@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4243256,105546,254,Utah,Pac-12,Jacksonville,2022,27,1,27,Devin Lloyd,Inside Linebacker,75,237,20,2,91,"{'city': 'Chula Vista', 'state': 'CA', 'country': 'USA', 'latitude': '32.6400541', 'longitude': '-117.0841955', 'countyFips': '06073'}"

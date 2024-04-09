@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+480218,28963,259,Virginia Tech,ACC,New York,2012,32,1,32,David Wilson,Running Back,70,206,52,3,84,"{'city': 'Danville', 'state': 'VA', 'country': 'USA', 'latitude': '36.5859718', 'longitude': '-79.3950228', 'countyFips': '51590'}"
+481682,28931,259,Virginia Tech,ACC,New York,2012,94,3,31,Jayron Hosley,Cornerback,70,178,95,13,70,"{'city': 'Delray Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.4614625', 'longitude': '-80.0728201', 'countyFips': '12099'}"
+236822,28943,259,Virginia Tech,ACC,Dallas,2012,152,5,17,Danny Coale,Wide Receiver,72,201,152,21,59,"{'city': 'Lexington', 'state': 'VA', 'country': 'USA', 'latitude': '37.7840208', 'longitude': '-79.4428157', 'countyFips': '51678'}"

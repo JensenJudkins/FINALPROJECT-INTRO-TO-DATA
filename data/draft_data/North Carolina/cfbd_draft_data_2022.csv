@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4373280,105623,153,North Carolina,ACC,New York,2022,67,3,3,Joshua Ezeudu,Offensive Guard,76,308,151,11,61,"{'city': 'Lawrenceville', 'state': 'GA', 'country': 'USA', 'latitude': '33.9562149', 'longitude': '-83.9879625', 'countyFips': '13135'}"
+4426875,105574,153,North Carolina,ACC,Washington,2022,144,5,1,Sam Howell,Quarterback,73,218,50,5,85,"{'city': 'Monroe', 'state': 'NC', 'country': 'USA', 'latitude': '34.9854275', 'longitude': '-80.5495112', 'countyFips': '37179'}"
+4242431,106068,153,North Carolina,ACC,Minnesota,2022,169,5,26,Ty Chandler,Running Back,71,204,132,8,66,"{'city': 'Nashville', 'state': 'TN', 'country': 'USA', 'latitude': '36.1622296', 'longitude': '-86.7743531', 'countyFips': '47037'}"
+4240673,105756,153,North Carolina,ACC,New York,2022,173,5,30,Marcus McKethan,Offensive Guard,79,340,327,26,35,"{'city': 'Barnwell', 'state': 'SC', 'country': 'USA', 'latitude': '33.2448733', 'longitude': '-81.3587178', 'countyFips': '45011'}"

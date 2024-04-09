@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+547620,101627,254,Utah,Pac-12,Chicago,2018,181,6,7,Kylie Fitts,Defensive End,76,263,202,18,52,"{'city': 'San Bernardino', 'state': 'CA', 'country': 'USA', 'latitude': '34.1083449', 'longitude': '-117.2897652', 'countyFips': '06071'}"

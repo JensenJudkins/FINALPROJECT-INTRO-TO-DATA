@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+550017,51548,2,Auburn,SEC,Green Bay,2017,93,3,29,Montravius Adams,Defensive Tackle,76,304,102.0,7,73,"{'city': 'Vienna', 'state': 'GA', 'country': 'USA', 'latitude': '32.0913402', 'longitude': '-83.7964675', 'countyFips': '13093'}"
+550034,48703,2,Auburn,SEC,Cincinnati,2017,116,4,9,Carl Lawson,Defensive End,74,261,101.0,12,73,"{'city': 'Alpharetta', 'state': 'GA', 'country': 'USA', 'latitude': '34.0709576', 'longitude': '-84.2747329', 'countyFips': '13121'}"
+550024,52044,2,Auburn,SEC,Arizona,2017,208,6,24,Rudy Ford,Safety,71,205,134.0,12,65,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+2971036,51856,2,Auburn,SEC,Washington,2017,235,7,17,Josh Holsey,Cornerback,70,190,,38,30,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

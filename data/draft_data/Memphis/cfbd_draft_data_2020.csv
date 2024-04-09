@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4360294,104491,235,Memphis,American Athletic,Washington,2020,66,3,2,Antonio Gibson,Wide Receiver,72,228,119.0,10.0,65.0,"{'city': 'Stockbridge', 'state': 'GA', 'country': 'USA', 'latitude': '33.5442781', 'longitude': '-84.2338093', 'countyFips': '13151'}"
+4371737,104696,235,Memphis,American Athletic,Jacksonville,2020,223,7,9,Chris Claybrooks,Cornerback,69,177,,,,"{'city': 'Nashville', 'state': 'TN', 'country': 'USA', 'latitude': '36.1622296', 'longitude': '-86.7743531', 'countyFips': '47037'}"
+4039374,104700,235,Memphis,American Athletic,New England,2020,230,7,16,Dustin Woodard,Center,73,295,,,,"{'city': 'Chandler', 'state': 'AZ', 'country': 'USA', 'latitude': '33.3062223', 'longitude': '-111.8413317', 'countyFips': '04013'}"

@@ -1,0 +1,7 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546644,51583,228,Clemson,ACC,Los Angeles,2017,7,1,7,Mike Williams,Wide Receiver,76,218,12,1,91,"{'city': 'Vance', 'state': 'SC', 'country': 'USA', 'latitude': '33.4337744', 'longitude': '-80.4228665', 'countyFips': '45075'}"
+3122840,51563,228,Clemson,ACC,Houston,2017,12,1,12,Deshaun Watson,Quarterback,75,221,28,2,88,"{'city': 'Gainesville', 'state': 'GA', 'country': 'USA', 'latitude': '34.2978794', 'longitude': '-83.8240663', 'countyFips': '13139'}"
+546642,51590,228,Clemson,ACC,Miami,2017,97,3,33,Cordrea Tankersley,Cornerback,73,199,138,21,63,"{'city': 'Beech Island', 'state': 'SC', 'country': 'USA', 'latitude': '33.4273614', 'longitude': '-81.8909473', 'countyFips': '45003'}"
+546633,51660,228,Clemson,ACC,New York,2017,140,4,34,Wayne Gallman,Running Back,73,215,166,16,58,"{'city': 'Loganville', 'state': 'GA', 'country': 'USA', 'latitude': '33.8389977', 'longitude': '-83.9007382', 'countyFips': '13297'}"
+534596,51619,228,Clemson,ACC,Houston,2017,142,4,36,Carlos Watkins,Defensive Tackle,75,309,104,8,72,"{'city': 'Mooresboro', 'state': 'NC', 'country': 'USA', 'latitude': '35.2987362', 'longitude': '-81.6989863', 'countyFips': '37045'}"
+546740,51665,228,Clemson,ACC,New York,2017,150,5,6,Jordan Leggett,Tight End,78,258,79,6,76,"{'city': 'Navarre', 'state': 'FL', 'country': 'USA', 'latitude': '30.4019789', 'longitude': '-86.8700821', 'countyFips': '12113'}"

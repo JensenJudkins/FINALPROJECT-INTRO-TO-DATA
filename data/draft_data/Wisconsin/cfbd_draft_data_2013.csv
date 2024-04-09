@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1043878,30283,275,Wisconsin,Big Ten,Dallas,2013,31,1,31,Travis Frederick,Center,76,312,71,1,78,"{'city': 'Sharon', 'state': 'WI', 'country': 'USA', 'latitude': '42.5025165', 'longitude': '-88.7289927', 'countyFips': '55127'}"
+482389,29208,275,Wisconsin,Big Ten,Denver,2013,58,2,26,Montee Ball,Running Back,71,214,57,2,82,"{'city': 'Wentzville', 'state': 'MO', 'country': 'USA', 'latitude': '38.8244136', 'longitude': '-90.8683119', 'countyFips': '29183'}"
+2310433,29195,275,Wisconsin,Big Ten,Baltimore,2013,168,5,35,Ricky Wagner,Offensive Tackle,78,308,141,13,62,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

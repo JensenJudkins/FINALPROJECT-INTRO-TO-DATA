@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3915416,101759,120,Maryland,Big Ten,Carolina,2018,24,1,24,D.J. Moore,Wide Receiver,72,210,22.0,2,89,"{'city': 'Philadelphia', 'state': 'PA', 'country': 'USA', 'latitude': '39.9527237', 'longitude': '-75.1635262', 'countyFips': '42101'}"
+3053047,102612,120,Maryland,Big Ten,Carolina,2018,161,5,24,Jermaine Carter,Cornerback,72,237,,71,30,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

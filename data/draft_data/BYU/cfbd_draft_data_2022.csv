@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4373626,106082,252,BYU,FBS Independents,Atlanta,2022,151,5,8,Tyler Allgeier,Running Back,71,224,290,26,40,"{'city': 'Fontana', 'state': 'CA', 'country': 'USA', 'latitude': '34.0922335', 'longitude': '-117.435048', 'countyFips': '06071'}"

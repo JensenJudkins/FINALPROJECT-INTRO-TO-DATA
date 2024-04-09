@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3931399,101835,24,Stanford,Pac-12,Houston,2018,68,3,4,Justin Reid,Safety,73,207,39,3,85,"{'city': 'Prairieville', 'state': 'LA', 'country': 'USA', 'latitude': '30.3029721', 'longitude': '-90.9720451', 'countyFips': '01065'}"
+3117255,101776,24,Stanford,Pac-12,Buffalo,2018,96,3,32,Harrison Phillips,Defensive Tackle,75,307,43,4,85,"{'city': 'Omaha', 'state': 'NE', 'country': 'USA', 'latitude': '41.2587459', 'longitude': '-95.9383758', 'countyFips': '31055'}"
+3117256,101649,24,Stanford,Pac-12,Dallas,2018,137,4,37,Dalton Schultz,Tight End,77,244,181,12,56,"{'city': 'South Jordan', 'state': 'UT', 'country': 'USA', 'latitude': '40.5621704', 'longitude': '-111.929658', 'countyFips': '49035'}"
+546472,101982,24,Stanford,Pac-12,Houston,2018,214,6,40,Peter Kalambayi,Outside Linebacker,75,252,273,24,39,"{'city': 'Matthews', 'state': 'NC', 'country': 'USA', 'latitude': '35.1170873', 'longitude': '-80.723718', 'countyFips': '37119'}"

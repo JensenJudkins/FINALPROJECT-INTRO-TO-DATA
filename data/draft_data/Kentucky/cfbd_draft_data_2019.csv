@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3915239,103524,96,Kentucky,SEC,Jacksonville,2019,7,1,7,Josh Allen,Outside Linebacker,77,262,5.0,1.0,93.0,"{'city': 'Montclair', 'state': 'NJ', 'country': 'USA', 'latitude': '40.8164458', 'longitude': '-74.2210643', 'countyFips': '34013'}"
+4240780,103598,96,Kentucky,SEC,Houston,2019,54,2,22,Lonnie Johnson Jr.,Cornerback,74,213,55.0,8.0,82.0,"{'city': 'Gary', 'state': 'IN', 'country': 'USA', 'latitude': '41.6021292', 'longitude': '-87.3371372', 'countyFips': '18089'}"
+3155647,103739,96,Kentucky,SEC,Tampa Bay,2019,99,3,35,Mike Edwards,Safety,71,205,88.0,7.0,73.0,"{'city': 'Cincinnati', 'state': 'OH', 'country': 'USA', 'latitude': '39.1014537', 'longitude': '-84.5124602', 'countyFips': '39061'}"
+4035072,103644,96,Kentucky,SEC,Pittsburgh,2019,122,4,20,Benny Snell Jr.,Running Back,70,224,245.0,20.0,49.0,"{'city': 'Westerville', 'state': 'OH', 'country': 'USA', 'latitude': '40.126139', 'longitude': '-82.9295287', 'countyFips': '39049'}"
+3915238,104057,96,Kentucky,SEC,New York,2019,232,7,18,George Asafo-Adjei,Offensive Guard,76,305,,,,"{'city': 'West Chester', 'state': 'OH', 'country': 'USA', 'latitude': '39.3303357', 'longitude': '-84.408275', 'countyFips': '39017'}"

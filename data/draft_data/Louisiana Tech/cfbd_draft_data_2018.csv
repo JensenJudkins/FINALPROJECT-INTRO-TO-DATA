@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+549838,102192,2348,Louisiana Tech,Conference USA,New Orleans,2018,201,6,27,Boston Scott,Running Back,67,197,,36,30,"{'city': 'Baton Rouge', 'state': 'LA', 'country': 'USA', 'latitude': '30.4459596', 'longitude': '-91.18738', 'countyFips': '22033'}"

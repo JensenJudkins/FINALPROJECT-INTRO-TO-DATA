@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1035182,33601,245,Texas A&M,SEC,Atlanta,2014,6,1,6,Jake Matthews,Offensive Tackle,78,308,5,2,95,"{'city': 'Missouri City', 'state': 'TX', 'country': 'USA', 'latitude': '29.6185669', 'longitude': '-95.5377215', 'countyFips': '48157'}"
+517502,34120,245,Texas A&M,SEC,Tampa Bay,2014,7,1,7,Mike Evans,Wide Receiver,77,231,7,2,94,"{'city': 'Galveston', 'state': 'TX', 'country': 'USA', 'latitude': '29.299328', 'longitude': '-94.7945882', 'countyFips': '48167'}"
+517475,33057,245,Texas A&M,SEC,Cleveland,2014,22,1,22,Johnny Manziel,Quarterback,72,207,22,2,90,"{'city': 'Kerrville', 'state': 'TX', 'country': 'USA', 'latitude': '30.0474688', 'longitude': '-99.1400207', 'countyFips': '48265'}"

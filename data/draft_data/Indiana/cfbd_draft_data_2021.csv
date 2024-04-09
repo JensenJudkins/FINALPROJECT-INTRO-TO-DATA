@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4371949,105293,84,Indiana,Big Ten,Denver,2021,164,5,20,Jamar Johnson,Safety,72,205,91,5,73,"{'city': 'Sarasota', 'state': 'FL', 'country': 'USA', 'latitude': '27.3364347', 'longitude': '-82.5306527', 'countyFips': '12115'}"

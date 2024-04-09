@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+534448,50143,201,Oklahoma,Big 12,New York,2016,40,2,9,Sterling Shepard,Wide Receiver,70,194,61,9,79,"{'city': 'Oklahoma City', 'state': 'OK', 'country': 'USA', 'latitude': '35.4729886', 'longitude': '-97.5170536', 'countyFips': '40109'}"
+-1027487,49530,201,Oklahoma,Big 12,Dallas,2016,101,4,3,Charles Tapper,Defensive End,75,271,103,12,70,"{'city': 'Baltimore', 'state': 'MD', 'country': 'USA', 'latitude': '39.2908816', 'longitude': '-76.610759', 'countyFips': '24510'}"
+534452,50246,201,Oklahoma,Big 12,Carolina,2016,141,5,2,Zack Sanchez,Cornerback,71,185,124,18,66,"{'city': 'Fort Worth', 'state': 'TX', 'country': 'USA', 'latitude': '32.753177', 'longitude': '-97.3327459', 'countyFips': '48439'}"
+-1027457,49903,201,Oklahoma,Big 12,Tampa Bay,2016,183,6,8,Devante Bond,Outside Linebacker,73,235,310,24,34,"{'city': 'Sacramento', 'state': 'CA', 'country': 'USA', 'latitude': '38.5815719', 'longitude': '-121.4943996', 'countyFips': '06067'}"

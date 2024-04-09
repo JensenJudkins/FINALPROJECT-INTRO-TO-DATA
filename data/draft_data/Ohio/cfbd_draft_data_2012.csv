@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+237382,28753,195,Ohio,Mid-American,Indianapolis,2012,206,6,36,LaVon Brazill,Wide Receiver,71,192,161,23,56,"{'city': 'Lantana', 'state': 'FL', 'country': 'USA', 'latitude': '26.5865308', 'longitude': '-80.052166', 'countyFips': '12099'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+380121,27022,251,Texas,Big 12,Buffalo,2011,34,2,2,Aaron Williams,Cornerback,72,204,32,4,88,"{'city': 'Round Rock', 'state': 'TX', 'country': 'USA', 'latitude': '30.508235', 'longitude': '-97.6788934', 'countyFips': '48491'}"
+232194,27216,251,Texas,Big 12,Pittsburgh,2011,95,3,31,Curtis Brown,Cornerback,72,185,76,10,77,"{'city': '', 'state': '', 'country': 'USA', 'latitude': '33.532005', 'longitude': '131.3496745', 'countyFips': None}"
+-1034874,27226,251,Texas,Big 12,Arizona,2011,103,4,6,Sam Acho,Defensive End,74,262,89,14,75,"{'city': 'Dallas', 'state': 'TX', 'country': 'USA', 'latitude': '32.7762719', 'longitude': '-96.7968559', 'countyFips': '48113'}"
+183426,27224,251,Texas,Big 12,Baltimore,2011,164,5,33,Chykie Brown,Cornerback,71,190,172,23,55,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"

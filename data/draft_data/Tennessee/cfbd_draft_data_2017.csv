@@ -1,0 +1,7 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+559724,51532,2633,Tennessee,SEC,Philadelphia,2017,14,1,14,Derek Barnett,Defensive End,75,259,13,2,91,"{'city': 'Nashville', 'state': 'TN', 'country': 'USA', 'latitude': '36.1622296', 'longitude': '-86.7743531', 'countyFips': '47037'}"
+551298,51783,2633,Tennessee,SEC,New Orleans,2017,67,3,3,Alvin Kamara,Running Back,70,214,40,4,86,"{'city': 'Norcross', 'state': 'GA', 'country': 'USA', 'latitude': '33.9412127', 'longitude': '-84.2135309', 'countyFips': '13135'}"
+3044724,51523,2633,Tennessee,SEC,Pittsburgh,2017,94,3,30,Cam Sutton,Cornerback,71,188,94,15,73,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+546549,51993,2633,Tennessee,SEC,Detroit,2017,124,4,18,Jalen Reeves-Maybin,Outside Linebacker,72,230,193,10,51,"{'city': 'Clarksville', 'state': 'TN', 'country': 'USA', 'latitude': '36.5277607', 'longitude': '-87.3588703', 'countyFips': '47125'}"
+559718,51799,2633,Tennessee,SEC,Cincinnati,2017,128,4,22,Josh Malone,Wide Receiver,75,208,111,13,71,"{'city': 'Gallatin', 'state': 'TN', 'country': 'USA', 'latitude': '36.3883031', 'longitude': '-86.4475898', 'countyFips': '47165'}"
+546540,51565,2633,Tennessee,SEC,Pittsburgh,2017,135,4,29,Joshua Dobbs,Quarterback,75,216,63,5,79,"{'city': 'Alpharetta', 'state': 'GA', 'country': 'USA', 'latitude': '34.0709576', 'longitude': '-84.2747329', 'countyFips': '13121'}"

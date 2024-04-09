@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4036431,104463,2026,Appalachian State,Sun Belt,Tennessee,2020,93,3,29,Darrynton Evans,Running Back,70,203,137,11,60,"{'city': 'Oak Hill', 'state': 'FL', 'country': 'USA', 'latitude': '28.8644338', 'longitude': '-80.8544975', 'countyFips': '12127'}"
+3917142,104378,2026,Appalachian State,Sun Belt,Cincinnati,2020,107,4,1,Akeem Davis-Gaither,Outside Linebacker,74,224,85,5,71,"{'city': 'Thomasville', 'state': 'NC', 'country': 'USA', 'latitude': '35.8831786', 'longitude': '-80.081817', 'countyFips': '37057'}"

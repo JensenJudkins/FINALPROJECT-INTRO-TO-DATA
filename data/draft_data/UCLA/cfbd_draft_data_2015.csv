@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+500349,46838,26,UCLA,Pac-12,Minnesota,2015,45,2,13,Eric Kendricks,Inside Linebacker,72,232,29,1,88,"{'city': 'Fresno', 'state': 'CA', 'country': 'USA', 'latitude': '36.7295295', 'longitude': '-119.70886126075588', 'countyFips': '06019'}"
+2510866,46864,26,UCLA,Pac-12,New York,2015,74,3,10,Owa Odighizuwa,Defensive End,76,267,55,6,82,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+511982,46951,26,UCLA,Pac-12,Green Bay,2015,147,5,11,Brett Hundley,Quarterback,75,226,142,6,59,"{'city': 'Chandler', 'state': 'AZ', 'country': 'USA', 'latitude': '33.3062223', 'longitude': '-111.8413317', 'countyFips': '04013'}"

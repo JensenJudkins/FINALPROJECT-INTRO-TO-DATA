@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1018510,27949,276,Marshall,Conference USA,Philadelphia,2012,59,2,27,Vinny Curry,Defensive End,75,266,46,8,86,"{'city': 'Neptune', 'state': 'NJ', 'country': 'USA', 'latitude': '40.2239981', 'longitude': '-74.0478216', 'countyFips': '34025'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1003776,28568,2,Auburn,SEC,New York,2012,131,4,36,Brandon Mosley,Offensive Tackle,78,314,114,10,68,"{'city': 'Jefferson', 'state': 'GA', 'country': 'USA', 'latitude': '34.1170537', 'longitude': '-83.5723876', 'countyFips': '13157'}"

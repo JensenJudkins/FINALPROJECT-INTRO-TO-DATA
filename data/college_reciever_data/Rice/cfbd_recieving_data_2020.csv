@@ -1,0 +1,51 @@
+playerId,player,team,conference,category,statType,stat
+4039154,Jordan Myers,Rice,Conference USA,receiving,REC,24
+4039154,Jordan Myers,Rice,Conference USA,receiving,LONG,26
+4362541,Ari Broussard,Rice,Conference USA,receiving,LONG,32
+4362541,Ari Broussard,Rice,Conference USA,receiving,YPR,32.0
+4362536,Robert French,Rice,Conference USA,receiving,REC,4
+4362538,Juma Otoviano,Rice,Conference USA,receiving,YDS,8
+4244856,Austin Trammell,Rice,Conference USA,receiving,REC,16
+4433828,Khalan Griffin,Rice,Conference USA,receiving,YDS,45
+4570190,Jake Bailey,Rice,Conference USA,receiving,LONG,35
+4362555,August Pitre III,Rice,Conference USA,receiving,LONG,3
+4039154,Jordan Myers,Rice,Conference USA,receiving,TD,1
+4362536,Robert French,Rice,Conference USA,receiving,LONG,11
+4570200,Jack Bradley,Rice,Conference USA,receiving,YPR,23.7
+4362555,August Pitre III,Rice,Conference USA,receiving,REC,1
+4362541,Ari Broussard,Rice,Conference USA,receiving,REC,1
+4570200,Jack Bradley,Rice,Conference USA,receiving,LONG,27
+4039154,Jordan Myers,Rice,Conference USA,receiving,YDS,209
+4362536,Robert French,Rice,Conference USA,receiving,TD,0
+4362555,August Pitre III,Rice,Conference USA,receiving,YPR,3.0
+4362538,Juma Otoviano,Rice,Conference USA,receiving,TD,0
+4433828,Khalan Griffin,Rice,Conference USA,receiving,TD,0
+4432381,Andrew Mason,Rice,Conference USA,receiving,TD,0
+4362555,August Pitre III,Rice,Conference USA,receiving,TD,1
+4362541,Ari Broussard,Rice,Conference USA,receiving,YDS,32
+4362555,August Pitre III,Rice,Conference USA,receiving,YDS,3
+4244856,Austin Trammell,Rice,Conference USA,receiving,TD,6
+4362538,Juma Otoviano,Rice,Conference USA,receiving,YPR,8.0
+4244856,Austin Trammell,Rice,Conference USA,receiving,LONG,72
+4362541,Ari Broussard,Rice,Conference USA,receiving,TD,0
+4570190,Jake Bailey,Rice,Conference USA,receiving,YDS,276
+4432381,Andrew Mason,Rice,Conference USA,receiving,YPR,12.3
+4244856,Austin Trammell,Rice,Conference USA,receiving,YPR,20.9
+4570200,Jack Bradley,Rice,Conference USA,receiving,TD,1
+4570200,Jack Bradley,Rice,Conference USA,receiving,REC,3
+4570190,Jake Bailey,Rice,Conference USA,receiving,REC,23
+4433828,Khalan Griffin,Rice,Conference USA,receiving,REC,3
+4362538,Juma Otoviano,Rice,Conference USA,receiving,REC,1
+4433828,Khalan Griffin,Rice,Conference USA,receiving,YPR,15.0
+4570190,Jake Bailey,Rice,Conference USA,receiving,YPR,12.0
+4039154,Jordan Myers,Rice,Conference USA,receiving,YPR,8.7
+4362536,Robert French,Rice,Conference USA,receiving,YPR,5.8
+4244856,Austin Trammell,Rice,Conference USA,receiving,YDS,335
+4570190,Jake Bailey,Rice,Conference USA,receiving,TD,2
+4432381,Andrew Mason,Rice,Conference USA,receiving,YDS,74
+4570200,Jack Bradley,Rice,Conference USA,receiving,YDS,71
+4362536,Robert French,Rice,Conference USA,receiving,YDS,23
+4432381,Andrew Mason,Rice,Conference USA,receiving,LONG,33
+4362538,Juma Otoviano,Rice,Conference USA,receiving,LONG,8
+4433828,Khalan Griffin,Rice,Conference USA,receiving,LONG,41
+4432381,Andrew Mason,Rice,Conference USA,receiving,REC,6

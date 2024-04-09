@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+552230,51874,2132,Cincinnati,American Athletic,Seattle,2017,187,6,3,Mike Tyson,Safety,73,204,243,21,43,"{'city': 'Norfolk', 'state': 'VA', 'country': 'USA', 'latitude': '36.8462923', 'longitude': '-76.2929252', 'countyFips': '51710'}"

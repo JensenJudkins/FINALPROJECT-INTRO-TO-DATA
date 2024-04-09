@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240475,104767,150,Duke,ACC,Los Angeles,2021,118,4,13,Chris Rumph II,Outside Linebacker,75,244,69,3,77,"{'city': 'Gainesville', 'state': 'FL', 'country': 'USA', 'latitude': '29.6519684', 'longitude': '-82.3249846', 'countyFips': '12001'}"
+4240456,105441,150,Duke,ACC,New York,2021,154,5,10,Michael Carter II,Safety,70,184,320,40,30,"{'city': 'Douglasville', 'state': 'GA', 'country': 'USA', 'latitude': '33.7514966', 'longitude': '-84.7477136', 'countyFips': '13097'}"
+4240472,104821,150,Duke,ACC,Kansas City,2021,162,5,18,Noah Gray,Tight End,75,240,164,7,59,"{'city': 'Leominster', 'state': 'MA', 'country': 'USA', 'latitude': '42.5192095', 'longitude': '-71.7678956', 'countyFips': '25027'}"
+4240464,105453,150,Duke,ACC,Arizona,2021,210,6,26,Victor Dimukeje,Defensive End,74,262,331,29,30,"{'city': 'Baltimore', 'state': 'MD', 'country': 'USA', 'latitude': '39.2908816', 'longitude': '-76.610759', 'countyFips': '24510'}"

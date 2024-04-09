@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1003740,29248,2,Auburn,SEC,San Francisco,2013,88,3,26,Corey Lemonier,Defensive End,75,255,114,14,69,"{'city': 'Hialeah', 'state': 'FL', 'country': 'USA', 'latitude': '25.8575963', 'longitude': '-80.2781057', 'countyFips': '12086'}"

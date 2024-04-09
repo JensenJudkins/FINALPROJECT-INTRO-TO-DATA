@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1033071,27055,24,Stanford,Pac-10,Carolina,2011,97,3,33,Sione Fua,Defensive Tackle,74,308,274.0,22,35,"{'city': 'Encino', 'state': 'CA', 'country': 'USA', 'latitude': '34.1591324', 'longitude': '-118.5016166', 'countyFips': '06037'}"
+237161,27286,24,Stanford,Pac-10,Cleveland,2011,124,4,27,Owen Marecic,Fullback,73,248,187.0,3,51,"{'city': 'Tigard', 'state': 'OR', 'country': 'USA', 'latitude': '45.4307473', 'longitude': '-122.7719339', 'countyFips': '41067'}"
+190539,26428,24,Stanford,Pac-10,Seattle,2011,154,5,23,Richard Sherman,Cornerback,75,195,,38,30,"{'city': 'Compton', 'state': 'CA', 'country': 'USA', 'latitude': '33.894927', 'longitude': '-118.226624', 'countyFips': '06037'}"
+237193,26129,24,Stanford,Pac-10,Cincinnati,2011,167,6,2,Ryan Whalen,Wide Receiver,73,202,215.0,27,45,"{'city': 'Alamo', 'state': 'CA', 'country': 'USA', 'latitude': '37.8502033', 'longitude': '-122.032184', 'countyFips': '06013'}"

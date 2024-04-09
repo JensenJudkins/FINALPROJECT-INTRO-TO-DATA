@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3128843,102585,2229,Florida International,Conference USA,Seattle,2018,220,7,2,Alex Mcgough,Quarterback,75,212,,38,30,"{'city': 'Tampa', 'state': 'FL', 'country': 'USA', 'latitude': '27.9477595', 'longitude': '-82.458444', 'countyFips': '12057'}"

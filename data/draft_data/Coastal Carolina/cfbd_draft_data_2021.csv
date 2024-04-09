@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4052031,105175,324,Coastal Carolina,Sun Belt,Philadelphia,2021,191,6,7,Tarron Jackson,Defensive End,74,254,185,19,54,"{'city': 'Aiken', 'state': 'SC', 'country': 'USA', 'latitude': '33.5598586', 'longitude': '-81.721952', 'countyFips': '45003'}"

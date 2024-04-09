@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3126245,103776,2655,Tulane,American Athletic,Cleveland,2019,221,7,7,Donnie Lewis Jr.,Cornerback,72,190,366,42,31,"{'city': 'Baton Rouge', 'state': 'LA', 'country': 'USA', 'latitude': '30.4459596', 'longitude': '-91.18738', 'countyFips': '22033'}"

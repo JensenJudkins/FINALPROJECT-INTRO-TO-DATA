@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2266269,27254,25,California,Pac-10,New Orleans,2011,24,1,24,Cameron Jordan,Defensive End,76,287,9,2,95,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+238201,27299,25,California,Pac-10,New England,2011,56,2,24,Shane Vereen,Running Back,69,203,97,9,73,"{'city': 'Valencia', 'state': 'CA', 'country': 'USA', 'latitude': '34.1466768', 'longitude': '-117.2725427', 'countyFips': '06071'}"
+2266247,26384,25,California,Pac-10,Chicago,2011,93,3,29,Christopher Conte,Safety,74,197,189,15,50,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+188424,26142,25,California,Pac-10,Denver,2011,189,6,24,Mike Mohamed,Inside Linebacker,75,239,213,11,45,"{'city': 'Brawley', 'state': 'CA', 'country': 'USA', 'latitude': '32.9786566', 'longitude': '-115.530267', 'countyFips': '06025'}"

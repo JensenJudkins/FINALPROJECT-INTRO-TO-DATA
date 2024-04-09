@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1016240,29192,96,Kentucky,SEC,Detroit,2013,65,3,3,Larry Warford,Offensive Guard,75,332,54,4,83,"{'city': 'Richmond', 'state': 'KY', 'country': 'USA', 'latitude': '37.7478572', 'longitude': '-84.2946539', 'countyFips': '21151'}"

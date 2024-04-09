@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1015859,30244,2309,Kent State,Mid-American,New York,2013,72,3,10,Brian Winters,Offensive Guard,76,318,80,5,76,"{'city': 'Hudson', 'state': 'OH', 'country': 'USA', 'latitude': '41.240056', 'longitude': '-81.440667', 'countyFips': '39153'}"

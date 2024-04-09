@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4570119,106127,5,UAB,Conference USA,Cleveland,2022,78,3,14,Alex Wright,Defensive End,77,271,100,7,71,"{'city': 'Elba', 'state': 'AL', 'country': 'USA', 'latitude': '31.4146108', 'longitude': '-86.0677243', 'countyFips': '01031'}"

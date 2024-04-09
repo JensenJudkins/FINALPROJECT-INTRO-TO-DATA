@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1032487,26238,58,South Florida,Big East,Carolina,2011,65,3,1,Terrell McClain,Defensive Tackle,74.0,297.0,71.0,9.0,78.0,"{'city': 'Pensacola', 'state': 'FL', 'country': 'USA', 'latitude': '30.421309', 'longitude': '-87.2169149', 'countyFips': '12033'}"
+382374,26889,58,South Florida,Big East,Minnesota,2011,170,6,5,Mistral Raymond,Safety,73.0,191.0,,41.0,30.0,"{'city': 'Palmetto', 'state': 'FL', 'country': 'USA', 'latitude': '27.5214269', 'longitude': '-82.5723193', 'countyFips': '12081'}"
+482890,27401,58,South Florida,Big East,New York,2011,202,6,37,Jacquian Williams,Linebacker,,,,,,"{'city': 'Apopka', 'state': 'FL', 'country': 'USA', 'latitude': '28.6779683', 'longitude': '-81.5115214', 'countyFips': '12095'}"

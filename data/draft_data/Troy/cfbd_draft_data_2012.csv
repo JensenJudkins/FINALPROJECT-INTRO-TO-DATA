@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1036676,29012,2653,Troy,Sun Belt,Atlanta,2012,164,5,29,Jonathan Massaquoi,Defensive End,74,264,108,13,69,"{'city': 'Lawrenceville', 'state': 'GA', 'country': 'USA', 'latitude': '33.9562149', 'longitude': '-83.9879625', 'countyFips': '13135'}"

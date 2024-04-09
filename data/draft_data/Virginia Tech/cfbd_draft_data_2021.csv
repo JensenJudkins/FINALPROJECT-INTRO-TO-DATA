@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240859,104751,259,Virginia Tech,ACC,Tennessee,2021,22,1,22,Caleb Farley,Cornerback,74,197,19,3,90,"{'city': 'Maiden', 'state': 'NC', 'country': 'USA', 'latitude': '35.5766048', 'longitude': '-81.2139216', 'countyFips': '37035'}"
+4361985,105134,259,Virginia Tech,ACC,Minnesota,2021,23,1,23,Christian Darrisaw,Offensive Tackle,77,322,20,3,90,"{'city': 'Upper Marlboro', 'state': 'MD', 'country': 'USA', 'latitude': '38.8165274', 'longitude': '-76.7519753', 'countyFips': '24033'}"
+4037626,104845,259,Virginia Tech,ACC,Las Vegas,2021,80,3,17,Divine Deablo,Safety,75,226,202,17,50,"{'city': 'Winston-salem', 'state': 'NC', 'country': 'USA', 'latitude': '36.0998131', 'longitude': '-80.2440518', 'countyFips': '37067'}"
+4035886,105172,259,Virginia Tech,ACC,Chicago,2021,217,6,33,Khalil Herbert,Running Back,69,210,213,15,46,"{'city': 'Coral Springs', 'state': 'FL', 'country': 'USA', 'latitude': '26.26485615', 'longitude': '-80.26534203798758', 'countyFips': '12011'}"

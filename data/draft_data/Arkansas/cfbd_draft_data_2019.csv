@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3886633,103622,8,Arkansas,SEC,New England,2019,118,4,16,Hjalte Froholdt,Offensive Guard,77,306,209,13,54,"{'city': 'Svendborg', 'state': '', 'country': 'Denmark', 'latitude': None, 'longitude': None, 'countyFips': None}"
+3916903,103904,8,Arkansas,SEC,San Francisco,2019,148,5,10,Dre Greenlaw,Outside Linebacker,72,237,213,16,53,"{'city': 'Fayetteville', 'state': 'AR', 'country': 'USA', 'latitude': '36.0625843', 'longitude': '-94.1574328', 'countyFips': '05143'}"
+3128685,103821,8,Arkansas,SEC,Minnesota,2019,190,6,17,Armon Watts,Defensive Tackle,77,300,242,21,49,"{'city': 'St. Louis', 'state': 'MO', 'country': 'USA', 'latitude': '38.6268039', 'longitude': '-90.1994097', 'countyFips': '29510'}"

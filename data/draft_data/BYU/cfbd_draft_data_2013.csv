@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+502427,30245,252,BYU,FBS Independents,Detroit,2013,5,1,5,Ezekiel Ansah,Defensive End,77,271,8,1,95,"{'city': 'Accra', 'state': '', 'country': 'Ghana', 'latitude': None, 'longitude': None, 'countyFips': None}"

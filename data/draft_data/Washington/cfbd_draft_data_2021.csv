@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4243333,104773,264,Washington,Pac-12,Tampa Bay,2021,32,1,32,Joe Tryon,Outside Linebacker,77,259,37,4,88,"{'city': 'Renton', 'state': 'WA', 'country': 'USA', 'latitude': '47.4799078', 'longitude': '-122.2034496', 'countyFips': '53033'}"
+4039020,104804,264,Washington,Pac-12,Detroit,2021,41,2,9,Levi Onwuzurike,Defensive Tackle,75,290,42,2,86,"{'city': 'Allen', 'state': 'TX', 'country': 'USA', 'latitude': '33.1031744', 'longitude': '-96.6705503', 'countyFips': '48085'}"
+4243328,104784,264,Washington,Pac-12,Tennessee,2021,100,3,37,Elijah Molden,Cornerback,70,192,49,7,83,"{'city': 'West Linn', 'state': 'OR', 'country': 'USA', 'latitude': '45.3656761', 'longitude': '-122.6123141', 'countyFips': '41005'}"
+4243332,105208,264,Washington,Pac-12,Carolina,2021,166,5,22,Keith Taylor,Cornerback,74,187,256,32,36,"{'city': 'Long Beach', 'state': 'CA', 'country': 'USA', 'latitude': '33.7690164', 'longitude': '-118.1916048', 'countyFips': '06037'}"

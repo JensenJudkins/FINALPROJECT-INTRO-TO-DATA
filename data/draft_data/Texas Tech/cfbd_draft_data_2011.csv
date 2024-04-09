@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+184839,26124,2641,Texas Tech,Big 12,Pittsburgh,2011,232,7,29,Baron Batch,Running Back,69,202,,34,30,"{'city': 'Midland', 'state': 'TX', 'country': 'USA', 'latitude': '31.9973662', 'longitude': '-102.0779482', 'countyFips': '48329'}"

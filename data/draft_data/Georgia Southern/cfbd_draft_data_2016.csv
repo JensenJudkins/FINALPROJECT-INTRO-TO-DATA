@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1012105,49896,290,Georgia Southern,Sun Belt,Detroit,2016,169,5,30,Antwione Williams,Outside Linebacker,75,240,,43,30,"{'city': 'Lovejoy', 'state': 'GA', 'country': 'USA', 'latitude': '33.4362245', 'longitude': '-84.3143675', 'countyFips': '13063'}"

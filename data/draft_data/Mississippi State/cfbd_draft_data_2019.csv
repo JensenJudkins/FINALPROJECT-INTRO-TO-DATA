@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4035369,103519,344,Mississippi State,SEC,Tennessee,2019,19,1,19,Jeffery Simmons,Defensive Tackle,76,305,16,4,90,"{'city': 'Macon', 'state': 'MS', 'country': 'USA', 'latitude': '33.1054039', 'longitude': '-88.5608767', 'countyFips': '28103'}"
+3134690,103523,344,Mississippi State,SEC,Washington,2019,26,1,26,Montez Sweat,Defensive End,78,260,22,4,89,"{'city': 'Stone Mountain', 'state': 'GA', 'country': 'USA', 'latitude': '33.8080924', 'longitude': '-84.1706273', 'countyFips': '13089'}"
+3728305,103531,344,Mississippi State,SEC,Las Vegas,2019,27,1,27,Johnathan Abram,Safety,71,205,20,1,90,"{'city': 'Columbia', 'state': 'MS', 'country': 'USA', 'latitude': '31.2518439', 'longitude': '-89.83758', 'countyFips': '28091'}"
+3115485,103535,344,Mississippi State,SEC,Green Bay,2019,44,2,12,Elgton Jenkins,Center,77,310,51,3,83,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+3115469,103946,344,Mississippi State,SEC,Indianapolis,2019,199,6,26,Gerri Green,Outside Linebacker,76,252,336,29,34,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

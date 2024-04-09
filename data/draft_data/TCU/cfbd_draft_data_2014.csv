@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+517126,34111,2628,TCU,Big 12,Los Angeles,2014,25,1,25,Jason Verrett,Cornerback,70,189,23,4,90,"{'city': 'Fairfield', 'state': 'CA', 'country': 'USA', 'latitude': '38.2493581', 'longitude': '-122.0399663', 'countyFips': '06095'}"

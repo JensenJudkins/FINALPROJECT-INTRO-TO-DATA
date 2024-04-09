@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+515949,46881,2,Auburn,SEC,Pittsburgh,2015,87,3,23,Sammie Coates,Wide Receiver,73.0,212,72.0,12.0,77.0,"{'city': 'Leroy', 'state': 'AL', 'country': 'USA', 'latitude': '31.5046086', 'longitude': '-87.9847237', 'countyFips': '01129'}"
+511849,46991,2,Auburn,SEC,Tennessee,2015,100,4,1,Angelo Blackson,Defensive Tackle,76.0,318,182.0,16.0,49.0,"{'city': 'Bear', 'state': 'DE', 'country': 'USA', 'latitude': '39.6292788', 'longitude': '-75.6582628', 'countyFips': '10003'}"
+-1003706,46923,2,Auburn,SEC,Detroit,2015,113,4,14,Gabe Wright,Defensive Tackle,75.0,300,114.0,9.0,67.0,"{'city': 'Columbus', 'state': 'GA', 'country': 'USA', 'latitude': '32.4609764', 'longitude': '-84.9877094', 'countyFips': '13215'}"
+511843,47234,2,Auburn,SEC,Cincinnati,2015,157,5,21,C.J. Uzomah,Tight End,,262,,,,"{'city': 'Suwanee', 'state': 'GA', 'country': 'USA', 'latitude': '34.0514898', 'longitude': '-84.0712997', 'countyFips': '13135'}"
+546383,46983,2,Auburn,SEC,Carolina,2015,174,5,38,Cameron Artis-Payne,Running Back,70.0,212,174.0,15.0,50.0,"{'city': 'Harrisburg', 'state': 'PA', 'country': 'USA', 'latitude': '40.2663107', 'longitude': '-76.8861122', 'countyFips': '42043'}"

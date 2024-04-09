@@ -1,0 +1,81 @@
+playerId,player,team,conference,category,statType,stat
+4242268,Andrew Marty,Northwestern,Big Ten,receiving,YDS,12
+4242289,Berkeley Holman,Northwestern,Big Ten,receiving,TD,0
+4361264,Isaiah Bowser,Northwestern,Big Ten,receiving,TD,1
+4569609,Evan Hull,Northwestern,Big Ten,receiving,TD,0
+4242289,Berkeley Holman,Northwestern,Big Ten,receiving,REC,2
+4035651,Ramaud Chiaokhiao-Bowman,Northwestern,Big Ten,receiving,YDS,520
+4242268,Andrew Marty,Northwestern,Big Ten,receiving,REC,1
+4569609,Evan Hull,Northwestern,Big Ten,receiving,YPR,6.8
+4040771,John Raine,Northwestern,Big Ten,receiving,YPR,9.7
+4361264,Isaiah Bowser,Northwestern,Big Ten,receiving,YPR,6.5
+4569609,Evan Hull,Northwestern,Big Ten,receiving,LONG,21
+4361263,Drake Anderson,Northwestern,Big Ten,receiving,TD,0
+4361279,Charlie Mangieri,Northwestern,Big Ten,receiving,YDS,53
+4040771,John Raine,Northwestern,Big Ten,receiving,REC,24
+4361279,Charlie Mangieri,Northwestern,Big Ten,receiving,TD,2
+4427063,Wayne Dennis Jr.,Northwestern,Big Ten,receiving,REC,1
+4035638,Jesse Brown,Northwestern,Big Ten,receiving,YPR,9.7
+4427063,Wayne Dennis Jr.,Northwestern,Big Ten,receiving,LONG,23
+4569603,Malik Washington,Northwestern,Big Ten,receiving,REC,5
+4361278,Raymond Niro III,Northwestern,Big Ten,receiving,REC,2
+4242289,Berkeley Holman,Northwestern,Big Ten,receiving,LONG,24
+4242270,Kyric McGowan,Northwestern,Big Ten,receiving,LONG,33
+4687475,Cam Porter,Northwestern,Big Ten,receiving,YDS,57
+4035651,Ramaud Chiaokhiao-Bowman,Northwestern,Big Ten,receiving,REC,41
+4242270,Kyric McGowan,Northwestern,Big Ten,receiving,YPR,10.8
+4361263,Drake Anderson,Northwestern,Big Ten,receiving,YPR,7.0
+4569609,Evan Hull,Northwestern,Big Ten,receiving,YDS,41
+4429994,Bryce Kirtz,Northwestern,Big Ten,receiving,TD,0
+4242268,Andrew Marty,Northwestern,Big Ten,receiving,YPR,12.0
+4040771,John Raine,Northwestern,Big Ten,receiving,YDS,233
+4361278,Raymond Niro III,Northwestern,Big Ten,receiving,TD,0
+4687475,Cam Porter,Northwestern,Big Ten,receiving,YPR,6.3
+4569603,Malik Washington,Northwestern,Big Ten,receiving,TD,0
+4429994,Bryce Kirtz,Northwestern,Big Ten,receiving,YPR,11.2
+4361278,Raymond Niro III,Northwestern,Big Ten,receiving,YPR,8.5
+4361278,Raymond Niro III,Northwestern,Big Ten,receiving,LONG,9
+4242270,Kyric McGowan,Northwestern,Big Ten,receiving,TD,0
+4361264,Isaiah Bowser,Northwestern,Big Ten,receiving,LONG,12
+4687475,Cam Porter,Northwestern,Big Ten,receiving,REC,9
+4687475,Cam Porter,Northwestern,Big Ten,receiving,TD,0
+4429994,Bryce Kirtz,Northwestern,Big Ten,receiving,REC,6
+4569603,Malik Washington,Northwestern,Big Ten,receiving,LONG,23
+4242268,Andrew Marty,Northwestern,Big Ten,receiving,LONG,12
+4035654,Riley Lees,Northwestern,Big Ten,receiving,TD,2
+4361279,Charlie Mangieri,Northwestern,Big Ten,receiving,YPR,7.6
+4427063,Wayne Dennis Jr.,Northwestern,Big Ten,receiving,YPR,23.0
+4035638,Jesse Brown,Northwestern,Big Ten,receiving,REC,3
+4035654,Riley Lees,Northwestern,Big Ten,receiving,YPR,10.7
+4035651,Ramaud Chiaokhiao-Bowman,Northwestern,Big Ten,receiving,LONG,36
+4361264,Isaiah Bowser,Northwestern,Big Ten,receiving,YDS,52
+4569603,Malik Washington,Northwestern,Big Ten,receiving,YDS,51
+4040771,John Raine,Northwestern,Big Ten,receiving,LONG,30
+4242268,Andrew Marty,Northwestern,Big Ten,receiving,TD,0
+4361263,Drake Anderson,Northwestern,Big Ten,receiving,LONG,21
+4427063,Wayne Dennis Jr.,Northwestern,Big Ten,receiving,YDS,23
+4242270,Kyric McGowan,Northwestern,Big Ten,receiving,YDS,366
+4035651,Ramaud Chiaokhiao-Bowman,Northwestern,Big Ten,receiving,TD,5
+4429994,Bryce Kirtz,Northwestern,Big Ten,receiving,YDS,67
+4242289,Berkeley Holman,Northwestern,Big Ten,receiving,YDS,27
+4361279,Charlie Mangieri,Northwestern,Big Ten,receiving,REC,7
+4242289,Berkeley Holman,Northwestern,Big Ten,receiving,YPR,13.5
+4361278,Raymond Niro III,Northwestern,Big Ten,receiving,YDS,17
+4361263,Drake Anderson,Northwestern,Big Ten,receiving,YDS,28
+4361263,Drake Anderson,Northwestern,Big Ten,receiving,REC,4
+4429994,Bryce Kirtz,Northwestern,Big Ten,receiving,LONG,20
+4035654,Riley Lees,Northwestern,Big Ten,receiving,LONG,27
+4035654,Riley Lees,Northwestern,Big Ten,receiving,YDS,214
+4035654,Riley Lees,Northwestern,Big Ten,receiving,REC,20
+4035651,Ramaud Chiaokhiao-Bowman,Northwestern,Big Ten,receiving,YPR,12.7
+4035638,Jesse Brown,Northwestern,Big Ten,receiving,YDS,29
+4427063,Wayne Dennis Jr.,Northwestern,Big Ten,receiving,TD,0
+4040771,John Raine,Northwestern,Big Ten,receiving,TD,2
+4569603,Malik Washington,Northwestern,Big Ten,receiving,YPR,10.2
+4035638,Jesse Brown,Northwestern,Big Ten,receiving,LONG,15
+4361279,Charlie Mangieri,Northwestern,Big Ten,receiving,LONG,16
+4569609,Evan Hull,Northwestern,Big Ten,receiving,REC,6
+4035638,Jesse Brown,Northwestern,Big Ten,receiving,TD,0
+4687475,Cam Porter,Northwestern,Big Ten,receiving,LONG,13
+4361264,Isaiah Bowser,Northwestern,Big Ten,receiving,REC,8
+4242270,Kyric McGowan,Northwestern,Big Ten,receiving,REC,34

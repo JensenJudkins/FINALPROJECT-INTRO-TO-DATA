@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2267168,27201,57,Florida,SEC,Miami,2011,15,1,15,Mike Pouncey,Center,77,303,19,1,92,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+-1009926,27290,57,Florida,SEC,Pittsburgh,2011,63,2,31,Marcus Gilbert,Offensive Tackle,78,330,78,6,77,"{'city': 'Fort Lauderdale', 'state': 'FL', 'country': 'USA', 'latitude': '26.1223084', 'longitude': '-80.1433786', 'countyFips': '12011'}"
+232012,27262,57,Florida,SEC,Tampa Bay,2011,151,5,20,Ahmad Black,Safety,70,184,110,5,70,"{'city': 'Lakeland', 'state': 'FL', 'country': 'USA', 'latitude': '28.0394654', 'longitude': '-81.9498042', 'countyFips': '12105'}"
+-1009928,26323,57,Florida,SEC,Washington,2011,217,7,14,Maurice Hurt,Offensive Guard,75,318,225,12,43,"{'city': 'Milledgeville', 'state': 'GA', 'country': 'USA', 'latitude': '33.0801429', 'longitude': '-83.2320991', 'countyFips': '13009'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3128317,104046,38,Colorado,Pac-12,Denver,2019,187,6,14,Juwann Winfree,Wide Receiver,75,215,,,,"{'city': 'Englewood', 'state': 'NJ', 'country': 'USA', 'latitude': '40.8928771', 'longitude': '-73.9726381', 'countyFips': '34003'}"

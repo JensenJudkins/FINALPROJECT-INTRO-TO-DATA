@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1034775,50283,251,Texas,Big 12,Indianapolis,2016,116,4,18,Hassan Ridgeway,Defensive Tackle,75,303,65,11,79,"{'city': 'Mansfield', 'state': 'TX', 'country': 'USA', 'latitude': '32.5631924', 'longitude': '-97.1416768', 'countyFips': '48439'}"

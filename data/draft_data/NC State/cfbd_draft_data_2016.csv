@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1025138,50341,152,NC State,ACC,New England,2016,78,3,15,Joe Thuney,Offensive Guard,77,304,167,10,58,"{'city': 'Centreville', 'state': 'OH', 'country': 'USA', 'latitude': None, 'longitude': None, 'countyFips': None}"
+512191,49990,152,NC State,ACC,New England,2016,91,3,28,Jacoby Brissett,Quarterback,76,231,109,7,68,"{'city': 'West Palm Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.715364', 'longitude': '-80.0532942', 'countyFips': '12099'}"
+511294,49471,152,NC State,ACC,New York,2016,118,4,20,Juston Burris,Cornerback,72,212,342,39,31,"{'city': 'Raleigh', 'state': 'NC', 'country': 'USA', 'latitude': '35.7803977', 'longitude': '-78.6390989', 'countyFips': '37183'}"

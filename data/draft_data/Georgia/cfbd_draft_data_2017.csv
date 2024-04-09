@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3128724,51802,61,Georgia,SEC,Denver,2017,172,5,29,Isaiah McKenzie,Wide Receiver,68,173,152,20,60,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"

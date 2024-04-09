@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3122899,101762,2393,Middle Tennessee,Conference USA,San Francisco,2018,240,7,22,Richie James,Wide Receiver,70,185,,41,30,"{'city': 'Sarasota', 'state': 'FL', 'country': 'USA', 'latitude': '27.3364347', 'longitude': '-82.5306527', 'countyFips': '12115'}"

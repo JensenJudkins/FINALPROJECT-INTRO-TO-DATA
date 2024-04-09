@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4035857,106254,25,California,Pac-12,Miami,2022,224,7,3,Cameron Goode,Outside Linebacker,76,240,,,,"{'city': 'Spring', 'state': 'TX', 'country': 'USA', 'latitude': '30.0798826', 'longitude': '-95.4172549', 'countyFips': '48201'}"
+4242402,106268,25,California,Pac-12,Chicago,2022,254,7,33,Elijah Hicks,Safety,71,200,,,,"{'city': 'Long Beach', 'state': 'CA', 'country': 'USA', 'latitude': '33.7690164', 'longitude': '-118.1916048', 'countyFips': '06037'}"

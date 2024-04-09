@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+379401,28371,2633,Tennessee,SEC,Denver,2012,137,5,2,Malik Jackson,Defensive End,77,284,186,20,49,"{'city': 'Northridge', 'state': 'CA', 'country': 'USA', 'latitude': '34.2345615', 'longitude': '-118.5369316', 'countyFips': '06037'}"

@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+232007,26080,8,Arkansas,SEC,New England,2011,74,3,10,Ryan Mallett,Quarterback,79,253,54,6,82,"{'city': 'Texarkana', 'state': 'AR', 'country': 'USA', 'latitude': '33.4254684', 'longitude': '-94.0430977', 'countyFips': '48037'}"
+242277,27031,8,Arkansas,SEC,Green Bay,2011,141,5,10,D.J. Williams,Tight End,74,245,145,7,62,"{'city': 'Little Rock', 'state': 'AR', 'country': 'USA', 'latitude': '34.7464809', 'longitude': '-92.2895948', 'countyFips': '05119'}"
+2218008,27205,8,Arkansas,SEC,Minnesota,2011,168,6,3,Demarcus Love,Offensive Tackle,76,315,156,14,59,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

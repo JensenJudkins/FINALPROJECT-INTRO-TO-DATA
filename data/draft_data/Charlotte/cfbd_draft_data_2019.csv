@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3120070,103730,2429,Charlotte,Conference USA,Tennessee,2019,82,3,18,Nate Davis,Offensive Guard,75,316,81,4,75,"{'city': 'Ashburn', 'state': 'VA', 'country': 'USA', 'latitude': '39.0437192', 'longitude': '-77.4874899', 'countyFips': '51107'}"

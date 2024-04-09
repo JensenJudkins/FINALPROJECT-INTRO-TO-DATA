@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3123944,103652,221,Pittsburgh,ACC,Atlanta,2019,152,5,14,Qadree Ollison,Running Back,73,228,250,21,48,"{'city': 'Niagara Falls', 'state': 'NY', 'country': 'USA', 'latitude': '43.08436', 'longitude': '-79.0614686', 'countyFips': '36063'}"

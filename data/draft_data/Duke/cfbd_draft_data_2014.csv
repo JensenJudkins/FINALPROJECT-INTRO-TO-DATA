@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482733,33687,150,Duke,ACC,Buffalo,2014,109,4,9,Ross Cockrell,Cornerback,72,191,138,20,59,"{'city': 'Waxhaw', 'state': 'NC', 'country': 'USA', 'latitude': '34.9362535', 'longitude': '-80.75079198523316', 'countyFips': '37179'}"

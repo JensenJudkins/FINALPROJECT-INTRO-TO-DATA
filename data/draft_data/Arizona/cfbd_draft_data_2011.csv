@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1001650.0,27275,12,Arizona,Pac-10,Houston,2011,42,2,10,Brooks Reed,Defensive End,75,263,27,8,90,"{'city': 'Tucson', 'state': 'AZ', 'country': 'USA', 'latitude': '32.2228765', 'longitude': '-110.9748477', 'countyFips': '04019'}"
+2217407.0,26220,12,Arizona,Pac-10,Green Bay,2011,197,6,32,Rick Elmore,Defensive End,77,255,273,26,35,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+,27385,12,Arizona,Pac-10,Minnesota,2011,215,7,12,De'Aundre Reed,Defensive End,76,261,223,22,43,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

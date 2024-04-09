@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545833,51788,2638,UTEP,Conference USA,Green Bay,2017,182,5,39,Aaron Jones,Running Back,70,208,300,29,36,"{'city': 'El Paso', 'state': 'TX', 'country': 'USA', 'latitude': '31.7754152', 'longitude': '-106.4646348', 'countyFips': '48141'}"

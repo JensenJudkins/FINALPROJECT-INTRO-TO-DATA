@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482263,34108,2084,Buffalo,Mid-American,Las Vegas,2014,5,1,5,Khalil Mack,Outside Linebacker,75,251,3,1,96,"{'city': 'Fort Pierce', 'state': 'FL', 'country': 'USA', 'latitude': '27.4467056', 'longitude': '-80.3256056', 'countyFips': '12111'}"

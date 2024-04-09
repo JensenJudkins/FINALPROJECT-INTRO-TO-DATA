@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501163,33703,152,NC State,ACC,San Francisco,2014,129,4,29,Dontae Johnson,Cornerback,74,200,97,14,68,"{'city': 'Pennington', 'state': 'NJ', 'country': 'USA', 'latitude': '40.3284403', 'longitude': '-74.790718', 'countyFips': '34021'}"

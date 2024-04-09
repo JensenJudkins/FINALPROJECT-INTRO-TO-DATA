@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482169,28971,218,Temple,Mid-American,Baltimore,2012,84,3,21,Bernard Pierce,Running Back,72,218,90.0,8,71,"{'city': 'Ardmore', 'state': 'PA', 'country': 'USA', 'latitude': '40.0067786', 'longitude': '-75.2854622', 'countyFips': '42091'}"
+241818,29061,218,Temple,Mid-American,Chicago,2012,111,4,16,Evan Rodriguez,Tight End,74,239,222.0,8,41,"{'city': 'North Bergen', 'state': 'NJ', 'country': 'USA', 'latitude': '40.8042674', 'longitude': '-74.012084', 'countyFips': '34017'}"
+385316,28363,218,Temple,Mid-American,Detroit,2012,138,5,3,Tahir Whitehead,Outside Linebacker,73,233,,25,30,"{'city': 'Newark', 'state': 'NJ', 'country': 'USA', 'latitude': '40.735657', 'longitude': '-74.1723667', 'countyFips': '34013'}"

@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3125403,51785,2751,Wyoming,Mountain West,Atlanta,2017,156,5,12,Brian Hill,Running Back,73,219,189,18,52,"{'city': 'Belleville', 'state': 'IL', 'country': 'USA', 'latitude': '38.5200504', 'longitude': '-89.9839935', 'countyFips': '17163'}"
+-1044129,51756,2751,Wyoming,Mountain West,Washington,2017,199,6,15,Chase Roullier,Center,76,312,195,6,51,"{'city': 'Savage', 'state': 'MN', 'country': 'USA', 'latitude': '44.7779041', 'longitude': '-93.3356204', 'countyFips': '27139'}"

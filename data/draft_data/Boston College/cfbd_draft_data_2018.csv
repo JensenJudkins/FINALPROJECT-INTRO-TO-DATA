@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3122793,101510,103,Boston College,ACC,Tennessee,2018,41,2,9,Harold Landry,Outside Linebacker,74,252,26,3,88,"{'city': 'Spring Lake', 'state': 'NC', 'country': 'USA', 'latitude': '35.1679396', 'longitude': '-78.9728056', 'countyFips': '37051'}"
+3122797,101749,103,Boston College,ACC,Denver,2018,99,3,35,Isaac Yiadom,Cornerback,73,190,122,15,68,"{'city': 'Worcester', 'state': 'MA', 'country': 'USA', 'latitude': '42.2625932', 'longitude': '-71.8022934', 'countyFips': '25027'}"
+3122800,101748,103,Boston College,ACC,New Orleans,2018,189,6,15,Kamrin Moore,Cornerback,71,202,207,30,51,"{'city': 'District Heights', 'state': 'MD', 'country': 'USA', 'latitude': '38.8576128', 'longitude': '-76.8894171', 'countyFips': '24033'}"

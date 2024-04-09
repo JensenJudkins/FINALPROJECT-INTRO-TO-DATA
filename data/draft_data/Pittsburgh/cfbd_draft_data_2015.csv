@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1029465,46845,221,Pittsburgh,ACC,Minnesota,2015,110,4,11,T.J. Clemmings,Offensive Tackle,77,309,36,7,88,"{'city': 'Teaneck', 'state': 'NJ', 'country': 'USA', 'latitude': '40.8860164', 'longitude': '-74.0072568', 'countyFips': '34003'}"

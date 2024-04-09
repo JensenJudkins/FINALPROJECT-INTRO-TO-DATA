@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4038565,105289,151,East Carolina,American Athletic,Cincinnati,2021,139,4,34,D'Ante Smith,Offensive Tackle,77,305,162,13,59,"{'city': 'Augusta', 'state': 'GA', 'country': 'USA', 'latitude': '33.4709714', 'longitude': '-81.9748429', 'countyFips': '13245'}"

@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+512774,30207,2348,Louisiana Tech,Western Athletic,San Francisco,2013,128,4,31,Quinton Patton,Wide Receiver,72,204,58,7,82,"{'city': 'La Vergne', 'state': 'TN', 'country': 'USA', 'latitude': '36.0156178', 'longitude': '-86.5819394', 'countyFips': '47149'}"
+-1017107,29436,2348,Louisiana Tech,Western Athletic,Chicago,2013,163,5,30,Jordan Mills,Offensive Tackle,77,316,164,14,57,"{'city': 'Napoleonville', 'state': 'LA', 'country': 'USA', 'latitude': '29.9404803', 'longitude': '-91.0248214', 'countyFips': '22007'}"

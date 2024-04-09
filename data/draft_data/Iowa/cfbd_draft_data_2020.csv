@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240589,104122,2294,Iowa,Big Ten,Tampa Bay,2020,13,1,13,Tristan Wirfs,Offensive Tackle,77,320,15,3,91,"{'city': 'Mount Vernon', 'state': 'IA', 'country': 'USA', 'latitude': '41.9222443', 'longitude': '-91.4171209', 'countyFips': '19113'}"
+4240585,104101,2294,Iowa,Big Ten,Buffalo,2020,54,2,22,AJ Epenesa,Defensive End,77,275,32,3,87,"{'city': 'Glen Carbon', 'state': 'IL', 'country': 'USA', 'latitude': '38.7483814', 'longitude': '-89.983158', 'countyFips': '17119'}"
+3894830,104507,2294,Iowa,Big Ten,Denver,2020,77,3,13,Michael Ojemudia,Cornerback,73,200,199,23,48,"{'city': 'Farmington Hills', 'state': 'MI', 'country': 'USA', 'latitude': '42.4853125', 'longitude': '-83.3771553', 'countyFips': '26125'}"
+4240575,104483,2294,Iowa,Big Ten,Baltimore,2020,219,7,5,Geno Stone,Safety,70,207,116,9,67,"{'city': 'New Castle', 'state': 'PA', 'country': 'USA', 'latitude': '40.9999202', 'longitude': '-80.3471856', 'countyFips': '42073'}"
+4036149,104154,2294,Iowa,Big Ten,Minnesota,2020,244,7,30,Nate Stanley,Quarterback,76,235,159,9,56,"{'city': 'Menomonie', 'state': 'WI', 'country': 'USA', 'latitude': '44.8755183', 'longitude': '-91.9193422', 'countyFips': '55033'}"

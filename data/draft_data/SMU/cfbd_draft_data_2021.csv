@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4035824,105303,2567,SMU,American Athletic,Baltimore,2021,104,3,41,Brandon Stephens,Cornerback,72,213,236,29,39,"{'city': 'Plano', 'state': 'TX', 'country': 'USA', 'latitude': '33.0136764', 'longitude': '-96.6925096', 'countyFips': '48085'}"
+4039160,105195,2567,SMU,American Athletic,Indianapolis,2021,127,4,22,Kylen Granson,Tight End,74,241,235,13,40,"{'city': 'Austin', 'state': 'TX', 'country': 'USA', 'latitude': '30.2711286', 'longitude': '-97.7436995', 'countyFips': '48453'}"

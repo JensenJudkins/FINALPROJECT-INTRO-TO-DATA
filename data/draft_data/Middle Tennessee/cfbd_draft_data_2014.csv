@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1021087,34193,2393,Middle Tennessee,Conference USA,Seattle,2014,172,5,32,Jimmy Staten,Defensive Tackle,75,311,,42,30,"{'city': 'Waycross', 'state': 'GA', 'country': 'USA', 'latitude': '31.2135511', 'longitude': '-82.3540178', 'countyFips': '13299'}"

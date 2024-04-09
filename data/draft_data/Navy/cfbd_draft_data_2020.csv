@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4039436,104709,2426,Navy,American Athletic,Miami,2020,246,7,32,Malcolm Perry,Wide Receiver,69,186,,,,"{'city': 'Clarksville', 'state': 'TN', 'country': 'USA', 'latitude': '36.5277607', 'longitude': '-87.3588703', 'countyFips': '47125'}"

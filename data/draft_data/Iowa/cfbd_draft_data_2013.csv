@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+480441,29198,2294,Iowa,Big Ten,Green Bay,2013,159,5,26,Micah Hyde,Cornerback,72,197,172,24,55,"{'city': 'Fostoria', 'state': 'OH', 'country': 'USA', 'latitude': '41.156998', 'longitude': '-83.4168702', 'countyFips': '39147'}"

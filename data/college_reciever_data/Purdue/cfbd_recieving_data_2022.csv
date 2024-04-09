@@ -1,0 +1,111 @@
+playerId,player,team,conference,category,statType,stat
+4257188,Charlie Jones,Purdue,Big Ten,receiving,TD,12
+4428244,Paul Piferi,Purdue,Big Ten,receiving,TD,1
+4433940,Abdur-Rahmaan Yaseen,Purdue,Big Ten,receiving,TD,0
+4428337,Mershawn Rice,Purdue,Big Ten,receiving,YDS,283
+4431398,Dylan Downing,Purdue,Big Ten,receiving,YPR,8.3
+4693184,Andrew Sowinski,Purdue,Big Ten,receiving,REC,9
+4433940,Abdur-Rahmaan Yaseen,Purdue,Big Ten,receiving,YPR,8.8
+4590632,Alex Maxwell,Purdue,Big Ten,receiving,YPR,14.0
+4360516,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,LONG,32
+4683174,Drew Biber,Purdue,Big Ten,receiving,REC,1
+4429527,King Doerue,Purdue,Big Ten,receiving,YDS,57
+4372505,Payne Durham,Purdue,Big Ten,receiving,TD,8
+4693187,Ben Furtney,Purdue,Big Ten,receiving,YPR,20.0
+4693185,Ben Buechel,Purdue,Big Ten,receiving,YPR,12.0
+4430470,TJ Sheffield,Purdue,Big Ten,receiving,YPR,10.4
+4432771,Preston Terrell,Purdue,Big Ten,receiving,REC,2
+4686065,Devin Mockobee,Purdue,Big Ten,receiving,YPR,8.8
+4590632,Alex Maxwell,Purdue,Big Ten,receiving,LONG,20
+4686065,Devin Mockobee,Purdue,Big Ten,receiving,REC,31
+4430854,Collin Sullivan,Purdue,Big Ten,receiving,YPR,6.0
+4428337,Mershawn Rice,Purdue,Big Ten,receiving,TD,1
+4429527,King Doerue,Purdue,Big Ten,receiving,LONG,32
+4683151,Deion Burks,Purdue,Big Ten,receiving,YPR,9.9
+4428651,Broc Thompson,Purdue,Big Ten,receiving,YPR,9.3
+4683151,Deion Burks,Purdue,Big Ten,receiving,TD,0
+4430854,Collin Sullivan,Purdue,Big Ten,receiving,TD,0
+4257188,Charlie Jones,Purdue,Big Ten,receiving,REC,110
+4590632,Alex Maxwell,Purdue,Big Ten,receiving,TD,0
+4693184,Andrew Sowinski,Purdue,Big Ten,receiving,YPR,10.7
+4428244,Paul Piferi,Purdue,Big Ten,receiving,YDS,143
+4686065,Devin Mockobee,Purdue,Big Ten,receiving,YDS,274
+4372505,Payne Durham,Purdue,Big Ten,receiving,REC,56
+4428337,Mershawn Rice,Purdue,Big Ten,receiving,YPR,12.3
+5102018,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,LONG,10
+4362569,Kobe Lewis,Purdue,Big Ten,receiving,YDS,56
+4683151,Deion Burks,Purdue,Big Ten,receiving,LONG,30
+4431398,Dylan Downing,Purdue,Big Ten,receiving,LONG,15
+4693184,Andrew Sowinski,Purdue,Big Ten,receiving,TD,0
+4686065,Devin Mockobee,Purdue,Big Ten,receiving,LONG,28
+4430854,Collin Sullivan,Purdue,Big Ten,receiving,LONG,6
+4686065,Devin Mockobee,Purdue,Big Ten,receiving,TD,0
+4431398,Dylan Downing,Purdue,Big Ten,receiving,TD,0
+4429527,King Doerue,Purdue,Big Ten,receiving,YPR,9.5
+4428337,Mershawn Rice,Purdue,Big Ten,receiving,REC,23
+4372505,Payne Durham,Purdue,Big Ten,receiving,YDS,560
+5092669,Julio Macias,Purdue,Big Ten,receiving,TD,0
+4430854,Collin Sullivan,Purdue,Big Ten,receiving,YDS,6
+4360516,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,YDS,165
+4683174,Drew Biber,Purdue,Big Ten,receiving,YDS,6
+4683151,Deion Burks,Purdue,Big Ten,receiving,REC,15
+4432771,Preston Terrell,Purdue,Big Ten,receiving,TD,0
+4257188,Charlie Jones,Purdue,Big Ten,receiving,YPR,12.4
+4683174,Drew Biber,Purdue,Big Ten,receiving,YPR,6.0
+5092669,Julio Macias,Purdue,Big Ten,receiving,REC,1
+4432771,Preston Terrell,Purdue,Big Ten,receiving,LONG,6
+4430470,TJ Sheffield,Purdue,Big Ten,receiving,REC,46
+4683174,Drew Biber,Purdue,Big Ten,receiving,TD,0
+4430854,Collin Sullivan,Purdue,Big Ten,receiving,REC,1
+5092669,Julio Macias,Purdue,Big Ten,receiving,YDS,0
+4430470,TJ Sheffield,Purdue,Big Ten,receiving,TD,4
+4693185,Ben Buechel,Purdue,Big Ten,receiving,REC,1
+4693187,Ben Furtney,Purdue,Big Ten,receiving,YDS,20
+5092669,Julio Macias,Purdue,Big Ten,receiving,YPR,0.0
+4693184,Andrew Sowinski,Purdue,Big Ten,receiving,LONG,24
+4693185,Ben Buechel,Purdue,Big Ten,receiving,LONG,12
+4683151,Deion Burks,Purdue,Big Ten,receiving,YDS,149
+4360516,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,TD,0
+4693187,Ben Furtney,Purdue,Big Ten,receiving,LONG,20
+4693184,Andrew Sowinski,Purdue,Big Ten,receiving,YDS,96
+4362569,Kobe Lewis,Purdue,Big Ten,receiving,YPR,8.0
+4362569,Kobe Lewis,Purdue,Big Ten,receiving,LONG,17
+4257188,Charlie Jones,Purdue,Big Ten,receiving,YDS,1361
+4431398,Dylan Downing,Purdue,Big Ten,receiving,REC,12
+4360516,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,REC,22
+4360516,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,YPR,7.5
+4430470,TJ Sheffield,Purdue,Big Ten,receiving,LONG,34
+4428337,Mershawn Rice,Purdue,Big Ten,receiving,LONG,29
+5102018,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,REC,5
+4433940,Abdur-Rahmaan Yaseen,Purdue,Big Ten,receiving,YDS,35
+4429527,King Doerue,Purdue,Big Ten,receiving,REC,6
+4693187,Ben Furtney,Purdue,Big Ten,receiving,TD,0
+4257188,Charlie Jones,Purdue,Big Ten,receiving,LONG,60
+5102018,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,TD,0
+4428244,Paul Piferi,Purdue,Big Ten,receiving,REC,10
+4428651,Broc Thompson,Purdue,Big Ten,receiving,LONG,18
+4432771,Preston Terrell,Purdue,Big Ten,receiving,YDS,12
+4590632,Alex Maxwell,Purdue,Big Ten,receiving,REC,2
+4433940,Abdur-Rahmaan Yaseen,Purdue,Big Ten,receiving,REC,4
+4428651,Broc Thompson,Purdue,Big Ten,receiving,TD,0
+4432771,Preston Terrell,Purdue,Big Ten,receiving,YPR,6.0
+4431398,Dylan Downing,Purdue,Big Ten,receiving,YDS,100
+4433940,Abdur-Rahmaan Yaseen,Purdue,Big Ten,receiving,LONG,14
+4429527,King Doerue,Purdue,Big Ten,receiving,TD,0
+4428244,Paul Piferi,Purdue,Big Ten,receiving,YPR,14.3
+4428244,Paul Piferi,Purdue,Big Ten,receiving,LONG,26
+5102018,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,YDS,24
+4428651,Broc Thompson,Purdue,Big Ten,receiving,YDS,28
+5092669,Julio Macias,Purdue,Big Ten,receiving,LONG,0
+4362569,Kobe Lewis,Purdue,Big Ten,receiving,TD,0
+4590632,Alex Maxwell,Purdue,Big Ten,receiving,YDS,28
+5102018,Tyrone Tracy Jr.,Purdue,Big Ten,receiving,YPR,4.8
+4372505,Payne Durham,Purdue,Big Ten,receiving,LONG,56
+4430470,TJ Sheffield,Purdue,Big Ten,receiving,YDS,480
+4693185,Ben Buechel,Purdue,Big Ten,receiving,TD,0
+4683174,Drew Biber,Purdue,Big Ten,receiving,LONG,6
+4362569,Kobe Lewis,Purdue,Big Ten,receiving,REC,7
+4372505,Payne Durham,Purdue,Big Ten,receiving,YPR,10.0
+4693187,Ben Furtney,Purdue,Big Ten,receiving,REC,1
+4693185,Ben Buechel,Purdue,Big Ten,receiving,YDS,12
+4428651,Broc Thompson,Purdue,Big Ten,receiving,REC,3

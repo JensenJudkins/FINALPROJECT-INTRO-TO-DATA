@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+237801,28558,2032,Arkansas State,Sun Belt,New York,2012,77,3,14,Demario Davis,Outside Linebacker,74,235,87,6,72,"{'city': 'Brandon', 'state': 'MS', 'country': 'USA', 'latitude': '32.2731475', 'longitude': '-89.9868058', 'countyFips': '28121'}"

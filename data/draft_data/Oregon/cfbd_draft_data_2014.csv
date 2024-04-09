@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+504757,33679,2483,Oregon,Pac-12,Philadelphia,2014,86,3,22,Josh Huff,Wide Receiver,71,206,133,20,60,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+511464,33615,2483,Oregon,Pac-12,Kansas City,2014,124,4,24,De'Anthony Thomas,Running Back,69,174,114,10,65,"{'city': 'Los Angeles', 'state': 'CA', 'country': 'USA', 'latitude': '34.0536909', 'longitude': '-118.2427666', 'countyFips': '06037'}"
+-1028480,34131,2483,Oregon,Pac-12,Philadelphia,2014,141,5,1,Taylor Hart,Defensive End,78,281,117,11,64,"{'city': 'Tualatin', 'state': 'OR', 'country': 'USA', 'latitude': '45.3838546', 'longitude': '-122.7663518', 'countyFips': '41067'}"
+504762,34733,2483,Oregon,Pac-12,Dallas,2014,254,7,39,Terrance Mitchell,Cornerback,71,192,156,21,55,"{'city': 'Sacramento', 'state': 'CA', 'country': 'USA', 'latitude': '38.5815719', 'longitude': '-121.4943996', 'countyFips': '06067'}"

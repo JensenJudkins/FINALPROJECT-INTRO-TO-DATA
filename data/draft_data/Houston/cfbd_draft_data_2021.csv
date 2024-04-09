@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240269,105148,248,Houston,American Athletic,New Orleans,2021,28,1,28,Payton Turner,Defensive End,78,268,73,9,76,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+4039307,104798,248,Houston,American Athletic,Buffalo,2021,203,6,19,Marquez Stevenson,Wide Receiver,70,180,143,24,63,"{'city': 'Shreveport', 'state': 'LA', 'country': 'USA', 'latitude': '32.5221828', 'longitude': '-93.7651944', 'countyFips': '22017'}"
+4240255,105194,248,Houston,American Athletic,Tampa Bay,2021,259,7,32,Grant Stuard,Outside Linebacker,72,225,216,9,45,"{'city': 'Conroe', 'state': 'TX', 'country': 'USA', 'latitude': '30.3118769', 'longitude': '-95.4560512', 'countyFips': '48339'}"

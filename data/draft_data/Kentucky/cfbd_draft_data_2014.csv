@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+504160,34300,96,Kentucky,SEC,Tennessee,2014,151,5,11,Avery Williamson,Inside Linebacker,73,246,241,8,41,"{'city': 'Milan', 'state': 'TN', 'country': 'USA', 'latitude': '35.9197886', 'longitude': '-88.7589489', 'countyFips': '47053'}"

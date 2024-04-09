@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546866,52093,275,Wisconsin,Big Ten,Pittsburgh,2017,30,1,30,T.J. Watt,Outside Linebacker,77,252,37,3,86,"{'city': 'Pewaukee', 'state': 'WI', 'country': 'USA', 'latitude': '43.0805651', 'longitude': '-88.2612045', 'countyFips': '55133'}"
+-1043790,51701,275,Wisconsin,Big Ten,New Orleans,2017,32,1,32,Ryan Ramczyk,Offensive Tackle,78,310,30,2,88,"{'city': 'Stevens Point', 'state': 'WI', 'country': 'USA', 'latitude': '44.5229223', 'longitude': '-89.574111', 'countyFips': '55097'}"
+534807,51644,275,Wisconsin,Big Ten,Green Bay,2017,108,4,1,Vince Biegel,Outside Linebacker,75,246,135,7,65,"{'city': 'Wisconsin Rapids', 'state': 'WI', 'country': 'USA', 'latitude': '44.3917589', 'longitude': '-89.8228767', 'countyFips': '55141'}"

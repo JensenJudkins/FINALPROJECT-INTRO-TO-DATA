@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3139477,52092,2641,Texas Tech,Big 12,Kansas City,2017,10,1,10,Patrick Mahomes,Quarterback,74,225,44,3,85,"{'city': 'Whitehouse', 'state': 'TX', 'country': 'USA', 'latitude': '32.2268666', 'longitude': '-95.2259279', 'countyFips': '48423'}"

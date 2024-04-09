@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546417,49586,30,USC,Pac-12,Washington,2016,53,2,22,Su'a Cravens,Safety,73,226,73,5,77,"{'city': 'Los Angeles', 'state': 'CA', 'country': 'USA', 'latitude': '34.0536909', 'longitude': '-118.2427666', 'countyFips': '06037'}"
+531005,50309,30,USC,Pac-12,Los Angeles,2016,66,3,3,Max Tuerk,Center,77,298,115,3,68,"{'city': 'Trabuco Canyon', 'state': 'CA', 'country': 'USA', 'latitude': '33.6626232', 'longitude': '-117.58938', 'countyFips': '06059'}"
+513329,49991,30,USC,Pac-12,Cleveland,2016,93,3,30,Cody Kessler,Quarterback,73,220,209,10,50,"{'city': 'Bakersfield', 'state': 'CA', 'country': 'USA', 'latitude': '35.3738712', 'longitude': '-119.0194639', 'countyFips': '06029'}"
+530991,49440,30,USC,Pac-12,Buffalo,2016,218,6,43,Kevon Seymour,Cornerback,72,186,193,23,54,"{'city': 'Pasadena', 'state': 'CA', 'country': 'USA', 'latitude': '34.1476452', 'longitude': '-118.1444779', 'countyFips': '06037'}"

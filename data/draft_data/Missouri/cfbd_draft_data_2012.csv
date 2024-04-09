@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+381402,28721,142,Missouri,Big 12,Miami,2012,78,3,15,Michael Egnew,Tight End,77,252,102,4,69,"{'city': 'Plainview', 'state': 'TX', 'country': 'USA', 'latitude': '34.1847936', 'longitude': '-101.7068417', 'countyFips': '48189'}"

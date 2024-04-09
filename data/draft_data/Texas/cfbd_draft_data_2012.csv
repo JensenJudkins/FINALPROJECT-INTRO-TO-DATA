@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+236775,28383,251,Texas,Big 12,Washington,2012,119,4,24,Keenan Robinson,Outside Linebacker,75,242,154,13,58,"{'city': 'Plano', 'state': 'TX', 'country': 'USA', 'latitude': '33.0136764', 'longitude': '-96.6925096', 'countyFips': '48085'}"
+380109,28382,251,Texas,Big 12,Cleveland,2012,204,6,34,Emmanuel Acho,Inside Linebacker,74,238,219,7,41,"{'city': 'Dallas', 'state': 'TX', 'country': 'USA', 'latitude': '32.7762719', 'longitude': '-96.7968559', 'countyFips': '48113'}"
+-1034862,28381,251,Texas,Big 12,Miami,2012,215,7,8,Kheeston Randall,Defensive Tackle,77,293,213,19,42,"{'city': 'Beaumont', 'state': 'TX', 'country': 'USA', 'latitude': '30.0860459', 'longitude': '-94.1018461', 'countyFips': '48245'}"

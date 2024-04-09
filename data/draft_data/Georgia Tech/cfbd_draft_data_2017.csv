@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+551558,51972,59,Georgia Tech,ACC,Carolina,2017,233,7,15,Harrison Butker,Place Kicker,76,199,,4,30,"{'city': 'Decatur', 'state': 'GA', 'country': 'USA', 'latitude': '33.7737582', 'longitude': '-84.296069', 'countyFips': '13089'}"

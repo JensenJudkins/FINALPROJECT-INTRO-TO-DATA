@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+549513,51775,235,Memphis,American Athletic,Cincinnati,2017,153,5,9,Jake Elliott,Place Kicker,69,167,329,3,32,"{'city': 'Western Springs', 'state': 'IL', 'country': 'USA', 'latitude': '41.8096132', 'longitude': '-87.900671', 'countyFips': '17031'}"

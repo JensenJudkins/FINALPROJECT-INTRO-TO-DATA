@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+237733,26162,41,Connecticut,Big East,Arizona,2011,136,5,5,Anthony Sherman,Fullback,70,242,174,2,55,"{'city': 'North Attleboro', 'state': 'MA', 'country': 'USA', 'latitude': '41.9834324', 'longitude': '-71.3328328', 'countyFips': '25005'}"
+189286,27270,41,Connecticut,Big East,Carolina,2011,166,6,1,Lawrence Wilson,Outside Linebacker,73,229,153,9,59,"{'city': 'Tuscaloosa', 'state': 'AL', 'country': 'USA', 'latitude': '33.2095614', 'longitude': '-87.5675258', 'countyFips': '01125'}"
+382319,27324,41,Connecticut,Big East,Los Angeles,2011,183,6,18,Jordan Todman,Running Back,69,203,128,12,65,"{'city': 'North Dartmouth', 'state': 'MA', 'country': 'USA', 'latitude': '41.6389926', 'longitude': '-70.9703171', 'countyFips': '25005'}"
+237619,27285,41,Connecticut,Big East,Philadelphia,2011,237,7,34,Greg Lloyd,Inside Linebacker,73,246,281,15,34,"{'city': 'Clermont', 'state': 'FL', 'country': 'USA', 'latitude': '28.5494447', 'longitude': '-81.7728543', 'countyFips': '12069'}"

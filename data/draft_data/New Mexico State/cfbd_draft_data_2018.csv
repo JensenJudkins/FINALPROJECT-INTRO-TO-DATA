@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4040792,101636,166,New Mexico State,Sun Belt,Baltimore,2018,132,4,32,Jaleel Scott,Wide Receiver,77,218,231,28,46,"{'city': 'Rock Hill', 'state': 'SC', 'country': 'USA', 'latitude': '34.9248667', 'longitude': '-81.0250784', 'countyFips': '45091'}"

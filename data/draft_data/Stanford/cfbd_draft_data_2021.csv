@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4242554,104789,24,Stanford,Pac-12,Jacksonville,2021,45,2,13,Walker Little,Offensive Tackle,79,313,62,7,80,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+4242546,105275,24,Stanford,Pac-12,Houston,2021,67,3,3,Davis Mills,Quarterback,76,217,63,6,79,"{'city': 'Duluth', 'state': 'GA', 'country': 'USA', 'latitude': '34.0028569', 'longitude': '-84.1441046', 'countyFips': '13135'}"
+4242547,104762,24,Stanford,Pac-12,New Orleans,2021,76,3,12,Paulson Adebo,Cornerback,73,198,95,15,72,"{'city': 'Mansfield', 'state': 'TX', 'country': 'USA', 'latitude': '32.5631924', 'longitude': '-97.1416768', 'countyFips': '48439'}"
+4242553,105287,24,Stanford,Pac-12,Atlanta,2021,114,4,9,Drew Dalman,Center,75,299,152,5,60,"{'city': 'Salinas', 'state': 'CA', 'country': 'USA', 'latitude': '36.6744117', 'longitude': '-121.6550372', 'countyFips': '06053'}"
+4360739,105292,24,Stanford,Pac-12,Dallas,2021,179,5,35,Simi Fehoko,Wide Receiver,76,222,180,30,56,"{'city': 'Sandy', 'state': 'UT', 'country': 'USA', 'latitude': '40.5664878', 'longitude': '-111.838904', 'countyFips': '49035'}"

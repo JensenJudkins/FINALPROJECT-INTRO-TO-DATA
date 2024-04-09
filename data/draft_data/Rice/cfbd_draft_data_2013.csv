@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482477,29592,242,Rice,Conference USA,San Francisco,2013,55,2,23,Vance McDonald,Tight End,76,267,69.0,5,78,"{'city': 'Winnie', 'state': 'TX', 'country': 'USA', 'latitude': '29.8202205', 'longitude': '-94.3840777', 'countyFips': '48071'}"
+383454,29591,242,Rice,Conference USA,Seattle,2013,158,5,25,Luke Willson,Tight End,77,252,,21,31,"{'city': 'LaSalle', 'state': 'ON', 'country': 'Canada', 'latitude': None, 'longitude': None, 'countyFips': None}"

@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+232582,26108,68,Boise State,Western Athletic,Detroit,2011,44,2,12,Titus Young,Wide Receiver,71,174,49,5,83,"{'city': 'Los Angeles', 'state': 'CA', 'country': 'USA', 'latitude': '34.0536909', 'longitude': '-118.2427666', 'countyFips': '06037'}"
+232571,27276,68,Boise State,Western Athletic,Los Angeles,2011,78,3,14,Austin Pettis,Wide Receiver,75,209,111,14,70,"{'city': 'Anaheim', 'state': 'CA', 'country': 'USA', 'latitude': '33.8347516', 'longitude': '-117.911732', 'countyFips': '06059'}"
+232559,26171,68,Boise State,Western Athletic,Washington,2011,213,7,10,Brandyn Thompson,Cornerback,69,189,287,35,33,"{'city': 'Elk Grove', 'state': 'CA', 'country': 'USA', 'latitude': '38.4087993', 'longitude': '-121.3716178', 'countyFips': '06067'}"

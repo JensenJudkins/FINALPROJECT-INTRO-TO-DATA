@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3931422,101871,12,Arizona,Pac-12,Tennessee,2018,152,5,15,Dane Cruikshank,Cornerback,73,209,246,36,44,"{'city': 'Chino Hills', 'state': 'CA', 'country': 'USA', 'latitude': '33.9926803', 'longitude': '-117.760056', 'countyFips': '06071'}"

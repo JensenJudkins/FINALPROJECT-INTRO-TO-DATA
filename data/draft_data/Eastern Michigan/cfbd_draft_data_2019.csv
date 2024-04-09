@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3916655,103868,2199,Eastern Michigan,Mid-American,Las Vegas,2019,106,4,4,Maxx Crosby,Defensive End,77,255,106,11,71,"{'city': 'Colleyville', 'state': 'TX', 'country': 'USA', 'latitude': '32.8809603', 'longitude': '-97.155012', 'countyFips': '48439'}"

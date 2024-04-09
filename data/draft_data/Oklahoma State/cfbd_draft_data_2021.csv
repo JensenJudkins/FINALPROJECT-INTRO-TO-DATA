@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4038457,104775,197,Oklahoma State,Big 12,Chicago,2021,39,2,7,Teven Jenkins,Offensive Tackle,78,317,26,4,89,"{'city': 'Topeka', 'state': 'KS', 'country': 'USA', 'latitude': '39.049011', 'longitude': '-95.677556', 'countyFips': '20177'}"
+4241416,104765,197,Oklahoma State,Big 12,Carolina,2021,126,4,21,Chuba Hubbard,Running Back,72,210,150,9,61,"{'city': 'Sherwood Park', 'state': 'AB', 'country': 'CAN', 'latitude': None, 'longitude': None, 'countyFips': None}"
+4241424,104781,197,Oklahoma State,Big 12,Baltimore,2021,131,4,26,Tylan Wallace,Wide Receiver,71,194,75,12,76,"{'city': 'Fort Worth', 'state': 'TX', 'country': 'USA', 'latitude': '32.753177', 'longitude': '-97.3327459', 'countyFips': '48439'}"
+4038430,105196,197,Oklahoma State,Big 12,New York,2021,201,6,17,Rodarius Williams,Cornerback,72,189,242,30,38,"{'city': 'Shreveport', 'state': 'LA', 'country': 'USA', 'latitude': '32.5221828', 'longitude': '-93.7651944', 'countyFips': '22017'}"

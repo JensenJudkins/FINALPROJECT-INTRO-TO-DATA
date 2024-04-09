@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4710661,106809,152,NC State,ACC,Carolina,2023,114,4,12,Chandler Zavala,Offensive Guard,75,322,86,3,72,"{'city': 'Boynton Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.5256179', 'longitude': '-80.0666026', 'countyFips': '12099'}"

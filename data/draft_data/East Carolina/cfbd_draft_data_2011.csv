@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+184622,26100,151,East Carolina,Conference USA,Dallas,2011,176,6,11,Dwayne Harris,Wide Receiver,70,203,112,15,69,"{'city': 'Stone Mountain', 'state': 'GA', 'country': 'USA', 'latitude': '33.8080924', 'longitude': '-84.1706273', 'countyFips': '13089'}"

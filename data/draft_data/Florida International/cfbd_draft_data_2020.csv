@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3914395,104646,2229,Florida International,Conference USA,New York,2020,125,4,19,James Morgan,Quarterback,76,229,171.0,10.0,54.0,"{'city': 'Green Bay', 'state': 'WI', 'country': 'USA', 'latitude': '44.5126379', 'longitude': '-88.0125794', 'countyFips': '55009'}"
+4046353,104695,2229,Florida International,Conference USA,Carolina,2020,221,7,7,Stantley Thomas-Oliver III,Cornerback,72,192,,,,"{'city': 'Punta Gorda', 'state': 'FL', 'country': 'USA', 'latitude': '26.9297836', 'longitude': '-82.0453664', 'countyFips': '12015'}"

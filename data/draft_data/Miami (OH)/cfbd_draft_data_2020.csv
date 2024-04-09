@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4038994,104711,193,Miami (OH),Mid-American,Los Angeles,2020,248,7,34,Sam Sloman,Place Kicker,68,205,,,,"{'city': 'Roswell', 'state': 'GA', 'country': 'USA', 'latitude': '34.02332', 'longitude': '-84.360022', 'countyFips': '13121'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+513065,46823,264,Washington,Pac-12,Cleveland,2015,12,1,12,Danny Shelton,Defensive Tackle,74,339,14,1,90,"{'city': 'Auburn', 'state': 'WA', 'country': 'USA', 'latitude': '47.3075369', 'longitude': '-122.2301808', 'countyFips': '53033'}"
+513059,46830,264,Washington,Pac-12,Kansas City,2015,18,1,18,Marcus Peters,Cornerback,72,197,21,2,90,"{'city': 'Oakland', 'state': 'CA', 'country': 'USA', 'latitude': '37.8044557', 'longitude': '-122.2713563', 'countyFips': '06001'}"
+535329,46878,264,Washington,Pac-12,Carolina,2015,25,1,25,Shaq Thompson,Outside Linebacker,72,228,69,8,78,"{'city': 'Sacramento', 'state': 'CA', 'country': 'USA', 'latitude': '38.5815719', 'longitude': '-121.4943996', 'countyFips': '06067'}"
+2509488,46851,264,Washington,Pac-12,New Orleans,2015,44,2,12,Hau'Oli Kikaha,Outside Linebacker,74,253,42,6,86,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

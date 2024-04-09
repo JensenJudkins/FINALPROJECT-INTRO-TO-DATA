@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+377964,30133,2132,Cincinnati,Big East,Kansas City,2013,63,3,1,Travis Kelce,Tight End,77,255,61,4,80,"{'city': 'Cleveland Heights', 'state': 'OH', 'country': 'USA', 'latitude': '41.5200518', 'longitude': '-81.556235', 'countyFips': '39035'}"

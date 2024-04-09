@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3914151,104674,2132,Cincinnati,American Athletic,Green Bay,2020,94,3,30,Josiah Deguara,Tight End,74,242,,,,"{'city': 'Folsom', 'state': 'CA', 'country': 'USA', 'latitude': '38.6779591', 'longitude': '-121.1760583', 'countyFips': '06067'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4361988,105983,259,Virginia Tech,ACC,Detroit,2022,177,5,34,James Mitchell,Tight End,76,249,197,11,55,"{'city': 'Big Stone Gap', 'state': 'VA', 'country': 'USA', 'latitude': '36.860479', 'longitude': '-82.78393414755436', 'countyFips': '51195'}"
+4568439,105881,259,Virginia Tech,ACC,Carolina,2022,189,6,10,Amare Barno,Outside Linebacker,77,246,123,9,68,"{'city': 'Blythewood', 'state': 'SC', 'country': 'USA', 'latitude': '34.2187005', 'longitude': '-80.98456918011235', 'countyFips': '45079'}"
+4361979,106081,259,Virginia Tech,ACC,Buffalo,2022,209,6,31,Luke Tenuta,Offensive Tackle,80,319,307,26,38,"{'city': 'Crozet', 'state': 'VA', 'country': 'USA', 'latitude': '38.0695816', 'longitude': '-78.7005751', 'countyFips': '51003'}"
+4260223,105898,259,Virginia Tech,ACC,Arizona,2022,215,6,37,Lecitus Smith,Offensive Guard,75,314,171,13,58,"{'city': 'Fitzgerald', 'state': 'GA', 'country': 'USA', 'latitude': '31.7149082', 'longitude': '-83.2526545', 'countyFips': '13017'}"

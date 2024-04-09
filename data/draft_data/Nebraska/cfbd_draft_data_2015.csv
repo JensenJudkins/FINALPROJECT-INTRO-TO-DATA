@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+514508,46853,158,Nebraska,Big Ten,Detroit,2015,54,2,22,Ameer Abdullah,Running Back,69,205,44,3,85,"{'city': 'Homewood', 'state': 'AL', 'country': 'USA', 'latitude': '33.4717732', 'longitude': '-86.8008228', 'countyFips': '01073'}"
+545598,46827,158,Nebraska,Big Ten,Dallas,2015,60,2,28,Randy Gregory,Outside Linebacker,77,235,18,1,90,"{'city': 'Fishers', 'state': 'IN', 'country': 'USA', 'latitude': '39.9555928', 'longitude': '-86.0138729', 'countyFips': '18057'}"
+501842,46914,158,Nebraska,Big Ten,Tampa Bay,2015,162,5,26,Kenny Bell,Wide Receiver,73,197,105,15,69,"{'city': 'Boulder', 'state': 'CO', 'country': 'USA', 'latitude': '40.0149856', 'longitude': '-105.2705456', 'countyFips': '08013'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240904,104791,245,Texas A&M,SEC,Minnesota,2021,66,3,2,Kellen Mond,Quarterback,75,211,67,8,77,"{'city': 'San Antonio', 'state': 'TX', 'country': 'USA', 'latitude': '29.4246002', 'longitude': '-98.4951405', 'countyFips': '48029'}"
+4372518,105280,245,Texas A&M,SEC,Los Angeles,2021,117,4,12,Bobby Brown III,Defensive Tackle,76,321,126,11,67,"{'city': 'Gibsonton', 'state': 'FL', 'country': 'USA', 'latitude': '27.8536365', 'longitude': '-82.3825931', 'countyFips': '12057'}"
+4240920,105168,245,Texas A&M,SEC,Pittsburgh,2021,128,4,23,Dan Moore Jr.,Offensive Tackle,78,311,120,12,68,"{'city': 'Beaumont', 'state': 'TX', 'country': 'USA', 'latitude': '30.0860459', 'longitude': '-94.1018461', 'countyFips': '48245'}"
+4240900,105431,245,Texas A&M,SEC,Pittsburgh,2021,140,4,35,Buddy Johnson,Inside Linebacker,73,229,293,23,32,"{'city': 'Dallas', 'state': 'TX', 'country': 'USA', 'latitude': '32.7762719', 'longitude': '-96.7968559', 'countyFips': '48113'}"

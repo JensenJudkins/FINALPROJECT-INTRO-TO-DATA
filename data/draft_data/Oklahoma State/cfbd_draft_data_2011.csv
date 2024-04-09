@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+235661,27240,197,Oklahoma State,Big 12,San Francisco,2011,115,4,18,Kendall Hunter,Running Back,67,199,83,5,76,"{'city': 'Tyler', 'state': 'TX', 'country': 'USA', 'latitude': '32.3512601', 'longitude': '-95.3010624', 'countyFips': '48423'}"

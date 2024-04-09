@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1022039,51824,344,Mississippi State,SEC,Seattle,2017,210,6,26,Justin Senior,Offensive Tackle,77,331,236,16,44,"{'city': 'Montreal', 'state': 'QC', 'country': 'Canada', 'latitude': None, 'longitude': None, 'countyFips': None}"

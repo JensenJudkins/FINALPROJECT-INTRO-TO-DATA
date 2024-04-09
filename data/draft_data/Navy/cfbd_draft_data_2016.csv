@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+530568,50460,2426,Navy,American Athletic,Baltimore,2016,182,6,7,Keenan Reynolds,Wide Receiver,70,190,334,51,32,"{'city': 'Antioch', 'state': 'TN', 'country': 'USA', 'latitude': '36.0806394', 'longitude': '-83.7799037', 'countyFips': '47093'}"

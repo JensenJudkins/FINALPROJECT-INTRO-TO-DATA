@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4259491,104120,2579,South Carolina,SEC,San Francisco,2020,14,1,14,Javon Kinlaw,Defensive Tackle,77,324,9.0,2.0,92.0,"{'city': 'Charleston', 'state': 'SC', 'country': 'USA', 'latitude': '32.7876012', 'longitude': '-79.9402728', 'countyFips': '45019'}"
+4038818,20394,2579,South Carolina,SEC,Las Vegas,2020,81,3,17,Bryan Edwards,Wide Receiver,75,212,100.0,16.0,69.0,"{'city': 'Conway', 'state': 'SC', 'country': 'USA', 'latitude': '33.8360035', 'longitude': '-79.0478143', 'countyFips': '45051'}"
+4038849,104142,2579,South Carolina,SEC,Minnesota,2020,117,4,11,D.J. Wonnum,Defensive End,77,258,114.0,13.0,67.0,"{'city': 'Stone Mountain', 'state': 'GA', 'country': 'USA', 'latitude': '33.8080924', 'longitude': '-84.1706273', 'countyFips': '13089'}"
+4038811,104706,2579,South Carolina,SEC,New York,2020,238,7,24,TJ Brunson,Inside Linebacker,72,230,,,,"{'city': 'Columbia', 'state': 'SC', 'country': 'USA', 'latitude': '34.0007493', 'longitude': '-81.0343313', 'countyFips': '45079'}"

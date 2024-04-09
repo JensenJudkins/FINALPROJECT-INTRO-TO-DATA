@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3152371,52005,26,UCLA,Pac-12,Atlanta,2017,26,1,26,Takkarist McKinley,Defensive End,74,250,24.0,3,89,"{'city': 'Richmond', 'state': 'CA', 'country': 'USA', 'latitude': '37.9357576', 'longitude': '-122.3477486', 'countyFips': '06013'}"
+530979,48660,26,UCLA,Pac-12,Washington,2017,81,3,17,Fabian Moreau,Cornerback,73,206,68.0,11,78,"{'city': 'Sunrise', 'state': 'FL', 'country': 'USA', 'latitude': '26.1482449', 'longitude': '-80.32888594100868', 'countyFips': '12011'}"
+547608,48838,26,UCLA,Pac-12,Las Vegas,2017,88,3,24,Eddie Vanderdoes,Defensive Tackle,75,305,149.0,14,61,"{'city': 'Auburn', 'state': 'CA', 'country': 'USA', 'latitude': '38.8945939', 'longitude': '-121.0739897', 'countyFips': '06061'}"
+547597,51990,26,UCLA,Pac-12,Tennessee,2017,155,5,11,Jayon Brown,Outside Linebacker,72,231,,21,30,"{'city': 'Long Beach', 'state': 'CA', 'country': 'USA', 'latitude': '33.7690164', 'longitude': '-118.1916048', 'countyFips': '06037'}"
+-1038255,51653,26,UCLA,Pac-12,New England,2017,211,6,28,Conor McDermott,Offensive Tackle,80,307,191.0,13,51,"{'city': 'Nashville', 'state': 'TN', 'country': 'USA', 'latitude': '36.1622296', 'longitude': '-86.7743531', 'countyFips': '47037'}"

@@ -1,0 +1,7 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+379205,26072,61,Georgia,SEC,Cincinnati,2011,4,1,4,A.J. Green,Wide Receiver,76,211,3,1,97,"{'city': 'Summerville', 'state': 'SC', 'country': 'USA', 'latitude': '33.0206179', 'longitude': '-80.1747537', 'countyFips': '45035'}"
+245290,27392,61,Georgia,SEC,Kansas City,2011,70,3,6,Justin Houston,Defensive End,75,270,46,12,84,"{'city': 'Statesboro', 'state': 'GA', 'country': 'USA', 'latitude': '32.4490141', 'longitude': '-81.7832912', 'countyFips': '13031'}"
+-1011816,27120,61,Georgia,SEC,Atlanta,2011,91,3,27,Akeem Dent,Inside Linebacker,73,242,96,3,73,"{'city': 'Atlanta', 'state': 'GA', 'country': 'USA', 'latitude': '33.7490987', 'longitude': '-84.3901849', 'countyFips': '13121'}"
+-1011811,27257,61,Georgia,SEC,Cincinnati,2011,101,4,4,Clint Boling,Offensive Guard,77,308,50,3,83,"{'city': 'Alpharetta', 'state': 'GA', 'country': 'USA', 'latitude': '34.0709576', 'longitude': '-84.2747329', 'countyFips': '13121'}"
+183514,27307,61,Georgia,SEC,Seattle,2011,107,4,10,Kris Durham,Wide Receiver,77,214,221,28,44,"{'city': 'Calhoun', 'state': 'GA', 'country': 'USA', 'latitude': '34.502587', 'longitude': '-84.9510542', 'countyFips': '13129'}"
+189603,26179,61,Georgia,SEC,Dallas,2011,220,7,17,Shaun Chapas,Fullback,74,247,200,4,48,"{'city': 'St. Augustine', 'state': 'FL', 'country': 'USA', 'latitude': '29.8946952', 'longitude': '-81.3145395', 'countyFips': '12109'}"

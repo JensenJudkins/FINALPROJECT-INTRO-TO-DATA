@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4034961,103515,57,Florida,SEC,Jacksonville,2019,35,2,3,Jawaan Taylor,Offensive Tackle,77,312,10,1,90,"{'city': 'Cocoa', 'state': 'FL', 'country': 'USA', 'latitude': '28.3553873', 'longitude': '-80.7318827', 'countyFips': '12009'}"
+4034967,103526,57,Florida,SEC,New York,2019,68,3,4,Jachai Polite,Defensive End,75,258,109,12,70,"{'city': 'Daytona Beach', 'state': 'FL', 'country': 'USA', 'latitude': '29.2108147', 'longitude': '-81.0228331', 'countyFips': '12127'}"
+4034953,103550,57,Florida,SEC,New Orleans,2019,105,4,3,Chauncey Gardner-Johnson,Safety,71,210,52,5,83,"{'city': 'Cocoa', 'state': 'FL', 'country': 'USA', 'latitude': '28.3553873', 'longitude': '-80.7318827', 'countyFips': '12009'}"
+4034945,103845,57,Florida,SEC,Buffalo,2019,147,5,9,Vosean Joseph,Outside Linebacker,74,230,196,13,56,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+3915115,103876,57,Florida,SEC,Carolina,2019,154,5,16,Jordan Scarlett,Running Back,71,208,268,25,45,"{'city': 'Fort Lauderdale ', 'state': 'FL', 'country': 'USA', 'latitude': '26.1223084', 'longitude': '-80.1433786', 'countyFips': '12011'}"

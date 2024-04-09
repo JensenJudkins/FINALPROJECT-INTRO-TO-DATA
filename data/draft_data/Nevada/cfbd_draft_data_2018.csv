@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+552068,101581,2440,Nevada,Mountain West,Cleveland,2018,33,2,1,Austin Corbett,Offensive Guard,76,306,40,5,85,"{'city': 'Sparks', 'state': 'NV', 'country': 'USA', 'latitude': '39.5404679', 'longitude': '-119.7487235', 'countyFips': '32031'}"

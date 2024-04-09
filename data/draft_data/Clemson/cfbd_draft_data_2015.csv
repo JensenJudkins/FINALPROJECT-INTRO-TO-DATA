@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1007369,46834,228,Clemson,ACC,Atlanta,2015,8,1,8,Vic Beasley,Outside Linebacker,75,246,25,3,89,"{'city': 'Adairsville', 'state': 'GA', 'country': 'USA', 'latitude': '34.3687021', 'longitude': '-84.9341093', 'countyFips': '13015'}"
+511197,46859,228,Clemson,ACC,New Orleans,2015,31,1,31,Stephone Anthony,Inside Linebacker,75,243,50,3,83,"{'city': 'Polkton', 'state': 'NC', 'country': 'USA', 'latitude': '35.0076546', 'longitude': '-80.2008947', 'countyFips': '37007'}"
+-1007374,46860,228,Clemson,ACC,Atlanta,2015,137,5,1,Grady Jarrett,Defensive Tackle,73,304,51,5,83,"{'city': 'Conyers', 'state': 'GA', 'country': 'USA', 'latitude': '33.6676103', 'longitude': '-84.0176904', 'countyFips': '13247'}"
+534595,47149,228,Clemson,ACC,San Francisco,2015,165,5,29,Bradley Pinion,Punter,77,229,340,4,31,"{'city': 'Concord', 'state': 'NC', 'country': 'USA', 'latitude': '35.4093772', 'longitude': '-80.5797416', 'countyFips': '37025'}"
+-1007386,47120,228,Clemson,ACC,Buffalo,2015,188,6,12,Tony Steward,Outside Linebacker,73,241,311,26,33,"{'city': 'Hastings', 'state': 'FL', 'country': 'USA', 'latitude': '29.7180248', 'longitude': '-81.5081338', 'countyFips': '12109'}"

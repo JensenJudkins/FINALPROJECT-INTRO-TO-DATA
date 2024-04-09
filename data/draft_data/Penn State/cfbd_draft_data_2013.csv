@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+488962,29983,213,Penn State,Big Ten,Seattle,2013,87,3,25,Jordan Hill,Defensive Tackle,73,303,133.0,12,65,"{'city': 'Steelton', 'state': 'PA', 'country': 'USA', 'latitude': '40.2353679', 'longitude': '-76.8413613', 'countyFips': '42043'}"
+481918,29220,213,Penn State,Big Ten,Minnesota,2013,120,4,23,Gerald Hodges,Outside Linebacker,73,243,182.0,14,54,"{'city': 'Paulsboro', 'state': 'NJ', 'country': 'USA', 'latitude': '39.830391', 'longitude': '-75.2404608', 'countyFips': '34015'}"
+2477972,29576,213,Penn State,Big Ten,Pittsburgh,2013,186,6,18,Justin Brown,Wide Receiver,75,207,,69,30,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+377894,30189,213,Penn State,Big Ten,Minnesota,2013,213,7,7,Michael Mauti,Inside Linebacker,74,243,203.0,9,50,"{'city': 'Mandeville', 'state': 'LA', 'country': 'USA', 'latitude': '30.3582305', 'longitude': '-90.0657477', 'countyFips': '22103'}"

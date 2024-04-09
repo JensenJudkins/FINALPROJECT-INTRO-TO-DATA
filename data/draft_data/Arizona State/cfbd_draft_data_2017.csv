@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546436,51776,9,Arizona State,Pac-12,Cleveland,2017,224,7,6,Zane Gonzalez,Place Kicker,73,202,321,2,33,"{'city': 'Deer Park', 'state': 'TX', 'country': 'USA', 'latitude': '29.7052284', 'longitude': '-95.1238204', 'countyFips': '48201'}"

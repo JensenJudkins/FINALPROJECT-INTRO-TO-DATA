@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482202,28071,166,New Mexico State,Western Athletic,Detroit,2012,196,6,26,Jonte Green,Cornerback,71,182,,71,30,"{'city': 'St Petersburg', 'state': 'FL', 'country': 'USA', 'latitude': '27.7703796', 'longitude': '-82.6695085', 'countyFips': '12103'}"

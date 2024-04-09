@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4039303,103505,248,Houston,American Athletic,Buffalo,2019,9,1,9,Ed Oliver,Defensive Tackle,74,287,3,2,94,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+3126182,103620,248,Houston,American Athletic,Las Vegas,2019,129,4,27,Isaiah Johnson,Cornerback,74,208,153,17,62,"{'city': 'Bryan', 'state': 'TX', 'country': 'USA', 'latitude': '30.6743643', 'longitude': '-96.3699632', 'countyFips': '48041'}"
+3914613,103640,248,Houston,American Athletic,Los Angeles,2019,200,6,27,Emeke Egbule,Outside Linebacker,74,245,232,18,50,"{'city': 'Galena Park', 'state': 'TX', 'country': 'USA', 'latitude': '29.7335616', 'longitude': '-95.2302123', 'countyFips': '48201'}"

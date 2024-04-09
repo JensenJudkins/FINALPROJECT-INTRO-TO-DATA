@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1022142,28964,344,Mississippi State,SEC,Philadelphia,2012,12,1,12,Fletcher Cox,Defensive Tackle,76,298,7,1,95,"{'city': 'Yazoo City', 'state': 'MS', 'country': 'USA', 'latitude': '32.8551326', 'longitude': '-90.4056469', 'countyFips': '28163'}"
+501566,28711,344,Mississippi State,SEC,Indianapolis,2012,170,5,35,Vick Ballard,Running Back,70,219,206,16,44,"{'city': 'Pascagoula', 'state': 'MS', 'country': 'USA', 'latitude': '30.3646795', 'longitude': '-88.5585995', 'countyFips': '28059'}"
+382749,28713,344,Mississippi State,SEC,Atlanta,2012,192,6,22,Charles Mitchell,Safety,71,202,148,9,59,"{'city': 'Clarksdale', 'state': 'MS', 'country': 'USA', 'latitude': '34.2006479', 'longitude': '-90.5702071', 'countyFips': '28027'}"

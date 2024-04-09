@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+242338,27690,278,Fresno State,Western Athletic,Kansas City,2012,107,4,12,Devon Wylie,Wide Receiver,69,187,192,29,48,"{'city': 'Roseville', 'state': 'CA', 'country': 'USA', 'latitude': '38.7521235', 'longitude': '-121.2880059', 'countyFips': '06061'}"

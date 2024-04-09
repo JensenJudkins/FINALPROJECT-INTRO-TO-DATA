@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545669,51815,2348,Louisiana Tech,Conference USA,Denver,2017,82,3,18,Carlos Henderson,Wide Receiver,71,199,108.0,12,72,"{'city': 'New Orleans', 'state': 'LA', 'country': 'USA', 'latitude': '29.9499323', 'longitude': '-90.0701156', 'countyFips': '22071'}"
+545677,51804,2348,Louisiana Tech,Conference USA,San Francisco,2017,177,5,34,Trent Taylor,Wide Receiver,68,181,266.0,45,40,"{'city': 'Shreveport', 'state': 'LA', 'country': 'USA', 'latitude': '32.5221828', 'longitude': '-93.7651944', 'countyFips': '22017'}"
+545680,51866,2348,Louisiana Tech,Conference USA,Dallas,2017,191,6,7,Xavier Woods,Safety,71,197,,32,30,"{'city': 'West Monroe', 'state': 'LA', 'country': 'USA', 'latitude': '32.5184775', 'longitude': '-92.1476353', 'countyFips': '22073'}"

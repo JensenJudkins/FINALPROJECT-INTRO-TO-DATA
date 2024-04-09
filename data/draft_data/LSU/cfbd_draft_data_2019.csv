@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4035434,103507,99,LSU,SEC,Tampa Bay,2019,5,1,5,Devin White,Inside Linebacker,72,237,4,1,94,"{'city': 'Springhill', 'state': 'LA', 'country': 'USA', 'latitude': '33.0059692', 'longitude': '-93.4668396', 'countyFips': '22119'}"
+4035437,103506,99,LSU,SEC,Cleveland,2019,46,2,14,Greedy Williams,Cornerback,74,185,29,2,88,"{'city': 'Shreveport', 'state': 'LA', 'country': 'USA', 'latitude': '32.5221828', 'longitude': '-93.7651944', 'countyFips': '22017'}"
+3843945,103700,99,LSU,SEC,Las Vegas,2019,137,4,35,Foster Moreau,Tight End,76,253,148,9,64,"{'city': 'New Orleans', 'state': 'LA', 'country': 'USA', 'latitude': '29.9499323', 'longitude': '-90.0701156', 'countyFips': '22071'}"

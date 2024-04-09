@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1002361,27489,8,Arkansas,SEC,New England,2012,90,3,27,Jake Bequette,Defensive End,77,274,143,17,60,"{'city': 'Little Rock', 'state': 'AR', 'country': 'USA', 'latitude': '34.7464809', 'longitude': '-92.2895948', 'countyFips': '05119'}"
+382617,28546,8,Arkansas,SEC,Carolina,2012,104,4,9,Joe Adams,Wide Receiver,71,179,78,9,76,"{'city': 'Little Rock', 'state': 'AR', 'country': 'USA', 'latitude': '34.7464809', 'longitude': '-92.2895948', 'countyFips': '05119'}"
+382643,28547,8,Arkansas,SEC,Minnesota,2012,118,4,23,Jarius Wright,Wide Receiver,70,182,125,18,64,"{'city': 'Warren', 'state': 'AR', 'country': 'USA', 'latitude': '33.6126086', 'longitude': '-92.0645831', 'countyFips': '05011'}"
+382621,27488,8,Arkansas,SEC,Minnesota,2012,134,4,39,Greg Childs,Wide Receiver,75,219,207,31,44,"{'city': 'Warren', 'state': 'AR', 'country': 'USA', 'latitude': '33.6126086', 'longitude': '-92.0645831', 'countyFips': '05011'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1019467,28951,235,Memphis,Conference USA,Kansas City,2012,11,1,11,Dontari Poe,Defensive Tackle,76,346,20,3,92,"{'city': 'Memphis', 'state': 'TN', 'country': 'USA', 'latitude': '35.1490215', 'longitude': '-90.0516285', 'countyFips': '47157'}"

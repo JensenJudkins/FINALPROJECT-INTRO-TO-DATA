@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1027202,28759,194,Ohio State,Big Ten,Pittsburgh,2012,56,2,24,Mike Adams,Offensive Tackle,79,323,49.0,6.0,86.0,"{'city': 'Dublin', 'state': 'OH', 'country': 'USA', 'latitude': '40.0992294', 'longitude': '-83.1140771', 'countyFips': '39049'}"
+381982,28760,194,Ohio State,Big Ten,Houston,2012,68,3,5,DeVier Posey,Wide Receiver,74,211,159.0,22.0,57.0,"{'city': 'Cincinnati', 'state': 'OH', 'country': 'USA', 'latitude': '39.1014537', 'longitude': '-84.5124602', 'countyFips': '39061'}"
+-1027227,28761,194,Ohio State,Big Ten,Cincinnati,2012,191,6,21,Dan Herron,Running Back,70,213,217.0,18.0,42.0,"{'city': 'Warren', 'state': 'OH', 'country': 'USA', 'latitude': '41.237557', 'longitude': '-80.818417', 'countyFips': '39155'}"
+-1027214,29183,194,Ohio State,Big Ten,New England,2012,197,6,27,Nate Ebner,Safety,72,205,,,,"{'city': 'Dublin', 'state': 'OH', 'country': 'USA', 'latitude': '40.0992294', 'longitude': '-83.1140771', 'countyFips': '39049'}"

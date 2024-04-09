@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4037468,104187,2390,Miami,ACC,Jacksonville,2020,140,4,34,Shaquille Quarterman,Inside Linebacker,73,234,218,9,44,"{'city': 'Orange Park', 'state': 'FL', 'country': 'USA', 'latitude': '30.1654707', 'longitude': '-81.7016346', 'countyFips': '12019'}"
+4240631,104487,2390,Miami,ACC,Seattle,2020,144,4,38,DeeJay Dallas,Running Back,70,217,154,12,57,"{'city': 'Brunswick', 'state': 'GA', 'country': 'USA', 'latitude': '31.1499528', 'longitude': '-81.4914894', 'countyFips': '13127'}"
+3916566,104551,2390,Miami,ACC,Minnesota,2020,176,5,31,K.J. Osborn,Wide Receiver,72,203,293,44,32,"{'city': 'Ypsilanti', 'state': 'MI', 'country': 'USA', 'latitude': '42.24253', 'longitude': '-83.6171426940706', 'countyFips': '26161'}"
+4240655,104454,2390,Miami,ACC,Green Bay,2020,242,7,28,Jonathan Garvin,Defensive End,76,263,177,20,54,"{'city': 'Lake Worth', 'state': 'FL', 'country': 'USA', 'latitude': '26.615891', 'longitude': '-80.0691435', 'countyFips': '12099'}"

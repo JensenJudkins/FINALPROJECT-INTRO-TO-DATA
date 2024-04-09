@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4241411,106070,197,Oklahoma State,Big 12,Detroit,2022,188,6,9,Malcolm Rodriguez,Inside Linebacker,71.0,232.0,162.0,14.0,59.0,"{'city': 'Wagoner', 'state': 'OK', 'country': 'USA', 'latitude': '35.9595442', 'longitude': '-95.3694116', 'countyFips': '40145'}"
+4038436,106236,197,Oklahoma State,Big 12,Dallas,2022,193,6,14,Devin Harper,Inside Linebacker,,,326.0,28.0,35.0,"{'city': 'Knoxville', 'state': 'TN', 'country': 'USA', 'latitude': '35.9603948', 'longitude': '-83.9210261', 'countyFips': '47093'}"
+4035105,106261,197,Oklahoma State,Big 12,Washington,2022,240,7,19,Christian Holmes,Cornerback,73.0,205.0,,,,"{'city': 'Leland', 'state': 'MS', 'country': 'USA', 'latitude': '33.4053949', 'longitude': '-90.8976007', 'countyFips': '28151'}"

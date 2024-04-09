@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4241385,104819,201,Oklahoma,Big 12,Kansas City,2021,63,2,31,Creed Humphrey,Center,76,302,55,2,81,"{'city': 'Shawnee', 'state': 'OK', 'country': 'USA', 'latitude': '35.3272928', 'longitude': '-96.9253004', 'countyFips': '40125'}"
+4360274,105269,201,Oklahoma,Big 12,New England,2021,96,3,33,Ronnie Perkins,Defensive End,75,253,36,3,88,"{'city': 'Saint Louis', 'state': 'MO', 'country': 'USA', 'latitude': '38.6264178', 'longitude': '-90.1998378', 'countyFips': '29510'}"
+4569173,105165,201,Oklahoma,Big 12,New England,2021,120,4,15,Rhamondre Stevenson,Running Back,72,231,110,6,70,"{'city': 'Las Vegas', 'state': 'NV', 'country': 'USA', 'latitude': '36.1672559', 'longitude': '-115.1485163', 'countyFips': '32003'}"
+4241373,104847,201,Oklahoma,Big 12,Seattle,2021,137,4,32,Tre Brown,Cornerback,70,185,138,22,64,"{'city': 'Tulsa', 'state': 'OK', 'country': 'USA', 'latitude': '36.1556805', 'longitude': '-95.9929113', 'countyFips': '40143'}"
+4241396,105314,201,Oklahoma,Big 12,Pittsburgh,2021,245,7,18,Tre Norwood,Cornerback,72,192,273,25,34,"{'city': 'Fort Smith', 'state': 'AR', 'country': 'USA', 'latitude': '35.3872218', 'longitude': '-94.4248983', 'countyFips': '05131'}"

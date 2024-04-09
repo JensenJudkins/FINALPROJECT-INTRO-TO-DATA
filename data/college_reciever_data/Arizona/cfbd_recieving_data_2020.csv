@@ -1,0 +1,66 @@
+playerId,player,team,conference,category,statType,stat
+4245654,Drew Dixon,Arizona,Pac-12,receiving,TD,0
+4426449,Boobie Curry,Arizona,Pac-12,receiving,TD,0
+4569156,Michael Wiley,Arizona,Pac-12,receiving,YPR,4.1
+4245653,Brian Casteel,Arizona,Pac-12,receiving,YPR,12.1
+4245639,Stanley Berryhill III,Arizona,Pac-12,receiving,REC,23
+4697741,Jalen John,Arizona,Pac-12,receiving,YDS,24
+4569138,Tayvian Cunningham,Arizona,Pac-12,receiving,REC,9
+4245639,Stanley Berryhill III,Arizona,Pac-12,receiving,TD,3
+4426449,Boobie Curry,Arizona,Pac-12,receiving,LONG,30
+4372614,Zach Williams,Arizona,Pac-12,receiving,REC,2
+4245645,Gary Brightwell,Arizona,Pac-12,receiving,TD,0
+4372614,Zach Williams,Arizona,Pac-12,receiving,LONG,16
+4372614,Zach Williams,Arizona,Pac-12,receiving,YPR,12.0
+4245653,Brian Casteel,Arizona,Pac-12,receiving,LONG,42
+4372614,Zach Williams,Arizona,Pac-12,receiving,TD,0
+4569138,Tayvian Cunningham,Arizona,Pac-12,receiving,YDS,139
+4569156,Michael Wiley,Arizona,Pac-12,receiving,REC,8
+4426449,Boobie Curry,Arizona,Pac-12,receiving,REC,9
+4372597,Jamarye Joiner,Arizona,Pac-12,receiving,YDS,111
+4245645,Gary Brightwell,Arizona,Pac-12,receiving,YDS,58
+4697741,Jalen John,Arizona,Pac-12,receiving,TD,0
+4426449,Boobie Curry,Arizona,Pac-12,receiving,YPR,9.3
+4064365,Thomas Reid III,Arizona,Pac-12,receiving,YPR,6.0
+4569138,Tayvian Cunningham,Arizona,Pac-12,receiving,YPR,15.4
+4697762,Ma'jon Wright,Arizona,Pac-12,receiving,REC,15
+4372614,Zach Williams,Arizona,Pac-12,receiving,YDS,24
+4245703,Bryce Wolma,Arizona,Pac-12,receiving,LONG,3
+4064365,Thomas Reid III,Arizona,Pac-12,receiving,LONG,6
+4245703,Bryce Wolma,Arizona,Pac-12,receiving,YDS,4
+4372597,Jamarye Joiner,Arizona,Pac-12,receiving,REC,12
+4245653,Brian Casteel,Arizona,Pac-12,receiving,TD,0
+4569156,Michael Wiley,Arizona,Pac-12,receiving,LONG,8
+4372597,Jamarye Joiner,Arizona,Pac-12,receiving,YPR,9.3
+4426449,Boobie Curry,Arizona,Pac-12,receiving,YDS,84
+4064365,Thomas Reid III,Arizona,Pac-12,receiving,REC,1
+4697762,Ma'jon Wright,Arizona,Pac-12,receiving,YDS,176
+4569138,Tayvian Cunningham,Arizona,Pac-12,receiving,LONG,75
+4569156,Michael Wiley,Arizona,Pac-12,receiving,YDS,33
+4245703,Bryce Wolma,Arizona,Pac-12,receiving,REC,4
+4064365,Thomas Reid III,Arizona,Pac-12,receiving,TD,0
+4697741,Jalen John,Arizona,Pac-12,receiving,YPR,8.0
+4697762,Ma'jon Wright,Arizona,Pac-12,receiving,TD,1
+4697762,Ma'jon Wright,Arizona,Pac-12,receiving,LONG,29
+4245654,Drew Dixon,Arizona,Pac-12,receiving,YPR,15.3
+4245703,Bryce Wolma,Arizona,Pac-12,receiving,TD,0
+4245653,Brian Casteel,Arizona,Pac-12,receiving,REC,11
+4245645,Gary Brightwell,Arizona,Pac-12,receiving,YPR,4.5
+4245639,Stanley Berryhill III,Arizona,Pac-12,receiving,YDS,227
+4245639,Stanley Berryhill III,Arizona,Pac-12,receiving,LONG,30
+4697741,Jalen John,Arizona,Pac-12,receiving,LONG,11
+4372597,Jamarye Joiner,Arizona,Pac-12,receiving,TD,1
+4697762,Ma'jon Wright,Arizona,Pac-12,receiving,YPR,11.7
+4245654,Drew Dixon,Arizona,Pac-12,receiving,LONG,28
+4245645,Gary Brightwell,Arizona,Pac-12,receiving,REC,13
+4245653,Brian Casteel,Arizona,Pac-12,receiving,YDS,133
+4569138,Tayvian Cunningham,Arizona,Pac-12,receiving,TD,1
+4245703,Bryce Wolma,Arizona,Pac-12,receiving,YPR,1.0
+4697741,Jalen John,Arizona,Pac-12,receiving,REC,3
+4245654,Drew Dixon,Arizona,Pac-12,receiving,REC,3
+4064365,Thomas Reid III,Arizona,Pac-12,receiving,YDS,6
+4372597,Jamarye Joiner,Arizona,Pac-12,receiving,LONG,34
+4569156,Michael Wiley,Arizona,Pac-12,receiving,TD,0
+4245654,Drew Dixon,Arizona,Pac-12,receiving,YDS,46
+4245645,Gary Brightwell,Arizona,Pac-12,receiving,LONG,15
+4245639,Stanley Berryhill III,Arizona,Pac-12,receiving,YPR,9.9

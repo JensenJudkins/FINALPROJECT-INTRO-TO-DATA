@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3125116,51716,251,Texas,Big 12,Houston,2017,89,3,25,D'Onta Foreman,Running Back,72,233,103,8,73,"{'city': 'Texas City', 'state': 'TX', 'country': 'USA', 'latitude': '29.396013', 'longitude': '-94.9175485', 'countyFips': '48167'}"

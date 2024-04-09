@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+516312,47148,2751,Wyoming,Mountain West,Dallas,2015,236,7,19,Mark Nzeocha,Outside Linebacker,74,232,339,27,31,"{'city': 'Neusitz', 'state': '', 'country': 'Germany', 'latitude': None, 'longitude': None, 'countyFips': None}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1026833,29538,195,Ohio,Mid-American,New York,2013,225,7,19,Eric Herman,Offensive Guard,76,320,,21,34,"{'city': 'Oregon', 'state': 'OH', 'country': 'USA', 'latitude': '41.6436603', 'longitude': '-83.4868768', 'countyFips': '39095'}"

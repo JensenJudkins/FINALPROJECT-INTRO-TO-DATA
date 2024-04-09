@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1013702,27303,356,Illinois,Big Ten,Los Angeles,2011,18,1,18,Corey Liuget,Defensive Tackle,74,298,13,3,93,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+377717,27317,356,Illinois,Big Ten,Detroit,2011,57,2,25,Mikel Leshoure,Running Back,72,227,37,3,86,"{'city': 'Champaign', 'state': 'IL', 'country': 'USA', 'latitude': '40.1164205', 'longitude': '-88.2433829', 'countyFips': '17019'}"
+237318,27330,356,Illinois,Big Ten,New Orleans,2011,72,3,8,Martez Wilson,Outside Linebacker,76,250,59,4,81,"{'city': 'Chicago', 'state': 'IL', 'country': 'USA', 'latitude': '41.8755616', 'longitude': '-87.6244212', 'countyFips': '17031'}"
+2271165,26512,356,Illinois,Big Ten,New Orleans,2011,243,7,40,Nathan Bussey,Outside Linebacker,73,217,308,21,31,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

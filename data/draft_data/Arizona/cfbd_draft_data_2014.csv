@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+514099,34104,12,Arizona,Pac-12,Chicago,2014,117,4,17,Ka'Deem Carey,Running Back,69,207,130.0,11,61,"{'city': 'Tucson', 'state': 'AZ', 'country': 'USA', 'latitude': '32.2228765', 'longitude': '-110.9748477', 'countyFips': '04019'}"
+504679,34778,12,Arizona,Pac-12,Pittsburgh,2014,157,5,17,Shaquille Richardson,Cornerback,72,194,,40,30,"{'city': 'Carson', 'state': 'CA', 'country': 'USA', 'latitude': '33.8322043', 'longitude': '-118.2517547', 'countyFips': '06037'}"
+504668,34499,12,Arizona,Pac-12,Cincinnati,2014,212,6,36,Marquis Flowers,Outside Linebacker,75,234,,48,30,"{'city': 'Phoenix', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4484367', 'longitude': '-112.0741417', 'countyFips': '04013'}"

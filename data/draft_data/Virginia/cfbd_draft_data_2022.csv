@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4241410,105994,258,Virginia,ACC,Indianapolis,2022,73,3,9,Jelani Woods,Tight End,79,253,87,4,75,"{'city': 'Ellenwood', 'state': 'GA', 'country': 'USA', 'latitude': '33.6101096', 'longitude': '-84.287978', 'countyFips': '13063'}"

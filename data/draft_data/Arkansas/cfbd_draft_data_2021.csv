@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4035590,105307,8,Arkansas,SEC,New York,2021,207,6,23,Jonathan Marshall,Defensive Tackle,75,310,243,16,38,"{'city': 'Shepherd', 'state': 'TX', 'country': 'USA', 'latitude': '30.4979813', 'longitude': '-94.9966006', 'countyFips': '48407'}"

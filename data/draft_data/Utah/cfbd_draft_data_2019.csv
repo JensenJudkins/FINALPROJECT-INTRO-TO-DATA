@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4243244,103650,254,Utah,Pac-12,Seattle,2019,47,2,15,Marquise Blair,Safety,73,195,103,10,71,"{'city': 'Wooster', 'state': 'OH', 'country': 'USA', 'latitude': '40.7991766', 'longitude': '-81.9383187', 'countyFips': '39169'}"
+3926229,103798,254,Utah,Pac-12,Seattle,2019,88,3,24,Cody Barton,Outside Linebacker,75,237,97,7,72,"{'city': 'Salt Lake City ', 'state': 'UT', 'country': 'USA', 'latitude': '40.7596198', 'longitude': '-111.8867975', 'countyFips': '49035'}"
+4035685,103685,254,Utah,Pac-12,San Francisco,2019,110,4,8,Mitch Wishnowsky,Punter,74,218,265,1,45,"{'city': 'Perth', 'state': '', 'country': 'Australia', 'latitude': None, 'longitude': None, 'countyFips': None}"
+4249087,103811,254,Utah,Pac-12,Tampa Bay,2019,145,5,7,Matt Gay,Place Kicker,72,232,328,1,35,"{'city': 'Orem', 'state': 'UT', 'country': 'USA', 'latitude': '40.2971825', 'longitude': '-111.694943', 'countyFips': '49049'}"
+3122865,103669,254,Utah,Pac-12,Indianapolis,2019,240,7,26,Jackson Barton,Offensive Tackle,79,310,233,23,50,"{'city': 'Salt Lake City ', 'state': 'UT', 'country': 'USA', 'latitude': '40.7596198', 'longitude': '-111.8867975', 'countyFips': '49035'}"

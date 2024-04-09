@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3915437,101751,38,Colorado,Pac-12,Atlanta,2018,58,2,26,Isaiah Oliver,Cornerback,72,201,54,6,83,"{'city': 'Goodyear', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4353672', 'longitude': '-112.3576005', 'countyFips': '04013'}"

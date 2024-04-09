@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+549799,101711,58,South Florida,American Athletic,Atlanta,2018,90,3,26,Deadrin Senat,Defensive Tackle,72,314,77,9,75,"{'city': 'Immokalee', 'state': 'FL', 'country': 'USA', 'latitude': '26.4186898', 'longitude': '-81.4172993', 'countyFips': '12021'}"
+549962,101850,58,South Florida,American Athletic,Green Bay,2018,174,5,37,Marquez Valdes-Scantling,Wide Receiver,76,206,243,30,44,"{'city': 'St. Petersburg ', 'state': 'FL', 'country': 'USA', 'latitude': '27.7703796', 'longitude': '-82.6695085', 'countyFips': '12103'}"

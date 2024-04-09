@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1039264,101728,2638,UTEP,Conference USA,New York,2018,34,2,2,Will Hernandez,Offensive Guard,74,327,25,2,89,"{'city': 'Las Vegas', 'state': 'NV', 'country': 'USA', 'latitude': '36.1672559', 'longitude': '-115.1485163', 'countyFips': '32003'}"

@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4373825,104735,2483,Oregon,Pac-12,Detroit,2021,7,1,7,Penei Sewell,Offensive Tackle,77,331,5,1,93,"{'city': 'Saint George', 'state': 'UT', 'country': 'USA', 'latitude': '37.104153', 'longitude': '-113.5841313', 'countyFips': '49053'}"
+4373809,104753,2483,Oregon,Pac-12,Miami,2021,36,2,4,Jevon Holland,Safety,73,207,56,4,81,"{'city': 'Pleasanton', 'state': 'CA', 'country': 'USA', 'latitude': '37.6624312', 'longitude': '-121.8746789', 'countyFips': '06001'}"
+4242488,105440,2483,Oregon,Pac-12,San Francisco,2021,172,5,28,Deommodore Lenoir,Cornerback,70,199,319,39,30,"{'city': 'Los Angeles', 'state': 'CA', 'country': 'USA', 'latitude': '34.0536909', 'longitude': '-118.2427666', 'countyFips': '06037'}"
+4038944,105425,2483,Oregon,Pac-12,Tennessee,2021,215,6,31,Brady Breeze,Safety,72,197,264,24,35,"{'city': 'Lake Oswego', 'state': 'OR', 'country': 'USA', 'latitude': '45.4206749', 'longitude': '-122.6706498', 'countyFips': '41005'}"
+4242485,105202,2483,Oregon,Pac-12,Chicago,2021,228,6,44,Thomas Graham Jr.,Cornerback,70,192,250,31,37,"{'city': 'Rancho Cucamonga', 'state': 'CA', 'country': 'USA', 'latitude': '34.1033192', 'longitude': '-117.5751735', 'countyFips': '06071'}"

@@ -1,0 +1,7 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+531014.0,46811,30,USC,Pac-12,New York,2015,6,1,6,Leonard Williams,Defensive End,77,302,2,1,96,"{'city': 'Daytona Beach', 'state': 'FL', 'country': 'USA', 'latitude': '29.2108147', 'longitude': '-81.0228331', 'countyFips': '12127'}"
+531010.0,46832,30,USC,Pac-12,Philadelphia,2015,20,1,20,Nelson Agholor,Wide Receiver,72,198,23,5,89,"{'city': 'Tampa', 'state': 'FL', 'country': 'USA', 'latitude': '27.9477595', 'longitude': '-82.458444', 'countyFips': '12057'}"
+530993.0,46980,30,USC,Pac-12,Cincinnati,2015,120,4,21,Josh Shaw,Safety,73,201,171,7,67,"{'city': 'Palmdale', 'state': 'CA', 'country': 'USA', 'latitude': '34.5793131', 'longitude': '-118.1171108', 'countyFips': '06037'}"
+,46898,30,USC,Pac-12,Baltimore,2015,125,4,26,Buck Allen,Running Back,73,221,89,8,70,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+500253.0,47041,30,USC,Pac-12,Cleveland,2015,198,6,22,Randall Telfer,Tight End,76,250,232,13,42,"{'city': 'Rancho Cucamonga', 'state': 'CA', 'country': 'USA', 'latitude': '34.1033192', 'longitude': '-117.5751735', 'countyFips': '06071'}"
+-1038961.0,46945,30,USC,Pac-12,Cleveland,2015,219,7,2,Hayes Pullard,Inside Linebacker,73,240,136,5,60,"{'city': 'Inglewood', 'state': 'CA', 'country': 'USA', 'latitude': '33.9562003', 'longitude': '-118.353132', 'countyFips': '06037'}"

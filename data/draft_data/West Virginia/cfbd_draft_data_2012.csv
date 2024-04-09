@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1042883,28955,277,West Virginia,Big East,Seattle,2012,15,1,15,Bruce Irvin,Outside Linebacker,75,245,56,3,83,"{'city': 'Walnut', 'state': 'CA', 'country': 'USA', 'latitude': '34.0202894', 'longitude': '-117.8653386', 'countyFips': '06037'}"
+238903,28482,277,West Virginia,Big East,Tampa Bay,2012,140,5,5,Najee Goode,Inside Linebacker,72,244,251,10,35,"{'city': 'Cleveland', 'state': 'OH', 'country': 'USA', 'latitude': '41.5051613', 'longitude': '-81.6934446', 'countyFips': '39035'}"
+242063,28478,277,West Virginia,Big East,Tampa Bay,2012,174,6,4,Keith Tandy,Cornerback,70,202,156,23,57,"{'city': 'Hopkinsville', 'state': 'KY', 'country': 'USA', 'latitude': '36.8657651', 'longitude': '-87.4889532', 'countyFips': '21047'}"

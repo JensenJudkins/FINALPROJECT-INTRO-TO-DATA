@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1011711,46817,61,Georgia,SEC,Los Angeles,2015,10,1,10,Todd Gurley,Running Back,73,222,8,1,92,"{'city': 'Tarboro', 'state': 'NC', 'country': 'USA', 'latitude': '35.8968236', 'longitude': '-77.5358049', 'countyFips': '37065'}"
+513146,46937,61,Georgia,SEC,Kansas City,2015,76,3,12,Chris Conley,Wide Receiver,74,211,128,20,61,"{'city': 'Dallas', 'state': 'GA', 'country': 'USA', 'latitude': '33.9237141', 'longitude': '-84.8407732', 'countyFips': '13223'}"
+-1011725,46940,61,Georgia,SEC,Kansas City,2015,118,4,19,Ramik Wilson,Outside Linebacker,74,237,131,14,61,"{'city': 'Tampa', 'state': 'FL', 'country': 'USA', 'latitude': '27.9477595', 'longitude': '-82.458444', 'countyFips': '12057'}"
+512186,47112,61,Georgia,SEC,New Orleans,2015,167,5,31,Damian Swann,Cornerback,72,189,303,33,34,"{'city': 'Atlanta', 'state': 'GA', 'country': 'USA', 'latitude': '33.7490987', 'longitude': '-84.3901849', 'countyFips': '13121'}"
+512167,47055,61,Georgia,SEC,Indianapolis,2015,207,6,31,Amarlo Herrera,Inside Linebacker,73,244,246,10,40,"{'city': 'College Park', 'state': 'GA', 'country': 'USA', 'latitude': '33.6534427', 'longitude': '-84.4493725', 'countyFips': '13121'}"

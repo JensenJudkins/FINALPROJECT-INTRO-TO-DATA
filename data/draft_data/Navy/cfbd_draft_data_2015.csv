@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1022877,47150,2426,Navy,FBS Independents,New England,2015,166,5,30,Joe Cardona,Long Snapper,74,242,,1,30,"{'city': 'El Cajon', 'state': 'CA', 'country': 'USA', 'latitude': '32.7947731', 'longitude': '-116.9625269', 'countyFips': '06073'}"

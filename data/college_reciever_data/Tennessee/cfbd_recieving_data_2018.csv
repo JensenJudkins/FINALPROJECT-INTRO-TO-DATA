@@ -1,0 +1,76 @@
+playerId,player,team,conference,category,statType,stat
+4035171,Tyler Byrd,Tennessee,SEC,receiving,YDS,20
+4369863,Cedric Tillman,Tennessee,SEC,receiving,TD,0
+4242433,Josh Palmer,Tennessee,SEC,receiving,YPR,21.0
+3886598,Jauan Jennings,Tennessee,SEC,receiving,YPR,14.6
+4242437,Jordan Murphy,Tennessee,SEC,receiving,YDS,155
+4035171,Tyler Byrd,Tennessee,SEC,receiving,REC,1
+4369844,Jeremy Banks,Tennessee,SEC,receiving,LONG,10
+3886598,Jauan Jennings,Tennessee,SEC,receiving,LONG,43
+3134678,Madre London,Tennessee,SEC,receiving,LONG,4
+4035183,Austin Pope,Tennessee,SEC,receiving,YPR,54.0
+4242433,Josh Palmer,Tennessee,SEC,receiving,REC,23
+4035183,Austin Pope,Tennessee,SEC,receiving,REC,1
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,YDS,0
+3134678,Madre London,Tennessee,SEC,receiving,YDS,5
+4242433,Josh Palmer,Tennessee,SEC,receiving,LONG,53
+4242445,Tim Jordan,Tennessee,SEC,receiving,REC,12
+4242433,Josh Palmer,Tennessee,SEC,receiving,YDS,484
+3915400,Eli Wolf,Tennessee,SEC,receiving,REC,5
+4242437,Jordan Murphy,Tennessee,SEC,receiving,TD,1
+4369840,Dominick Wood-Anderson,Tennessee,SEC,receiving,YPR,8.2
+4035183,Austin Pope,Tennessee,SEC,receiving,YDS,54
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,YDS,110
+4242431,Ty Chandler,Tennessee,SEC,receiving,YPR,9.6
+4242433,Josh Palmer,Tennessee,SEC,receiving,TD,2
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,YPR,8.5
+4242431,Ty Chandler,Tennessee,SEC,receiving,YDS,183
+4035183,Austin Pope,Tennessee,SEC,receiving,LONG,53
+4369844,Jeremy Banks,Tennessee,SEC,receiving,REC,1
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,TD,0
+3134678,Madre London,Tennessee,SEC,receiving,TD,0
+3886598,Jauan Jennings,Tennessee,SEC,receiving,REC,30
+3886598,Jauan Jennings,Tennessee,SEC,receiving,TD,3
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,TD,0
+4035170,Marquez Callaway,Tennessee,SEC,receiving,REC,38
+4242445,Tim Jordan,Tennessee,SEC,receiving,YDS,116
+4035170,Marquez Callaway,Tennessee,SEC,receiving,TD,2
+4242445,Tim Jordan,Tennessee,SEC,receiving,YPR,9.7
+4035170,Marquez Callaway,Tennessee,SEC,receiving,LONG,51
+4242431,Ty Chandler,Tennessee,SEC,receiving,LONG,42
+3134678,Madre London,Tennessee,SEC,receiving,REC,2
+4369844,Jeremy Banks,Tennessee,SEC,receiving,YDS,10
+4369840,Dominick Wood-Anderson,Tennessee,SEC,receiving,LONG,33
+4035170,Marquez Callaway,Tennessee,SEC,receiving,YDS,614
+3915400,Eli Wolf,Tennessee,SEC,receiving,YDS,30
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,YPR,0.0
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,REC,13
+4035183,Austin Pope,Tennessee,SEC,receiving,TD,0
+3134678,Madre London,Tennessee,SEC,receiving,YPR,2.5
+4369863,Cedric Tillman,Tennessee,SEC,receiving,LONG,0
+4035170,Marquez Callaway,Tennessee,SEC,receiving,YPR,16.2
+4242437,Jordan Murphy,Tennessee,SEC,receiving,REC,11
+3886598,Jauan Jennings,Tennessee,SEC,receiving,YDS,438
+4242437,Jordan Murphy,Tennessee,SEC,receiving,YPR,14.1
+4035171,Tyler Byrd,Tennessee,SEC,receiving,YPR,20.0
+3915400,Eli Wolf,Tennessee,SEC,receiving,TD,1
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,LONG,0
+4369863,Cedric Tillman,Tennessee,SEC,receiving,YPR,-3.0
+4035171,Tyler Byrd,Tennessee,SEC,receiving,LONG,20
+4369844,Jeremy Banks,Tennessee,SEC,receiving,TD,0
+4369840,Dominick Wood-Anderson,Tennessee,SEC,receiving,TD,2
+4242445,Tim Jordan,Tennessee,SEC,receiving,TD,0
+4242431,Ty Chandler,Tennessee,SEC,receiving,TD,3
+4369840,Dominick Wood-Anderson,Tennessee,SEC,receiving,YDS,140
+4369863,Cedric Tillman,Tennessee,SEC,receiving,REC,1
+4242431,Ty Chandler,Tennessee,SEC,receiving,REC,19
+3915400,Eli Wolf,Tennessee,SEC,receiving,LONG,12
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,LONG,29
+4369840,Dominick Wood-Anderson,Tennessee,SEC,receiving,REC,17
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,REC,2
+4242437,Jordan Murphy,Tennessee,SEC,receiving,LONG,50
+4035171,Tyler Byrd,Tennessee,SEC,receiving,TD,1
+3915400,Eli Wolf,Tennessee,SEC,receiving,YPR,6.0
+4369863,Cedric Tillman,Tennessee,SEC,receiving,YDS,-3
+4369844,Jeremy Banks,Tennessee,SEC,receiving,YPR,10.0
+4242445,Tim Jordan,Tennessee,SEC,receiving,LONG,34

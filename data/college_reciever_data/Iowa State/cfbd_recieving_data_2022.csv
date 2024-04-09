@@ -1,0 +1,81 @@
+playerId,player,team,conference,category,statType,stat
+4361762,Sean Shaw Jr.,Iowa State,Big 12,receiving,LONG,18
+4686446,DeShawn Hanika,Iowa State,Big 12,receiving,LONG,26
+4590302,Deon Silas,Iowa State,Big 12,receiving,REC,9
+4586312,Jaylin Noel,Iowa State,Big 12,receiving,YPR,10.0
+4590302,Deon Silas,Iowa State,Big 12,receiving,YDS,38
+4685356,Greg Gaines III,Iowa State,Big 12,receiving,TD,0
+4686446,DeShawn Hanika,Iowa State,Big 12,receiving,REC,17
+4426780,Jirehl Brock,Iowa State,Big 12,receiving,YDS,113
+4565193,Aidan Bitter,Iowa State,Big 12,receiving,TD,0
+4683119,Tyler Moore,Iowa State,Big 12,receiving,YPR,10.5
+4426780,Jirehl Brock,Iowa State,Big 12,receiving,TD,1
+4684525,Eli Sanders,Iowa State,Big 12,receiving,REC,7
+4683119,Tyler Moore,Iowa State,Big 12,receiving,TD,0
+4565193,Aidan Bitter,Iowa State,Big 12,receiving,YDS,26
+4683119,Tyler Moore,Iowa State,Big 12,receiving,LONG,25
+4361749,Jared Rus,Iowa State,Big 12,receiving,YDS,45
+4900146,Cartevious Norton,Iowa State,Big 12,receiving,LONG,23
+4686422,Xavier Hutchinson,Iowa State,Big 12,receiving,YDS,1171
+4684525,Eli Sanders,Iowa State,Big 12,receiving,LONG,15
+4427052,Easton Dean,Iowa State,Big 12,receiving,TD,2
+4360649,Dimitri Stanley,Iowa State,Big 12,receiving,LONG,53
+4360649,Dimitri Stanley,Iowa State,Big 12,receiving,REC,32
+4686446,DeShawn Hanika,Iowa State,Big 12,receiving,TD,4
+4590302,Deon Silas,Iowa State,Big 12,receiving,LONG,8
+4361749,Jared Rus,Iowa State,Big 12,receiving,TD,0
+4565193,Aidan Bitter,Iowa State,Big 12,receiving,YPR,6.5
+4685356,Greg Gaines III,Iowa State,Big 12,receiving,REC,1
+4569031,Darren Wilson,Iowa State,Big 12,receiving,LONG,39
+4361762,Sean Shaw Jr.,Iowa State,Big 12,receiving,REC,16
+4361749,Jared Rus,Iowa State,Big 12,receiving,REC,7
+4683119,Tyler Moore,Iowa State,Big 12,receiving,REC,4
+4684525,Eli Sanders,Iowa State,Big 12,receiving,YDS,51
+4685356,Greg Gaines III,Iowa State,Big 12,receiving,LONG,2
+4427052,Easton Dean,Iowa State,Big 12,receiving,REC,10
+4685356,Greg Gaines III,Iowa State,Big 12,receiving,YDS,2
+4427052,Easton Dean,Iowa State,Big 12,receiving,YPR,12.9
+4900146,Cartevious Norton,Iowa State,Big 12,receiving,YDS,69
+4684525,Eli Sanders,Iowa State,Big 12,receiving,TD,0
+4586312,Jaylin Noel,Iowa State,Big 12,receiving,YDS,609
+4426780,Jirehl Brock,Iowa State,Big 12,receiving,YPR,5.4
+4686422,Xavier Hutchinson,Iowa State,Big 12,receiving,LONG,38
+4361762,Sean Shaw Jr.,Iowa State,Big 12,receiving,YDS,153
+4426780,Jirehl Brock,Iowa State,Big 12,receiving,LONG,13
+4427052,Easton Dean,Iowa State,Big 12,receiving,YDS,129
+4900146,Cartevious Norton,Iowa State,Big 12,receiving,YPR,5.8
+4686446,DeShawn Hanika,Iowa State,Big 12,receiving,YDS,244
+4686446,DeShawn Hanika,Iowa State,Big 12,receiving,YPR,14.4
+4361745,Beau Coberley,Iowa State,Big 12,receiving,LONG,9
+4569031,Darren Wilson,Iowa State,Big 12,receiving,YDS,53
+4361745,Beau Coberley,Iowa State,Big 12,receiving,YPR,6.5
+4361745,Beau Coberley,Iowa State,Big 12,receiving,TD,0
+4361749,Jared Rus,Iowa State,Big 12,receiving,YPR,6.4
+4360649,Dimitri Stanley,Iowa State,Big 12,receiving,YPR,12.0
+4361762,Sean Shaw Jr.,Iowa State,Big 12,receiving,TD,2
+4569031,Darren Wilson,Iowa State,Big 12,receiving,TD,0
+4684525,Eli Sanders,Iowa State,Big 12,receiving,YPR,7.3
+4361762,Sean Shaw Jr.,Iowa State,Big 12,receiving,YPR,9.6
+4586312,Jaylin Noel,Iowa State,Big 12,receiving,LONG,54
+4361745,Beau Coberley,Iowa State,Big 12,receiving,YDS,13
+4569031,Darren Wilson,Iowa State,Big 12,receiving,YPR,17.7
+4590302,Deon Silas,Iowa State,Big 12,receiving,TD,0
+4426780,Jirehl Brock,Iowa State,Big 12,receiving,REC,21
+4565193,Aidan Bitter,Iowa State,Big 12,receiving,REC,4
+4360649,Dimitri Stanley,Iowa State,Big 12,receiving,YDS,383
+4361745,Beau Coberley,Iowa State,Big 12,receiving,REC,2
+4360649,Dimitri Stanley,Iowa State,Big 12,receiving,TD,1
+4427052,Easton Dean,Iowa State,Big 12,receiving,LONG,24
+4900146,Cartevious Norton,Iowa State,Big 12,receiving,REC,12
+4686422,Xavier Hutchinson,Iowa State,Big 12,receiving,REC,107
+4586312,Jaylin Noel,Iowa State,Big 12,receiving,TD,3
+4590302,Deon Silas,Iowa State,Big 12,receiving,YPR,4.2
+4586312,Jaylin Noel,Iowa State,Big 12,receiving,REC,61
+4685356,Greg Gaines III,Iowa State,Big 12,receiving,YPR,2.0
+4569031,Darren Wilson,Iowa State,Big 12,receiving,REC,3
+4686422,Xavier Hutchinson,Iowa State,Big 12,receiving,TD,6
+4686422,Xavier Hutchinson,Iowa State,Big 12,receiving,YPR,10.9
+4683119,Tyler Moore,Iowa State,Big 12,receiving,YDS,42
+4361749,Jared Rus,Iowa State,Big 12,receiving,LONG,13
+4565193,Aidan Bitter,Iowa State,Big 12,receiving,LONG,16
+4900146,Cartevious Norton,Iowa State,Big 12,receiving,TD,0

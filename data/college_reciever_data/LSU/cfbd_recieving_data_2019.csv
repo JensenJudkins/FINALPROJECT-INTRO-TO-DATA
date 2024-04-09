@@ -1,0 +1,101 @@
+playerId,player,team,conference,category,statType,stat
+4426481,Devonta Lee,LSU,SEC,receiving,LONG,28
+4362650,Jaray Jenkins,LSU,SEC,receiving,REC,5
+4568018,TK McLendon,LSU,SEC,receiving,YPR,12.0
+4362632,Chris Curry,LSU,SEC,receiving,YPR,7.7
+4036189,Thaddeus Moss,LSU,SEC,receiving,TD,4
+3915511,Joe Burrow,LSU,SEC,receiving,YDS,16
+4568018,TK McLendon,LSU,SEC,receiving,TD,0
+4035426,Stephen Sullivan,LSU,SEC,receiving,YDS,130
+4568018,TK McLendon,LSU,SEC,receiving,LONG,12
+4035449,Jamal Pettigrew,LSU,SEC,receiving,YPR,-1.0
+4036189,Thaddeus Moss,LSU,SEC,receiving,REC,47
+4242231,Racey McMath,LSU,SEC,receiving,YPR,16.8
+3915511,Joe Burrow,LSU,SEC,receiving,YPR,16.0
+4362650,Jaray Jenkins,LSU,SEC,receiving,TD,0
+4426475,Tyrion Davis-Price,LSU,SEC,receiving,YPR,7.4
+4426333,John Emery Jr.,LSU,SEC,receiving,YDS,60
+4242212,Tory Carter,LSU,SEC,receiving,YPR,7.5
+4426407,Trey Palmer,LSU,SEC,receiving,TD,0
+4242212,Tory Carter,LSU,SEC,receiving,YDS,15
+3843640,Lanard Fournette,LSU,SEC,receiving,YPR,3.8
+4362628,Ja'Marr Chase,LSU,SEC,receiving,LONG,78
+4242209,Jontre Kirklin,LSU,SEC,receiving,YDS,75
+3843469,Derrick Dillon,LSU,SEC,receiving,YPR,13.5
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,REC,46
+4362632,Chris Curry,LSU,SEC,receiving,REC,3
+4362628,Ja'Marr Chase,LSU,SEC,receiving,REC,84
+4262921,Justin Jefferson,LSU,SEC,receiving,LONG,71
+3915511,Joe Burrow,LSU,SEC,receiving,REC,1
+4362632,Chris Curry,LSU,SEC,receiving,TD,0
+4242209,Jontre Kirklin,LSU,SEC,receiving,REC,2
+4426481,Devonta Lee,LSU,SEC,receiving,REC,2
+4362628,Ja'Marr Chase,LSU,SEC,receiving,YDS,1780
+3843469,Derrick Dillon,LSU,SEC,receiving,LONG,37
+4426407,Trey Palmer,LSU,SEC,receiving,LONG,6
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,TD,1
+4362628,Ja'Marr Chase,LSU,SEC,receiving,YPR,21.2
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,LONG,41
+4362628,Ja'Marr Chase,LSU,SEC,receiving,TD,20
+4568018,TK McLendon,LSU,SEC,receiving,YDS,12
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,YDS,453
+4262921,Justin Jefferson,LSU,SEC,receiving,TD,18
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,YPR,8.2
+4362632,Chris Curry,LSU,SEC,receiving,YDS,23
+4242209,Jontre Kirklin,LSU,SEC,receiving,TD,0
+4426475,Tyrion Davis-Price,LSU,SEC,receiving,YDS,74
+4426475,Tyrion Davis-Price,LSU,SEC,receiving,TD,0
+4568018,TK McLendon,LSU,SEC,receiving,REC,1
+3915511,Joe Burrow,LSU,SEC,receiving,LONG,16
+4242231,Racey McMath,LSU,SEC,receiving,YDS,285
+4035449,Jamal Pettigrew,LSU,SEC,receiving,TD,0
+4242231,Racey McMath,LSU,SEC,receiving,LONG,60
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,LONG,26
+4242209,Jontre Kirklin,LSU,SEC,receiving,YPR,37.5
+4426475,Tyrion Davis-Price,LSU,SEC,receiving,REC,10
+4242212,Tory Carter,LSU,SEC,receiving,TD,0
+4362650,Jaray Jenkins,LSU,SEC,receiving,LONG,35
+3843469,Derrick Dillon,LSU,SEC,receiving,REC,15
+4426407,Trey Palmer,LSU,SEC,receiving,REC,1
+4035449,Jamal Pettigrew,LSU,SEC,receiving,YDS,-1
+4262921,Justin Jefferson,LSU,SEC,receiving,REC,111
+4262921,Justin Jefferson,LSU,SEC,receiving,YPR,13.9
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,YDS,671
+4242212,Tory Carter,LSU,SEC,receiving,LONG,8
+4426333,John Emery Jr.,LSU,SEC,receiving,TD,0
+3843469,Derrick Dillon,LSU,SEC,receiving,YDS,202
+4426333,John Emery Jr.,LSU,SEC,receiving,LONG,17
+3843640,Lanard Fournette,LSU,SEC,receiving,LONG,10
+4035426,Stephen Sullivan,LSU,SEC,receiving,LONG,30
+4362632,Chris Curry,LSU,SEC,receiving,LONG,9
+4035449,Jamal Pettigrew,LSU,SEC,receiving,REC,1
+4036189,Thaddeus Moss,LSU,SEC,receiving,LONG,62
+4426407,Trey Palmer,LSU,SEC,receiving,YDS,6
+4426333,John Emery Jr.,LSU,SEC,receiving,YPR,10.0
+4426333,John Emery Jr.,LSU,SEC,receiving,REC,6
+4262921,Justin Jefferson,LSU,SEC,receiving,YDS,1540
+4036189,Thaddeus Moss,LSU,SEC,receiving,YPR,12.1
+4426481,Devonta Lee,LSU,SEC,receiving,YDS,27
+4036189,Thaddeus Moss,LSU,SEC,receiving,YDS,570
+4242212,Tory Carter,LSU,SEC,receiving,REC,2
+4035426,Stephen Sullivan,LSU,SEC,receiving,TD,0
+3843469,Derrick Dillon,LSU,SEC,receiving,TD,2
+4362650,Jaray Jenkins,LSU,SEC,receiving,YDS,67
+4362650,Jaray Jenkins,LSU,SEC,receiving,YPR,13.4
+3843640,Lanard Fournette,LSU,SEC,receiving,TD,0
+3843640,Lanard Fournette,LSU,SEC,receiving,YDS,19
+4035449,Jamal Pettigrew,LSU,SEC,receiving,LONG,0
+4035426,Stephen Sullivan,LSU,SEC,receiving,YPR,10.8
+4242231,Racey McMath,LSU,SEC,receiving,TD,3
+4242209,Jontre Kirklin,LSU,SEC,receiving,LONG,65
+4426481,Devonta Lee,LSU,SEC,receiving,TD,0
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,TD,13
+4035426,Stephen Sullivan,LSU,SEC,receiving,REC,12
+4426475,Tyrion Davis-Price,LSU,SEC,receiving,LONG,18
+4426481,Devonta Lee,LSU,SEC,receiving,YPR,13.5
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,YPR,14.6
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,REC,55
+3915511,Joe Burrow,LSU,SEC,receiving,TD,0
+4242231,Racey McMath,LSU,SEC,receiving,REC,17
+3843640,Lanard Fournette,LSU,SEC,receiving,REC,5
+4426407,Trey Palmer,LSU,SEC,receiving,YPR,6.0

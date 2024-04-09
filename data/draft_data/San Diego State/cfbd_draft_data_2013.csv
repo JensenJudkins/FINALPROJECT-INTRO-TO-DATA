@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+481181,30242,21,San Diego State,Mountain West,Dallas,2013,47,2,15,Gavin Escobar,Tight End,78,254,59.0,3,81,"{'city': 'Rancho Santa Margarita', 'state': 'CA', 'country': 'USA', 'latitude': '33.6408845', 'longitude': '-117.6029341', 'countyFips': '06059'}"
+481177,29309,21,San Diego State,Mountain West,Cleveland,2013,68,3,6,Leon McFadden,Cornerback,70,193,156.0,21,58,"{'city': 'Inglewood', 'state': 'CA', 'country': 'USA', 'latitude': '33.9562003', 'longitude': '-118.353132', 'countyFips': '06037'}"
+379396,29614,21,San Diego State,Mountain West,Las Vegas,2013,209,7,3,Brice Butler,Wide Receiver,75,199,,127,30,"{'city': 'Norcross', 'state': 'GA', 'country': 'USA', 'latitude': '33.9412127', 'longitude': '-84.2135309', 'countyFips': '13135'}"

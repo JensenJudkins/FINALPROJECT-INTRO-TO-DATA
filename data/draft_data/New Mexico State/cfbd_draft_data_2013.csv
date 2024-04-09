@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+512783,30408,166,New Mexico State,Western Athletic,Jacksonville,2013,208,7,2,Jeremy Harris,Cornerback,74,181,,116,30,"{'city': 'Dorsey', 'state': 'CA', 'country': 'USA', 'latitude': '38.9736574', 'longitude': '-90.0014932', 'countyFips': '17119'}"

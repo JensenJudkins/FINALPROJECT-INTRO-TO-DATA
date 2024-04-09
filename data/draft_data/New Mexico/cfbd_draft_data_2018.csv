@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3124679,102573,167,New Mexico,Mountain West,Miami,2018,229,7,11,Jason Sanders,Place Kicker,71,184,,,30,"{'city': 'Orange', 'state': 'CA', 'country': 'USA', 'latitude': '33.7872568', 'longitude': '-117.8503088', 'countyFips': '06059'}"

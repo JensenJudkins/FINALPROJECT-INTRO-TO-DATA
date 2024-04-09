@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4360310,104734,228,Clemson,ACC,Jacksonville,2021,1,1,1,Trevor Lawrence,Quarterback,78,213,1,1,97,"{'city': 'Cartersville', 'state': 'GA', 'country': 'USA', 'latitude': '34.1650972', 'longitude': '-84.7999383', 'countyFips': '13015'}"
+4239996,104752,228,Clemson,ACC,Jacksonville,2021,25,1,25,Travis Etienne,Running Back,70,215,22,1,90,"{'city': 'Jennings', 'state': 'LA', 'country': 'USA', 'latitude': '30.2224284', 'longitude': '-92.657085', 'countyFips': '29189'}"
+4360320,105279,228,Clemson,ACC,Cincinnati,2021,46,2,14,Jackson Carman,Offensive Tackle,77,317,78,4,75,"{'city': 'Fairfield', 'state': 'OH', 'country': 'USA', 'latitude': '39.3458953', 'longitude': '-84.5605031', 'countyFips': '39017'}"
+4239992,105190,228,Clemson,ACC,Green Bay,2021,85,3,22,Amari Rodgers,Wide Receiver,70,212,86,14,74,"{'city': 'Knoxville', 'state': 'TN', 'country': 'USA', 'latitude': '35.9603948', 'longitude': '-83.9210261', 'countyFips': '47093'}"
+4035465,105203,228,Clemson,ACC,Kansas City,2021,181,5,37,Cornell Powell,Wide Receiver,72,204,230,39,41,"{'city': 'Greenville', 'state': 'NC', 'country': 'USA', 'latitude': '35.612661', 'longitude': '-77.3663538', 'countyFips': '37147'}"

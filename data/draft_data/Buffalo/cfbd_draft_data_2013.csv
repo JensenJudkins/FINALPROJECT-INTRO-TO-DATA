@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+383095,30382,2084,Buffalo,Mid-American,Tampa Bay,2013,147,5,14,Steven Means,Outside Linebacker,75,251,,24,33,"{'city': 'Buffalo', 'state': 'NY', 'country': 'USA', 'latitude': '42.8867166', 'longitude': '-78.8783922', 'countyFips': '36029'}"

@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+547564,101736,164,Rutgers,Big Ten,Indianapolis,2018,52,2,20,Kemoko Turay,Defensive End,77,253,73.0,6,76,"{'city': 'Newark', 'state': 'NJ', 'country': 'USA', 'latitude': '40.735657', 'longitude': '-74.1723667', 'countyFips': '34013'}"
+547547,102348,164,Rutgers,Big Ten,Los Angeles,2018,195,6,21,Sebastian Joseph,Defensive Tackle,75,299,,41,30,"{'city': 'Stroudsburg', 'state': 'PA', 'country': 'USA', 'latitude': '40.9864261', 'longitude': '-75.1946649', 'countyFips': '42089'}"

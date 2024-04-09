@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1013678,28967,356,Illinois,Big Ten,Houston,2012,26,1,26,Whitney Mercilus,Defensive End,76,261,32.0,5,89,"{'city': 'Akron', 'state': 'OH', 'country': 'USA', 'latitude': '41.083064', 'longitude': '-81.518485', 'countyFips': '39153'}"
+381685,29003,356,Illinois,Big Ten,San Francisco,2012,30,1,30,A.J. Jenkins,Wide Receiver,72,190,62.0,7,82,"{'city': 'Jacksonville', 'state': 'FL', 'country': 'USA', 'latitude': '30.3321838', 'longitude': '-81.655651', 'countyFips': '12031'}"
+377715,27796,356,Illinois,Big Ten,Kansas City,2012,44,2,12,Jeff Allen,Offensive Guard,76,307,34.0,2,89,"{'city': 'Chicago', 'state': 'IL', 'country': 'USA', 'latitude': '41.8755616', 'longitude': '-87.6244212', 'countyFips': '17031'}"
+381682,27792,356,Illinois,Big Ten,New England,2012,48,2,16,Tavon Wilson,Safety,72,203,,24,32,"{'city': 'Washington', 'state': 'DC', 'country': 'USA', 'latitude': '38.8949855', 'longitude': '-77.0365708', 'countyFips': '11001'}"

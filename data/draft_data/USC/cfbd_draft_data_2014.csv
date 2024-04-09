@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+513334,33604,30,USC,Pac-12,Jacksonville,2014,39,2,7,Marqise Lee,Wide Receiver,72,192,24,5,90,"{'city': 'Inglewood', 'state': 'CA', 'country': 'USA', 'latitude': '33.9562003', 'longitude': '-118.353132', 'countyFips': '06037'}"
+-1038988,34735,30,USC,Pac-12,San Francisco,2014,70,3,6,Marcus Martin,Center,75,320,37,1,87,"{'city': 'Los Angeles ', 'state': 'CA', 'country': 'USA', 'latitude': '34.0536909', 'longitude': '-118.2427666', 'countyFips': '06037'}"
+480499,34836,30,USC,Pac-12,New York,2014,174,5,34,Devon Kennard,Outside Linebacker,75,249,288,26,34,"{'city': 'Phoenix', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4484367', 'longitude': '-112.0741417', 'countyFips': '04013'}"

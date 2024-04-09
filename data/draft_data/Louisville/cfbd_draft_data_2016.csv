@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+530381,49651,97,Louisville,ACC,New Orleans,2016,12,1,12,Sheldon Rankins,Defensive Tackle,73,299,12,1,91,"{'city': 'Covington', 'state': 'GA', 'country': 'USA', 'latitude': '33.5967815', 'longitude': '-83.8601827', 'countyFips': '13217'}"

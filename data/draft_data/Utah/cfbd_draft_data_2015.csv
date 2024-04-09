@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+516284,46863,254,Utah,Pac-12,Philadelphia,2015,47,2,15,Eric Rowe,Cornerback,73,205,54,6,82,"{'city': 'Spring', 'state': 'TX', 'country': 'USA', 'latitude': '30.0798826', 'longitude': '-95.4172549', 'countyFips': '48201'}"
+-1040024,46876,254,Utah,Pac-12,Cleveland,2015,51,2,19,Nate Orchard,Outside Linebacker,75,250,67,7,78,"{'city': 'Salt Lake City', 'state': 'UT', 'country': 'USA', 'latitude': '40.7596198', 'longitude': '-111.8867975', 'countyFips': '49035'}"
+-1040027,46909,254,Utah,Pac-12,Tennessee,2015,66,3,2,Jeremiah Poutasi,Offensive Guard,77,335,100,6,69,"{'city': 'Las Vegas', 'state': 'NV', 'country': 'USA', 'latitude': '36.1672559', 'longitude': '-115.1485163', 'countyFips': '32003'}"
+504726,47128,254,Utah,Pac-12,Tampa Bay,2015,184,6,8,Kaelin Clay,Wide Receiver,70,195,319,45,32,"{'city': 'Long Beach', 'state': 'CA', 'country': 'USA', 'latitude': '33.7690164', 'longitude': '-118.1916048', 'countyFips': '06037'}"

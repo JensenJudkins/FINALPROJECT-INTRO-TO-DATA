@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4038941,104099,2483,Oregon,Pac-12,Los Angeles,2020,6,1,6,Justin Herbert,Quarterback,78,236,24.0,4.0,89.0,"{'city': 'Eugene', 'state': 'OR', 'country': 'USA', 'latitude': '44.0505054', 'longitude': '-123.0950506', 'countyFips': '41039'}"
+4038946,104237,2483,Oregon,Pac-12,Minnesota,2020,132,4,26,Troy Dye,Inside Linebacker,75,231,78.0,4.0,74.0,"{'city': 'Norco', 'state': 'CA', 'country': 'USA', 'latitude': '33.9323307', 'longitude': '-117.5508901', 'countyFips': '06065'}"
+3915142,104246,2483,Oregon,Pac-12,New York,2020,150,5,4,Shane Lemieux,Offensive Guard,76,310,240.0,14.0,40.0,"{'city': 'Yakima', 'state': 'WA', 'country': 'USA', 'latitude': '46.601557', 'longitude': '-120.5108421', 'countyFips': '53077'}"
+3915139,104690,2483,Oregon,Pac-12,Green Bay,2020,208,6,29,Jake Hanson,Center,76,303,,,,"{'city': 'Eureka', 'state': 'CA', 'country': 'USA', 'latitude': '40.8020712', 'longitude': '-124.1636729', 'countyFips': '06023'}"

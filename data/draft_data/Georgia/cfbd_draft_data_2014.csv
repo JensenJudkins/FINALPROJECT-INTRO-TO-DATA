@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482783,33348,61,Georgia,SEC,Miami,2014,155,5,15,Arthur Lynch,Tight End,77,258,218,11,45,"{'city': 'Dartmouth', 'state': 'MA', 'country': 'USA', 'latitude': '41.6332267', 'longitude': '-70.9879928', 'countyFips': '25005'}"
+480210,34147,61,Georgia,SEC,Kansas City,2014,163,5,23,Aaron Murray,Quarterback,73,207,122,9,62,"{'city': 'Tampa', 'state': 'FL', 'country': 'USA', 'latitude': '27.9477595', 'longitude': '-82.458444', 'countyFips': '12057'}"

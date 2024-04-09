@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3128689,101708,8,Arkansas,SEC,Detroit,2018,20,1,20,Frank Ragnow,Center,77,312,24.0,2,89,"{'city': 'Victoria', 'state': 'MN', 'country': 'USA', 'latitude': '44.8585738', 'longitude': '-93.6616266', 'countyFips': '27019'}"
+548155,102050,8,Arkansas,SEC,Denver,2018,226,7,8,David Williams,Running Back,72,226,,64,30,"{'city': 'Philadelphia', 'state': 'PA', 'country': 'USA', 'latitude': '39.9527237', 'longitude': '-75.1635262', 'countyFips': '42101'}"

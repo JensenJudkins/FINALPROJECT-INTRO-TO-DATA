@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+191023,26266,97,Louisville,Big East,New Orleans,2011,88,3,24,Johnny Patrick,Cornerback,71,191,65,7,80,"{'city': 'Deland', 'state': 'FL', 'country': 'USA', 'latitude': '29.0283213', 'longitude': '-81.3031098', 'countyFips': '12127'}"
+238691,26397,97,Louisville,Big East,New York,2011,126,4,29,Bilal Powell,Running Back,71,207,144,14,62,"{'city': 'Lakeland', 'state': 'FL', 'country': 'USA', 'latitude': '28.0394654', 'longitude': '-81.9498042', 'countyFips': '12105'}"
+-1018194,27388,97,Louisville,Big East,Tennessee,2011,175,6,10,Byron Stingily,Offensive Tackle,77,312,226,18,43,"{'city': 'Country Club Hills', 'state': 'IL', 'country': 'USA', 'latitude': '41.5680898', 'longitude': '-87.7203257', 'countyFips': '17031'}"

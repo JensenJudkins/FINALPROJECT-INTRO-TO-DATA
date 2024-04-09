@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4037311,105488,59,Georgia Tech,ACC,Jacksonville,2021,209,6,25,Jalen Camp,Wide Receiver,74,220,,,,"{'city': 'Cumming', 'state': 'GA', 'country': 'USA', 'latitude': '34.2073196', 'longitude': '-84.1401926', 'countyFips': '13117'}"
+4240485,105459,59,Georgia Tech,ACC,Pittsburgh,2021,254,7,27,Pressley Harvin III,Punter,71,263,337.0,4.0,30.0,"{'city': 'Alcolu', 'state': 'SC', 'country': 'USA', 'latitude': '33.7511805', 'longitude': '-80.2127365', 'countyFips': '45027'}"

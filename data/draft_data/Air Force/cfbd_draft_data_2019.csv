@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4038201,104064,2005,Air Force,Mountain West,Minnesota,2019,250,7,36,Austin Cutting,Long Snapper,75,245,,,,"{'city': 'Keller', 'state': 'TX', 'country': 'USA', 'latitude': '32.9299655', 'longitude': '-97.2271249', 'countyFips': '48439'}"

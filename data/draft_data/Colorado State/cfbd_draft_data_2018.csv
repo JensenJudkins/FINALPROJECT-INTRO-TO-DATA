@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4036348,101615,36,Colorado State,Mountain West,Dallas,2018,81,3,17,Michael Gallup,Wide Receiver,73,205,110,14,69,"{'city': 'Monroe', 'state': 'GA', 'country': 'USA', 'latitude': '33.7948364', 'longitude': '-83.713229', 'countyFips': '13297'}"

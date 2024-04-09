@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+503886,47354,197,Oklahoma State,Big 12,Denver,2015,252,7,35,Josh Furman,Linebacker,,210,,,,"{'city': 'Annapolis', 'state': 'MD', 'country': 'USA', 'latitude': '38.9786401', 'longitude': '-76.492786', 'countyFips': '24003'}"

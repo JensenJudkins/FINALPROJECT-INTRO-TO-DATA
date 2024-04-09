@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4371961,105924,84,Indiana,Big Ten,New York,2022,146,5,3,Micah McFadden,Inside Linebacker,73,240,210,20,52,"{'city': 'Tampa', 'state': 'FL', 'country': 'USA', 'latitude': '27.9477595', 'longitude': '-82.458444', 'countyFips': '12057'}"

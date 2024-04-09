@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3139387,101756,2306,Kansas State,Big 12,San Francisco,2018,142,5,5,D.J. Reed,Cornerback,69,186,155,22,60,"{'city': 'Bakersfield', 'state': 'CA', 'country': 'USA', 'latitude': '35.3738712', 'longitude': '-119.0194639', 'countyFips': '06029'}"

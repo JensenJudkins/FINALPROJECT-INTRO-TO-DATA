@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1035204,29963,245,Texas A&M,SEC,Jacksonville,2013,2,1,2,Luke Joeckel,Offensive Tackle,78,306,1,1,96,"{'city': 'Arlington', 'state': 'TX', 'country': 'USA', 'latitude': '32.701938999999996', 'longitude': '-97.10562379033699', 'countyFips': '48439'}"
+480214,29273,245,Texas A&M,SEC,Seattle,2013,62,2,30,Christine Michael,Running Back,70,220,78,4,76,"{'city': 'Beaumont', 'state': 'TX', 'country': 'USA', 'latitude': '30.0860459', 'longitude': '-94.1018461', 'countyFips': '48245'}"
+500563,30227,245,Texas A&M,SEC,New York,2013,81,3,19,Damontre Moore,Defensive End,77,250,56,7,82,"{'city': 'Rowlett', 'state': 'TX', 'country': 'USA', 'latitude': '32.9029017', 'longitude': '-96.56388', 'countyFips': '48113'}"
+483062,29296,245,Texas A&M,SEC,Cincinnati,2013,118,4,21,Sean Porter,Outside Linebacker,73,229,149,12,60,"{'city': 'Schertz', 'state': 'TX', 'country': 'USA', 'latitude': '29.5641617', 'longitude': '-98.2695702', 'countyFips': '48187'}"
+483069,30198,245,Texas A&M,SEC,Arizona,2013,174,6,6,Ryan Swope,Wide Receiver,72,205,126,14,67,"{'city': 'Austin', 'state': 'TX', 'country': 'USA', 'latitude': '30.2711286', 'longitude': '-97.7436995', 'countyFips': '48453'}"

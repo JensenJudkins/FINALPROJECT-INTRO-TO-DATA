@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1035119,50385,245,Texas A&M,SEC,Seattle,2016,31,1,31,Germain Ifedi,Offensive Tackle,78,324,29,5,88,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+532125,50465,245,Texas A&M,SEC,Arizona,2016,92,3,29,Brandon Williams,Cornerback,71,197,337,38,32,"{'city': 'Brookshire', 'state': 'TX', 'country': 'USA', 'latitude': '29.7860643', 'longitude': '-95.9510661', 'countyFips': '48473'}"
+517486,49968,245,Texas A&M,SEC,Los Angeles,2016,179,6,4,Drew Kaser,Punter,74,212,305,1,35,"{'city': 'Strongsville', 'state': 'OH', 'country': 'USA', 'latitude': '41.3144733', 'longitude': '-81.83511', 'countyFips': '39035'}"

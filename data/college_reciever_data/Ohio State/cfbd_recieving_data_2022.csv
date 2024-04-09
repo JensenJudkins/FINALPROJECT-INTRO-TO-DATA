@@ -1,0 +1,91 @@
+playerId,player,team,conference,category,statType,stat
+4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,LONG,69
+4432637,Miyan Williams,Ohio State,Big Ten,receiving,LONG,12
+4688541,Kyion Grayes,Ohio State,Big Ten,receiving,YPR,2.0
+4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,YDS,1263
+4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,LONG,16
+4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,LONG,14
+4430800,Julian Fleming,Ohio State,Big Ten,receiving,TD,6
+4565859,Joe Royer,Ohio State,Big Ten,receiving,YDS,10
+4688541,Kyion Grayes,Ohio State,Big Ten,receiving,LONG,2
+4565859,Joe Royer,Ohio State,Big Ten,receiving,TD,0
+4432637,Miyan Williams,Ohio State,Big Ten,receiving,TD,0
+4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,REC,5
+4257374,Mitch Rossi,Ohio State,Big Ten,receiving,LONG,16
+4698727,Dallan Hayden,Ohio State,Big Ten,receiving,YDS,23
+4875583,Reis Stocksdale,Ohio State,Big Ten,receiving,YPR,12.0
+4688541,Kyion Grayes,Ohio State,Big Ten,receiving,YDS,2
+4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,REC,4
+4430878,Jaxon Smith-Njigba,Ohio State,Big Ten,receiving,TD,0
+4257374,Mitch Rossi,Ohio State,Big Ten,receiving,YPR,9.5
+4430878,Jaxon Smith-Njigba,Ohio State,Big Ten,receiving,LONG,21
+4430878,Jaxon Smith-Njigba,Ohio State,Big Ten,receiving,REC,5
+4426496,Cade Stover,Ohio State,Big Ten,receiving,YDS,406
+4430878,Jaxon Smith-Njigba,Ohio State,Big Ten,receiving,YPR,8.6
+4426496,Cade Stover,Ohio State,Big Ten,receiving,TD,5
+4565859,Joe Royer,Ohio State,Big Ten,receiving,YPR,5.0
+4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,REC,74
+4361347,Kamryn Babb,Ohio State,Big Ten,receiving,REC,1
+4431498,Jayden Ballard,Ohio State,Big Ten,receiving,LONG,72
+4430800,Julian Fleming,Ohio State,Big Ten,receiving,YPR,15.7
+4361347,Kamryn Babb,Ohio State,Big Ten,receiving,YPR,8.0
+4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,YPR,14.0
+4431498,Jayden Ballard,Ohio State,Big Ten,receiving,YDS,155
+4385430,Xavier Johnson,Ohio State,Big Ten,receiving,TD,2
+4565859,Joe Royer,Ohio State,Big Ten,receiving,REC,2
+4432637,Miyan Williams,Ohio State,Big Ten,receiving,YPR,5.4
+4875583,Reis Stocksdale,Ohio State,Big Ten,receiving,YDS,12
+4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,YDS,1151
+4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,TD,1
+4257374,Mitch Rossi,Ohio State,Big Ten,receiving,REC,2
+4430878,Jaxon Smith-Njigba,Ohio State,Big Ten,receiving,YDS,43
+4565859,Joe Royer,Ohio State,Big Ten,receiving,LONG,9
+4698727,Dallan Hayden,Ohio State,Big Ten,receiving,YPR,5.8
+4431498,Jayden Ballard,Ohio State,Big Ten,receiving,YPR,19.4
+4385430,Xavier Johnson,Ohio State,Big Ten,receiving,YDS,151
+4430800,Julian Fleming,Ohio State,Big Ten,receiving,LONG,79
+4688541,Kyion Grayes,Ohio State,Big Ten,receiving,TD,0
+4698727,Dallan Hayden,Ohio State,Big Ten,receiving,LONG,10
+4685283,Kaleb Brown,Ohio State,Big Ten,receiving,LONG,5
+4361347,Kamryn Babb,Ohio State,Big Ten,receiving,LONG,8
+4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,YDS,28
+4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,YPR,16.4
+4685283,Kaleb Brown,Ohio State,Big Ten,receiving,TD,0
+4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,TD,0
+4688541,Kyion Grayes,Ohio State,Big Ten,receiving,REC,1
+4685283,Kaleb Brown,Ohio State,Big Ten,receiving,YDS,5
+4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,TD,10
+4257374,Mitch Rossi,Ohio State,Big Ten,receiving,TD,1
+4429115,Gee Scott Jr.,Ohio State,Big Ten,receiving,YPR,5.6
+4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,YDS,28
+4431498,Jayden Ballard,Ohio State,Big Ten,receiving,TD,1
+4430800,Julian Fleming,Ohio State,Big Ten,receiving,REC,34
+4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,TD,14
+4426496,Cade Stover,Ohio State,Big Ten,receiving,LONG,38
+4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,LONG,31
+4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,YPR,7.0
+4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,REC,1
+4685283,Kaleb Brown,Ohio State,Big Ten,receiving,REC,1
+4361347,Kamryn Babb,Ohio State,Big Ten,receiving,YDS,8
+4432637,Miyan Williams,Ohio State,Big Ten,receiving,REC,5
+4385430,Xavier Johnson,Ohio State,Big Ten,receiving,LONG,37
+4385430,Xavier Johnson,Ohio State,Big Ten,receiving,REC,13
+4567750,Emeka Egbuka,Ohio State,Big Ten,receiving,YPR,15.6
+4432710,TreVeyon Henderson,Ohio State,Big Ten,receiving,TD,1
+4257374,Mitch Rossi,Ohio State,Big Ten,receiving,YDS,19
+4430893,DeaMonte Trayanum,Ohio State,Big Ten,receiving,YDS,14
+4875583,Reis Stocksdale,Ohio State,Big Ten,receiving,LONG,12
+4426496,Cade Stover,Ohio State,Big Ten,receiving,REC,36
+4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,REC,77
+4430800,Julian Fleming,Ohio State,Big Ten,receiving,YDS,533
+4426496,Cade Stover,Ohio State,Big Ten,receiving,YPR,11.3
+4432708,Marvin Harrison Jr.,Ohio State,Big Ten,receiving,LONG,58
+4432637,Miyan Williams,Ohio State,Big Ten,receiving,YDS,27
+4385430,Xavier Johnson,Ohio State,Big Ten,receiving,YPR,11.6
+4875583,Reis Stocksdale,Ohio State,Big Ten,receiving,TD,0
+4875583,Reis Stocksdale,Ohio State,Big Ten,receiving,REC,1
+4431498,Jayden Ballard,Ohio State,Big Ten,receiving,REC,8
+4698727,Dallan Hayden,Ohio State,Big Ten,receiving,REC,4
+4361347,Kamryn Babb,Ohio State,Big Ten,receiving,TD,1
+4685283,Kaleb Brown,Ohio State,Big Ten,receiving,YPR,5.0
+4698727,Dallan Hayden,Ohio State,Big Ten,receiving,TD,0

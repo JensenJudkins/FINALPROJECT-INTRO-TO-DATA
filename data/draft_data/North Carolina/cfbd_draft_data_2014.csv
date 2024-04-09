@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+516329,33617,153,North Carolina,ACC,Detroit,2014,10,1,10,Eric Ebron,Tight End,76,250,11,1,92,"{'city': 'Greensboro', 'state': 'NC', 'country': 'USA', 'latitude': '36.0726355', 'longitude': '-79.7919754', 'countyFips': '37081'}"
+-1024864,34119,153,North Carolina,ACC,Arizona,2014,84,3,20,Kareem Martin,Defensive End,78,272,82,6,71,"{'city': 'Roanoke Rapids', 'state': 'NC', 'country': 'USA', 'latitude': '36.4610756', 'longitude': '-77.6548026', 'countyFips': '37083'}"
+-1024849,34734,153,North Carolina,ACC,Cincinnati,2014,111,4,11,Russell Bodine,Center,75,310,90,3,69,"{'city': 'Scottsville', 'state': 'VA', 'country': 'USA', 'latitude': '37.7987569', 'longitude': '-78.4955662', 'countyFips': '51003'}"
+500892,33095,153,North Carolina,ACC,Carolina,2014,128,4,28,Tre Boston,Safety,72,204,151,9,57,"{'city': 'Ft. Myers', 'state': 'FL', 'country': 'USA', 'latitude': '26.640628', 'longitude': '-81.8723084', 'countyFips': '12071'}"
+500904,33723,153,North Carolina,ACC,Minnesota,2014,225,7,10,Jabari Price,Cornerback,71,200,245,33,40,"{'city': 'Pompano Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.2378597', 'longitude': '-80.1247667', 'countyFips': '12011'}"

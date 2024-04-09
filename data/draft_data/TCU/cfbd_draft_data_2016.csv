@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+516301,50131,2628,TCU,Big 12,Washington,2016,22,1,22,Josh Doctson,Wide Receiver,74,202,15.0,2,91,"{'city': 'Mansfield', 'state': 'TX', 'country': 'USA', 'latitude': '32.5631924', 'longitude': '-97.1416768', 'countyFips': '48439'}"
+531237,49616,2628,TCU,Big 12,Cleveland,2016,129,4,31,Derrick Kindred,Safety,70,207,297.0,23,36,"{'city': 'San Antonio', 'state': 'TX', 'country': 'USA', 'latitude': '29.4246002', 'longitude': '-98.4951405', 'countyFips': '48029'}"
+-1033595,49935,2628,TCU,Big 12,Philadelphia,2016,164,5,25,Halapoulivaati Vaitai,Offensive Tackle,78,320,194.0,14,54,"{'city': 'Haltom', 'state': 'TX', 'country': 'USA', 'latitude': '32.7995738', 'longitude': '-97.2691817', 'countyFips': '48439'}"
+531231,50154,2628,TCU,Big 12,Buffalo,2016,192,6,17,Kolby Listenbee,Wide Receiver,72,197,158.0,18,59,"{'city': 'Arlington', 'state': 'TX', 'country': 'USA', 'latitude': '32.701938999999996', 'longitude': '-97.10562379033699', 'countyFips': '48439'}"
+-1033576,50320,2628,TCU,Big 12,Seattle,2016,215,6,40,Joey Hunt,Center,74,299,,24,30,"{'city': 'El Campo', 'state': 'TX', 'country': 'USA', 'latitude': '29.1966405', 'longitude': '-96.2696867', 'countyFips': '48481'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4034957,105169,5,UAB,Conference USA,Jacksonville,2021,121,4,16,Jordan Smith,Defensive End,78,264,161,8,59,"{'city': 'Lithonia', 'state': 'GA', 'country': 'USA', 'latitude': '33.7123305', 'longitude': '-84.1051939', 'countyFips': '13089'}"

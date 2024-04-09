@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1013906,51633,84,Indiana,Big Ten,Los Angeles,2017,71,3,7,Dan Feeney,Offensive Guard,76,305,57,3,80,"{'city': 'Orland Park', 'state': 'IL', 'country': 'USA', 'latitude': '41.602686500000004', 'longitude': '-87.85572251521427', 'countyFips': '17031'}"

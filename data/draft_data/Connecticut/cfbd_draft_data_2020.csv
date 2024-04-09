@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3921936,104383,41,Connecticut,American Athletic,New York,2020,99,3,35,Matt Peart,Offensive Tackle,79,318,130,15,62,"{'city': 'Kingston', 'state': None, 'country': 'Jamaica', 'latitude': None, 'longitude': None, 'countyFips': None}"

@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4043016,105167,2711,Western Michigan,Mid-American,Seattle,2021,56,2,24,D'Wayne Eskridge,Wide Receiver,69,190,57,10,80,"{'city': 'Bluffton', 'state': 'IN', 'country': 'USA', 'latitude': '40.7386579', 'longitude': '-85.1716368', 'countyFips': '18179'}"
+4043041,105173,2711,Western Michigan,Mid-American,San Francisco,2021,155,5,11,Jaylon Moore,Offensive Guard,76,311,147,10,62,"{'city': 'Detroit', 'state': 'MI', 'country': 'USA', 'latitude': '42.3315509', 'longitude': '-83.0466403', 'countyFips': '26163'}"

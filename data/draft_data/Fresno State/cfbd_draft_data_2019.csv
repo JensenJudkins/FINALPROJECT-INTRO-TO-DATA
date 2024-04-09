@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3124537,103717,278,Fresno State,Mountain West,Arizona,2019,174,6,1,Keesean Johnson,Wide Receiver,73,201,159,23,62,"{'city': 'Palo Alto', 'state': 'CA', 'country': 'USA', 'latitude': '37.4443293', 'longitude': '-122.1598465', 'countyFips': '06085'}"

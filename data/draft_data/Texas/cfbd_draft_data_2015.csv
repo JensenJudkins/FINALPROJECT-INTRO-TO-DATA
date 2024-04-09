@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1034782,46828,251,Texas,Big 12,New England,2015,32,1,32,Malcom Brown,Defensive Tackle,74,319,19.0,2,90,"{'city': 'Brenham', 'state': 'TX', 'country': 'USA', 'latitude': '30.1668828', 'longitude': '-96.3977442', 'countyFips': '48477'}"
+501935,46950,251,Texas,Big 12,Philadelphia,2015,84,3,20,Jordan Hicks,Inside Linebacker,73,236,141.0,6,59,"{'city': 'Cincinnati', 'state': 'OH', 'country': 'USA', 'latitude': '39.1014537', 'longitude': '-84.5124602', 'countyFips': '39061'}"
+514433,47334,251,Texas,Big 12,New York,2015,144,5,8,Mykkele Thompson,Safety,73,200,,37,30,"{'city': 'San Antonio', 'state': 'TX', 'country': 'USA', 'latitude': '29.4246002', 'longitude': '-98.4951405', 'countyFips': '48029'}"
+511265,46963,251,Texas,Big 12,Detroit,2015,200,6,24,Quandre Diggs,Cornerback,69,196,154.0,19,53,"{'city': 'Angleton', 'state': 'TX', 'country': 'USA', 'latitude': '29.16941', 'longitude': '-95.4318847', 'countyFips': '48039'}"
+547337,47286,251,Texas,Big 12,Dallas,2015,246,7,29,Geoff Swaim,Tight End,76,252,,32,30,"{'city': 'Chico', 'state': 'CA', 'country': 'USA', 'latitude': '39.7284945', 'longitude': '-121.8374777', 'countyFips': '06007'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+550373,101525,201,Oklahoma,Big 12,Cleveland,2018,1,1,1,Baker Mayfield,Quarterback,73,215,11,4,91,"{'city': 'Austin', 'state': 'TX', 'country': 'USA', 'latitude': '30.2711286', 'longitude': '-97.7436995', 'countyFips': '48453'}"
+3116370,101523,201,Oklahoma,Big 12,Baltimore,2018,83,3,19,Orlando Brown,Offensive Tackle,80,345,76,6,76,"{'city': 'Duluth', 'state': 'GA', 'country': 'USA', 'latitude': '34.0028569', 'longitude': '-84.1441046', 'countyFips': '13135'}"
+3116365,101572,201,Oklahoma,Big 12,Baltimore,2018,86,3,22,Mark Andrews,Tight End,77,256,80,4,75,"{'city': 'Scottsdale', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4942189', 'longitude': '-111.9260184', 'countyFips': '04013'}"
+3052667,101551,201,Oklahoma,Big 12,Los Angeles,2018,160,5,23,Obo Okoronkwo,Outside Linebacker,74,253,95,10,71,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

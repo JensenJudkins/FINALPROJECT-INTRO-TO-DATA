@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1014291,50310,2294,Iowa,Big Ten,Indianapolis,2016,248,7,27,Austin Blythe,Center,74,298,170,5,57,"{'city': 'Williamsburg', 'state': 'IA', 'country': 'USA', 'latitude': '41.661228', 'longitude': '-92.0095064', 'countyFips': '19095'}"

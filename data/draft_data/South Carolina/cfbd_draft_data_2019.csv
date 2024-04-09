@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3126486,103567,2579,South Carolina,SEC,San Francisco,2019,36,2,4,Deebo Samuel,Wide Receiver,71,214,39,3,86,"{'city': 'Inman', 'state': 'SC', 'country': 'USA', 'latitude': '35.0470617', 'longitude': '-82.0901088', 'countyFips': '45083'}"
+3924364,103758,2579,South Carolina,SEC,Kansas City,2019,201,6,28,Rashad Fenton,Cornerback,71,193,252,28,47,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+4259480,103630,2579,South Carolina,SEC,Carolina,2019,212,6,39,Dennis Daley,Offensive Tackle,77,317,167,17,60,"{'city': 'Columbia', 'state': 'SC', 'country': 'USA', 'latitude': '34.0007493', 'longitude': '-81.0343313', 'countyFips': '45079'}"

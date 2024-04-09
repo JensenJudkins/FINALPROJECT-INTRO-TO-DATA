@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1041102,30375,258,Virginia,ACC,New York,2013,141,5,8,Oday Aboushi,Offensive Guard,77,308,140,9,62,"{'city': 'Staten Island', 'state': 'NY', 'country': 'USA', 'latitude': '40.564209', 'longitude': '-74.12530461995391', 'countyFips': '36085'}"

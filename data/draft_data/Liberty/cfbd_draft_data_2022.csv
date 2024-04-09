@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4242512,105538,2335,Liberty,FBS Independents,Tennessee,2022,86,3,22,Malik Willis,Quarterback,73,219,21,1,90,"{'city': 'Atlanta', 'state': 'GA', 'country': 'USA', 'latitude': '33.7490987', 'longitude': '-84.3901849', 'countyFips': '13121'}"

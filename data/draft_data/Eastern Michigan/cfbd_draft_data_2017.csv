@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+536062,100111,2199,Eastern Michigan,Mid-American,Detroit,2017,250,7,32,Pat O'Connor,Defensive End,77,277,,32,30,"{'city': 'Chicago', 'state': 'IL', 'country': 'USA', 'latitude': '41.8755616', 'longitude': '-87.6244212', 'countyFips': '17031'}"

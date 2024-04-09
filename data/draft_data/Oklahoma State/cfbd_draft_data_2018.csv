@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3122449,101552,197,Oklahoma State,Big 12,Pittsburgh,2018,60,2,28,James Washington,Wide Receiver,71,213,50,7,83,"{'city': 'Stamford', 'state': 'TX', 'country': 'USA', 'latitude': '32.9439359', 'longitude': '-99.798715', 'countyFips': '48253'}"
+3116407,101545,197,Oklahoma State,Big 12,Pittsburgh,2018,76,3,12,Mason Rudolph,Quarterback,77,235,62,6,79,"{'city': 'Rock Hill', 'state': 'SC', 'country': 'USA', 'latitude': '34.9248667', 'longitude': '-81.0250784', 'countyFips': '45091'}"
+547259,101673,197,Oklahoma State,Big 12,Seattle,2018,146,5,9,Tre Flowers,Safety,76,202,221,20,48,"{'city': 'Converse', 'state': 'TX', 'country': 'USA', 'latitude': '29.5180081', 'longitude': '-98.3161241', 'countyFips': '48029'}"
+547253,101587,197,Oklahoma State,Big 12,Las Vegas,2018,228,7,10,Marcell Ateman,Wide Receiver,77,216,185,22,56,"{'city': 'Dallas', 'state': 'TX', 'country': 'USA', 'latitude': '32.7762719', 'longitude': '-96.7968559', 'countyFips': '48113'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4361707,105914,2751,Wyoming,Mountain West,Jacksonville,2022,70,3,6,Chad Muma,Inside Linebacker,75,239,68,6,79,"{'city': 'Lone Tree', 'state': 'CO', 'country': 'USA', 'latitude': '39.5360997', 'longitude': '-104.8963682', 'countyFips': '08035'}"

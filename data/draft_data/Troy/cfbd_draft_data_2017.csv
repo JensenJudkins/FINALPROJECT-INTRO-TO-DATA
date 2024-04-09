@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+531730,52043,2653,Troy,Sun Belt,New England,2017,85,3,21,Antonio Garcia,Offensive Tackle,78,302,82,5,75,"{'city': 'Atlanta', 'state': 'GA', 'country': 'USA', 'latitude': '33.7490987', 'longitude': '-84.3901849', 'countyFips': '13121'}"

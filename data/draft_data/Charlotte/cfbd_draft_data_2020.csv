@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4037333,104659,2429,Charlotte,Conference USA,Pittsburgh,2020,102,3,38,Alex Highsmith,Outside Linebacker,75,248,265,25,36,"{'city': 'Wilmington', 'state': 'NC', 'country': 'USA', 'latitude': '34.2257282', 'longitude': '-77.9447107', 'countyFips': '37129'}"
+3914277,104547,2429,Charlotte,Conference USA,New York,2020,129,4,23,Cameron Clark,Offensive Tackle,77,308,253,23,38,"{'city': 'Greensboro', 'state': 'NC', 'country': 'USA', 'latitude': '36.0726355', 'longitude': '-79.7919754', 'countyFips': '37081'}"

@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4241802,104117,2628,TCU,Big 12,Philadelphia,2020,21,1,21,Jalen Reagor,Wide Receiver,71,206,53.0,9.0,82.0,"{'city': 'Waxahachie', 'state': 'TX', 'country': 'USA', 'latitude': '32.3944908', 'longitude': '-96.8439365', 'countyFips': '48139'}"
+3676819,104219,2628,TCU,Big 12,Minnesota,2020,31,1,31,Jeff Gladney,Cornerback,70,191,43.0,4.0,85.0,"{'city': 'New Boston', 'state': 'TX', 'country': 'USA', 'latitude': '33.4598415', 'longitude': '-94.4154787', 'countyFips': '48037'}"
+4038557,104426,2628,TCU,Big 12,Houston,2020,40,2,8,Ross Blacklock,Defensive Tackle,75,290,25.0,3.0,89.0,"{'city': 'Missouri City', 'state': 'TX', 'country': 'USA', 'latitude': '29.6185669', 'longitude': '-95.5377215', 'countyFips': '48157'}"
+4038552,104105,2628,TCU,Big 12,Kansas City,2020,96,3,32,Lucas Niang,Offensive Tackle,78,315,82.0,10.0,74.0,"{'city': 'New Canaan', 'state': 'CT', 'country': 'USA', 'latitude': '41.146763', 'longitude': '-73.4948446', 'countyFips': '09001'}"
+4038538,104704,2628,TCU,Big 12,Green Bay,2020,236,7,22,Vernon Scott,Safety,73,206,,,,"{'city': 'Mansfield', 'state': 'TX', 'country': 'USA', 'latitude': '32.5631924', 'longitude': '-97.1416768', 'countyFips': '48439'}"

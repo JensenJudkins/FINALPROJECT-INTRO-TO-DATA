@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4243186,105332,38,Colorado,Pac-12,New England,2021,197,6,13,William Sherman,Offensive Tackle,75,304,294,23,32,"{'city': 'Allen', 'state': 'TX', 'country': 'USA', 'latitude': '33.1031744', 'longitude': '-96.6705503', 'countyFips': '48085'}"

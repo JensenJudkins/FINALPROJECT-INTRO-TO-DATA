@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+547233,50097,8,Arkansas,SEC,Los Angeles,2016,35,2,4,Hunter Henry,Tight End,77,250,27,1,89,"{'city': 'Little Rock', 'state': 'AR', 'country': 'USA', 'latitude': '34.7464809', 'longitude': '-92.2895948', 'countyFips': '05119'}"
+535893,50043,8,Arkansas,SEC,Buffalo,2016,156,5,17,Jonathan Williams,Running Back,71,220,205,15,51,"{'city': 'Allen', 'state': 'TX', 'country': 'USA', 'latitude': '33.1031744', 'longitude': '-96.6705503', 'countyFips': '48085'}"
+547203,50419,8,Arkansas,SEC,Seattle,2016,171,5,32,Alex Collins,Running Back,70,217,119,9,67,"{'city': 'Fort Lauderdale', 'state': 'FL', 'country': 'USA', 'latitude': '26.1223084', 'longitude': '-80.1433786', 'countyFips': '12011'}"
+501264,49830,8,Arkansas,SEC,Tennessee,2016,193,6,18,Sebastian Tretola,Offensive Guard,76,314,131,6,64,"{'city': 'S. Bernardino', 'state': 'CA', 'country': 'USA', 'latitude': '34.1083449', 'longitude': '-117.2897652', 'countyFips': '06071'}"
+515915,50001,8,Arkansas,SEC,Jacksonville,2016,201,6,26,Brandon Allen,Quarterback,73,217,105,6,69,"{'city': 'Fayetteville', 'state': 'AR', 'country': 'USA', 'latitude': '36.0625843', 'longitude': '-94.1574328', 'countyFips': '05143'}"

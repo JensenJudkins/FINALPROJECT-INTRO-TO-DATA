@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545554,51643,248,Houston,American Athletic,Baltimore,2017,47,2,15,Tyus Bowser,Outside Linebacker,75,247,33.0,2,87,"{'city': 'Tyler', 'state': 'TX', 'country': 'USA', 'latitude': '32.3512601', 'longitude': '-95.3010624', 'countyFips': '48423'}"
+3126176,51724,248,Houston,American Athletic,Cleveland,2017,126,4,20,Howard Wilson,Cornerback,73,184,133.0,18,66,"{'city': 'DeSoto', 'state': 'TX', 'country': 'USA', 'latitude': '32.6061241', 'longitude': '-96.865612653687', 'countyFips': '48113'}"
+536828,51861,248,Houston,American Athletic,Cincinnati,2017,207,6,23,Brandon Wilson,Cornerback,70,198,,54,30,"{'city': 'Shreveport', 'state': 'LA', 'country': 'USA', 'latitude': '32.5221828', 'longitude': '-93.7651944', 'countyFips': '22017'}"

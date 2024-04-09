@@ -1,0 +1,91 @@
+playerId,player,team,conference,category,statType,stat
+4242448,Trey Coleman,Tennessee,SEC,receiving,YPR,3.0
+4242448,Trey Coleman,Tennessee,SEC,receiving,TD,0
+4242448,Trey Coleman,Tennessee,SEC,receiving,REC,1
+4286937,Malik Elion,Tennessee,SEC,receiving,YDS,10
+4035174,Jeff George,Tennessee,SEC,receiving,REC,9
+4242448,Trey Coleman,Tennessee,SEC,receiving,LONG,3
+4286937,Malik Elion,Tennessee,SEC,receiving,LONG,10
+4035183,Austin Pope,Tennessee,SEC,receiving,REC,2
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,TD,0
+4035170,Marquez Callaway,Tennessee,SEC,receiving,LONG,50
+3915400,Eli Wolf,Tennessee,SEC,receiving,YPR,16.0
+3915381,John Kelly,Tennessee,SEC,receiving,YDS,299
+4242437,Jordan Murphy,Tennessee,SEC,receiving,YDS,12
+4242431,Ty Chandler,Tennessee,SEC,receiving,YDS,108
+3915381,John Kelly,Tennessee,SEC,receiving,REC,37
+4035171,Tyler Byrd,Tennessee,SEC,receiving,YDS,27
+4035171,Tyler Byrd,Tennessee,SEC,receiving,TD,1
+4035174,Jeff George,Tennessee,SEC,receiving,YDS,180
+3886598,Jauan Jennings,Tennessee,SEC,receiving,LONG,7
+3915400,Eli Wolf,Tennessee,SEC,receiving,REC,3
+4242433,Josh Palmer,Tennessee,SEC,receiving,LONG,18
+559737,Jakob Johnson,Tennessee,SEC,receiving,YDS,13
+4286937,Malik Elion,Tennessee,SEC,receiving,YPR,10.0
+4242437,Jordan Murphy,Tennessee,SEC,receiving,YPR,12.0
+4035170,Marquez Callaway,Tennessee,SEC,receiving,TD,5
+4242445,Tim Jordan,Tennessee,SEC,receiving,YPR,8.1
+559737,Jakob Johnson,Tennessee,SEC,receiving,LONG,13
+4242437,Jordan Murphy,Tennessee,SEC,receiving,REC,1
+559737,Jakob Johnson,Tennessee,SEC,receiving,YPR,13.0
+559748,Ethan Wolf,Tennessee,SEC,receiving,LONG,28
+4242433,Josh Palmer,Tennessee,SEC,receiving,TD,0
+3915381,John Kelly,Tennessee,SEC,receiving,TD,0
+3886598,Jauan Jennings,Tennessee,SEC,receiving,YDS,17
+4286937,Malik Elion,Tennessee,SEC,receiving,REC,1
+4035183,Austin Pope,Tennessee,SEC,receiving,YPR,4.5
+546546,Josh Walker Smith,Tennessee,SEC,receiving,TD,0
+4242445,Tim Jordan,Tennessee,SEC,receiving,REC,8
+546546,Josh Walker Smith,Tennessee,SEC,receiving,LONG,13
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,YDS,18
+559748,Ethan Wolf,Tennessee,SEC,receiving,YPR,10.3
+4242445,Tim Jordan,Tennessee,SEC,receiving,TD,0
+546546,Josh Walker Smith,Tennessee,SEC,receiving,YDS,43
+3915381,John Kelly,Tennessee,SEC,receiving,LONG,52
+3915400,Eli Wolf,Tennessee,SEC,receiving,LONG,19
+4242433,Josh Palmer,Tennessee,SEC,receiving,REC,9
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,YPR,13.0
+3886598,Jauan Jennings,Tennessee,SEC,receiving,REC,3
+559737,Jakob Johnson,Tennessee,SEC,receiving,TD,0
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,REC,37
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,LONG,12
+4242431,Ty Chandler,Tennessee,SEC,receiving,YPR,10.8
+4242445,Tim Jordan,Tennessee,SEC,receiving,LONG,28
+4242431,Ty Chandler,Tennessee,SEC,receiving,REC,10
+4035171,Tyler Byrd,Tennessee,SEC,receiving,YPR,9.0
+3886598,Jauan Jennings,Tennessee,SEC,receiving,YPR,5.7
+4035174,Jeff George,Tennessee,SEC,receiving,LONG,60
+4242431,Ty Chandler,Tennessee,SEC,receiving,TD,0
+4035174,Jeff George,Tennessee,SEC,receiving,TD,1
+4242437,Jordan Murphy,Tennessee,SEC,receiving,LONG,12
+4242437,Jordan Murphy,Tennessee,SEC,receiving,TD,0
+4035174,Jeff George,Tennessee,SEC,receiving,YPR,20.0
+4242448,Trey Coleman,Tennessee,SEC,receiving,YDS,3
+4035170,Marquez Callaway,Tennessee,SEC,receiving,YDS,406
+4242431,Ty Chandler,Tennessee,SEC,receiving,LONG,23
+4035183,Austin Pope,Tennessee,SEC,receiving,TD,0
+3915400,Eli Wolf,Tennessee,SEC,receiving,YDS,48
+546546,Josh Walker Smith,Tennessee,SEC,receiving,YPR,8.6
+4242433,Josh Palmer,Tennessee,SEC,receiving,YDS,98
+559748,Ethan Wolf,Tennessee,SEC,receiving,TD,3
+3915381,John Kelly,Tennessee,SEC,receiving,YPR,8.1
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,TD,1
+4035171,Tyler Byrd,Tennessee,SEC,receiving,REC,3
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,YPR,9.0
+4035183,Austin Pope,Tennessee,SEC,receiving,LONG,10
+3886598,Jauan Jennings,Tennessee,SEC,receiving,TD,0
+4035170,Marquez Callaway,Tennessee,SEC,receiving,YPR,16.9
+4035170,Marquez Callaway,Tennessee,SEC,receiving,REC,24
+4035175,Carlin Fils-aime,Tennessee,SEC,receiving,REC,2
+559737,Jakob Johnson,Tennessee,SEC,receiving,REC,1
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,LONG,66
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,YDS,482
+4035183,Austin Pope,Tennessee,SEC,receiving,YDS,9
+546546,Josh Walker Smith,Tennessee,SEC,receiving,REC,5
+559748,Ethan Wolf,Tennessee,SEC,receiving,YDS,246
+559748,Ethan Wolf,Tennessee,SEC,receiving,REC,24
+3915400,Eli Wolf,Tennessee,SEC,receiving,TD,0
+4286937,Malik Elion,Tennessee,SEC,receiving,TD,0
+4035171,Tyler Byrd,Tennessee,SEC,receiving,LONG,13
+4242433,Josh Palmer,Tennessee,SEC,receiving,YPR,10.9
+4242445,Tim Jordan,Tennessee,SEC,receiving,YDS,65

@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+500825,33637,2294,Iowa,Big Ten,Houston,2014,65,3,1,C.J. Fiedorowicz,Tight End,78,265,76.0,5,72,"{'city': 'Johnsburg', 'state': 'IL', 'country': 'USA', 'latitude': '42.3800209', 'longitude': '-88.2420315', 'countyFips': '17111'}"
+2511700,34485,2294,Iowa,Big Ten,Cleveland,2014,71,3,7,Chris Kirksey,Outside Linebacker,74,233,127.0,12,61,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+500828,34504,2294,Iowa,Big Ten,Dallas,2014,119,4,19,Anthony Hitchens,Outside Linebacker,72,240,,33,30,"{'city': 'Lorain', 'state': 'OH', 'country': 'USA', 'latitude': '41.4673238', 'longitude': '-82.1781904', 'countyFips': '39093'}"

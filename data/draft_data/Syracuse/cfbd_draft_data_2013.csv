@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1033321,29241,183,Syracuse,Big East,New York,2013,19,1,19,Justin Pugh,Offensive Tackle,77,307,22,5,91,"{'city': 'Holland', 'state': 'PA', 'country': 'USA', 'latitude': '40.1728871', 'longitude': '-74.9926688', 'countyFips': '42017'}"
+382584,29300,183,Syracuse,Big East,New York,2013,110,4,13,Ryan Nassib,Quarterback,74,227,36,2,88,"{'city': 'West Chester', 'state': 'PA', 'country': 'USA', 'latitude': '39.9597213', 'longitude': '-75.6059638', 'countyFips': '42029'}"
+483226,29647,183,Syracuse,Big East,Pittsburgh,2013,111,4,14,Shamarko Thomas,Safety,69,213,79,6,76,"{'city': 'Virginia Beach', 'state': 'VA', 'country': 'USA', 'latitude': '36.8529841', 'longitude': '-75.9774183', 'countyFips': '51810'}"

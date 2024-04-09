@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+382993,30248,278,Fresno State,Mountain West,Washington,2013,119,4,22,Phillip Thomas,Safety,73,208,97,7,72,"{'city': 'Bakersfield', 'state': 'CA', 'country': 'USA', 'latitude': '35.3738712', 'longitude': '-119.0194639', 'countyFips': '06029'}"

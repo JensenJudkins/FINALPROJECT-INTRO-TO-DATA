@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1030839,29034,2567,SMU,Conference USA,Washington,2012,71,3,8,Josh LeRibeus,Offensive Guard,75,312,167.0,12,54,"{'city': 'Richardson', 'state': 'TX', 'country': 'USA', 'latitude': '32.9481789', 'longitude': '-96.7297206', 'countyFips': '48113'}"
+-1030847,28284,2567,SMU,Conference USA,Tennessee,2012,145,5,10,Taylor Thompson,Tight End,78,282,127.0,14,63,"{'city': 'Prosper', 'state': 'TX', 'country': 'USA', 'latitude': '33.2385763', 'longitude': '-96.7866058', 'countyFips': '48085'}"
+503454,29107,2567,SMU,Conference USA,Washington,2012,213,7,6,Richard Crawford,Cornerback,71,189,,75,30,"{'city': 'Mission Viejo', 'state': 'CA', 'country': 'USA', 'latitude': '33.5965685', 'longitude': '-117.659405', 'countyFips': '06059'}"
+-1030826,28286,2567,SMU,Conference USA,Pittsburgh,2012,248,7,41,Kelvin Beachum,Offensive Guard,75,303,,23,31,"{'city': 'Mexia', 'state': 'TX', 'country': 'USA', 'latitude': '31.307819000000002', 'longitude': '-96.62978728122914', 'countyFips': '48293'}"

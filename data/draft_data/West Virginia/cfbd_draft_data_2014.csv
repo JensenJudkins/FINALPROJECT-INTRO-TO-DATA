@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482428,33634,277,West Virginia,Big 12,Tampa Bay,2014,69,3,5,Charles Sims,Running Back,72,214,86,6,70,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+2475326,33830,277,West Virginia,Big 12,Cincinnati,2014,88,3,24,William Clarke,Defensive End,78,271,125,13,61,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

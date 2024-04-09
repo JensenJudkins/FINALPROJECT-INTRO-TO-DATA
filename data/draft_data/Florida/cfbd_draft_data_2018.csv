@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+559553,101752,57,Florida,SEC,Jacksonville,2018,29,1,29,Taven Bryan,Defensive Tackle,77,291,21,3,90,"{'city': 'Casper', 'state': 'WY', 'country': 'USA', 'latitude': '42.866632', 'longitude': '-106.313081', 'countyFips': '56025'}"
+559554,101697,57,Florida,SEC,New England,2018,56,2,24,Duke Dawson,Cornerback,71,197,70,7,77,"{'city': 'Cross City', 'state': 'FL', 'country': 'USA', 'latitude': '29.6343977', 'longitude': '-83.1251306', 'countyFips': '12029'}"
+3915097,101561,57,Florida,SEC,Cleveland,2018,105,4,5,Antonio Callaway,Wide Receiver,71,200,119,15,68,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+551335,101855,57,Florida,SEC,Las Vegas,2018,173,5,36,Johnny Townsend,Punter,73,209,234,3,45,"{'city': 'Orlando', 'state': 'FL', 'country': 'USA', 'latitude': '28.5421109', 'longitude': '-81.3790304', 'countyFips': '12095'}"
+546308,101720,57,Florida,SEC,San Francisco,2018,184,6,10,Marcell Harris,Safety,73,216,330,28,31,"{'city': 'Orlando', 'state': 'FL', 'country': 'USA', 'latitude': '28.5421109', 'longitude': '-81.3790304', 'countyFips': '12095'}"

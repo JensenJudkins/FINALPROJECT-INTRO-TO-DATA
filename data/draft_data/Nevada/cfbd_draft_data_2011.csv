@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+183575,26167,2440,Nevada,Western Athletic,San Francisco,2011,36,2,4,Colin Kaepernick,Quarterback,77,233,57,7,81,"{'city': 'Turlock', 'state': 'CA', 'country': 'USA', 'latitude': '37.4946568', 'longitude': '-120.8465941', 'countyFips': '06099'}"
+-1023865,27034,2440,Nevada,Western Athletic,Cincinnati,2011,66,3,2,Dontay Moch,Outside Linebacker,73,248,108,5,70,"{'city': 'Chandler', 'state': 'AZ', 'country': 'USA', 'latitude': '33.3062223', 'longitude': '-111.8413317', 'countyFips': '04013'}"
+183565,27127,2440,Nevada,Western Athletic,Denver,2011,204,7,1,Virgil Green,Tight End,75,249,79,3,77,"{'city': 'Tulare', 'state': 'CA', 'country': 'USA', 'latitude': '36.2077351', 'longitude': '-119.3473421', 'countyFips': '06107'}"

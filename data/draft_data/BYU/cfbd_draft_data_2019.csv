@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3138834,103947,252,BYU,FBS Independents,Cleveland,2019,80,3,16,Sione Takitaki,Outside Linebacker,73,238,107,8,71,"{'city': 'Fontana', 'state': 'CA', 'country': 'USA', 'latitude': '34.0922335', 'longitude': '-117.435048', 'countyFips': '06071'}"

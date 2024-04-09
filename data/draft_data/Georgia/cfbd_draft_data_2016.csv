@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1011681,49876,61,Georgia,SEC,Chicago,2016,9,1,9,Leonard Floyd,Outside Linebacker,78,244,9,2,91,"{'city': 'Eastman', 'state': 'GA', 'country': 'USA', 'latitude': '32.1976729', 'longitude': '-83.1776514', 'countyFips': '13091'}"
+534672,49875,61,Georgia,SEC,New York,2016,83,3,20,Jordan Jenkins,Outside Linebacker,75,259,93,8,71,"{'city': 'Hamilton', 'state': 'GA', 'country': 'USA', 'latitude': '32.7579107', 'longitude': '-84.8749311', 'countyFips': '13145'}"
+512178,50163,61,Georgia,SEC,New England,2016,112,4,14,Malcolm Mitchell,Wide Receiver,72,198,123,14,66,"{'city': 'Valdosta', 'state': 'GA', 'country': 'USA', 'latitude': '30.8327022', 'longitude': '-83.2784851', 'countyFips': '13185'}"
+-1011697,49927,61,Georgia,SEC,San Francisco,2016,145,5,6,John Theus,Offensive Tackle,79,313,351,25,31,"{'city': 'Jacksonville', 'state': 'FL', 'country': 'USA', 'latitude': '30.3321838', 'longitude': '-81.655651', 'countyFips': '12031'}"
+530937,50427,61,Georgia,SEC,Washington,2016,242,7,21,Keith Marshall,Running Back,71,219,263,19,40,"{'city': 'Raleigh', 'state': 'NC', 'country': 'USA', 'latitude': '35.7803977', 'longitude': '-78.6390989', 'countyFips': '37183'}"

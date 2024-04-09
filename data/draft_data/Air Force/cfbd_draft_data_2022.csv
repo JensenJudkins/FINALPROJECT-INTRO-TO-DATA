@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4261090,106126,2005,Air Force,Mountain West,New Orleans,2022,194,6,15,Jordan Jackson,Defensive Tackle,77,294,344,25,32,"{'city': 'Jacksonville', 'state': 'FL', 'country': 'USA', 'latitude': '30.3321838', 'longitude': '-81.655651', 'countyFips': '12031'}"

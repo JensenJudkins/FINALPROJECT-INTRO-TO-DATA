@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+518204,34759,213,Penn State,Big Ten,Jacksonville,2014,61,2,29,Allen Robinson,Wide Receiver,75,220,62,11,78,"{'city': 'Southfield', 'state': 'MI', 'country': 'USA', 'latitude': '42.4733689', 'longitude': '-83.2218731', 'countyFips': '26125'}"
+-1029156,33626,213,Penn State,Big Ten,Tennessee,2014,112,4,12,DaQuan Jones,Defensive Tackle,76,322,78,7,71,"{'city': 'Johnson City', 'state': 'NY', 'country': 'USA', 'latitude': '42.1157038', 'longitude': '-75.9587873', 'countyFips': '36007'}"
+-1029161,33673,213,Penn State,Big Ten,Baltimore,2014,175,5,35,John Urschel,Offensive Guard,75,313,105,5,67,"{'city': 'Williamsville', 'state': 'NY', 'country': 'USA', 'latitude': '42.9637836', 'longitude': '-78.7377258', 'countyFips': '36029'}"

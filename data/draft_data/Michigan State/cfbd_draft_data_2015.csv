@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+512727,46819,127,Michigan State,Big Ten,Minnesota,2015,11,1,11,Trae Waynes,Cornerback,72,186,10.0,1,91,"{'city': 'Kenosha', 'state': 'WI', 'country': 'USA', 'latitude': '42.5846773', 'longitude': '-87.8212263', 'countyFips': '55059'}"
+503202,46906,127,Michigan State,Big Ten,Chicago,2015,106,4,7,Jeremy Langford,Running Back,72,208,97.0,10,69,"{'city': 'Wayne', 'state': 'MI', 'country': 'USA', 'latitude': '42.2814269', 'longitude': '-83.3863215', 'countyFips': '26163'}"
+503204,47022,127,Michigan State,Big Ten,Miami,2015,156,5,20,Tony Lippett,Wide Receiver,75,192,213.0,33,45,"{'city': 'Detroit', 'state': 'MI', 'country': 'USA', 'latitude': '42.3315509', 'longitude': '-83.0466403', 'countyFips': '26163'}"
+503206,47438,127,Michigan State,Big Ten,Houston,2015,175,5,39,Keith Mumphery,Wide Receiver,72,215,,51,30,"{'city': 'Vienna', 'state': 'GA', 'country': 'USA', 'latitude': '32.0913402', 'longitude': '-83.7964675', 'countyFips': '13093'}"

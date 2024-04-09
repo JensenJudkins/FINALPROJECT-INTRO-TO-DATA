@@ -1,0 +1,91 @@
+playerId,player,team,conference,category,statType,stat
+4567235,Luke Deal,Auburn,SEC,receiving,REC,3
+4429107,Dazalin Worsham,Auburn,SEC,receiving,REC,1
+4602192,Landen King,Auburn,SEC,receiving,TD,0
+4431277,Koy Moore,Auburn,SEC,receiving,TD,1
+4361332,Shedrick Jackson,Auburn,SEC,receiving,REC,16
+4567217,Ja'Varrius Johnson,Auburn,SEC,receiving,YPR,19.0
+4361332,Shedrick Jackson,Auburn,SEC,receiving,YPR,13.6
+4567235,Luke Deal,Auburn,SEC,receiving,TD,0
+4808759,Camden Brown,Auburn,SEC,receiving,YPR,13.7
+4808759,Camden Brown,Auburn,SEC,receiving,YDS,123
+4808759,Camden Brown,Auburn,SEC,receiving,REC,9
+4695580,Malcolm Johnson Jr.,Auburn,SEC,receiving,REC,2
+4701951,Omari Kelly,Auburn,SEC,receiving,REC,3
+4701951,Omari Kelly,Auburn,SEC,receiving,LONG,25
+4602192,Landen King,Auburn,SEC,receiving,REC,1
+4567234,Tyler Fromm,Auburn,SEC,receiving,YDS,51
+4429013,Tank Bigsby,Auburn,SEC,receiving,REC,30
+4710341,Jarquez Hunter,Auburn,SEC,receiving,TD,2
+4567235,Luke Deal,Auburn,SEC,receiving,YDS,34
+4695580,Malcolm Johnson Jr.,Auburn,SEC,receiving,YDS,28
+4431277,Koy Moore,Auburn,SEC,receiving,LONG,46
+4242526,John Samuel Shenker,Auburn,SEC,receiving,REC,20
+4429062,Ze'Vian Capers,Auburn,SEC,receiving,REC,1
+4695580,Malcolm Johnson Jr.,Auburn,SEC,receiving,LONG,15
+4689090,Brandon Frazier,Auburn,SEC,receiving,YPR,9.5
+4567234,Tyler Fromm,Auburn,SEC,receiving,TD,0
+4242526,John Samuel Shenker,Auburn,SEC,receiving,YDS,208
+4431277,Koy Moore,Auburn,SEC,receiving,YPR,15.7
+4567235,Luke Deal,Auburn,SEC,receiving,LONG,32
+4361332,Shedrick Jackson,Auburn,SEC,receiving,YDS,217
+4685699,Damari Alston,Auburn,SEC,receiving,YDS,13
+4429107,Dazalin Worsham,Auburn,SEC,receiving,YPR,8.0
+4429107,Dazalin Worsham,Auburn,SEC,receiving,LONG,8
+4242526,John Samuel Shenker,Auburn,SEC,receiving,YPR,10.4
+4712578,Jay Fair,Auburn,SEC,receiving,YDS,34
+4567234,Tyler Fromm,Auburn,SEC,receiving,YPR,17.0
+4429062,Ze'Vian Capers,Auburn,SEC,receiving,YDS,16
+4429013,Tank Bigsby,Auburn,SEC,receiving,TD,0
+4567234,Tyler Fromm,Auburn,SEC,receiving,LONG,35
+4701951,Omari Kelly,Auburn,SEC,receiving,YPR,18.7
+4429107,Dazalin Worsham,Auburn,SEC,receiving,YDS,8
+4361332,Shedrick Jackson,Auburn,SEC,receiving,LONG,43
+4701951,Omari Kelly,Auburn,SEC,receiving,YDS,56
+4602192,Landen King,Auburn,SEC,receiving,YDS,24
+4602192,Landen King,Auburn,SEC,receiving,YPR,24.0
+4695580,Malcolm Johnson Jr.,Auburn,SEC,receiving,YPR,14.0
+4685699,Damari Alston,Auburn,SEC,receiving,TD,0
+4567235,Luke Deal,Auburn,SEC,receiving,YPR,11.3
+4710341,Jarquez Hunter,Auburn,SEC,receiving,YDS,224
+4610011,Tar'Varish Dawson Jr.,Auburn,SEC,receiving,YDS,30
+4610011,Tar'Varish Dawson Jr.,Auburn,SEC,receiving,TD,0
+4685699,Damari Alston,Auburn,SEC,receiving,REC,1
+4429062,Ze'Vian Capers,Auburn,SEC,receiving,YPR,16.0
+4808759,Camden Brown,Auburn,SEC,receiving,LONG,49
+4689090,Brandon Frazier,Auburn,SEC,receiving,TD,0
+4242526,John Samuel Shenker,Auburn,SEC,receiving,TD,1
+4610011,Tar'Varish Dawson Jr.,Auburn,SEC,receiving,LONG,22
+4429062,Ze'Vian Capers,Auburn,SEC,receiving,TD,0
+4712578,Jay Fair,Auburn,SEC,receiving,YPR,17.0
+4610011,Tar'Varish Dawson Jr.,Auburn,SEC,receiving,YPR,15.0
+4429013,Tank Bigsby,Auburn,SEC,receiving,YDS,180
+4429013,Tank Bigsby,Auburn,SEC,receiving,YPR,6.0
+4710341,Jarquez Hunter,Auburn,SEC,receiving,REC,17
+4712578,Jay Fair,Auburn,SEC,receiving,LONG,23
+4567217,Ja'Varrius Johnson,Auburn,SEC,receiving,LONG,56
+4242526,John Samuel Shenker,Auburn,SEC,receiving,LONG,27
+4689090,Brandon Frazier,Auburn,SEC,receiving,LONG,12
+4602192,Landen King,Auburn,SEC,receiving,LONG,24
+4567217,Ja'Varrius Johnson,Auburn,SEC,receiving,REC,26
+4361332,Shedrick Jackson,Auburn,SEC,receiving,TD,0
+4429062,Ze'Vian Capers,Auburn,SEC,receiving,LONG,16
+4610011,Tar'Varish Dawson Jr.,Auburn,SEC,receiving,REC,2
+4712578,Jay Fair,Auburn,SEC,receiving,TD,0
+4689090,Brandon Frazier,Auburn,SEC,receiving,REC,2
+4808759,Camden Brown,Auburn,SEC,receiving,TD,2
+4567234,Tyler Fromm,Auburn,SEC,receiving,REC,3
+4567217,Ja'Varrius Johnson,Auburn,SEC,receiving,YDS,493
+4685699,Damari Alston,Auburn,SEC,receiving,YPR,13.0
+4431277,Koy Moore,Auburn,SEC,receiving,YDS,314
+4429013,Tank Bigsby,Auburn,SEC,receiving,LONG,37
+4710341,Jarquez Hunter,Auburn,SEC,receiving,LONG,62
+4567217,Ja'Varrius Johnson,Auburn,SEC,receiving,TD,3
+4712578,Jay Fair,Auburn,SEC,receiving,REC,2
+4429107,Dazalin Worsham,Auburn,SEC,receiving,TD,0
+4695580,Malcolm Johnson Jr.,Auburn,SEC,receiving,TD,0
+4689090,Brandon Frazier,Auburn,SEC,receiving,YDS,19
+4431277,Koy Moore,Auburn,SEC,receiving,REC,20
+4710341,Jarquez Hunter,Auburn,SEC,receiving,YPR,13.2
+4685699,Damari Alston,Auburn,SEC,receiving,LONG,13
+4701951,Omari Kelly,Auburn,SEC,receiving,TD,0

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1006593,29334,2117,Central Michigan,Mid-American,Kansas City,2013,1,1,1,Eric Fisher,Offensive Tackle,79,306,2,2,96,"{'city': 'Rochester', 'state': 'MI', 'country': 'USA', 'latitude': '42.680588', 'longitude': '-83.1338214', 'countyFips': '27109'}"

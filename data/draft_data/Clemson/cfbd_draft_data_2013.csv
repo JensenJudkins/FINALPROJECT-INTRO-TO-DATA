@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501689,30261,228,Clemson,ACC,Houston,2013,27,1,27,DeAndre Hopkins,Wide Receiver,73,214,47.0,6,86,"{'city': 'Central', 'state': 'SC', 'country': 'USA', 'latitude': '34.7257424', 'longitude': '-82.7804999', 'countyFips': '45077'}"
+-1007408,29191,228,Clemson,ACC,Atlanta,2013,127,4,30,Malliciah Goodman,Defensive End,76,276,168.0,20,56,"{'city': 'Florence', 'state': 'SC', 'country': 'USA', 'latitude': '34.1984435', 'longitude': '-79.7671658', 'countyFips': '45041'}"
+482953,30134,228,Clemson,ACC,Buffalo,2013,143,5,10,Jonathan Meeks,Safety,73,211,,36,30,"{'city': 'Rock Hill', 'state': 'SC', 'country': 'USA', 'latitude': '34.9248667', 'longitude': '-81.0250784', 'countyFips': '45091'}"
+381445,29259,228,Clemson,ACC,Arizona,2013,187,6,19,Andre Ellington,Running Back,69,199,76.0,3,77,"{'city': 'Moncks Corner', 'state': 'SC', 'country': 'USA', 'latitude': '33.1960027', 'longitude': '-80.0131374', 'countyFips': '45015'}"

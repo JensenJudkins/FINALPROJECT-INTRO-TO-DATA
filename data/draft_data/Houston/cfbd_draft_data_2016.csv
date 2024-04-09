@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+553531,49438,248,Houston,American Athletic,Cincinnati,2016,24,1,24,William Jackson III,Cornerback,72,189,22.0,2,90,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"
+538490,50304,248,Houston,American Athletic,New England,2016,214,6,39,Elandon Roberts,Inside Linebacker,71,234,,34,30,"{'city': 'Port Arthur', 'state': 'TX', 'country': 'USA', 'latitude': '29.8988618', 'longitude': '-93.9288723', 'countyFips': '48245'}"
+545543,50440,248,Houston,American Athletic,Pittsburgh,2016,229,7,8,Demarcus Ayers,Wide Receiver,69,182,232.0,34,47,"{'city': 'Lancaster', 'state': 'TX', 'country': 'USA', 'latitude': '32.5920798', 'longitude': '-96.7561083', 'countyFips': '48113'}"

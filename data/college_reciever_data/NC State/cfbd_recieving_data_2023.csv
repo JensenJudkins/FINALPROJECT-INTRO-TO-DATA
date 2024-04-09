@@ -1,0 +1,86 @@
+playerId,player,team,conference,category,statType,stat
+4677280,Julian Gray,NC State,ACC,receiving,YDS,170
+4899418,Javonte Vereen,NC State,ACC,receiving,TD,0
+4899368,Kendrick Raphael,NC State,ACC,receiving,TD,0
+4568316,DeMarcus Jones II,NC State,ACC,receiving,YDS,17
+4427789,Keyon Lesane,NC State,ACC,receiving,REC,28
+4568316,DeMarcus Jones II,NC State,ACC,receiving,LONG,17
+4892983,Terrell Timmons Jr.,NC State,ACC,receiving,LONG,47
+4899418,Javonte Vereen,NC State,ACC,receiving,YPR,16.3
+4431030,Jalen Coit,NC State,ACC,receiving,YPR,-0.3
+4870653,Kevin Concepcion,NC State,ACC,receiving,YPR,11.8
+4677280,Julian Gray,NC State,ACC,receiving,YPR,10.6
+4870653,Kevin Concepcion,NC State,ACC,receiving,YDS,839
+4570188,Brad Rozner,NC State,ACC,receiving,YPR,11.6
+4430846,Porter Rooks,NC State,ACC,receiving,LONG,26
+4427789,Keyon Lesane,NC State,ACC,receiving,LONG,38
+4677280,Julian Gray,NC State,ACC,receiving,TD,1
+4431209,Dacari Collins,NC State,ACC,receiving,YDS,210
+4431030,Jalen Coit,NC State,ACC,receiving,TD,0
+4568312,Jordan Houston,NC State,ACC,receiving,LONG,0
+4430846,Porter Rooks,NC State,ACC,receiving,YDS,166
+4568316,DeMarcus Jones II,NC State,ACC,receiving,YPR,17.0
+4431209,Dacari Collins,NC State,ACC,receiving,YPR,15.0
+4892983,Terrell Timmons Jr.,NC State,ACC,receiving,REC,11
+4431030,Jalen Coit,NC State,ACC,receiving,REC,3
+4428018,Delbert Mimms III,NC State,ACC,receiving,LONG,23
+4427789,Keyon Lesane,NC State,ACC,receiving,TD,0
+4685110,Anthony Smith,NC State,ACC,receiving,REC,2
+4431209,Dacari Collins,NC State,ACC,receiving,REC,14
+4899368,Kendrick Raphael,NC State,ACC,receiving,YDS,96
+4430846,Porter Rooks,NC State,ACC,receiving,TD,0
+4677280,Julian Gray,NC State,ACC,receiving,LONG,64
+4431030,Jalen Coit,NC State,ACC,receiving,LONG,3
+4685110,Anthony Smith,NC State,ACC,receiving,YDS,19
+4568312,Jordan Houston,NC State,ACC,receiving,REC,3
+4602970,Jordan Poole,NC State,ACC,receiving,LONG,12
+4685237,Michael Allen,NC State,ACC,receiving,YDS,66
+4570188,Brad Rozner,NC State,ACC,receiving,TD,2
+4892983,Terrell Timmons Jr.,NC State,ACC,receiving,YDS,195
+4685110,Anthony Smith,NC State,ACC,receiving,LONG,11
+4685237,Michael Allen,NC State,ACC,receiving,REC,11
+4899418,Javonte Vereen,NC State,ACC,receiving,LONG,22
+4870653,Kevin Concepcion,NC State,ACC,receiving,LONG,72
+4870653,Kevin Concepcion,NC State,ACC,receiving,REC,71
+4430846,Porter Rooks,NC State,ACC,receiving,REC,13
+4899368,Kendrick Raphael,NC State,ACC,receiving,YPR,9.6
+4361660,Trent Pennix,NC State,ACC,receiving,YPR,12.7
+4602970,Jordan Poole,NC State,ACC,receiving,TD,1
+4892983,Terrell Timmons Jr.,NC State,ACC,receiving,TD,0
+4602970,Jordan Poole,NC State,ACC,receiving,YDS,12
+4431030,Jalen Coit,NC State,ACC,receiving,YDS,-1
+4899368,Kendrick Raphael,NC State,ACC,receiving,REC,10
+4430846,Porter Rooks,NC State,ACC,receiving,YPR,12.8
+4570188,Brad Rozner,NC State,ACC,receiving,YDS,208
+4431209,Dacari Collins,NC State,ACC,receiving,LONG,38
+4568316,DeMarcus Jones II,NC State,ACC,receiving,REC,1
+4568316,DeMarcus Jones II,NC State,ACC,receiving,TD,0
+4685110,Anthony Smith,NC State,ACC,receiving,YPR,9.5
+4361660,Trent Pennix,NC State,ACC,receiving,TD,3
+4892983,Terrell Timmons Jr.,NC State,ACC,receiving,YPR,17.7
+4899418,Javonte Vereen,NC State,ACC,receiving,YDS,65
+4431209,Dacari Collins,NC State,ACC,receiving,TD,2
+4602970,Jordan Poole,NC State,ACC,receiving,YPR,12.0
+4427789,Keyon Lesane,NC State,ACC,receiving,YDS,247
+4568312,Jordan Houston,NC State,ACC,receiving,TD,0
+4361660,Trent Pennix,NC State,ACC,receiving,LONG,62
+4568312,Jordan Houston,NC State,ACC,receiving,YDS,-3
+4428018,Delbert Mimms III,NC State,ACC,receiving,TD,0
+4870653,Kevin Concepcion,NC State,ACC,receiving,TD,10
+4899418,Javonte Vereen,NC State,ACC,receiving,REC,4
+4677280,Julian Gray,NC State,ACC,receiving,REC,16
+4899368,Kendrick Raphael,NC State,ACC,receiving,LONG,21
+4428018,Delbert Mimms III,NC State,ACC,receiving,YPR,7.7
+4427789,Keyon Lesane,NC State,ACC,receiving,YPR,8.8
+4428018,Delbert Mimms III,NC State,ACC,receiving,YDS,23
+4685237,Michael Allen,NC State,ACC,receiving,YPR,6.0
+4428018,Delbert Mimms III,NC State,ACC,receiving,REC,3
+4685110,Anthony Smith,NC State,ACC,receiving,TD,0
+4685237,Michael Allen,NC State,ACC,receiving,LONG,19
+4361660,Trent Pennix,NC State,ACC,receiving,YDS,190
+4602970,Jordan Poole,NC State,ACC,receiving,REC,1
+4570188,Brad Rozner,NC State,ACC,receiving,REC,18
+4685237,Michael Allen,NC State,ACC,receiving,TD,0
+4568312,Jordan Houston,NC State,ACC,receiving,YPR,-1.0
+4361660,Trent Pennix,NC State,ACC,receiving,REC,15
+4570188,Brad Rozner,NC State,ACC,receiving,LONG,21

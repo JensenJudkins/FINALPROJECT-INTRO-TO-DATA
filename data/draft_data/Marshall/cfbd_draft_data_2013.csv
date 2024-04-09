@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+483949,29968,276,Marshall,Conference USA,New England,2013,59,2,27,Aaron Dobson,Wide Receiver,75,210,62,9,80,"{'city': 'Dunbar', 'state': 'WV', 'country': 'USA', 'latitude': '38.3606509', 'longitude': '-81.7373485', 'countyFips': '54039'}"

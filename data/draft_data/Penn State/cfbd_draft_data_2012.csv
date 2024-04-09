@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1029220,28182,213,Penn State,Big Ten,Cincinnati,2012,53,2,21,Devon Still,Defensive Tackle,77,303,33.0,5,89,"{'city': 'Wilmington', 'state': 'DE', 'country': 'USA', 'latitude': '39.7459468', 'longitude': '-75.546589', 'countyFips': '10003'}"
+-1029222,28192,213,Penn State,Big Ten,Los Angeles,2012,149,5,14,Johnnie Troutman,Offensive Guard,76,325,,22,32,"{'city': 'Brown Mills', 'state': 'NJ', 'country': 'USA', 'latitude': '39.96416', 'longitude': '-74.557827', 'countyFips': '34005'}"
+-1029199,28183,213,Penn State,Big Ten,Las Vegas,2012,158,5,23,Jack Crawford,Defensive End,77,274,211.0,22,42,"{'city': 'Longport', 'state': 'NJ', 'country': 'USA', 'latitude': '39.3142827', 'longitude': '-74.5248756', 'countyFips': '34001'}"
+243288,28185,213,Penn State,Big Ten,Las Vegas,2012,230,7,23,Nathan Stupar,Outside Linebacker,74,241,,24,30,"{'city': 'State College', 'state': 'PA', 'country': 'USA', 'latitude': '40.7944504', 'longitude': '-77.8616386', 'countyFips': '42027'}"

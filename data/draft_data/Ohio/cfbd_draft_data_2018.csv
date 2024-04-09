@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+550698,102399,195,Ohio,Mid-American,Miami,2018,227,7,9,Quentin Poling,Inside Linebacker,72,234,,26,30,"{'city': 'Gomer', 'state': 'OH', 'country': 'USA', 'latitude': '40.8450509', 'longitude': '-84.1871708', 'countyFips': '39003'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3918298,101505,2751,Wyoming,Mountain West,Buffalo,2018,7,1,7,Josh Allen,Quarterback,77,237,10,3,92,"{'city': 'Firebaugh', 'state': 'CA', 'country': 'USA', 'latitude': '36.8588376', 'longitude': '-120.4560072', 'countyFips': '06019'}"

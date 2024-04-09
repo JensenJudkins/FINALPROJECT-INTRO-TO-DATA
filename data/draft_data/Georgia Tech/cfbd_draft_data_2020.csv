@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3914240,104689,59,Georgia Tech,ACC,Jacksonville,2020,206,6,27,Tyler Davis,Tight End,76,240,,,,"{'city': 'North Bellmore', 'state': 'NY', 'country': 'USA', 'latitude': '40.6914882', 'longitude': '-73.5336396', 'countyFips': '36059'}"

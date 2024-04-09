@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1020423,50308,130,Michigan,Big Ten,Detroit,2016,95,3,32,Graham Glasgow,Center,78,307,122,4,66,"{'city': 'Aurora', 'state': 'IL', 'country': 'USA', 'latitude': '41.7571701', 'longitude': '-88.3147539', 'countyFips': '17089'}"
+535161,50286,130,Michigan,Big Ten,Baltimore,2016,132,4,34,Willie Henry,Defensive Tackle,75,303,70,12,78,"{'city': 'Cleveland', 'state': 'OH', 'country': 'USA', 'latitude': '41.5051613', 'longitude': '-81.6934446', 'countyFips': '39035'}"
+518380,50003,130,Michigan,Big Ten,Detroit,2016,191,6,16,Jake Rudock,Quarterback,75,207,335,17,32,"{'city': 'Weston', 'state': 'FL', 'country': 'USA', 'latitude': '26.103632', 'longitude': '-80.40310198173701', 'countyFips': '12011'}"

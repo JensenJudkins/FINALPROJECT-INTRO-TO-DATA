@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+535801,46875,84,Indiana,Big Ten,Atlanta,2015,73,3,9,Tevin Coleman,Running Back,71,206,66,6,78,"{'city': 'Tinley Park', 'state': 'IL', 'country': 'USA', 'latitude': '41.5733669', 'longitude': '-87.7844944', 'countyFips': '17031'}"

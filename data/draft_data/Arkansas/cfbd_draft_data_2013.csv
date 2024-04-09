@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482676,29971,8,Arkansas,SEC,Kansas City,2013,96,3,34,Knile Davis,Running Back,71,227,215,18,49,"{'city': 'Missouri City', 'state': 'TX', 'country': 'USA', 'latitude': '29.6185669', 'longitude': '-95.5377215', 'countyFips': '48157'}"
+382642,29967,8,Arkansas,SEC,Las Vegas,2013,112,4,15,Tyler Wilson,Quarterback,74,215,72,4,78,"{'city': 'Greenwood', 'state': 'AR', 'country': 'USA', 'latitude': '35.2156489', 'longitude': '-94.2557663', 'countyFips': '05131'}"
+482678,30168,8,Arkansas,SEC,Cincinnati,2013,197,6,29,Cobi Hamilton,Wide Receiver,74,212,166,19,57,"{'city': 'Texarkana', 'state': 'TX', 'country': 'USA', 'latitude': '33.44628645', 'longitude': '-94.07638067493534', 'countyFips': '48037'}"
+382629,30188,8,Arkansas,SEC,Buffalo,2013,222,7,16,Chris Gragg,Tight End,75,244,150,8,60,"{'city': 'Warren', 'state': 'AR', 'country': 'USA', 'latitude': '33.6126086', 'longitude': '-92.0645831', 'countyFips': '05011'}"

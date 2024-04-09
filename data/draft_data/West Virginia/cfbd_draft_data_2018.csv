@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4039254,101678,277,West Virginia,Big 12,Los Angeles,2018,119,4,19,Kyzir White,Safety,74,218,116,8,68,"{'city': 'Macungie', 'state': 'PA', 'country': 'USA', 'latitude': '40.5159304', 'longitude': '-75.5551858', 'countyFips': '42077'}"

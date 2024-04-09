@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482875,29628,58,South Florida,Big East,Denver,2013,90,3,28,Kayvon Webster,Cornerback,71.0,195,112.0,16.0,69.0,"{'city': 'Opa Locka', 'state': 'FL', 'country': 'USA', 'latitude': '25.896733849999997', 'longitude': '-80.25949640850294', 'countyFips': '12086'}"
+2465466,29631,58,South Florida,Big East,Green Bay,2013,232,7,26,Samuel Barrington,Outside Linebacker,73.0,246,252.0,19.0,42.0,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+382201,29634,58,South Florida,Big East,San Francisco,2013,237,7,31,B.J. Daniels,Quarterback,,216,,,,"{'city': 'Tallahassee', 'state': 'FL', 'country': 'USA', 'latitude': '30.4380832', 'longitude': '-84.2809332', 'countyFips': '12073'}"

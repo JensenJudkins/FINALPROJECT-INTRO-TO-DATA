@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1029781,47006,2509,Purdue,Big Ten,Dallas,2015,163,5,27,Ryan Russell,Defensive End,76,269,197,17,48,"{'city': 'Carrollton', 'state': 'TX', 'country': 'USA', 'latitude': '32.9537349', 'longitude': '-96.8902816', 'countyFips': '48113'}"

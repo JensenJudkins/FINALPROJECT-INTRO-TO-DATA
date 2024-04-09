@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+531445,50468,2117,Central Michigan,Mid-American,Dallas,2016,212,6,37,Kavon Frazier,Safety,72,217,133,14,63,"{'city': 'Grand Rapids', 'state': 'MI', 'country': 'USA', 'latitude': '42.9632405', 'longitude': '-85.6678639', 'countyFips': '26081'}"

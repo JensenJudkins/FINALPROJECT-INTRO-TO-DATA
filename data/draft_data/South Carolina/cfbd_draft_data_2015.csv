@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1032052,46879,2579,South Carolina,SEC,Jacksonville,2015,67,3,3,A.J. Cann,Offensive Guard,75.0,313,70.0,2.0,77.0,"{'city': 'Bamberg', 'state': 'SC', 'country': 'USA', 'latitude': '33.2971012', 'longitude': '-81.0348202', 'countyFips': '45009'}"
+545218,46928,2579,South Carolina,SEC,San Francisco,2015,126,4,27,Mike Davis,Running Back,69.0,217,119.0,11.0,65.0,"{'city': 'Atlanta', 'state': 'GA', 'country': 'USA', 'latitude': '33.7490987', 'longitude': '-84.3901849', 'countyFips': '13121'}"
+-1032068,46921,2579,South Carolina,SEC,Detroit,2015,240,7,23,Corey Robinson,Offensive Tackle,79.0,324,112.0,13.0,68.0,"{'city': 'Havelock', 'state': 'NC', 'country': 'USA', 'latitude': '34.8785', 'longitude': '-76.9014457', 'countyFips': '37049'}"
+515812,47086,2579,South Carolina,SEC,San Francisco,2015,254,7,37,Rory Anderson,Tight End,,244,,,,"{'city': 'Powder Springs', 'state': 'GA', 'country': 'USA', 'latitude': '33.8595492', 'longitude': '-84.683824', 'countyFips': '13067'}"

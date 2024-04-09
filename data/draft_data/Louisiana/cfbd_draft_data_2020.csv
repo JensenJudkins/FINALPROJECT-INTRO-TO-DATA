@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3917592,104401,309,Louisiana,Sun Belt,Miami,2020,39,2,7,Robert Hunt,Offensive Guard,77,323,59,1,79,"{'city': 'Burkeville', 'state': 'TX', 'country': 'USA', 'latitude': '30.9999178', 'longitude': '-93.6679539', 'countyFips': '48351'}"
+3917599,104649,309,Louisiana,Sun Belt,Pittsburgh,2020,135,4,29,Kevin Dotson,Offensive Guard,76,313,205,12,47,"{'city': 'Plaquemine', 'state': 'LA', 'country': 'USA', 'latitude': '30.2890833', 'longitude': '-91.2342744', 'countyFips': '22047'}"
+4040732,104508,309,Louisiana,Sun Belt,Tampa Bay,2020,245,7,31,Raymond Calais,Running Back,68,188,254,24,38,"{'city': 'Breaux Bridge', 'state': 'LA', 'country': 'USA', 'latitude': '30.2735323', 'longitude': '-91.8992837', 'countyFips': '22099'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3672833,103621,103,Boston College,ACC,Atlanta,2019,14,1,14,Chris Lindstrom,Offensive Guard,76,308,41,1,86,"{'city': 'Dudley', 'state': 'MA', 'country': 'USA', 'latitude': '42.0572744', 'longitude': '-71.9396898', 'countyFips': '25027'}"
+3915282,103520,103,Boston College,ACC,Arizona,2019,65,3,1,Zach Allen,Defensive End,76,281,69,8,78,"{'city': 'New Canaan', 'state': 'CT', 'country': 'USA', 'latitude': '41.146763', 'longitude': '-73.4948446', 'countyFips': '09001'}"
+3915297,103738,103,Boston College,ACC,Detroit,2019,81,3,17,Will Harris,Safety,73,207,96,9,72,"{'city': 'Suwanee', 'state': 'GA', 'country': 'USA', 'latitude': '34.0514898', 'longitude': '-84.0712997', 'countyFips': '13135'}"
+3122818,103656,103,Boston College,ACC,Buffalo,2019,228,7,14,Tommy Sweeney,Tight End,77,251,151,10,63,"{'city': 'Ramsey', 'state': 'NJ', 'country': 'USA', 'latitude': '41.0573188', 'longitude': '-74.1409771', 'countyFips': '34003'}"

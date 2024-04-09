@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3932905,103915,2649,Toledo,Mid-American,Pittsburgh,2019,66,3,2,Diontae Johnson,Wide Receiver,71,183,137.0,19.0,66.0,"{'city': 'Ruskin', 'state': 'FL', 'country': 'USA', 'latitude': '27.7208575', 'longitude': '-82.4331528', 'countyFips': '12057'}"
+3916676,104045,2649,Toledo,Mid-American,Green Bay,2019,185,6,12,Ka'dar Hollman,Cornerback,72,196,,,,"{'city': 'Burlington', 'state': 'NJ', 'country': 'USA', 'latitude': '40.0712218', 'longitude': '-74.8648859', 'countyFips': '34005'}"

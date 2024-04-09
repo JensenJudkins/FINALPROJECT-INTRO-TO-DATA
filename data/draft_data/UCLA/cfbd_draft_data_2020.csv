@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4046522,104461,26,UCLA,Pac-12,New England,2020,91,3,27,Devin Asiasi,Tight End,75,257,69,3,75,"{'city': 'Shoreview', 'state': 'CA', 'country': 'USA', 'latitude': '37.0449417', 'longitude': '-122.0319311', 'countyFips': '06087'}"
+4242973,104208,26,UCLA,Pac-12,New York,2020,110,4,4,Darnay Holmes,Cornerback,70,195,123,15,65,"{'city': 'Pasadena', 'state': 'CA', 'country': 'USA', 'latitude': '34.1476452', 'longitude': '-118.1444779', 'countyFips': '06037'}"
+3910544,104536,26,UCLA,Pac-12,Los Angeles,2020,112,4,6,Joshua Kelley,Running Back,71,212,166,13,55,"{'city': 'Lancaster', 'state': 'CA', 'country': 'USA', 'latitude': '34.6981064', 'longitude': '-118.1366153', 'countyFips': '06037'}"

@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+236991,28147,77,Northwestern,Big Ten,Tampa Bay,2012,233,7,26,Drake Dunsmore,Fullback,74,241,,7,30,"{'city': 'Lenexa', 'state': 'KS', 'country': 'USA', 'latitude': '38.9697458', 'longitude': '-94.7845837', 'countyFips': '20091'}"
+381604,28149,77,Northwestern,Big Ten,New England,2012,235,7,28,Jeremy Ebert,Wide Receiver,70,194,,143,30,"{'city': 'Hilliard', 'state': 'OH', 'country': 'USA', 'latitude': '40.033814', 'longitude': '-83.1596108', 'countyFips': '39049'}"

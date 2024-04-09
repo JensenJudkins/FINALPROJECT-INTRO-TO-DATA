@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4248911,106230,278,Fresno State,Mountain West,Dallas,2022,167,5,24,DaRon Bland,Cornerback,,,169,20,59,"{'city': 'Modesto', 'state': 'CA', 'country': 'USA', 'latitude': '37.6390972', 'longitude': '-120.9968782', 'countyFips': '06099'}"

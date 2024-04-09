@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+515708,50113,98,Western Kentucky,Conference USA,Los Angeles,2016,110,4,12,Tyler Higbee,Tight End,78,249,112.0,5,68,"{'city': 'Clearwater', 'state': 'FL', 'country': 'USA', 'latitude': '27.9658533', 'longitude': '-82.8001026', 'countyFips': '12103'}"
+504866,50002,98,Western Kentucky,Conference USA,Miami,2016,223,7,2,Brandon Doughty,Quarterback,75,213,272.0,14,39,"{'city': 'Davie', 'state': 'FL', 'country': 'USA', 'latitude': '26.075729', 'longitude': '-80.28410897530864', 'countyFips': '12011'}"
+540670,50249,98,Western Kentucky,Conference USA,San Francisco,2016,249,7,28,Prince Charles Iworah,Cornerback,70,192,,42,30,"{'city': 'Nashville', 'state': 'TN', 'country': 'USA', 'latitude': '36.1622296', 'longitude': '-86.7743531', 'countyFips': '47037'}"

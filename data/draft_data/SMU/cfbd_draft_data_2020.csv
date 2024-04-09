@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3916204,104495,2567,SMU,American Athletic,Baltimore,2020,201,6,22,James Proche,Wide Receiver,71,201,164,28,55,"{'city': 'Dallas', 'state': 'TX', 'country': 'USA', 'latitude': '32.7762719', 'longitude': '-96.7968559', 'countyFips': '48113'}"

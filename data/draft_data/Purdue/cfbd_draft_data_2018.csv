@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3917993,101805,2509,Purdue,Big Ten,New England,2018,143,5,6,Ja'Whaun Bentley,Inside Linebacker,74,252,319,16,33,"{'city': 'Glenarden', 'state': 'MD', 'country': 'USA', 'latitude': '38.9292782', 'longitude': '-76.8616387', 'countyFips': '24033'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3924365,101570,2579,South Carolina,SEC,Baltimore,2018,25,1,25,Hayden Hurst,Tight End,77,250,28,1,88,"{'city': 'Jacksonville', 'state': 'FL', 'country': 'USA', 'latitude': '30.3321838', 'longitude': '-81.655651', 'countyFips': '12031'}"

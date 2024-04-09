@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1041134,28922,258,Virginia,ACC,San Francisco,2012,237,7,30,Cam Johnson,Defensive End,76,268,97,12,70,"{'city': 'Washington', 'state': 'DC', 'country': 'USA', 'latitude': '38.8949855', 'longitude': '-77.0365708', 'countyFips': '11001'}"

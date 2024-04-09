@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1029487,34113,221,Pittsburgh,ACC,Los Angeles,2014,13,1,13,Aaron Donald,Defensive Tackle,73,285,6,1,94,"{'city': 'Pittsburgh', 'state': 'PA', 'country': 'USA', 'latitude': '40.4416941', 'longitude': '-79.9900861', 'countyFips': '42003'}"
+514116,33173,221,Pittsburgh,ACC,Houston,2014,135,4,35,Tom Savage,Quarterback,76,228,68,6,75,"{'city': 'Springfield', 'state': 'PA', 'country': 'USA', 'latitude': '39.9306677', 'longitude': '-75.3201879', 'countyFips': '42045'}"
+482855,33640,221,Pittsburgh,ACC,Dallas,2014,146,5,6,Devin Street,Wide Receiver,75,189,222,32,44,"{'city': 'Bethlehem', 'state': 'PA', 'country': 'USA', 'latitude': '40.6178915', 'longitude': '-75.3786521', 'countyFips': '42095'}"

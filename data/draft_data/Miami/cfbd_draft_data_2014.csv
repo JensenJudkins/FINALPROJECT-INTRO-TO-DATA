@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1019782,34402,2390,Miami,ACC,Jacksonville,2014,93,3,29,Brandon Linder,Offensive Guard,78,311,154,8,56,"{'city': 'Southwest Ranches', 'state': 'FL', 'country': 'USA', 'latitude': '26.0587001', 'longitude': '-80.3372733', 'countyFips': '12011'}"
+487725,33143,2390,Miami,ACC,Chicago,2014,191,6,15,Pat O'Donnell,Punter,76,220,289,1,34,"{'city': 'Lake Worth', 'state': 'FL', 'country': 'USA', 'latitude': '26.615891', 'longitude': '-80.0691435', 'countyFips': '12099'}"
+-1019775,33633,2390,Miami,ACC,Buffalo,2014,237,7,22,Seantrel Henderson,Offensive Tackle,79,331,168,14,53,"{'city': 'St. Paul', 'state': 'MN', 'country': 'USA', 'latitude': '44.9504037', 'longitude': '-93.1015026', 'countyFips': '27123'}"

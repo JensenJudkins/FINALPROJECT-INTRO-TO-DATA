@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2514170,33736,158,Nebraska,Big Ten,New Orleans,2014,58,2,26,Stan Jean-Baptiste,Cornerback,75,218,40,6,86,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+-1023414,33667,158,Nebraska,Big Ten,Washington,2014,78,3,14,Spencer Long,Offensive Guard,77,320,189,13,49,"{'city': 'Elkhorn', 'state': 'NE', 'country': 'USA', 'latitude': '41.2860699', 'longitude': '-96.2346121', 'countyFips': '31055'}"
+501848,33434,158,Nebraska,Big Ten,New York,2014,209,6,33,Quincy Enunwa,Wide Receiver,74,225,256,36,39,"{'city': 'Moreno Valley', 'state': 'CA', 'country': 'USA', 'latitude': '33.937517', 'longitude': '-117.2305944', 'countyFips': '06065'}"

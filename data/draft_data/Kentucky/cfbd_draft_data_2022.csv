@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4569587,106066,96,Kentucky,SEC,New York,2022,43,2,11,Wan'Dale Robinson,Wide Receiver,68,178,80,14,77,"{'city': 'Frankfort', 'state': 'KY', 'country': 'USA', 'latitude': '38.2009055', 'longitude': '-84.8732836', 'countyFips': '21073'}"
+4259994,105703,96,Kentucky,SEC,Detroit,2022,46,2,14,Josh Paschal,Defensive End,75,268,52,8,85,"{'city': 'Prince Georges Metro C', 'state': 'MD', 'country': 'USA', 'latitude': None, 'longitude': None, 'countyFips': None}"
+4035048,106034,96,Kentucky,SEC,Jacksonville,2022,65,3,1,Luke Fortner,Center,76,307,127,4,67,"{'city': 'Sylvania', 'state': 'OH', 'country': 'USA', 'latitude': '41.7189392', 'longitude': '-83.7129935', 'countyFips': '39095'}"
+4362611,105625,96,Kentucky,SEC,Kansas City,2022,145,5,2,Darian Kinnard,Offensive Guard,77,322,111,6,70,"{'city': 'Knoxville', 'state': 'TN', 'country': 'USA', 'latitude': '35.9603948', 'longitude': '-83.9210261', 'countyFips': '47093'}"

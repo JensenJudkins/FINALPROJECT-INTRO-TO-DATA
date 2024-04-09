@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3728281,104004,135,Minnesota,Big Ten,New York,2019,157,5,19,Blake Cashman,Inside Linebacker,73,237,271,17,44,"{'city': 'Eden Prairie', 'state': 'MN', 'country': 'USA', 'latitude': '44.8546856', 'longitude': '-93.470786', 'countyFips': '27053'}"

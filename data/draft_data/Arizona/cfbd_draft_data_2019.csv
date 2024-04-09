@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3910660,104055,12,Arizona,Pac-12,Detroit,2019,229,7,15,PJ Johnson,Defensive Tackle,76,334,,,,"{'city': 'Sacramento', 'state': 'CA', 'country': 'USA', 'latitude': '38.5815719', 'longitude': '-121.4943996', 'countyFips': '06067'}"

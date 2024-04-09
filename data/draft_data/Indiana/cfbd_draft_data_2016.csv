@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1013943,49923,84,Indiana,Big Ten,Green Bay,2016,48,2,17,Jason Spriggs,Offensive Tackle,78,301,54,6,81,"{'city': 'Elkhart', 'state': 'IN', 'country': 'USA', 'latitude': '41.6819935', 'longitude': '-85.9766671', 'countyFips': '18039'}"
+552904,50420,84,Indiana,Big Ten,Chicago,2016,150,5,11,Jordan Howard,Running Back,72,230,94,6,71,"{'city': 'Gardendale', 'state': 'AL', 'country': 'USA', 'latitude': '33.6601033', 'longitude': '-86.8127702', 'countyFips': '01073'}"
+535825,50000,84,Indiana,Big Ten,Washington,2016,187,6,12,Nate Sudfeld,Quarterback,78,234,160,8,59,"{'city': 'Modesto', 'state': 'CA', 'country': 'USA', 'latitude': '37.6390972', 'longitude': '-120.9968782', 'countyFips': '06099'}"

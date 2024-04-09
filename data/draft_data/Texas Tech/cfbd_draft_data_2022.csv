@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4362186,106074,2641,Texas Tech,Big 12,Miami,2022,125,4,20,Erik Ezukanma,Wide Receiver,74,209,165,23,59,"{'city': 'Fort Worth', 'state': 'TX', 'country': 'USA', 'latitude': '32.753177', 'longitude': '-97.3327459', 'countyFips': '48439'}"
+4241848,105650,2641,Texas Tech,Big 12,Cleveland,2022,246,7,25,Dawson Deaton,Center,78,306,248,6,46,"{'city': 'Frisco', 'state': 'TX', 'country': 'USA', 'latitude': '33.1506744', 'longitude': '-96.8236116', 'countyFips': '48085'}"

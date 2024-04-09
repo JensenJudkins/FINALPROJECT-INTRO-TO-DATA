@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+535844,51564,2294,Iowa,Big Ten,San Francisco,2017,104,3,40,C.J. Beathard,Quarterback,75,219,156,9,59,"{'city': 'Franklin', 'state': 'TN', 'country': 'USA', 'latitude': '35.925193', 'longitude': '-86.8689365', 'countyFips': '47187'}"
+535847,51617,2294,Iowa,Big Ten,Minnesota,2017,109,4,2,Jaleel Johnson,Defensive Tackle,75,316,109,9,71,"{'city': 'Lombard', 'state': 'IL', 'country': 'USA', 'latitude': '41.8864687', 'longitude': '-88.0201536', 'countyFips': '17043'}"
+545428,51917,2294,Iowa,Big Ten,San Francisco,2017,146,5,2,George Kittle,Tight End,76,247,123,10,68,"{'city': 'Norman', 'state': 'OK', 'country': 'USA', 'latitude': '35.2225717', 'longitude': '-97.4394816', 'countyFips': '40027'}"
+545375,51589,2294,Iowa,Big Ten,Los Angeles,2017,151,5,7,Desmond King,Cornerback,70,201,77,12,76,"{'city': 'Detroit', 'state': 'MI', 'country': 'USA', 'latitude': '42.3315509', 'longitude': '-83.0466403', 'countyFips': '26163'}"

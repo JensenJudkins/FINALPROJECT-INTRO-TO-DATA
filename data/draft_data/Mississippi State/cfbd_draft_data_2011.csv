@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1022195,27047,344,Mississippi State,SEC,Green Bay,2011,32,1,32,Derek Sherrod,Offensive Tackle,77,321,36,5,87,"{'city': 'Columbus', 'state': 'MS', 'country': 'USA', 'latitude': '33.4956744', 'longitude': '-88.4272627', 'countyFips': '28087'}"
+-1022202,27345,344,Mississippi State,SEC,Seattle,2011,99,4,2,K.J. Wright,Outside Linebacker,75,246,125,8,66,"{'city': 'Olive Branch', 'state': 'MS', 'country': 'USA', 'latitude': '34.9617605', 'longitude': '-89.8295315', 'countyFips': '28033'}"
+-1022188,27261,344,Mississippi State,SEC,Baltimore,2011,165,5,34,Pernell McPhee,Defensive End,75,278,137,17,63,"{'city': 'Pahokee', 'state': 'FL', 'country': 'USA', 'latitude': '26.8200607', 'longitude': '-80.6653351', 'countyFips': '12099'}"
+483163,27101,344,Mississippi State,SEC,Buffalo,2011,169,6,4,Chris White,Inside Linebacker,75,240,224,12,43,"{'city': 'Vancleave', 'state': 'MS', 'country': 'USA', 'latitude': '30.5404745', 'longitude': '-88.6875237', 'countyFips': '28059'}"

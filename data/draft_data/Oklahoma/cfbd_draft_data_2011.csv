@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2219198,27219,201,Oklahoma,Big 12,Dallas,2011,71,3,7,Demarco Murray,Running Back,72,213,90,8,74,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+183420,27026,201,Oklahoma,Big 12,Denver,2011,108,4,11,Quinton Carter,Safety,73,208,86,3,75,"{'city': 'Las Vegas', 'state': 'NV', 'country': 'USA', 'latitude': '36.1672559', 'longitude': '-115.1485163', 'countyFips': '32003'}"
+188949,26281,201,Oklahoma,Big 12,Los Angeles,2011,229,7,26,Jonathan Nelson,Cornerback,70,197,260,32,37,"{'city': 'Arlington', 'state': 'TX', 'country': 'USA', 'latitude': '32.701938999999996', 'longitude': '-97.10562379033699', 'countyFips': '48439'}"
+188932,27384,201,Oklahoma,Big 12,Denver,2011,247,7,44,Jeremy Beal,Defensive End,74,262,109,15,70,"{'city': 'Carrollton', 'state': 'TX', 'country': 'USA', 'latitude': '32.9537349', 'longitude': '-96.8902816', 'countyFips': '48113'}"

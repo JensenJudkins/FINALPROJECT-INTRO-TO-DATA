@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4036133,103545,2294,Iowa,Big Ten,Detroit,2019,8,1,8,T.J. Hockenson,Tight End,77,251,6,1,92,"{'city': 'Chariton', 'state': 'IA', 'country': 'USA', 'latitude': '41.0147507', 'longitude': '-93.3072514', 'countyFips': '19117'}"
+4036131,103528,2294,Iowa,Big Ten,Denver,2019,20,1,20,Noah Fant,Tight End,76,249,12,2,90,"{'city': 'Omaha', 'state': 'NE', 'country': 'USA', 'latitude': '41.2587459', 'longitude': '-95.9383758', 'countyFips': '31055'}"
+3894856,103856,2294,Iowa,Big Ten,Tampa Bay,2019,107,4,5,Anthony Nelson,Defensive End,79,271,101,10,71,"{'city': 'Urbandale', 'state': 'IA', 'country': 'USA', 'latitude': '41.6274552', 'longitude': '-93.7380624', 'countyFips': '19153'}"
+4036134,103850,2294,Iowa,Big Ten,Tennessee,2019,116,4,14,Amani Hooker,Safety,71,210,91,8,73,"{'city': 'Minneapolis', 'state': 'MN', 'country': 'USA', 'latitude': '44.9772995', 'longitude': '-93.2654692', 'countyFips': '27053'}"

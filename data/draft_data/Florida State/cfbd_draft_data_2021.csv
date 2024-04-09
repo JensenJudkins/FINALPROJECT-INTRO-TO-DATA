@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4363034,105143,52,Florida State,ACC,Los Angeles,2021,47,2,15,Asante Samuel Jr.,Cornerback,70,180,34,5,88,"{'city': 'Sunrise', 'state': 'FL', 'country': 'USA', 'latitude': '26.1482449', 'longitude': '-80.32888594100868', 'countyFips': '12011'}"
+4035604,105177,52,Florida State,ACC,Minnesota,2021,134,4,29,Janarius Robinson,Defensive End,77,263,201,21,50,"{'city': 'Panama City', 'state': 'FL', 'country': 'USA', 'latitude': '30.1600827', 'longitude': '-85.6545729', 'countyFips': '12005'}"
+4240026,105291,52,Florida State,ACC,Kansas City,2021,144,4,39,Joshua Kaindoh,Defensive End,78,260,167,14,58,"{'city': 'Baltimore', 'state': 'MD', 'country': 'USA', 'latitude': '39.2908816', 'longitude': '-76.610759', 'countyFips': '24510'}"
+4240030,104835,52,Florida State,ACC,New York,2021,186,6,2,Hamsah Nasirildeen,Safety,75,215,102,7,71,"{'city': 'Concord', 'state': 'NC', 'country': 'USA', 'latitude': '35.4093772', 'longitude': '-80.5797416', 'countyFips': '37025'}"

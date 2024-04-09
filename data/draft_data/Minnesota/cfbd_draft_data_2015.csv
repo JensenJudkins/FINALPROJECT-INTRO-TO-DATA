@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+530747,46858,135,Minnesota,Big Ten,Baltimore,2015,55,2,23,Maxx Williams,Tight End,76,249,49.0,1,83,"{'city': 'Waconia', 'state': 'MN', 'country': 'USA', 'latitude': '44.8507957', 'longitude': '-93.7869088', 'countyFips': '27019'}"
+545478,47008,135,Minnesota,Big Ten,Dallas,2015,127,4,28,Damien Wilson,Inside Linebacker,72,245,199.0,8,48,"{'city': 'Gloster', 'state': 'MS', 'country': 'USA', 'latitude': '31.1973959', 'longitude': '-91.0217703', 'countyFips': '28005'}"
+512737,46953,135,Minnesota,Big Ten,Tennessee,2015,138,5,2,David Cobb,Running Back,71,229,144.0,13,58,"{'city': 'Killeen', 'state': 'TX', 'country': 'USA', 'latitude': '31.1171441', 'longitude': '-97.727796', 'countyFips': '48027'}"
+2576327,47249,135,Minnesota,Big Ten,Miami,2015,150,5,14,Ced Thompson,Safety,72,211,,27,30,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

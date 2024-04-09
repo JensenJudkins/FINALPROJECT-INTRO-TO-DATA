@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+483345,28989,2116,UCF,Conference USA,Minnesota,2012,66,3,3,Josh Robinson,Cornerback,70,199,61,6,82,"{'city': 'Sunrise', 'state': 'FL', 'country': 'USA', 'latitude': '26.1482449', 'longitude': '-80.32888594100868', 'countyFips': '12011'}"

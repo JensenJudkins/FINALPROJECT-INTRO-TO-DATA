@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+547401,49986,25,California,Pac-12,Los Angeles,2016,1,1,1,Jared Goff,Quarterback,76,215,11,2,91,"{'city': 'Novato', 'state': 'CA', 'country': 'USA', 'latitude': '38.1061979', 'longitude': '-122.5681191', 'countyFips': '06041'}"
+516956,50448,25,California,Pac-12,Green Bay,2016,163,5,24,Trevor Davis,Wide Receiver,73,188,226,32,48,"{'city': 'Oakley', 'state': 'CA', 'country': 'USA', 'latitude': '37.9974219', 'longitude': '-121.7124536', 'countyFips': '06013'}"
+517016,50033,25,California,Pac-12,New Orleans,2016,237,7,16,Daniel Lasco,Running Back,72,209,191,14,54,"{'city': 'The Woodlands', 'state': 'TX', 'country': 'USA', 'latitude': '30.1734194', 'longitude': '-95.504686', 'countyFips': '48339'}"
+535270,50437,25,California,Pac-12,Seattle,2016,243,7,22,Kenny Lawler,Wide Receiver,75,203,128,15,65,"{'city': 'Pomona', 'state': 'CA', 'country': 'USA', 'latitude': '34.0553813', 'longitude': '-117.7517496', 'countyFips': '06037'}"

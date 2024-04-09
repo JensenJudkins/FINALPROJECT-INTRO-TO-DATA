@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545469,51979,135,Minnesota,Big Ten,Jacksonville,2017,222,7,4,Jalen Myrick,Cornerback,70,200,249,27,42,"{'city': 'Bloomingdale', 'state': 'GA', 'country': 'USA', 'latitude': '32.1324249', 'longitude': '-81.2990018', 'countyFips': '13051'}"

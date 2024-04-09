@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+500338,33600,26,UCLA,Pac-12,Minnesota,2014,9,1,9,Anthony Barr,Outside Linebacker,77,255,25,3,90,"{'city': 'San Pedro', 'state': 'CA', 'country': 'USA', 'latitude': '33.7358518', 'longitude': '-118.2922934', 'countyFips': '06037'}"
+-1038338,34736,26,UCLA,Pac-12,Houston,2014,33,2,1,Xavier Su'a-Filo,Offensive Guard,76,307,34,1,88,"{'city': 'Pleasant Grove', 'state': 'UT', 'country': 'USA', 'latitude': '40.3641184', 'longitude': '-111.73854', 'countyFips': '49049'}"
+500350,34155,26,UCLA,Pac-12,Seattle,2014,108,4,8,Cassius Marsh,Defensive End,76,252,181,17,50,"{'city': 'Simi Valley', 'state': 'CA', 'country': 'USA', 'latitude': '34.2694474', 'longitude': '-118.781482', 'countyFips': '06111'}"
+480216,34140,26,UCLA,Pac-12,New York,2014,115,4,15,Shaq Evans,Wide Receiver,73,213,152,23,57,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+500360,33659,26,UCLA,Pac-12,Pittsburgh,2014,192,6,16,Jordan Zumwalt,Outside Linebacker,76,235,233,19,42,"{'city': 'Huntington Beach', 'state': 'CA', 'country': 'USA', 'latitude': '33.6783336', 'longitude': '-118.0000166', 'countyFips': '06059'}"

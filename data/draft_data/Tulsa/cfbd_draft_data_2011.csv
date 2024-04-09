@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+237445,27288,202,Tulsa,Conference USA,Miami,2011,174,6,9,Charles Clay,Fullback,75,245,157,1,59,"{'city': 'Little Rock', 'state': 'AR', 'country': 'USA', 'latitude': '34.7464809', 'longitude': '-92.2895948', 'countyFips': '05119'}"

@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1025233,28999,152,NC State,ACC,Buffalo,2012,69,3,6,T.J. Graham,Wide Receiver,71,188,146.0,20,60,"{'city': 'Raleigh', 'state': 'NC', 'country': 'USA', 'latitude': '35.7803977', 'longitude': '-78.6390989', 'countyFips': '37183'}"
+511310,29001,152,NC State,ACC,Green Bay,2012,163,5,28,Terrell Manning,Outside Linebacker,74,237,140.0,10,61,"{'city': 'Laurinburg', 'state': 'NC', 'country': 'USA', 'latitude': '34.7740495', 'longitude': '-79.4628248', 'countyFips': '37165'}"
+238071,28107,152,NC State,ACC,Minnesota,2012,210,7,3,Audie Cole,Inside Linebacker,76,246,180.0,6,50,"{'city': 'Monroe', 'state': 'MI', 'country': 'USA', 'latitude': '41.9145037', 'longitude': '-83.3968252', 'countyFips': '26115'}"
+-1025249,29048,152,NC State,ACC,Seattle,2012,225,7,18,J.R. Sweezy,Defensive Tackle,77,298,,31,30,"{'city': 'Mooresville', 'state': 'NC', 'country': 'USA', 'latitude': '35.5848596', 'longitude': '-80.8100724', 'countyFips': '37097'}"
+-1025236,28111,152,NC State,ACC,New York,2012,239,7,32,Markus Kuhn,Defensive Tackle,77,299,,23,34,"{'city': 'Weinheim', 'state': '', 'country': 'Germany', 'latitude': None, 'longitude': None, 'countyFips': None}"

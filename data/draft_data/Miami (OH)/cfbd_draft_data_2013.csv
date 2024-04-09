@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+385212,29975,193,Miami (OH),Mid-American,Denver,2013,234,7,28,Zac Dysert,Quarterback,75,231,83,7,75,"{'city': 'Ada', 'state': 'OH', 'country': 'USA', 'latitude': '40.7694969', 'longitude': '-83.8227149', 'countyFips': '39065'}"

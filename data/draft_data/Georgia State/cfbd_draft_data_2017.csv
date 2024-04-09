@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545837,51988,2247,Georgia State,Sun Belt,Washington,2017,209,6,25,Robert Davis,Wide Receiver,75,219,178,23,56,"{'city': 'Warner Robins', 'state': 'GA', 'country': 'USA', 'latitude': '32.6200973', 'longitude': '-83.606568', 'countyFips': '13153'}"

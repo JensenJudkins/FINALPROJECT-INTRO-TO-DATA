@@ -1,0 +1,61 @@
+playerId,player,team,conference,category,statType,stat
+500231,Tony Zenon,Georgia Tech,ACC,receiving,REC,1
+531126,Mike Summers Jr.,Georgia Tech,ACC,receiving,REC,10
+551571,DeAndre Smelter,Georgia Tech,ACC,receiving,YDS,345
+500214,Matt Connors,Georgia Tech,ACC,receiving,REC,1
+483024,David Sims,Georgia Tech,ACC,receiving,YDS,71
+500215,Synjyn Days,Georgia Tech,ACC,receiving,REC,4
+500218,Deon Hill,Georgia Tech,ACC,receiving,LONG,20
+551571,DeAndre Smelter,Georgia Tech,ACC,receiving,YPR,16.4
+500215,Synjyn Days,Georgia Tech,ACC,receiving,YDS,48
+500214,Matt Connors,Georgia Tech,ACC,receiving,YPR,3.0
+483026,Robert Godhigh,Georgia Tech,ACC,receiving,LONG,43
+500218,Deon Hill,Georgia Tech,ACC,receiving,TD,1
+531103,Dennis Andrews,Georgia Tech,ACC,receiving,YPR,37.0
+531103,Dennis Andrews,Georgia Tech,ACC,receiving,TD,0
+483026,Robert Godhigh,Georgia Tech,ACC,receiving,REC,23
+500212,B.J. Bostic,Georgia Tech,ACC,receiving,YPR,6.6
+483024,David Sims,Georgia Tech,ACC,receiving,REC,2
+500215,Synjyn Days,Georgia Tech,ACC,receiving,LONG,18
+500218,Deon Hill,Georgia Tech,ACC,receiving,REC,4
+483024,David Sims,Georgia Tech,ACC,receiving,LONG,59
+513703,Zach Laskey,Georgia Tech,ACC,receiving,LONG,24
+483024,David Sims,Georgia Tech,ACC,receiving,YPR,35.5
+513727,Darren Waller,Georgia Tech,ACC,receiving,TD,3
+500212,B.J. Bostic,Georgia Tech,ACC,receiving,YDS,33
+513727,Darren Waller,Georgia Tech,ACC,receiving,REC,17
+500214,Matt Connors,Georgia Tech,ACC,receiving,TD,0
+500218,Deon Hill,Georgia Tech,ACC,receiving,YPR,12.3
+500231,Tony Zenon,Georgia Tech,ACC,receiving,TD,0
+500231,Tony Zenon,Georgia Tech,ACC,receiving,YPR,6.0
+551571,DeAndre Smelter,Georgia Tech,ACC,receiving,LONG,42
+551571,DeAndre Smelter,Georgia Tech,ACC,receiving,TD,4
+500231,Tony Zenon,Georgia Tech,ACC,receiving,YDS,6
+500214,Matt Connors,Georgia Tech,ACC,receiving,YDS,3
+531126,Mike Summers Jr.,Georgia Tech,ACC,receiving,YDS,211
+531103,Dennis Andrews,Georgia Tech,ACC,receiving,REC,1
+500212,B.J. Bostic,Georgia Tech,ACC,receiving,REC,5
+513727,Darren Waller,Georgia Tech,ACC,receiving,YDS,367
+500212,B.J. Bostic,Georgia Tech,ACC,receiving,TD,0
+531103,Dennis Andrews,Georgia Tech,ACC,receiving,YDS,37
+483024,David Sims,Georgia Tech,ACC,receiving,TD,1
+483026,Robert Godhigh,Georgia Tech,ACC,receiving,TD,2
+500214,Matt Connors,Georgia Tech,ACC,receiving,LONG,3
+483026,Robert Godhigh,Georgia Tech,ACC,receiving,YPR,20.5
+531103,Dennis Andrews,Georgia Tech,ACC,receiving,LONG,37
+500212,B.J. Bostic,Georgia Tech,ACC,receiving,LONG,10
+513703,Zach Laskey,Georgia Tech,ACC,receiving,YPR,18.0
+500231,Tony Zenon,Georgia Tech,ACC,receiving,LONG,6
+531126,Mike Summers Jr.,Georgia Tech,ACC,receiving,LONG,54
+513703,Zach Laskey,Georgia Tech,ACC,receiving,TD,1
+551571,DeAndre Smelter,Georgia Tech,ACC,receiving,REC,21
+513703,Zach Laskey,Georgia Tech,ACC,receiving,REC,3
+500215,Synjyn Days,Georgia Tech,ACC,receiving,TD,0
+483026,Robert Godhigh,Georgia Tech,ACC,receiving,YDS,471
+500215,Synjyn Days,Georgia Tech,ACC,receiving,YPR,12.0
+500218,Deon Hill,Georgia Tech,ACC,receiving,YDS,49
+513727,Darren Waller,Georgia Tech,ACC,receiving,YPR,21.6
+513727,Darren Waller,Georgia Tech,ACC,receiving,LONG,72
+531126,Mike Summers Jr.,Georgia Tech,ACC,receiving,YPR,21.1
+531126,Mike Summers Jr.,Georgia Tech,ACC,receiving,TD,0
+513703,Zach Laskey,Georgia Tech,ACC,receiving,YDS,54

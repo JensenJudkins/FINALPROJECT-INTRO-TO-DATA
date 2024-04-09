@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1017424,47539,309,Louisiana,Sun Belt,Green Bay,2015,210,6,34,Christian Ringo,Defensive End,,293,,,,"{'city': 'Jackson', 'state': 'MS', 'country': 'USA', 'latitude': '32.2990384', 'longitude': '-90.1847691', 'countyFips': '28049'}"

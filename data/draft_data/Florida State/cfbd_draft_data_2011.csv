@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+183733,27210,52,Florida State,ACC,Minnesota,2011,12,1,12,Christian Ponder,Quarterback,74,229,45,5,85,"{'city': 'Colleyville', 'state': 'TX', 'country': 'USA', 'latitude': '32.8809603', 'longitude': '-97.155012', 'countyFips': '48439'}"
+238347,26083,52,Florida State,ACC,Kansas City,2011,55,2,23,Rodney Hudson,Center,74,299,52,2,83,"{'city': 'Mobile', 'state': 'AL', 'country': 'USA', 'latitude': '30.6943566', 'longitude': '-88.0430541', 'countyFips': '01097'}"
+191194,27056,52,Florida State,ACC,Washington,2011,224,7,21,Markus White,Defensive End,76,266,302,28,31,"{'city': 'West Palm Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.715364', 'longitude': '-80.0532942', 'countyFips': '12099'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1001215,50501,2026,Appalachian State,Sun Belt,San Francisco,2016,142,5,3,Ronald Blair,Defensive Tackle,74,284,96,16,70,"{'city': 'Greensboro', 'state': 'GA', 'country': 'USA', 'latitude': '33.5756831', 'longitude': '-83.1823789', 'countyFips': '13133'}"

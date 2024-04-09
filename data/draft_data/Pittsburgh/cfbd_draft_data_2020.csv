@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3895791,104389,221,Pittsburgh,ACC,Buffalo,2020,239,7,25,Dane Jackson,Cornerback,72,187,195,22,50,"{'city': 'Coraopolis', 'state': 'PA', 'country': 'USA', 'latitude': '40.5184013', 'longitude': '-80.1667247', 'countyFips': '42003'}"

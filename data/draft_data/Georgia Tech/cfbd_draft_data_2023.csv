@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4243493,106654,59,Georgia Tech,ACC,New England,2023,46,2,15,Keion White,Defensive End,77,285,45,5,84,"{'city': 'Garner', 'state': 'NC', 'country': 'USA', 'latitude': '35.7112642', 'longitude': '-78.6141709', 'countyFips': '37183'}"

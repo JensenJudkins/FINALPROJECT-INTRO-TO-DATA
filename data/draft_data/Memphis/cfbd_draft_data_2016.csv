@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+534849,49985,235,Memphis,American Athletic,Denver,2016,26,1,26,Paxton Lynch,Quarterback,79,244,38,3,85,"{'city': 'Deltona', 'state': 'FL', 'country': 'USA', 'latitude': '28.9005446', 'longitude': '-81.2636738', 'countyFips': '12127'}"

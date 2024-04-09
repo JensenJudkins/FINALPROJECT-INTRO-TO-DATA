@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4361307,105563,36,Colorado State,Mountain West,Arizona,2022,55,2,23,Trey McBride,Tight End,76,246,46,1,86,"{'city': 'Fort Morgan', 'state': 'CO', 'country': 'USA', 'latitude': '40.2502582', 'longitude': '-103.799951', 'countyFips': '08087'}"

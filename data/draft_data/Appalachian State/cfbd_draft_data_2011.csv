@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2271691,27269,2026,Appalachian State,Southern,Seattle,2011,156,5,25,Mark LeGree,Safety,72,210,208.0,17,46,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+2222540,27358,2026,Appalachian State,Southern,San Francisco,2011,163,5,32,Daniel Kilgore,Offensive Guard,75,308,,22,30,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+2271690,27360,2026,Appalachian State,Southern,Green Bay,2011,186,6,21,D.J. Smith,Outside Linebacker,71,239,289.0,19,33,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

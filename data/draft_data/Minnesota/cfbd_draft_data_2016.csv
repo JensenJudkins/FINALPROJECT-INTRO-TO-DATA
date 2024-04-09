@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+530737,49436,135,Minnesota,Big Ten,Kansas City,2016,106,4,8,Eric Murray,Cornerback,71,199,108,14,69,"{'city': 'Milwaukee', 'state': 'WI', 'country': 'USA', 'latitude': '43.0349931', 'longitude': '-87.922497', 'countyFips': '55079'}"
+545451,49895,135,Minnesota,Big Ten,Atlanta,2016,115,4,17,De'Vondre Campbell,Outside Linebacker,76,232,161,13,58,"{'city': 'Fort Myers', 'state': 'FL', 'country': 'USA', 'latitude': '26.640628', 'longitude': '-81.8723084', 'countyFips': '12071'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+531846,50372,2006,Akron,Mid-American,Los Angeles,2016,175,5,36,Jatavis Brown,Outside Linebacker,71,227,151,12,59,"{'city': 'Belle Glade', 'state': 'FL', 'country': 'USA', 'latitude': '26.6845104', 'longitude': '-80.6675577', 'countyFips': '12099'}"

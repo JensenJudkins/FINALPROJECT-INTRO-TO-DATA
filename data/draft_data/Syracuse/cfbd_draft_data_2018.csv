@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3124005,102418,183,Syracuse,ACC,Indianapolis,2018,235,7,17,Zaire Franklin,Inside Linebacker,72,239,,45,30,"{'city': 'Philadelphia', 'state': 'PA', 'country': 'USA', 'latitude': '39.9527237', 'longitude': '-75.1635262', 'countyFips': '42101'}"

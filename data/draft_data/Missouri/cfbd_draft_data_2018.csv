@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+550100,101571,142,Missouri,SEC,Green Bay,2018,133,4,33,J'Mon Moore,Wide Receiver,75,207,217,25,50,"{'city': 'Missouri City', 'state': 'TX', 'country': 'USA', 'latitude': '29.6185669', 'longitude': '-95.5377215', 'countyFips': '48157'}"

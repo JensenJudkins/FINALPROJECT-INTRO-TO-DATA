@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4362847,104938,2579,South Carolina,SEC,Carolina,2021,8,1,8,Jaycee Horn,Cornerback,73,205,14,2,91,"{'city': 'Alpharetta', 'state': 'GA', 'country': 'USA', 'latitude': '34.0709576', 'longitude': '-84.2747329', 'countyFips': '13121'}"
+4362851,105281,2579,South Carolina,SEC,Los Angeles,2021,103,3,40,Ernest Jones,Inside Linebacker,74,230,127,10,67,"{'city': 'Waycross', 'state': 'GA', 'country': 'USA', 'latitude': '31.2135511', 'longitude': '-82.3540178', 'countyFips': '13299'}"
+4259499,104917,2579,South Carolina,SEC,Carolina,2021,204,6,20,Shi Smith,Wide Receiver,70,186,89,15,73,"{'city': 'Union', 'state': 'SC', 'country': 'USA', 'latitude': '34.7151939', 'longitude': '-81.6237462', 'countyFips': '45087'}"
+4362855,104758,2579,South Carolina,SEC,Dallas,2021,227,6,43,Israel Mukuamu,Cornerback,76,212,171,26,57,"{'city': 'Bossier City', 'state': 'LA', 'country': 'USA', 'latitude': '32.5369356', 'longitude': '-93.6952689', 'countyFips': '22015'}"

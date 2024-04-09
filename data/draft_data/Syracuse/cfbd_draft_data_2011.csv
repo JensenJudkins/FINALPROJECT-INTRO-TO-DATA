@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+190183,26177,183,Syracuse,Big East,Indianapolis,2011,119,4,22,Delone Carter,Running Back,69,225,134,13,64,"{'city': 'Copley', 'state': 'OH', 'country': 'USA', 'latitude': '41.0989439', 'longitude': '-81.6445685', 'countyFips': '39153'}"
+2267482,26196,183,Syracuse,Big East,Detroit,2011,157,5,26,Douglas Hogue,Outside Linebacker,75,235,180,13,53,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

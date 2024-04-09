@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3123233,103551,295,Old Dominion,Conference USA,New York,2019,95,3,31,Oshane Ximines,Defensive End,76,253,74,9,76,"{'city': 'Ahoskie', 'state': 'NC', 'country': 'USA', 'latitude': '36.2868223', 'longitude': '-76.9846808', 'countyFips': '37091'}"
+3139522,103903,295,Old Dominion,Conference USA,Detroit,2019,184,6,11,Travis Fulgham,Wide Receiver,75,215,89,13,73,"{'city': 'Ashburn', 'state': 'VA', 'country': 'USA', 'latitude': '39.0437192', 'longitude': '-77.4874899', 'countyFips': '51107'}"

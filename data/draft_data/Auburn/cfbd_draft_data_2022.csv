@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4371973,105559,2,Auburn,SEC,Tennessee,2022,35,2,3,Roger McCreary,Cornerback,71,190,48,7,85,"{'city': 'Mobile', 'state': 'AL', 'country': 'USA', 'latitude': '30.6943566', 'longitude': '-88.0430541', 'countyFips': '01097'}"

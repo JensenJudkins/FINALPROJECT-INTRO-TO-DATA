@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1039055,28826,30,USC,Pac-12,Minnesota,2012,4,1,4,Matt Kalil,Offensive Tackle,79,306,5,1,96,"{'city': 'Corona ', 'state': 'CA', 'country': 'USA', 'latitude': '33.8752945', 'longitude': '-117.5664449', 'countyFips': '06065'}"
+-1039061,28988,30,USC,Pac-12,Green Bay,2012,28,1,28,Nick Perry,Defensive End,75,271,38,6,88,"{'city': 'Detroit', 'state': 'MI', 'country': 'USA', 'latitude': '42.3315509', 'longitude': '-83.0466403', 'countyFips': '26163'}"
+236576,29028,30,USC,Pac-12,Minnesota,2012,128,4,33,Rhett Ellison,Fullback,77,251,162,1,55,"{'city': 'Portola Valley ', 'state': 'CA', 'country': 'USA', 'latitude': '37.3736298', 'longitude': '-122.219047', 'countyFips': '06081'}"

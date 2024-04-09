@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1030123,28233,242,Rice,Conference USA,Tennessee,2012,211,7,4,Scott Solomon,Defensive End,75,262,225,24,40,"{'city': 'San Antonio', 'state': 'TX', 'country': 'USA', 'latitude': '29.4246002', 'longitude': '-98.4951405', 'countyFips': '48029'}"

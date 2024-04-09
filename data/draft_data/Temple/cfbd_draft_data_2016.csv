@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+534336,49443,218,Temple,American Athletic,Baltimore,2016,104,4,6,Tavon Young,Cornerback,69,183,118,16,67,"{'city': 'Oxon Hill', 'state': 'MD', 'country': 'USA', 'latitude': '38.8035961', 'longitude': '-76.9896573', 'countyFips': '24033'}"
+-1033953,49682,218,Temple,American Athletic,Washington,2016,152,5,13,Matt Ioannidis,Defensive Tackle,76,299,157,18,59,"{'city': 'Ringoes', 'state': 'NJ', 'country': 'USA', 'latitude': '40.4289354', 'longitude': '-74.8675019', 'countyFips': '34019'}"
+534341,49769,218,Temple,American Athletic,Pittsburgh,2016,246,7,25,Tyler Matakevich,Inside Linebacker,72,238,142,5,61,"{'city': 'Stratford', 'state': 'CT', 'country': 'USA', 'latitude': '41.1845415', 'longitude': '-73.1331651', 'countyFips': '09001'}"

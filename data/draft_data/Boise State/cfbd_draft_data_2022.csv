@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4373678,105886,68,Boise State,Mountain West,Buffalo,2022,148,5,5,Khalil Shakir,Wide Receiver,72,196,102,16,71,"{'city': 'Murrieta', 'state': 'CA', 'country': 'USA', 'latitude': '33.577752399999994', 'longitude': '-117.18845420205307', 'countyFips': '06065'}"

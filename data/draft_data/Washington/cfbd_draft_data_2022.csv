@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4426405,105627,264,Washington,Pac-12,Kansas City,2022,21,1,21,Trent McDuffie,Cornerback,71,193,16,3,91,"{'city': 'Westminster', 'state': 'CA', 'country': 'USA', 'latitude': '33.7578725', 'longitude': '-117.9859054', 'countyFips': '06059'}"
+4361093,106012,264,Washington,Pac-12,Chicago,2022,39,2,7,Kyler Gordon,Cornerback,72,194,36,6,87,"{'city': 'Mukilteo', 'state': 'WA', 'country': 'USA', 'latitude': '47.9474034', 'longitude': '-122.3036992', 'countyFips': '53061'}"
+4243331,105590,264,Washington,Pac-12,Tampa Bay,2022,106,4,1,Cade Otton,Tight End,77,247,146,8,62,"{'city': 'Tumwater', 'state': 'WA', 'country': 'USA', 'latitude': '47.0080655', 'longitude': '-122.9103689', 'countyFips': '53067'}"
+4039018,106084,264,Washington,Pac-12,Denver,2022,171,5,28,Luke Wattenberg,Center,76,299,279,10,42,"{'city': 'Trabuco Canyon', 'state': 'CA', 'country': 'USA', 'latitude': '33.6626232', 'longitude': '-117.58938', 'countyFips': '06059'}"

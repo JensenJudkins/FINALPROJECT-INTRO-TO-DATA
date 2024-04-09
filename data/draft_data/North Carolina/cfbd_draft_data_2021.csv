@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4361579,105146,153,North Carolina,ACC,Denver,2021,35,2,3,Javonte Williams,Running Back,70,212,35,3,88,"{'city': 'Wallace', 'state': 'NC', 'country': 'USA', 'latitude': '34.735724', 'longitude': '-77.9952628', 'countyFips': '37061'}"
+4037521,104808,153,North Carolina,ACC,Minnesota,2021,78,3,15,Chazz Surratt,Inside Linebacker,74,229,51,6,82,"{'city': 'Denver', 'state': 'NC', 'country': 'USA', 'latitude': '35.5312452', 'longitude': '-81.0297994', 'countyFips': '37109'}"
+4361577,105274,153,North Carolina,ACC,Washington,2021,82,3,19,Dyami Brown,Wide Receiver,73,189,98,17,71,"{'city': 'Charlotte', 'state': 'NC', 'country': 'USA', 'latitude': '35.2272', 'longitude': '-80.843083', 'countyFips': '37119'}"
+4240657,104826,153,North Carolina,ACC,New York,2021,107,4,2,Michael Carter,Running Back,68,201,83,5,74,"{'city': 'Navarre', 'state': 'FL', 'country': 'USA', 'latitude': '30.4019789', 'longitude': '-86.8700821', 'countyFips': '12113'}"
+4240661,105308,153,North Carolina,ACC,Chicago,2021,221,6,37,Dazz Newsome,Wide Receiver,70,190,255,41,37,"{'city': 'Hampton', 'state': 'VA', 'country': 'USA', 'latitude': '37.0520315', 'longitude': '-76.2856365', 'countyFips': '51650'}"

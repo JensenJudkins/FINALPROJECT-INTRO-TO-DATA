@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4241389,104100,201,Oklahoma,Big 12,Dallas,2020,17,1,17,CeeDee Lamb,Wide Receiver,74,198,10,2,92,"{'city': 'Richmond', 'state': 'TX', 'country': 'USA', 'latitude': '29.5821811', 'longitude': '-95.7607832', 'countyFips': '48157'}"
+4241394,104429,201,Oklahoma,Big 12,Los Angeles,2020,23,1,23,Kenneth Murray,Inside Linebacker,75,241,26,2,89,"{'city': 'Missouri City', 'state': 'TX', 'country': 'USA', 'latitude': '29.6185669', 'longitude': '-95.5377215', 'countyFips': '48157'}"
+4040715,104214,201,Oklahoma,Big 12,Philadelphia,2020,53,2,21,Jalen Hurts,Quarterback,73,222,94,7,70,"{'city': 'Channelview', 'state': 'TX', 'country': 'USA', 'latitude': '29.7760599', 'longitude': '-95.1146533', 'countyFips': '48201'}"
+3892883,104375,201,Oklahoma,Big 12,Dallas,2020,82,3,18,Neville Gallimore,Defensive Tackle,74,304,49,6,84,"{'city': 'St. Catharines', 'state': 'ON', 'country': 'CAN', 'latitude': None, 'longitude': None, 'countyFips': None}"

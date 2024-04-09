@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3821577,101513,251,Texas,Big 12,Dallas,2018,50,2,18,Connor Williams,Offensive Guard,77,296,37,3,86,"{'city': 'Coppell', 'state': 'TX', 'country': 'USA', 'latitude': '32.9552598', 'longitude': '-97.0155703', 'countyFips': '48113'}"
+3821576,101530,251,Texas,Big 12,Cincinnati,2018,78,3,14,Malik Jefferson,Outside Linebacker,74,236,78,8,75,"{'city': 'Mesquite', 'state': 'TX', 'country': 'USA', 'latitude': '32.7666103', 'longitude': '-96.599472', 'countyFips': '48113'}"
+3929851,101843,251,Texas,Big 12,Seattle,2018,149,5,12,Michael Dickson,Punter,75,205,105,1,70,"{'city': 'Sydney', 'state': '', 'country': 'Australia', 'latitude': None, 'longitude': None, 'countyFips': None}"
+3929846,101779,251,Texas,Big 12,Baltimore,2018,190,6,16,DeShon Elliott,Safety,73,210,130,11,67,"{'city': 'Rockwall', 'state': 'TX', 'country': 'USA', 'latitude': '32.9312336', 'longitude': '-96.4597089', 'countyFips': '48397'}"

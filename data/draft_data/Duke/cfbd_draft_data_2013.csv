@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+381689,30157,150,Duke,ACC,Atlanta,2013,249,7,43,Sean Renfree,Quarterback,75,219,206,11,50,"{'city': 'Scottsdale', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4942189', 'longitude': '-111.9260184', 'countyFips': '04013'}"

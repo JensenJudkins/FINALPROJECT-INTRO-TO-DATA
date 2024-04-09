@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3116136,101639,77,Northwestern,Big Ten,Los Angeles,2018,251,7,33,Justin Jackson,Running Back,72,193,184,15,56,"{'city': 'Carol Stream', 'state': 'IL', 'country': 'USA', 'latitude': '41.9125286', 'longitude': '-88.1347927', 'countyFips': '17043'}"

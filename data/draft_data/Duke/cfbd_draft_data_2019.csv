@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3917792,103572,150,Duke,ACC,New York,2019,6,1,6,Daniel Jones,Quarterback,77,221,59,6,80,"{'city': 'Charlotte', 'state': 'NC', 'country': 'USA', 'latitude': '35.2272', 'longitude': '-80.843083', 'countyFips': '37119'}"

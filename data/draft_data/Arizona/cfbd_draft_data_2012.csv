@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+238803,27468,12,Arizona,Pac-12,Philadelphia,2012,88,3,25,Nick Foles,Quarterback,77,243,54,6,84,"{'city': 'Austin', 'state': 'TX', 'country': 'USA', 'latitude': '30.2711286', 'longitude': '-97.7436995', 'countyFips': '48453'}"
+378104,27467,12,Arizona,Pac-12,Las Vegas,2012,168,5,33,Juron Criner,Wide Receiver,75,224,169,25,54,"{'city': 'Las Vegas', 'state': 'NV', 'country': 'USA', 'latitude': '36.1672559', 'longitude': '-115.1485163', 'countyFips': '32003'}"
+232115,27473,12,Arizona,Pac-12,Cleveland,2012,245,7,38,Trevin Wade,Cornerback,70,192,147,22,59,"{'city': 'Round Rock', 'state': 'TX', 'country': 'USA', 'latitude': '30.508235', 'longitude': '-97.6788934', 'countyFips': '48491'}"

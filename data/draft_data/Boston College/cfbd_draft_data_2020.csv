@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4239934,104155,103,Boston College,ACC,Green Bay,2020,62,2,30,AJ Dillon,Running Back,72,247,90,8,71,"{'city': 'New London', 'state': 'CT', 'country': 'USA', 'latitude': '41.3556187', 'longitude': '-72.0997804', 'countyFips': '09011'}"

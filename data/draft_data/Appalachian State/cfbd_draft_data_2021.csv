@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4036430,105486,2026,Appalachian State,Sun Belt,Green Bay,2021,178,5,34,Shemar Jean-Charles,Cornerback,71,190,,,,"{'city': 'Miramar', 'state': 'FL', 'country': 'USA', 'latitude': '25.975911449999998', 'longitude': '-80.33472128115224', 'countyFips': '12011'}"

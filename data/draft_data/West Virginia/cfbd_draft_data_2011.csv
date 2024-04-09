@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+238906,27227,277,West Virginia,Big East,Carolina,2011,98,4,1,Brandon Hogan,Cornerback,70,192,98,13,73,"{'city': 'Manassas', 'state': 'VA', 'country': 'USA', 'latitude': '38.7509488', 'longitude': '-77.4752667', 'countyFips': '51683'}"
+382313,27267,277,West Virginia,Big East,Cincinnati,2011,134,5,3,Robert Sands,Safety,76,217,173,11,55,"{'city': 'Carol City', 'state': 'FL', 'country': 'USA', 'latitude': '25.9406488', 'longitude': '-80.2456045', 'countyFips': '12086'}"
+188818,27355,277,West Virginia,Big East,Chicago,2011,195,6,30,J.T. Thomas,Outside Linebacker,73,241,242,16,40,"{'city': 'Ft. Lauderdale', 'state': 'FL', 'country': 'USA', 'latitude': '26.1223084', 'longitude': '-80.1433786', 'countyFips': '12011'}"
+2216077,26170,277,West Virginia,Big East,Washington,2011,253,7,50,Christopher Neild,Defensive Tackle,74,319,316,24,31,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

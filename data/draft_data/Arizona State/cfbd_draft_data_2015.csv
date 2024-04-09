@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546460,46847,9,Arizona State,Pac-12,Green Bay,2015,30,1,30,Damarious Randall,Safety,71,196,38,2,87,"{'city': 'Pensacola', 'state': 'FL', 'country': 'USA', 'latitude': '30.421309', 'longitude': '-87.2169149', 'countyFips': '12033'}"
+546465,46839,9,Arizona State,Pac-12,Houston,2015,70,3,6,Jaelen Strong,Wide Receiver,74,217,30,8,88,"{'city': 'Philadelphia', 'state': 'PA', 'country': 'USA', 'latitude': '39.9527237', 'longitude': '-75.1635262', 'countyFips': '42101'}"
+-1001916,47003,9,Arizona State,Pac-12,Miami,2015,114,4,15,Jamil Douglas,Offensive Guard,76,304,194,13,48,"{'city': 'Cypress', 'state': 'CA', 'country': 'USA', 'latitude': '33.8248235', 'longitude': '-118.0399368', 'countyFips': '06059'}"
+546440,46925,9,Arizona State,Pac-12,Cincinnati,2015,135,4,36,Marcus Hardison,Defensive Tackle,75,307,116,10,66,"{'city': 'Punta Gorda', 'state': 'FL', 'country': 'USA', 'latitude': '26.9297836', 'longitude': '-82.0453664', 'countyFips': '12015'}"

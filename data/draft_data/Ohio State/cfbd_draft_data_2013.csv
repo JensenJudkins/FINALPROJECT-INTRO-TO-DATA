@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1027181,29244,194,Ohio State,Big Ten,New York,2013,49,2,17,Johnathan Hankins,Defensive Tackle,75,320,68,9,78,"{'city': 'Dearborn Heights', 'state': 'MI', 'country': 'USA', 'latitude': '42.3369816', 'longitude': '-83.2732627', 'countyFips': '26163'}"
+-1027195,29206,194,Ohio State,Big Ten,Baltimore,2013,129,4,32,John Simon,Defensive End,74,257,85,9,74,"{'city': 'Youngstown', 'state': 'OH', 'country': 'USA', 'latitude': '41.1035786', 'longitude': '-80.6520161', 'countyFips': '39099'}"
+487795,29319,194,Ohio State,Big Ten,Cincinnati,2013,240,7,34,Reid Fragel,Offensive Tackle,80,308,136,12,63,"{'city': 'Grosse Pointe Farms', 'state': 'MI', 'country': 'USA', 'latitude': '42.4092038', 'longitude': '-82.8918587', 'countyFips': '26163'}"

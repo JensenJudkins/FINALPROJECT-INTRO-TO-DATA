@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+505407,46887,151,East Carolina,American Athletic,Atlanta,2015,107,4,8,Justin Hardy,Wide Receiver,70,192,78,14,73,"{'city': 'Vanceboro ', 'state': 'NC', 'country': 'USA', 'latitude': '35.3084953', 'longitude': '-77.1541195', 'countyFips': '37049'}"

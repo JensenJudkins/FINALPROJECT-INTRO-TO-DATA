@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+483021,29011,59,Georgia Tech,ACC,New York,2012,43,2,11,Stephen Hill,Wide Receiver,76,215,27,3,90,"{'city': 'Lithonia', 'state': 'GA', 'country': 'USA', 'latitude': '33.7123305', 'longitude': '-84.1051939', 'countyFips': '13089'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3917067,103769,36,Colorado State,Mountain West,Minnesota,2019,247,7,33,Olabisi Johnson,Wide Receiver,73,204,224,28,52,"{'city': 'Lakewood', 'state': 'CO', 'country': 'USA', 'latitude': '39.631108499999996', 'longitude': '-105.11005818223015', 'countyFips': '08059'}"

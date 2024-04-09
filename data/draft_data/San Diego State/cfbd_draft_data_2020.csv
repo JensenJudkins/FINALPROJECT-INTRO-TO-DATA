@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4036831,104479,21,San Diego State,Mountain West,Washington,2020,156,5,11,Keith Ismael,Center,75,309,112,5,67,"{'city': 'Oakland', 'state': 'CA', 'country': 'USA', 'latitude': '37.8044557', 'longitude': '-122.2713563', 'countyFips': '06001'}"

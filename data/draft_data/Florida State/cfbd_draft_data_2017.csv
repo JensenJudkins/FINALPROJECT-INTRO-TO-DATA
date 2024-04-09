@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3116593,51658,52,Florida State,ACC,Minnesota,2017,41,2,9,Dalvin Cook,Running Back,70,210,17,3,90,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+546814,51601,52,Florida State,ACC,Denver,2017,51,2,19,DeMarcus Walker,Defensive End,76,280,59,6,80,"{'city': 'Jacksonville', 'state': 'FL', 'country': 'USA', 'latitude': '30.3321838', 'longitude': '-81.655651', 'countyFips': '12031'}"
+-1010911,51647,52,Florida State,ACC,Cleveland,2017,160,5,16,Roderick Johnson,Offensive Tackle,79,298,150,10,61,"{'city': 'Florissant', 'state': 'MO', 'country': 'USA', 'latitude': '38.7919683', 'longitude': '-90.3227803', 'countyFips': '29189'}"
+546815,51688,52,Florida State,ACC,Dallas,2017,216,6,33,Marquez White,Cornerback,72,194,165,23,58,"{'city': 'Dothan', 'state': 'AL', 'country': 'USA', 'latitude': '31.2237434', 'longitude': '-85.3933906', 'countyFips': '01069'}"

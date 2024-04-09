@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+559721,101852,2633,Tennessee,SEC,Carolina,2018,85,3,21,Rashaan Gaulden,Cornerback,73,197,111,13,69,"{'city': 'Spring Hill', 'state': 'TN', 'country': 'USA', 'latitude': '35.751179', 'longitude': '-86.9300023', 'countyFips': '47119'}"
+3915381,101777,2633,Tennessee,SEC,Los Angeles,2018,176,6,2,John Kelly,Running Back,70,216,159,13,60,"{'city': 'Detroit', 'state': 'MI', 'country': 'USA', 'latitude': '42.3315509', 'longitude': '-83.0466403', 'countyFips': '26163'}"
+4266441,101811,2633,Tennessee,SEC,Kansas City,2018,198,6,24,Kahlil McKenzie,Defensive Tackle,75,314,304,30,34,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

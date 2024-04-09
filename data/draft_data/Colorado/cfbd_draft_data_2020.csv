@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4243160,104108,38,Colorado,Pac-12,Jacksonville,2020,42,2,10,Laviska Shenault Jr.,Wide Receiver,73,227,61.0,10.0,79.0,"{'city': 'Desoto', 'state': 'TX', 'country': 'USA', 'latitude': '32.6061241', 'longitude': '-96.865612653687', 'countyFips': '48113'}"
+4360645,104381,38,Colorado,Pac-12,Philadelphia,2020,103,3,39,Davion Taylor,Outside Linebacker,73,228,165.0,11.0,55.0,"{'city': 'Magnolia', 'state': 'MS', 'country': 'USA', 'latitude': '31.1432328', 'longitude': '-90.4587081', 'countyFips': '28113'}"
+4241422,104697,38,Colorado,Pac-12,Chicago,2020,226,7,12,Arlington Hambright,Offensive Tackle,76,307,,,,"{'city': 'Ypsilanti', 'state': 'MI', 'country': 'USA', 'latitude': '42.24253', 'longitude': '-83.6171426940706', 'countyFips': '26161'}"

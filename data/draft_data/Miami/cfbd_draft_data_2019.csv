@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3917852,103742,2390,Miami,ACC,Cleveland,2019,119,4,17,Sheldrick Redwine,Safety,72,196,132,14,66,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+3917853,103626,2390,Miami,ACC,Dallas,2019,158,5,20,Michael Jackson,Cornerback,73,210,239,27,49,"{'city': 'Birmingham', 'state': 'AL', 'country': 'USA', 'latitude': '33.5206824', 'longitude': '-86.8024326', 'countyFips': '01073'}"
+4037459,103602,2390,Miami,ACC,Dallas,2019,165,5,27,Joe Jackson,Defensive End,76,275,119,14,68,"{'city': 'Homestead', 'state': 'FL', 'country': 'USA', 'latitude': '25.4718946', 'longitude': '-80.4759905', 'countyFips': '12086'}"
+3672862,103568,2390,Miami,ACC,Buffalo,2019,181,6,8,Jaquan Johnson,Safety,70,191,128,13,67,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+4037457,103666,2390,Miami,ACC,Seattle,2019,204,6,31,Travis Homer,Running Back,70,201,255,22,47,"{'city': 'West Palm Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.715364', 'longitude': '-80.0532942', 'countyFips': '12099'}"

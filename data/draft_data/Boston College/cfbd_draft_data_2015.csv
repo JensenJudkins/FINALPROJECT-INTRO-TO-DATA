@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1005344,47330,103,Boston College,ACC,San Francisco,2015,190,6,14,Ian Silberman,Offensive Guard,77,306,,37,30,"{'city': 'Orange Park', 'state': 'FL', 'country': 'USA', 'latitude': '30.1654707', 'longitude': '-81.7016346', 'countyFips': '12019'}"
+-1005333,47054,103,Boston College,ACC,Tennessee,2015,208,6,32,Andy Gallik,Center,74,306,245.0,7,40,"{'city': 'Evergreen Park', 'state': 'IL', 'country': 'USA', 'latitude': '41.720136', 'longitude': '-87.7013258', 'countyFips': '17031'}"
+-1005340,47357,103,Boston College,ACC,Philadelphia,2015,237,7,20,Brian Mihalik,Defensive End,81,302,,40,30,"{'city': 'Avon Lake', 'state': 'OH', 'country': 'USA', 'latitude': '41.510033', 'longitude': '-82.0185895', 'countyFips': '39093'}"

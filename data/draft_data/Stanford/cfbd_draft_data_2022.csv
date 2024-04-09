@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4360749,105733,24,Stanford,Pac-12,Houston,2022,150,5,7,Thomas Booker,Defensive Tackle,75,301,215,15,52,"{'city': 'Ellicott City', 'state': 'MD', 'country': 'USA', 'latitude': '39.2673284', 'longitude': '-76.7983067', 'countyFips': '24027'}"

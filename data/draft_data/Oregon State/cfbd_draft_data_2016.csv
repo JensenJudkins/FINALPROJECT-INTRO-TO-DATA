@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1028759,50475,204,Oregon State,Pac-12,Philadelphia,2016,79,3,16,Isaac Seumalo,Center,76,303,187,7,54,"{'city': 'Corvallis', 'state': 'OR', 'country': 'USA', 'latitude': '44.5645659', 'longitude': '-123.2620435', 'countyFips': '41003'}"

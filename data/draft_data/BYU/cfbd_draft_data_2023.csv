@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4429636,106481,252,BYU,FBS Independents,Indianapolis,2023,106,4,4,Blake Freeland,Offensive Tackle,80,302,93,10,71,"{'city': 'Herriman', 'state': 'UT', 'country': 'USA', 'latitude': '40.5140894', 'longitude': '-112.0328198', 'countyFips': '49035'}"
+4373632,106464,252,BYU,FBS Independents,Minnesota,2023,164,5,30,Jaren Hall,Quarterback,72,207,123,7,64,"{'city': 'Spanish Fork', 'state': 'UT', 'country': 'USA', 'latitude': '40.114955', 'longitude': '-111.654923', 'countyFips': '49049'}"
+4426515,106799,252,BYU,FBS Independents,Los Angeles,2023,177,5,43,Puka Nacua,Wide Receiver,74,201,280,36,38,"{'city': 'Provo', 'state': 'UT', 'country': 'USA', 'latitude': '40.2338438', 'longitude': '-111.6585337', 'countyFips': '49049'}"

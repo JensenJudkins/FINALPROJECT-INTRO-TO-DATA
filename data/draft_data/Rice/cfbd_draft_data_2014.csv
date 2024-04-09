@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482466,33708,242,Rice,Conference USA,Kansas City,2014,87,3,23,Phillip Gaines,Cornerback,72,193,81,11,71,"{'city': 'Converse', 'state': 'TX', 'country': 'USA', 'latitude': '29.5180081', 'longitude': '-98.3161241', 'countyFips': '48029'}"

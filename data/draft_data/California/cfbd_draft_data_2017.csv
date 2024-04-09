@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+550386,51680,25,California,Pac-12,New York,2017,87,3,23,Davis Webb,Quarterback,77,229,95.0,7,73,"{'city': 'Prosper', 'state': 'TX', 'country': 'USA', 'latitude': '33.2385763', 'longitude': '-96.7866058', 'countyFips': '48085'}"
+554399,51803,25,California,Pac-12,New York,2017,141,4,35,Chad Hansen,Wide Receiver,74,202,163.0,22,58,"{'city': 'Fillmore', 'state': 'CA', 'country': 'USA', 'latitude': '34.38395800000001', 'longitude': '-118.93659550000001', 'countyFips': '06111'}"
+3052143,52056,25,California,Pac-12,Tennessee,2017,241,7,23,Khalfrani Muhammad,Running Back,67,170,,37,30,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

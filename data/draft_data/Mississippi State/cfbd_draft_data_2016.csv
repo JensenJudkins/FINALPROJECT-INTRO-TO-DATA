@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1022063,50282,344,Mississippi State,SEC,Kansas City,2016,37,2,6,Chris Jones,Defensive Tackle,78,310,28,3,89,"{'city': 'Houston', 'state': 'MS', 'country': 'USA', 'latitude': '33.8984461', 'longitude': '-88.9992267', 'countyFips': '28017'}"
+531409,49434,344,Mississippi State,SEC,San Francisco,2016,68,3,5,Will Redmond,Cornerback,71,182,100,12,70,"{'city': 'Memphis', 'state': 'TN', 'country': 'USA', 'latitude': '35.1490215', 'longitude': '-90.0516285', 'countyFips': '47157'}"
+512030,49992,344,Mississippi State,SEC,Dallas,2016,135,4,37,Dak Prescott,Quarterback,74,226,230,12,48,"{'city': 'Haughton', 'state': 'LA', 'country': 'USA', 'latitude': '32.5326514', 'longitude': '-93.5040627', 'countyFips': '22015'}"

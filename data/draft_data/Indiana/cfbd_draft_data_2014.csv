@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+513025,34758,84,Indiana,Big Ten,Denver,2014,56,2,24,Cody Latimer,Wide Receiver,75,215,35.0,6,88,"{'city': 'Dayton', 'state': 'OH', 'country': 'USA', 'latitude': '39.7589478', 'longitude': '-84.1916069', 'countyFips': '39113'}"
+480817,33350,84,Indiana,Big Ten,Washington,2014,217,7,2,Ted Bolser,Tight End,78,248,,27,30,"{'city': 'Cincinnati', 'state': 'OH', 'country': 'USA', 'latitude': '39.1014537', 'longitude': '-84.5124602', 'countyFips': '39061'}"

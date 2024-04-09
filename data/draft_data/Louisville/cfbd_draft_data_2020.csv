@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240090,104126,97,Louisville,ACC,New York,2020,11,1,11,Mekhi Becton,Offensive Tackle,79,364,12,2,92,"{'city': 'Highland Springs', 'state': 'VA', 'country': 'USA', 'latitude': '37.5460121', 'longitude': '-77.3278441', 'countyFips': '51087'}"

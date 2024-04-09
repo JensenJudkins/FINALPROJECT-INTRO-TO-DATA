@@ -1,0 +1,8 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+551319,49429,57,Florida,SEC,Tampa Bay,2016,11,1,11,Vernon Hargreaves III,Cornerback,71,204,23,3,89,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+551326,49589,57,Florida,SEC,Atlanta,2016,17,1,17,Keanu Neal,Safety,73,211,44,3,83,"{'city': 'Bushnell', 'state': 'FL', 'country': 'USA', 'latitude': '28.6644827', 'longitude': '-82.1117399', 'countyFips': '12119'}"
+-1009784,50474,57,Florida,SEC,Chicago,2016,72,3,9,Jonathan Bullard,Defensive End,75,285,42,5,83,"{'city': 'Shelby', 'state': 'NC', 'country': 'USA', 'latitude': '35.2919489', 'longitude': '-81.5402112', 'countyFips': '37045'}"
+2971051,49877,57,Florida,SEC,Indianapolis,2016,125,4,27,Antonio Morrison,Outside Linebacker,73,233,229,18,48,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+546314,50445,57,Florida,SEC,Kansas City,2016,126,4,28,Demarcus Robinson,Wide Receiver,73,203,245,38,44,"{'city': 'Fort Valley', 'state': 'GA', 'country': 'USA', 'latitude': '32.5537585', 'longitude': '-83.8874084', 'countyFips': '13225'}"
+546318,50422,57,Florida,SEC,San Francisco,2016,211,6,36,Kelvin Taylor,Running Back,70,207,136,10,62,"{'city': 'Belle Glade', 'state': 'FL', 'country': 'USA', 'latitude': '26.6845104', 'longitude': '-80.6675577', 'countyFips': '12099'}"
+2980111,50263,57,Florida,SEC,Philadelphia,2016,240,7,19,Alex Mccalister,Defensive End,78,239,236,19,47,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

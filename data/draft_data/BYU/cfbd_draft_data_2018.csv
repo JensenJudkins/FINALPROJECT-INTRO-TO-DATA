@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3138826,101597,252,BYU,FBS Independents,San Francisco,2018,70,3,6,Fred Warner,Inside Linebacker,75,236,98,4,71,"{'city': 'San Marcos', 'state': 'CA', 'country': 'USA', 'latitude': '33.1433723', 'longitude': '-117.1661449', 'countyFips': '06073'}"

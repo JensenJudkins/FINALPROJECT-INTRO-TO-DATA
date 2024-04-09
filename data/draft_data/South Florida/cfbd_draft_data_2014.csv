@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1032419,33606,58,South Florida,American Athletic,San Francisco,2014,150,5,10,Aaron Lynch,Defensive End,77,249,171,16,52,"{'city': 'Cape Coral', 'state': 'FL', 'country': 'USA', 'latitude': '26.6059432', 'longitude': '-81.9806771', 'countyFips': '12071'}"

@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+512522,47011,235,Memphis,American Athletic,Miami,2015,145,5,9,Bobby McCain,Cornerback,70,195,202,22,49,"{'city': 'Oxford', 'state': 'AL', 'country': 'USA', 'latitude': '33.5853695', 'longitude': '-85.91428175037092', 'countyFips': '01121'}"
+-1019372,47056,235,Memphis,American Athletic,Los Angeles,2015,227,7,10,Martin Ifedi,Defensive End,75,275,247,21,40,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"

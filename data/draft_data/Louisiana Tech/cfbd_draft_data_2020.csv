@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4040432,104656,2348,Louisiana Tech,Conference USA,Kansas City,2020,138,4,32,L'Jarius Sneed,Safety,73,192,245,17,39,"{'city': 'Minden', 'state': 'LA', 'country': 'USA', 'latitude': '32.6154278', 'longitude': '-93.2868354', 'countyFips': '32005'}"
+4239694,104451,2348,Louisiana Tech,Conference USA,Las Vegas,2020,139,4,33,Amik Robertson,Cornerback,68,187,68,9,75,"{'city': 'Thibodaux', 'state': 'LA', 'country': 'USA', 'latitude': '29.7957633', 'longitude': '-90.822871', 'countyFips': '22057'}"

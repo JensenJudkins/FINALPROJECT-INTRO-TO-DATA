@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+503276,47035,276,Marshall,Conference USA,New England,2015,247,7,30,Darryl Roberts,Cornerback,71,187,226,29,43,"{'city': 'Lakeland', 'state': 'FL', 'country': 'USA', 'latitude': '28.0394654', 'longitude': '-81.9498042', 'countyFips': '12105'}"

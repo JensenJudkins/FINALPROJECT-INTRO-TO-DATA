@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+537313,50149,164,Rutgers,Big Ten,Miami,2016,86,3,23,Leonte Carroo,Wide Receiver,72,211,67,10,78,"{'city': 'Edison', 'state': 'NJ', 'country': 'USA', 'latitude': '40.5382375', 'longitude': '-74.39451734508772', 'countyFips': '34023'}"

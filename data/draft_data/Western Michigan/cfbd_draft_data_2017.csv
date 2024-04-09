@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545923,51674,2711,Western Michigan,Mid-American,Tennessee,2017,5,1,5,Corey Davis,Wide Receiver,75,209,15.0,2,91,"{'city': 'Wheaton', 'state': 'IL', 'country': 'USA', 'latitude': '41.8646959', 'longitude': '-88.1101709', 'countyFips': '17043'}"
+532660,51760,2711,Western Michigan,Mid-American,Carolina,2017,64,2,32,Taylor Moton,Offensive Tackle,77,319,62.0,4,79,"{'city': 'Okemos', 'state': 'MI', 'country': 'USA', 'latitude': '42.7220755', 'longitude': '-84.4275232', 'countyFips': '26065'}"
+545918,51862,2711,Western Michigan,Mid-American,Pittsburgh,2017,248,7,30,Keion Adams,Defensive End,74,247,,34,30,"{'city': 'Salisbury', 'state': 'NC', 'country': 'USA', 'latitude': '35.6709727', 'longitude': '-80.4742261', 'countyFips': '37159'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+483132,28243,164,Rutgers,Big East,Cincinnati,2012,83,3,20,Mohamed Sanu,Wide Receiver,74,211,109,15,68,"{'city': 'South Brunswick', 'state': 'NJ', 'country': 'USA', 'latitude': '40.3849235', 'longitude': '-74.52047462565923', 'countyFips': '34023'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+236679,29059,204,Oregon State,Pac-12,Chicago,2012,79,3,16,Brandon Hardin,Safety,75,222,134,7,62,"{'city': 'Honolulu', 'state': 'HI', 'country': 'USA', 'latitude': '21.304547', 'longitude': '-157.8556764', 'countyFips': '15003'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4249417,105614,6,South Alabama,Sun Belt,Dallas,2022,88,3,24,Jalen Tolbert,Wide Receiver,73,194,74,12,79,"{'city': 'Mobile', 'state': 'AL', 'country': 'USA', 'latitude': '30.6943566', 'longitude': '-88.0430541', 'countyFips': '01097'}"

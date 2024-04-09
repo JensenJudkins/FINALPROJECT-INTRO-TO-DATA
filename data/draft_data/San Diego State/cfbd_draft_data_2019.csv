@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3933327,103892,21,San Diego State,Mountain West,Houston,2019,86,3,22,Kahale Warring,Tight End,77,252,92,6,73,"{'city': 'Sonora', 'state': 'CA', 'country': 'USA', 'latitude': '37.9840911', 'longitude': '-120.3821381', 'countyFips': '06109'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+382886,27383,96,Kentucky,SEC,Green Bay,2011,64,2,32,Randall Cobb,Wide Receiver,70,191,47,4,84,"{'city': 'Alcoa', 'state': 'TN', 'country': 'USA', 'latitude': '35.7895271', 'longitude': '-83.9737935', 'countyFips': '47009'}"

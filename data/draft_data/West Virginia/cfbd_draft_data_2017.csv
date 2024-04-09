@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3943270,51817,277,West Virginia,Big 12,Philadelphia,2017,99,3,35,Rasul Douglas,Cornerback,74,209,105,16,72,"{'city': 'East Orange', 'state': 'NJ', 'country': 'USA', 'latitude': '40.767323', 'longitude': '-74.2048677', 'countyFips': '34013'}"
+546034,51849,277,West Virginia,Big 12,Philadelphia,2017,166,5,22,Shelton Gibson,Wide Receiver,71,191,142,19,62,"{'city': 'Cleveland Heights', 'state': 'OH', 'country': 'USA', 'latitude': '41.5200518', 'longitude': '-81.556235', 'countyFips': '39035'}"

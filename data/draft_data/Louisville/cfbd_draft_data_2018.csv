@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3895429,101675,97,Louisville,ACC,Green Bay,2018,18,1,18,Jaire Alexander,Cornerback,70,196,17,2,90,"{'city': 'Charlotte', 'state': 'NC', 'country': 'USA', 'latitude': '35.2272', 'longitude': '-80.843083', 'countyFips': '37119'}"
+3916387,101568,97,Louisville,ACC,Baltimore,2018,32,1,32,Lamar Jackson,Quarterback,74,216,29,5,87,"{'city': 'Pompano Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.2378597', 'longitude': '-80.1247667', 'countyFips': '12011'}"
+3916414,101837,97,Louisville,ACC,Washington,2018,74,3,10,Geron Christian,Offensive Tackle,77,298,64,4,79,"{'city': 'Ocala', 'state': 'FL', 'country': 'USA', 'latitude': '29.1871986', 'longitude': '-82.1400923', 'countyFips': '12083'}"
+3116667,101531,97,Louisville,ACC,Los Angeles,2018,205,6,31,Trevon Young,Defensive End,76,258,214,19,50,"{'city': 'Des Moines', 'state': 'IA', 'country': 'USA', 'latitude': '41.5910641', 'longitude': '-93.6037149', 'countyFips': '19153'}"

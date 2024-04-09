@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4038986,104820,193,Miami (OH),Mid-American,Buffalo,2021,161,5,17,Tommy Doyle,Offensive Tackle,80,320,153,11,60,"{'city': 'Edina', 'state': 'MN', 'country': 'USA', 'latitude': '44.8897027', 'longitude': '-93.3501222', 'countyFips': '27053'}"

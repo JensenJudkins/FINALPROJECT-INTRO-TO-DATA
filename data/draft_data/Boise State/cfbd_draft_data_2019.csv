@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4048244,103672,68,Boise State,Mountain West,Minnesota,2019,102,3,38,Alexander Mattison,Running Back,71,221,116,7,69,"{'city': 'San Bernardino', 'state': 'CA', 'country': 'USA', 'latitude': '34.1083449', 'longitude': '-117.2897652', 'countyFips': '06071'}"

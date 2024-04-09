@@ -1,0 +1,81 @@
+playerId,player,team,conference,category,statType,stat
+4369864,Jacob Warren,Tennessee,SEC,receiving,REC,6
+4369864,Jacob Warren,Tennessee,SEC,receiving,YPR,12.2
+4692590,Jalin Hyatt,Tennessee,SEC,receiving,TD,2
+4242433,Josh Palmer,Tennessee,SEC,receiving,LONG,36
+4242442,Princeton Fant,Tennessee,SEC,receiving,YDS,94
+4242431,Ty Chandler,Tennessee,SEC,receiving,TD,0
+4429804,Jimmy Calloway,Tennessee,SEC,receiving,LONG,14
+4432545,Jabari Small,Tennessee,SEC,receiving,REC,4
+4242433,Josh Palmer,Tennessee,SEC,receiving,YPR,14.4
+4035693,Velus Jones Jr.,Tennessee,SEC,receiving,YPR,12.7
+4242446,LaTrell Bumphus,Tennessee,SEC,receiving,YDS,9
+4426350,Henry To'o To'o,Tennessee,SEC,receiving,TD,0
+4369864,Jacob Warren,Tennessee,SEC,receiving,TD,1
+4242446,LaTrell Bumphus,Tennessee,SEC,receiving,YPR,9.0
+4369863,Cedric Tillman,Tennessee,SEC,receiving,LONG,46
+4692553,Will Albright,Tennessee,SEC,receiving,LONG,2
+4426399,Ramel Keyton,Tennessee,SEC,receiving,TD,0
+4692660,Malachi Wideman,Tennessee,SEC,receiving,LONG,24
+4242442,Princeton Fant,Tennessee,SEC,receiving,REC,11
+4426399,Ramel Keyton,Tennessee,SEC,receiving,YPR,8.4
+4242442,Princeton Fant,Tennessee,SEC,receiving,YPR,8.5
+4242431,Ty Chandler,Tennessee,SEC,receiving,YDS,111
+4426350,Henry To'o To'o,Tennessee,SEC,receiving,YPR,31.0
+4692553,Will Albright,Tennessee,SEC,receiving,YPR,2.0
+4692660,Malachi Wideman,Tennessee,SEC,receiving,TD,0
+4692590,Jalin Hyatt,Tennessee,SEC,receiving,YPR,13.8
+4426350,Henry To'o To'o,Tennessee,SEC,receiving,LONG,31
+4426399,Ramel Keyton,Tennessee,SEC,receiving,LONG,16
+4692590,Jalin Hyatt,Tennessee,SEC,receiving,LONG,48
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,YPR,12.2
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,TD,0
+4692660,Malachi Wideman,Tennessee,SEC,receiving,YPR,24.0
+4692553,Will Albright,Tennessee,SEC,receiving,TD,0
+4432545,Jabari Small,Tennessee,SEC,receiving,LONG,9
+4570561,Eric Gray,Tennessee,SEC,receiving,REC,30
+4242442,Princeton Fant,Tennessee,SEC,receiving,TD,1
+4426399,Ramel Keyton,Tennessee,SEC,receiving,REC,9
+4242431,Ty Chandler,Tennessee,SEC,receiving,YPR,6.9
+4692660,Malachi Wideman,Tennessee,SEC,receiving,REC,1
+4570561,Eric Gray,Tennessee,SEC,receiving,LONG,31
+4369864,Jacob Warren,Tennessee,SEC,receiving,LONG,33
+4570561,Eric Gray,Tennessee,SEC,receiving,TD,2
+4692590,Jalin Hyatt,Tennessee,SEC,receiving,YDS,276
+4242433,Josh Palmer,Tennessee,SEC,receiving,TD,4
+4242431,Ty Chandler,Tennessee,SEC,receiving,LONG,18
+4369863,Cedric Tillman,Tennessee,SEC,receiving,TD,1
+4242433,Josh Palmer,Tennessee,SEC,receiving,REC,33
+4369863,Cedric Tillman,Tennessee,SEC,receiving,YPR,22.3
+4429804,Jimmy Calloway,Tennessee,SEC,receiving,REC,2
+4242446,LaTrell Bumphus,Tennessee,SEC,receiving,REC,1
+4570561,Eric Gray,Tennessee,SEC,receiving,YPR,8.5
+4369864,Jacob Warren,Tennessee,SEC,receiving,YDS,73
+4426350,Henry To'o To'o,Tennessee,SEC,receiving,REC,1
+4035693,Velus Jones Jr.,Tennessee,SEC,receiving,REC,22
+4692553,Will Albright,Tennessee,SEC,receiving,REC,1
+4242442,Princeton Fant,Tennessee,SEC,receiving,LONG,15
+4432545,Jabari Small,Tennessee,SEC,receiving,TD,0
+4692590,Jalin Hyatt,Tennessee,SEC,receiving,REC,20
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,YDS,231
+4242433,Josh Palmer,Tennessee,SEC,receiving,YDS,475
+4369863,Cedric Tillman,Tennessee,SEC,receiving,YDS,67
+4369863,Cedric Tillman,Tennessee,SEC,receiving,REC,3
+4692660,Malachi Wideman,Tennessee,SEC,receiving,YDS,24
+4570561,Eric Gray,Tennessee,SEC,receiving,YDS,254
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,LONG,33
+4429804,Jimmy Calloway,Tennessee,SEC,receiving,YPR,10.0
+4035693,Velus Jones Jr.,Tennessee,SEC,receiving,TD,3
+4692553,Will Albright,Tennessee,SEC,receiving,YDS,2
+4426399,Ramel Keyton,Tennessee,SEC,receiving,YDS,76
+4432545,Jabari Small,Tennessee,SEC,receiving,YDS,24
+4242446,LaTrell Bumphus,Tennessee,SEC,receiving,TD,0
+4035693,Velus Jones Jr.,Tennessee,SEC,receiving,YDS,280
+4429804,Jimmy Calloway,Tennessee,SEC,receiving,TD,0
+4035198,Brandon Edward Johnson,Tennessee,SEC,receiving,REC,19
+4242431,Ty Chandler,Tennessee,SEC,receiving,REC,16
+4426350,Henry To'o To'o,Tennessee,SEC,receiving,YDS,31
+4035693,Velus Jones Jr.,Tennessee,SEC,receiving,LONG,74
+4429804,Jimmy Calloway,Tennessee,SEC,receiving,YDS,20
+4432545,Jabari Small,Tennessee,SEC,receiving,YPR,6.0
+4242446,LaTrell Bumphus,Tennessee,SEC,receiving,LONG,9

@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+549940,52111,152,NC State,ACC,Green Bay,2017,61,2,29,Josh Jones,Safety,73,220,43.0,4,86,"{'city': 'Walled Lake', 'state': 'MI', 'country': 'USA', 'latitude': '42.537811', 'longitude': '-83.4810481', 'countyFips': '26125'}"
+549961,51978,152,NC State,ACC,Minnesota,2017,245,7,27,Jack Tocho,Cornerback,72,202,,35,30,"{'city': 'Charlotte', 'state': 'NC', 'country': 'USA', 'latitude': '35.2272', 'longitude': '-80.843083', 'countyFips': '37119'}"
+549935,51706,152,NC State,ACC,Cleveland,2017,252,7,34,Matthew Dayes,Running Back,69,205,140.0,11,63,"{'city': 'Ft. Lauderdale', 'state': 'FL', 'country': 'USA', 'latitude': '26.1223084', 'longitude': '-80.1433786', 'countyFips': '12011'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3116729,103726,152,NC State,ACC,Minnesota,2019,18,1,18,Garrett Bradbury,Center,75,306,18,1,90,"{'city': 'Charlotte', 'state': 'NC', 'country': 'USA', 'latitude': '35.2272', 'longitude': '-80.843083', 'countyFips': '37119'}"
+3116724,103724,152,NC State,ACC,Cincinnati,2019,72,3,8,Germaine Pratt,Outside Linebacker,75,240,95,6,72,"{'city': 'High Point', 'state': 'NC', 'country': 'USA', 'latitude': '35.9556924', 'longitude': '-80.0053176', 'countyFips': '37081'}"
+546288,103552,152,NC State,ACC,Cincinnati,2019,104,4,2,Ryan Finley,Quarterback,76,213,30,4,88,"{'city': 'Phoenix', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4484367', 'longitude': '-112.0741417', 'countyFips': '04013'}"
+4036163,103580,152,NC State,ACC,Washington,2019,206,6,33,Kelvin Harmon,Wide Receiver,75,221,100,14,72,"{'city': 'Palmyra', 'state': 'NJ', 'country': 'USA', 'latitude': '40.0070565', 'longitude': '-75.0282271', 'countyFips': '34005'}"

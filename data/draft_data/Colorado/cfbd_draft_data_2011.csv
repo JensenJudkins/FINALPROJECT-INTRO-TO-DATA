@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2215996,26076,38,Colorado,Big 12,New England,2011,17,1,17,Nate Solder,Offensive Tackle,80,319,21.0,3,91,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+188489,27258,38,Colorado,Big 12,Baltimore,2011,27,1,27,Jimmy Smith,Cornerback,74,211,18.0,3,92,"{'city': 'Colton', 'state': 'CA', 'country': 'USA', 'latitude': '34.0739016', 'longitude': '-117.3136547', 'countyFips': '06071'}"
+188434,26159,38,Colorado,Big 12,Kansas City,2011,118,4,21,Jalil Brown,Cornerback,73,204,93.0,14,74,"{'city': 'Phoeniz', 'state': 'AZ', 'country': 'USA', 'latitude': None, 'longitude': None, 'countyFips': None}"
+192272,27399,38,Colorado,Big 12,New York,2011,227,7,24,Scotty McKnight,Wide Receiver,70,182,,48,30,"{'city': 'Coto de Caza', 'state': 'CA', 'country': 'USA', 'latitude': '33.6037312', 'longitude': '-117.5869581', 'countyFips': '06059'}"

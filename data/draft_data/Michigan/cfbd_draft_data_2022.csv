@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4372099,105537,130,Michigan,Big Ten,Detroit,2022,2,1,2,Aidan Hutchinson,Defensive End,79,260,1,1,94,"{'city': 'Plymouth', 'state': 'MI', 'country': 'USA', 'latitude': '45.0065149', 'longitude': '-93.46651', 'countyFips': '27053'}"
+4426422,105587,130,Michigan,Big Ten,Cincinnati,2022,31,1,31,Daxton Hill,Safety,72,191,18,2,91,"{'city': 'Tulsa', 'state': 'OK', 'country': 'USA', 'latitude': '36.1556805', 'longitude': '-95.9929113', 'countyFips': '40143'}"
+4426507,105878,130,Michigan,Big Ten,Baltimore,2022,45,2,13,David Ojabo,Outside Linebacker,76,250,35,1,87,"{'city': 'Aberdeen', 'state': None, 'country': 'Scotland', 'latitude': None, 'longitude': None, 'countyFips': None}"
+4372071,105910,130,Michigan,Big Ten,Tennessee,2022,131,4,26,Hassan Haskins,Running Back,74,228,156,12,60,"{'city': 'Eureka', 'state': 'MO', 'country': 'USA', 'latitude': '38.5025537', 'longitude': '-90.6279044', 'countyFips': '29189'}"
+4258207,105901,130,Michigan,Big Ten,New England,2022,245,7,24,Andrew Stueber,Offensive Guard,79,325,196,16,55,"{'city': 'Darien', 'state': 'CT', 'country': 'USA', 'latitude': '41.0787079', 'longitude': '-73.4692873', 'countyFips': '09001'}"

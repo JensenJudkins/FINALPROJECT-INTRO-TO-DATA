@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3895856,101517,245,Texas A&M,SEC,Arizona,2018,47,2,15,Christian Kirk,Wide Receiver,70,201,42.0,3,85,"{'city': 'Scottsdale', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4942189', 'longitude': '-111.9260184', 'countyFips': '04013'}"
+3122136,101671,245,Texas A&M,SEC,Kansas City,2018,124,4,24,Armani Watts,Safety,71,202,154.0,13,61,"{'city': 'Forney', 'state': 'TX', 'country': 'USA', 'latitude': '32.747893', 'longitude': '-96.4719289', 'countyFips': '48257'}"
+3895857,102341,245,Texas A&M,SEC,Cleveland,2018,175,6,1,Damion Ratley,Wide Receiver,74,193,,47,30,"{'city': 'Yoakum', 'state': 'TX', 'country': 'USA', 'latitude': '29.289352', 'longitude': '-97.1492978', 'countyFips': '48123'}"

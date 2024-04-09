@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+512839,33609,228,Clemson,ACC,Buffalo,2014,4,1,4,Sammy Watkins,Wide Receiver,73,211,4,1,96,"{'city': 'Fort Myers', 'state': 'FL', 'country': 'USA', 'latitude': '26.640628', 'longitude': '-81.8723084', 'countyFips': '12071'}"
+482960,34892,228,Clemson,ACC,San Francisco,2014,100,3,36,Brandon Thomas,Offensive Guard,75,317,83,4,70,"{'city': 'Spartanburg', 'state': 'SC', 'country': 'USA', 'latitude': '34.9498007', 'longitude': '-81.9320157', 'countyFips': '45083'}"
+501680,34730,228,Clemson,ACC,Washington,2014,102,4,2,Bashaud Breeland,Cornerback,71,197,70,8,75,"{'city': 'Allendale', 'state': 'SC', 'country': 'USA', 'latitude': '33.0079345', 'longitude': '-81.3084405', 'countyFips': '45005'}"
+512321,34754,228,Clemson,ACC,Pittsburgh,2014,118,4,18,Martavis Bryant,Wide Receiver,76,211,66,12,76,"{'city': 'Calhoun Falls', 'state': 'SC', 'country': 'USA', 'latitude': '34.0923375', 'longitude': '-82.5956875', 'countyFips': '45001'}"
+480221,34121,228,Clemson,ACC,New York,2014,213,6,37,Tajh Boyd,Quarterback,73,222,254,15,39,"{'city': 'Hampton', 'state': 'VA', 'country': 'USA', 'latitude': '37.0520315', 'longitude': '-76.2856365', 'countyFips': '51650'}"

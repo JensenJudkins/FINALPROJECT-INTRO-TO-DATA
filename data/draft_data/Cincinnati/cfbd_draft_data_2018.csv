@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1007008,102002,2132,Cincinnati,American Athletic,Arizona,2018,254,7,36,Korey Cunningham,Offensive Tackle,77,311,,28,30,"{'city': 'Montevallo', 'state': 'AL', 'country': 'USA', 'latitude': '33.1006746', 'longitude': '-86.8641558', 'countyFips': '01117'}"

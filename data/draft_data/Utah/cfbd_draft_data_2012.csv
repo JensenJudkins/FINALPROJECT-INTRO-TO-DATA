@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1040109,29065,254,Utah,Pac-12,Las Vegas,2012,95,3,32,Tony Bergstrom,Offensive Guard,77,313,141,10,60,"{'city': 'Salt Lake City', 'state': 'UT', 'country': 'USA', 'latitude': '40.7596198', 'longitude': '-111.8867975', 'countyFips': '49035'}"

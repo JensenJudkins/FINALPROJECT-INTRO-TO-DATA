@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3122866,50029,254,Utah,Pac-12,Denver,2016,136,4,38,Devontae Booker,Running Back,71,219,85,4,74,"{'city': 'Sacramento', 'state': 'CA', 'country': 'USA', 'latitude': '38.5815719', 'longitude': '-121.4943996', 'countyFips': '06067'}"

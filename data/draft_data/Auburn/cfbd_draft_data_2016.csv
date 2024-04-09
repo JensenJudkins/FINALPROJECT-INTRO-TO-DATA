@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1003641,50386,2,Auburn,SEC,Cleveland,2016,76,3,13,Shon Coleman,Offensive Tackle,78,307,89.0,8,73,"{'city': 'Olive Branch', 'state': 'MS', 'country': 'USA', 'latitude': '34.9617605', 'longitude': '-89.8295315', 'countyFips': '28033'}"
+530907,50176,2,Auburn,SEC,Cleveland,2016,114,4,16,Ricardo Louis,Wide Receiver,74,215,243.0,37,45,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+511691,49470,2,Auburn,SEC,Philadelphia,2016,196,6,21,Blake Countess,Cornerback,70,184,,43,30,"{'city': 'Owings Mills', 'state': 'MD', 'country': 'USA', 'latitude': '39.4010753', 'longitude': '-76.796299', 'countyFips': '24005'}"

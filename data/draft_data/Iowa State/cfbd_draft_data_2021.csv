@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4035537,105481,66,Iowa State,Big 12,Minnesota,2021,119,4,14,Kene Nwangwu,Running Back,73,210,,,,"{'city': 'Frisco', 'state': 'TX', 'country': 'USA', 'latitude': '33.1506744', 'longitude': '-96.8236116', 'countyFips': '48085'}"

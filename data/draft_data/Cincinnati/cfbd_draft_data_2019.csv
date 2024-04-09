@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3139036,104060,2132,Cincinnati,American Athletic,Los Angeles,2019,242,7,28,Cortez Broughton,Defensive Tackle,74,293,,,,"{'city': 'Warner Robins', 'state': 'GA', 'country': 'USA', 'latitude': '32.6200973', 'longitude': '-83.606568', 'countyFips': '13153'}"

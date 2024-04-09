@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+517218,46854,99,LSU,SEC,Atlanta,2015,42,2,10,Jalen Collins,Cornerback,74,203,45,5,85,"{'city': 'Olive Branch', 'state': 'MS', 'country': 'USA', 'latitude': '34.9617605', 'longitude': '-89.8295315', 'countyFips': '28033'}"
+-1016571,46894,99,LSU,SEC,Minnesota,2015,88,3,24,Danielle Hunter,Defensive End,77,252,85,10,71,"{'city': 'Katy', 'state': 'TX', 'country': 'USA', 'latitude': '29.7857853', 'longitude': '-95.8243956', 'countyFips': '48157'}"
+-1016561,46901,99,LSU,SEC,Tampa Bay,2015,124,4,25,Kwon Alexander,Outside Linebacker,73,227,92,10,70,"{'city': 'Oxford', 'state': 'AL', 'country': 'USA', 'latitude': '33.5853695', 'longitude': '-85.91428175037092', 'countyFips': '01121'}"
+517214,47142,99,LSU,SEC,Houston,2015,235,7,18,Kenny Hilliard,Running Back,72,226,333,32,31,"{'city': 'Patterson', 'state': 'LA', 'country': 'USA', 'latitude': '29.6933', 'longitude': '-91.3021', 'countyFips': '06099'}"

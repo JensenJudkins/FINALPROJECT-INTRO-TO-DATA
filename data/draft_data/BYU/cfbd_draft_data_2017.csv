@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+536136,51333,252,BYU,FBS Independents,Green Bay,2017,134,4,28,Jamaal Williams,Running Back,72,212,143,12,62,"{'city': 'Fontana', 'state': 'CA', 'country': 'USA', 'latitude': '34.0922335', 'longitude': '-117.435048', 'countyFips': '06071'}"

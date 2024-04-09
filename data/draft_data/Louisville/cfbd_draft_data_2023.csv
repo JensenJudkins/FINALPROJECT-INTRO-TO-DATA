@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4686334,106733,97,Louisville,ACC,Tampa Bay,2023,82,3,19,YaYa Diaby,Defensive End,75,263,102,12,69,"{'city': 'Atlanta', 'state': 'GA', 'country': 'USA', 'latitude': '33.7490987', 'longitude': '-84.3901849', 'countyFips': '13121'}"
+4360807,106879,97,Louisville,ACC,Jacksonville,2023,136,5,1,Yasir Abdullah,Outside Linebacker,73,237,140,9,61,"{'city': 'Miramar', 'state': 'FL', 'country': 'USA', 'latitude': '25.975911449999998', 'longitude': '-80.33472128115224', 'countyFips': '12011'}"
+4426923,106878,97,Louisville,ACC,Arizona,2023,180,6,3,Kei'Trel Clark,Cornerback,70,181,170,23,53,"{'city': 'Richmond', 'state': 'VA', 'country': 'USA', 'latitude': '37.5385087', 'longitude': '-77.43428', 'countyFips': '51760'}"

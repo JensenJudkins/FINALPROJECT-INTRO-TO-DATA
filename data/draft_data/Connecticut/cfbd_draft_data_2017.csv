@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+533251,52100,41,Connecticut,American Athletic,Las Vegas,2017,56,2,24,Obi Melifonwu,Safety,76,224,46,6,85,"{'city': 'South Grafton', 'state': 'MA', 'country': 'USA', 'latitude': '39.3370361', 'longitude': '-80.020355', 'countyFips': '54091'}"

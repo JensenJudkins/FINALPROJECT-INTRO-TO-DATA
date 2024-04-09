@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4036378,104199,328,Utah State,Mountain West,Green Bay,2020,26,1,26,Jordan Love,Quarterback,76,224,20,3,90,"{'city': 'Bakersfield', 'state': 'CA', 'country': 'USA', 'latitude': '35.3738712', 'longitude': '-119.0194639', 'countyFips': '06029'}"

@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+382945,28903,328,Utah State,Western Athletic,Seattle,2012,47,2,15,Bobby Wagner,Inside Linebacker,72,241,84,4,73,"{'city': 'Ontario', 'state': 'CA', 'country': 'USA', 'latitude': '34.065846', 'longitude': '-117.6484304', 'countyFips': '06071'}"
+238371,28990,328,Utah State,Western Athletic,Seattle,2012,106,4,11,Robert Turbin,Running Back,70,222,107,9,69,"{'city': 'Fremont', 'state': 'CA', 'country': 'USA', 'latitude': '37.5482697', 'longitude': '-121.9885719', 'countyFips': '06001'}"
+480950,29058,328,Utah State,Western Athletic,Tampa Bay,2012,212,7,5,Michael Smith,Running Back,68,206,210,17,43,"{'city': 'Tucson', 'state': 'AZ', 'country': 'USA', 'latitude': '32.2228765', 'longitude': '-110.9748477', 'countyFips': '04019'}"

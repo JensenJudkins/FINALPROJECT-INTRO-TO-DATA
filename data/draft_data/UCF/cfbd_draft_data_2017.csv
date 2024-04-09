@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+551183,51980,2116,UCF,American Athletic,Seattle,2017,90,3,26,Shaquill Griffin,Cornerback,72,194,127,17,67,"{'city': 'St. Petersburg', 'state': 'FL', 'country': 'USA', 'latitude': '27.7703796', 'longitude': '-82.6695085', 'countyFips': '12103'}"

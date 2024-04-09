@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482558,29269,204,Oregon State,Pac-12,Pittsburgh,2013,79,3,17,Markus Wheaton,Wide Receiver,71,189,88,11,74,"{'city': 'Chandler', 'state': 'AZ', 'country': 'USA', 'latitude': '33.3062223', 'longitude': '-111.8413317', 'countyFips': '04013'}"
+482550,29263,204,Oregon State,Pac-12,Philadelphia,2013,218,7,12,Jordan Poyer,Cornerback,72,191,107,14,71,"{'city': 'Astoria', 'state': 'OR', 'country': 'USA', 'latitude': '46.187885', 'longitude': '-123.831256', 'countyFips': '41007'}"

@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+481808,29251,251,Texas,Big 12,New Orleans,2013,15,1,15,Kenny Vaccaro,Safety,72,214,15,1,93,"{'city': 'Brownwood', 'state': 'TX', 'country': 'USA', 'latitude': '31.7070026', 'longitude': '-98.9831022', 'countyFips': '48049'}"
+481791,29305,251,Texas,Big 12,Buffalo,2013,78,3,16,Marquise Goodwin,Wide Receiver,69,183,115,12,69,"{'city': 'Garland', 'state': 'TX', 'country': 'USA', 'latitude': '32.912624', 'longitude': '-96.6388833', 'countyFips': '48113'}"
+-1034838,29189,251,Texas,Big 12,Arizona,2013,103,4,6,Alex Okafor,Defensive End,77,264,70,8,77,"{'city': 'Pflugerville', 'state': 'TX', 'country': 'USA', 'latitude': '30.4393696', 'longitude': '-97.6200043', 'countyFips': '48453'}"

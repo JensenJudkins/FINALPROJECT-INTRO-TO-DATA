@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4243541,106103,2116,UCF,American Athletic,San Francisco,2022,220,6,42,Kalia Davis,Defensive Tackle,73,302,244,17,47,"{'city': 'Pensacola', 'state': 'FL', 'country': 'USA', 'latitude': '30.421309', 'longitude': '-87.2169149', 'countyFips': '12033'}"

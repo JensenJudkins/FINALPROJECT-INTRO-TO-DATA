@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+552745,51662,2649,Toledo,Mid-American,Kansas City,2017,86,3,22,Kareem Hunt,Running Back,71,216,86,7,74,"{'city': 'Willoughby', 'state': 'OH', 'country': 'USA', 'latitude': '41.6397696', 'longitude': '-81.4065011', 'countyFips': '39085'}"
+552851,51795,2649,Toledo,Mid-American,Detroit,2017,127,4,21,Michael Roberts,Tight End,76,270,173,13,57,"{'city': 'Cleveland', 'state': 'OH', 'country': 'USA', 'latitude': '41.5051613', 'longitude': '-81.6934446', 'countyFips': '39035'}"
+532636,51959,2649,Toledo,Mid-American,Las Vegas,2017,244,7,26,Treyvon Hester,Defensive Tackle,74,300,224,20,46,"{'city': 'Pittsburgh', 'state': 'PA', 'country': 'USA', 'latitude': '40.4416941', 'longitude': '-79.9900861', 'countyFips': '42003'}"

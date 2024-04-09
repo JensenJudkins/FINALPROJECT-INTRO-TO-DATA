@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+481433,33612,130,Michigan,Big Ten,Tennessee,2014,11,1,11,Taylor Lewan,Offensive Tackle,79,309,8.0,3,94,"{'city': 'Cave Creek', 'state': 'AZ', 'country': 'USA', 'latitude': '33.8333333', 'longitude': '-111.9508333', 'countyFips': '04013'}"
+-1020469,34586,130,Michigan,Big Ten,Denver,2014,95,3,31,Michael Schofield,Offensive Tackle,79,301,159.0,13,55,"{'city': 'Orland Park', 'state': 'IL', 'country': 'USA', 'latitude': '41.602686500000004', 'longitude': '-87.85572251521427', 'countyFips': '17031'}"
+480899,33433,130,Michigan,Big Ten,New England,2014,244,7,29,Jeremy Gallon,Wide Receiver,68,185,,45,30,"{'city': 'Apopka', 'state': 'FL', 'country': 'USA', 'latitude': '28.6779683', 'longitude': '-81.5115214', 'countyFips': '12095'}"

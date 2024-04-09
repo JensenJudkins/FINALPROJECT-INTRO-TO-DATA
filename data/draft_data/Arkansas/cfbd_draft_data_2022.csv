@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4567156,105550,8,Arkansas,SEC,Tennessee,2022,18,1,18,Treylon Burks,Wide Receiver,74,225,24,5,89,"{'city': 'Warren', 'state': 'AR', 'country': 'USA', 'latitude': '33.6126086', 'longitude': '-92.0645831', 'countyFips': '05011'}"
+4248047,105651,8,Arkansas,SEC,Dallas,2022,178,5,35,John Ridgeway,Defensive Tackle,77,321,138,8,64,"{'city': 'Bloomington', 'state': 'IL', 'country': 'USA', 'latitude': '40.4731073', 'longitude': '-88.9941403', 'countyFips': '17113'}"
+4242149,106111,8,Arkansas,SEC,Jacksonville,2022,222,7,1,Montaric Brown,Cornerback,72,196,315,41,36,"{'city': 'Ashdown', 'state': 'AR', 'country': 'USA', 'latitude': '33.67344', 'longitude': '-94.1299625', 'countyFips': '05081'}"

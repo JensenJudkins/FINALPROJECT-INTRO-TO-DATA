@@ -1,0 +1,7 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1019842,29008,2390,Miami,ACC,Miami,2012,72,3,9,Olivier Vernon,Defensive End,74,261,69,9,79,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+2311754,27985,2390,Miami,ACC,Pittsburgh,2012,86,3,23,Sean Spence,Outside Linebacker,71,231,124,8,64,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+480248,28962,2390,Miami,ACC,Miami,2012,97,4,2,Lamar Miller,Running Back,71,212,58,4,83,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+382156,27984,2390,Miami,ACC,Cleveland,2012,100,4,5,Travis Benjamin,Wide Receiver,71,172,174,27,52,"{'city': 'Belle Glade', 'state': 'FL', 'country': 'USA', 'latitude': '26.6845104', 'longitude': '-80.6675577', 'countyFips': '12099'}"
+382158,28973,2390,Miami,ACC,Baltimore,2012,198,6,28,Tommy Streeter,Wide Receiver,77,219,137,19,62,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+-1019843,29004,2390,Miami,ACC,Philadelphia,2012,200,6,30,Brandon Washington,Offensive Guard,75,320,158,11,57,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"

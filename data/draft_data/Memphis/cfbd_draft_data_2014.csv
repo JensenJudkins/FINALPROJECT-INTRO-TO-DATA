@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+503346,34008,235,Memphis,American Athletic,Houston,2014,256,7,41,Lonnie Ballentine,Safety,75,219,293,23,33,"{'city': 'Memphis', 'state': 'TN', 'country': 'USA', 'latitude': '35.1490215', 'longitude': '-90.0516285', 'countyFips': '47157'}"

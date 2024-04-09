@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1028885,27014,204,Oregon State,Pac-10,Chicago,2011,53,2,21,Stephen Paea,Defensive Tackle,73,303,44.0,6,85,"{'city': 'Los Altos', 'state': 'CA', 'country': 'USA', 'latitude': '37.3790629', 'longitude': '-122.116578', 'countyFips': '06085'}"
+2216113,26802,204,Oregon State,Pac-10,Kansas City,2011,140,5,9,Gabe Miller,Outside Linebacker,75,242,,72,20,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+379208,26095,204,Oregon State,Pac-10,Atlanta,2011,145,5,14,Jacquizz Rodgers,Running Back,66,196,105.0,11,71,"{'city': 'Richmond', 'state': 'TX', 'country': 'USA', 'latitude': '29.5821811', 'longitude': '-95.7607832', 'countyFips': '48157'}"

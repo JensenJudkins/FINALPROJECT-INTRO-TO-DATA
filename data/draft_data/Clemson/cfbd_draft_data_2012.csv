@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1007422,27557,228,Clemson,ACC,Jacksonville,2012,38,2,6,Andre Branch,Defensive End,76,259,43,7,87,"{'city': 'Richmond', 'state': 'VA', 'country': 'USA', 'latitude': '37.5385087', 'longitude': '-77.43428', 'countyFips': '51760'}"
+381462,28958,228,Clemson,ACC,Indianapolis,2012,64,3,1,Dwayne Allen,Tight End,75,255,55,2,83,"{'city': 'Fayetteville', 'state': 'NC', 'country': 'USA', 'latitude': '35.0525759', 'longitude': '-78.878292', 'countyFips': '37051'}"
+-1007438,27556,228,Clemson,ACC,Cincinnati,2012,93,3,30,Brandon Thompson,Defensive Tackle,74,311,45,6,87,"{'city': 'Thomasville', 'state': 'GA', 'country': 'USA', 'latitude': '30.8365815', 'longitude': '-83.9787808', 'countyFips': '13275'}"
+238205,29030,228,Clemson,ACC,Tennessee,2012,115,4,20,Coty Sensabaugh,Cornerback,71,189,126,18,63,"{'city': 'Kingsport', 'state': 'TN', 'country': 'USA', 'latitude': '36.550238', 'longitude': '-82.5594293', 'countyFips': '47163'}"

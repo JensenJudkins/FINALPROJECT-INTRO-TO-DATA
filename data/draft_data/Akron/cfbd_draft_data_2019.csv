@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3920867,103784,2006,Akron,Mid-American,Pittsburgh,2019,207,6,34,Ulysees Gilbert III,Inside Linebacker,72,224,358,28,32,"{'city': 'Ocala', 'state': 'FL', 'country': 'USA', 'latitude': '29.1871986', 'longitude': '-82.1400923', 'countyFips': '12083'}"

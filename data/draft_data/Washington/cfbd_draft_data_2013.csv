@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+482597,29254,264,Washington,Pac-12,Atlanta,2013,22,1,22,Desmond Trufant,Cornerback,72,190,33,3,88,"{'city': 'Tacoma', 'state': 'WA', 'country': 'USA', 'latitude': '47.2495798', 'longitude': '-122.4398746', 'countyFips': '53053'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546650,50133,221,Pittsburgh,ACC,Cincinnati,2016,55,2,24,Tyler Boyd,Wide Receiver,74,197,39,6,84,"{'city': 'Clairton', 'state': 'PA', 'country': 'USA', 'latitude': '40.2922938', 'longitude': '-79.8817181', 'countyFips': '42003'}"

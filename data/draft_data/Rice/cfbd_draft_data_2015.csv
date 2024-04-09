@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1030065,46957,242,Rice,Conference USA,Houston,2015,216,6,40,Christian Covington,Defensive Tackle,74,289,148,12,55,"{'city': 'Vancouver', 'state': 'BC', 'country': 'Canada', 'latitude': None, 'longitude': None, 'countyFips': None}"

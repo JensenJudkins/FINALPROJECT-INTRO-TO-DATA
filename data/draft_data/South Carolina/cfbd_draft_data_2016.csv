@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+548173,50138,2579,South Carolina,SEC,Los Angeles,2016,117,4,19,Pharoh Cooper,Wide Receiver,71,203,72,11,77,"{'city': 'Havelock', 'state': 'NC', 'country': 'USA', 'latitude': '34.8785', 'longitude': '-76.9014457', 'countyFips': '37049'}"
+-1032044,49929,2579,South Carolina,SEC,New York,2016,158,5,19,Brandon Shell,Offensive Tackle,77,324,266,21,40,"{'city': 'Goose Creek', 'state': 'SC', 'country': 'USA', 'latitude': '32.9961038', 'longitude': '-80.0387292', 'countyFips': '45015'}"
+535353,50105,2579,South Carolina,SEC,New York,2016,184,6,9,Jerell Adams,Tight End,77,247,69,4,78,"{'city': 'Pinewood', 'state': 'SC', 'country': 'USA', 'latitude': '33.7404382', 'longitude': '-80.4634176', 'countyFips': '45085'}"

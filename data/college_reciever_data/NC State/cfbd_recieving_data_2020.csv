@@ -1,0 +1,91 @@
+playerId,player,team,conference,category,statType,stat
+4361655,Ricky Person Jr.,NC State,ACC,receiving,YDS,125
+4361660,Trent Pennix,NC State,ACC,receiving,TD,1
+4361679,Devin Carter,NC State,ACC,receiving,TD,2
+4427728,Zonovan Knight,NC State,ACC,receiving,REC,20
+4036177,Dylan Autenrieth,NC State,ACC,receiving,YPR,1.5
+4685096,Andrew Jayne,NC State,ACC,receiving,REC,1
+4036168,C.J. Riley,NC State,ACC,receiving,REC,9
+4685110,Anthony Smith,NC State,ACC,receiving,YPR,13.8
+4427789,Keyon Lesane,NC State,ACC,receiving,LONG,20
+4240120,Emeka Emezie,NC State,ACC,receiving,LONG,55
+4427728,Zonovan Knight,NC State,ACC,receiving,YDS,136
+4240121,Thayer Thomas,NC State,ACC,receiving,LONG,37
+4361660,Trent Pennix,NC State,ACC,receiving,YDS,11
+4240121,Thayer Thomas,NC State,ACC,receiving,TD,6
+4685110,Anthony Smith,NC State,ACC,receiving,TD,1
+4240120,Emeka Emezie,NC State,ACC,receiving,TD,5
+4568312,Jordan Houston,NC State,ACC,receiving,YPR,4.2
+4036177,Dylan Autenrieth,NC State,ACC,receiving,TD,0
+4361677,Justin Dunn,NC State,ACC,receiving,YDS,11
+4361655,Ricky Person Jr.,NC State,ACC,receiving,REC,17
+4568312,Jordan Houston,NC State,ACC,receiving,REC,14
+4240025,Bailey Hockman,NC State,ACC,receiving,YDS,31
+4685096,Andrew Jayne,NC State,ACC,receiving,TD,0
+4685110,Anthony Smith,NC State,ACC,receiving,REC,5
+4036164,Dylan Parham,NC State,ACC,receiving,YPR,13.0
+4685109,Christopher Scott Jr.,NC State,ACC,receiving,TD,0
+4430846,Porter Rooks,NC State,ACC,receiving,YDS,276
+4568312,Jordan Houston,NC State,ACC,receiving,YDS,59
+4685109,Christopher Scott Jr.,NC State,ACC,receiving,LONG,34
+4035703,Cary Angeline,NC State,ACC,receiving,YDS,412
+4361677,Justin Dunn,NC State,ACC,receiving,LONG,11
+4430846,Porter Rooks,NC State,ACC,receiving,YPR,11.5
+4240121,Thayer Thomas,NC State,ACC,receiving,YPR,12.6
+4240120,Emeka Emezie,NC State,ACC,receiving,YDS,738
+4240120,Emeka Emezie,NC State,ACC,receiving,YPR,15.7
+4240025,Bailey Hockman,NC State,ACC,receiving,REC,1
+4685110,Anthony Smith,NC State,ACC,receiving,LONG,30
+4036177,Dylan Autenrieth,NC State,ACC,receiving,REC,2
+4685109,Christopher Scott Jr.,NC State,ACC,receiving,YPR,24.5
+4036177,Dylan Autenrieth,NC State,ACC,receiving,LONG,2
+4427728,Zonovan Knight,NC State,ACC,receiving,YPR,6.8
+4685109,Christopher Scott Jr.,NC State,ACC,receiving,YDS,49
+4685109,Christopher Scott Jr.,NC State,ACC,receiving,REC,2
+4427728,Zonovan Knight,NC State,ACC,receiving,LONG,27
+4427789,Keyon Lesane,NC State,ACC,receiving,REC,3
+4036164,Dylan Parham,NC State,ACC,receiving,REC,4
+4240025,Bailey Hockman,NC State,ACC,receiving,YPR,31.0
+4685096,Andrew Jayne,NC State,ACC,receiving,YPR,5.0
+4036168,C.J. Riley,NC State,ACC,receiving,YPR,13.7
+4685110,Anthony Smith,NC State,ACC,receiving,YDS,69
+4427789,Keyon Lesane,NC State,ACC,receiving,TD,0
+4430846,Porter Rooks,NC State,ACC,receiving,LONG,33
+4685096,Andrew Jayne,NC State,ACC,receiving,YDS,5
+4035703,Cary Angeline,NC State,ACC,receiving,YPR,15.3
+4036168,C.J. Riley,NC State,ACC,receiving,YDS,123
+4036164,Dylan Parham,NC State,ACC,receiving,LONG,32
+4240120,Emeka Emezie,NC State,ACC,receiving,REC,47
+4035703,Cary Angeline,NC State,ACC,receiving,LONG,34
+4036177,Dylan Autenrieth,NC State,ACC,receiving,YDS,3
+4361677,Justin Dunn,NC State,ACC,receiving,YPR,11.0
+4361679,Devin Carter,NC State,ACC,receiving,LONG,39
+4427728,Zonovan Knight,NC State,ACC,receiving,TD,0
+4361655,Ricky Person Jr.,NC State,ACC,receiving,YPR,7.4
+4240121,Thayer Thomas,NC State,ACC,receiving,YDS,529
+4361660,Trent Pennix,NC State,ACC,receiving,LONG,5
+4427789,Keyon Lesane,NC State,ACC,receiving,YDS,37
+4685096,Andrew Jayne,NC State,ACC,receiving,LONG,5
+4036164,Dylan Parham,NC State,ACC,receiving,TD,0
+4361655,Ricky Person Jr.,NC State,ACC,receiving,LONG,20
+4361677,Justin Dunn,NC State,ACC,receiving,TD,0
+4035703,Cary Angeline,NC State,ACC,receiving,TD,6
+4035703,Cary Angeline,NC State,ACC,receiving,REC,27
+4361679,Devin Carter,NC State,ACC,receiving,YPR,16.0
+4361679,Devin Carter,NC State,ACC,receiving,REC,28
+4361679,Devin Carter,NC State,ACC,receiving,YDS,447
+4361655,Ricky Person Jr.,NC State,ACC,receiving,TD,0
+4361660,Trent Pennix,NC State,ACC,receiving,YPR,3.7
+4361677,Justin Dunn,NC State,ACC,receiving,REC,1
+4036168,C.J. Riley,NC State,ACC,receiving,TD,2
+4240121,Thayer Thomas,NC State,ACC,receiving,REC,42
+4240025,Bailey Hockman,NC State,ACC,receiving,TD,1
+4568312,Jordan Houston,NC State,ACC,receiving,TD,0
+4361660,Trent Pennix,NC State,ACC,receiving,REC,3
+4036164,Dylan Parham,NC State,ACC,receiving,YDS,52
+4427789,Keyon Lesane,NC State,ACC,receiving,YPR,12.3
+4036168,C.J. Riley,NC State,ACC,receiving,LONG,36
+4568312,Jordan Houston,NC State,ACC,receiving,LONG,15
+4430846,Porter Rooks,NC State,ACC,receiving,REC,24
+4430846,Porter Rooks,NC State,ACC,receiving,TD,0
+4240025,Bailey Hockman,NC State,ACC,receiving,LONG,31

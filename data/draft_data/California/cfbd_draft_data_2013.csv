@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501550,29250,25,California,Pac-12,Los Angeles,2013,76,3,14,Keenan Allen,Wide Receiver,74,206,38,5,88,"{'city': 'Greensboro', 'state': 'NC', 'country': 'USA', 'latitude': '36.0726355', 'longitude': '-79.7919754', 'countyFips': '37081'}"
+482505,30374,25,California,Pac-12,Tennessee,2013,107,4,10,Brian Schwenke,Center,75,314,73,2,77,"{'city': 'Oceanside', 'state': 'CA', 'country': 'USA', 'latitude': '33.1958696', 'longitude': '-117.3794834', 'countyFips': '06073'}"
+482487,30330,25,California,Pac-12,Los Angeles,2013,145,5,12,Steve Williams,Cornerback,69,181,142,18,61,"{'city': 'Dallas', 'state': 'TX', 'country': 'USA', 'latitude': '32.7762719', 'longitude': '-96.7968559', 'countyFips': '48113'}"
+380696,30010,25,California,Pac-12,Baltimore,2013,247,7,41,Marc Anthony,Cornerback,71,196,152,20,59,"{'city': 'Chandler', 'state': 'AZ', 'country': 'USA', 'latitude': '33.3062223', 'longitude': '-111.8413317', 'countyFips': '04013'}"

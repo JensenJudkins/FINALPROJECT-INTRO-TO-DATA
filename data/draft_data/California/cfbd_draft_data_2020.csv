@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3858271,104200,25,California,Pac-12,New York,2020,68,3,4,Ashtyn Davis,Safety,73,202,71.0,6.0,75.0,"{'city': 'Santa Cruz', 'state': 'CA', 'country': 'USA', 'latitude': '36.9749416', 'longitude': '-122.0285259', 'countyFips': '06087'}"
+3858276,104677,25,California,Pac-12,Atlanta,2020,134,4,28,Jaylinn Hawkins,Safety,73,208,,,,"{'city': 'Buena Park', 'state': 'CA', 'country': 'USA', 'latitude': '33.870413', 'longitude': '-117.9962165', 'countyFips': '06059'}"
+4035875,104400,25,California,Pac-12,Arizona,2020,202,6,23,Evan Weaver,Inside Linebacker,74,237,247.0,11.0,39.0,"{'city': 'Spokane', 'state': 'WA', 'country': 'USA', 'latitude': '47.6579425', 'longitude': '-117.4212265', 'countyFips': '53063'}"

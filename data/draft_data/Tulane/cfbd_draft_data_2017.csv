@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545772,51742,2655,Tulane,American Athletic,Los Angeles,2017,189,6,5,Tanzel Smart,Defensive Tackle,73,296,146,13,62,"{'city': 'Baton Rouge', 'state': 'LA', 'country': 'USA', 'latitude': '30.4459596', 'longitude': '-91.18738', 'countyFips': '22033'}"

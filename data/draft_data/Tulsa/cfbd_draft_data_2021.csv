@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4244606,105138,202,Tulsa,American Athletic,Arizona,2021,16,1,16,Zaven Collins,Outside Linebacker,77,259,27,1,89,"{'city': 'Hominy', 'state': 'OK', 'country': 'USA', 'latitude': '36.4142357', 'longitude': '-96.3952963', 'countyFips': '40113'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1018126,34749,97,Louisville,American Athletic,New York,2014,18,1,18,Calvin Pryor,Safety,71,207,21,2,91,"{'city': 'Port St. Joe', 'state': 'FL', 'country': 'USA', 'latitude': '29.8118757', 'longitude': '-85.302974', 'countyFips': '12045'}"
+-1018132,33831,97,Louisville,American Athletic,Philadelphia,2014,26,1,26,Marcus Smith,Defensive End,75,251,80,7,70,"{'city': 'Columbus', 'state': 'GA', 'country': 'USA', 'latitude': '32.4609764', 'longitude': '-84.9877094', 'countyFips': '13215'}"
+511614,33598,97,Louisville,American Athletic,Minnesota,2014,32,1,32,Teddy Bridgewater,Quarterback,74,214,28,3,89,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+500363,33662,97,Louisville,American Athletic,Buffalo,2014,73,3,9,Preston Brown,Inside Linebacker,73,251,113,3,65,"{'city': 'Cincinnati', 'state': 'OH', 'country': 'USA', 'latitude': '39.1014537', 'longitude': '-84.5124602', 'countyFips': '39061'}"

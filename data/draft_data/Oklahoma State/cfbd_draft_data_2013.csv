@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501595,29299,197,Oklahoma State,Big 12,Dallas,2013,151,5,18,Joseph Randle,Running Back,72,204,183,13,54,"{'city': 'Wichita', 'state': 'KS', 'country': 'USA', 'latitude': '37.6922361', 'longitude': '-97.3375448', 'countyFips': '20173'}"

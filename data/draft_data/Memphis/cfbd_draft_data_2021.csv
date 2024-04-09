@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4371733,104788,235,Memphis,American Athletic,Philadelphia,2021,150,5,6,Kenneth Gainwell,Running Back,68,201,142,8,63,"{'city': 'Yazoo City', 'state': 'MS', 'country': 'USA', 'latitude': '32.8551326', 'longitude': '-90.4056469', 'countyFips': '28163'}"

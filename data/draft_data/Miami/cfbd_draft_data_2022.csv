@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4259762,106115,2390,Miami,ACC,Green Bay,2022,234,7,13,Jonathan Ford,Defensive Tackle,77,333,330,22,34,"{'city': 'Fort Lauderdale', 'state': 'FL', 'country': 'USA', 'latitude': '26.1223084', 'longitude': '-80.1433786', 'countyFips': '12011'}"

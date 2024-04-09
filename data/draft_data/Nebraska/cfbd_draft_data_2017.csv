@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545594,51736,158,Nebraska,Big Ten,Philadelphia,2017,184,5,41,Nathan Gerry,Safety,74,218,192,18,51,"{'city': 'Sioux Falls', 'state': 'SD', 'country': 'USA', 'latitude': '43.5499749', 'longitude': '-96.700327', 'countyFips': '46099'}"

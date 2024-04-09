@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4046557,104390,2305,Kansas,Big 12,Cincinnati,2020,180,6,1,Hakeem Adeniji,Offensive Tackle,76,302,207,19,47,"{'city': 'Garland', 'state': 'TX', 'country': 'USA', 'latitude': '32.912624', 'longitude': '-96.6388833', 'countyFips': '48113'}"

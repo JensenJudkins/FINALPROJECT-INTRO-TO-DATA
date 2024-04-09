@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501214,33087,259,Virginia Tech,ACC,Chicago,2014,14,1,14,Kyle Fuller,Cornerback,72,190,15,2,92,"{'city': 'Baltimore', 'state': 'MD', 'country': 'USA', 'latitude': '39.2908816', 'longitude': '-76.610759', 'countyFips': '24510'}"
+480239,33064,259,Virginia Tech,ACC,Arizona,2014,120,4,20,Logan Thomas,Quarterback,78,248,126,10,61,"{'city': 'Lynchburg', 'state': 'VA', 'country': 'USA', 'latitude': '37.4137536', 'longitude': '-79.1422464', 'countyFips': '51680'}"
+-1041425,33625,259,Virginia Tech,ACC,Minnesota,2014,182,6,6,Antone Exum,Cornerback,72,213,115,17,65,"{'city': 'Glen Allen', 'state': 'VA', 'country': 'USA', 'latitude': '37.6659781', 'longitude': '-77.506374', 'countyFips': '51087'}"

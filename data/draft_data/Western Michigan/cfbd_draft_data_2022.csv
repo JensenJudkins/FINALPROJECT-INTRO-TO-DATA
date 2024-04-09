@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4430191,106025,2711,Western Michigan,Mid-American,Kansas City,2022,54,2,22,Skyy Moore,Wide Receiver,70,195,40,8,87,"{'city': 'New Kensington', 'state': 'PA', 'country': 'USA', 'latitude': '40.5697893', 'longitude': '-79.7647705', 'countyFips': '42129'}"

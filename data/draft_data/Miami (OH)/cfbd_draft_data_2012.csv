@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+240381,27997,193,Miami (OH),Mid-American,Houston,2012,76,3,13,Brandon Brooks,Offensive Guard,77,353,70,5,79,"{'city': 'Milwaukee', 'state': 'WI', 'country': 'USA', 'latitude': '43.0349931', 'longitude': '-87.922497', 'countyFips': '55079'}"

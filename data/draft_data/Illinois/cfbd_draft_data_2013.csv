@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1013663,29395,356,Illinois,Big Ten,Indianapolis,2013,86,3,24,Hugh Thornton,Offensive Guard,75,320,113,7,69,"{'city': 'Oberlin', 'state': 'OH', 'country': 'USA', 'latitude': '41.2939386', 'longitude': '-82.2173786', 'countyFips': '39093'}"
+-1013659,30243,356,Illinois,Big Ten,Tampa Bay,2013,100,4,3,Akeem Spence,Defensive Tackle,73,307,87,11,74,"{'city': 'Fort Walton Beach', 'state': 'FL', 'country': 'USA', 'latitude': '30.4057552', 'longitude': '-86.618842', 'countyFips': '12091'}"
+480232,29256,356,Illinois,Big Ten,Pittsburgh,2013,150,5,17,Terry Hawthorne,Cornerback,72,195,235,31,45,"{'city': 'East St. Louis', 'state': 'IL', 'country': 'USA', 'latitude': '38.6244952', 'longitude': '-90.1509429', 'countyFips': '17163'}"
+480434,29200,356,Illinois,Big Ten,New England,2013,226,7,20,Michael Buchanan,Defensive End,77,255,109,13,70,"{'city': 'Homewood', 'state': 'IL', 'country': 'USA', 'latitude': '41.5573283', 'longitude': '-87.6654739', 'countyFips': '17031'}"

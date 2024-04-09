@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4426344,105556,228,Clemson,ACC,Minnesota,2022,42,2,10,Andrew Booth Jr.,Cornerback,72,194,27,4,89,"{'city': 'Dacula', 'state': 'GA', 'country': 'USA', 'latitude': '33.9887165', 'longitude': '-83.8979573', 'countyFips': '13135'}"
+4239997,106136,228,Clemson,ACC,Buffalo,2022,231,7,10,Baylon Spector,Inside Linebacker,73,233,355,31,31,"{'city': 'Calhoun', 'state': 'GA', 'country': 'USA', 'latitude': '34.502587', 'longitude': '-84.9510542', 'countyFips': '13129'}"

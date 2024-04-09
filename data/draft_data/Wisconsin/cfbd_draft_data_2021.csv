@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4035798,105483,275,Wisconsin,Big Ten,Pittsburgh,2021,156,5,12,Isaiahh Loudermilk,Defensive Tackle,79,293,,,,"{'city': 'Howard', 'state': 'KS', 'country': 'USA', 'latitude': '37.4703117', 'longitude': '-96.2636066', 'countyFips': '20049'}"
+4372560,105277,275,Wisconsin,Big Ten,Buffalo,2021,213,6,29,Rachad Wildgoose,Cornerback,70,191,124.0,20.0,67.0,"{'city': 'Miramar', 'state': 'FL', 'country': 'USA', 'latitude': '25.975911449999998', 'longitude': '-80.33472128115224', 'countyFips': '12011'}"
+4035791,105429,275,Wisconsin,Big Ten,Green Bay,2021,214,6,30,Cole Van Lanen,Offensive Tackle,76,305,286.0,23.0,33.0,"{'city': 'Green Bay', 'state': 'WI', 'country': 'USA', 'latitude': '44.5126379', 'longitude': '-88.0125794', 'countyFips': '55009'}"

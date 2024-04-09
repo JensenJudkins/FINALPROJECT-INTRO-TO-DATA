@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1011330,47002,278,Fresno State,Mountain West,New Orleans,2015,154,5,18,Tyeler Davison,Defensive Tackle,74,316,193.0,18,48,"{'city': 'Scottsdale', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4942189', 'longitude': '-111.9260184', 'countyFips': '04013'}"
+504941,46920,278,Fresno State,Mountain West,Cincinnati,2015,197,6,21,Derron Smith,Safety,70,200,111.0,6,68,"{'city': 'Banning', 'state': 'CA', 'country': 'USA', 'latitude': '33.9255685', 'longitude': '-116.875289', 'countyFips': '06065'}"
+-1011349,47300,278,Fresno State,Mountain West,Los Angeles,2015,215,6,39,Cody Wichmann,Offensive Guard,77,319,,34,30,"{'city': 'Mariposa', 'state': 'CA', 'country': 'USA', 'latitude': '37.48218185', 'longitude': '-119.96395873356455', 'countyFips': '06043'}"

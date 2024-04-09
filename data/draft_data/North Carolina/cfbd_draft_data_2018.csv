@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3116679,101665,153,North Carolina,ACC,Tampa Bay,2018,53,2,21,M.J. Stewart,Cornerback,71,200,92.0,12,72,"{'city': 'Arlington', 'state': 'VA', 'country': 'USA', 'latitude': '38.8903961', 'longitude': '-77.0841585', 'countyFips': '51013'}"
+3895831,101765,153,North Carolina,ACC,Carolina,2018,234,7,16,Andre Smith,Inside Linebacker,72,235,259.0,11,41,"{'city': 'Jacksonville', 'state': 'FL', 'country': 'USA', 'latitude': '30.3321838', 'longitude': '-81.655651', 'countyFips': '12031'}"
+3116680,102092,153,North Carolina,ACC,Buffalo,2018,255,7,37,Austin Proehl,Wide Receiver,69,175,,79,30,"{'city': 'Charlotte', 'state': 'NC', 'country': 'USA', 'latitude': '35.2272', 'longitude': '-80.843083', 'countyFips': '37119'}"

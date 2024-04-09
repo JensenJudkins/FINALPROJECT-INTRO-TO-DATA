@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3915419,103927,120,Maryland,Big Ten,Green Bay,2019,21,1,21,Darnell Savage Jr.,Safety,71,198,28,2,88,"{'city': 'Newark', 'state': 'DE', 'country': 'USA', 'latitude': '39.6852191', 'longitude': '-75.7508289', 'countyFips': '10003'}"
+3916922,103754,120,Maryland,Big Ten,New England,2019,159,5,21,Byron Cowart,Defensive Tackle,75,298,161,14,61,"{'city': 'Seffner', 'state': 'FL', 'country': 'USA', 'latitude': '27.998541000000003', 'longitude': '-82.27488400114905', 'countyFips': '12057'}"
+3915411,103690,120,Maryland,Big Ten,Detroit,2019,186,6,13,Ty Johnson,Running Back,71,210,293,28,40,"{'city': 'Cumberland', 'state': 'MD', 'country': 'USA', 'latitude': '39.6526498', 'longitude': '-78.762383', 'countyFips': '24001'}"
+3115949,103635,120,Maryland,Big Ten,Pittsburgh,2019,219,7,5,Derwin Gray,Offensive Guard,77,320,267,17,45,"{'city': 'Washington', 'state': 'DC', 'country': 'USA', 'latitude': '38.8949855', 'longitude': '-77.0365708', 'countyFips': '11001'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545910,101859,2649,Toledo,Mid-American,Cincinnati,2018,249,7,31,Logan Woodside,Quarterback,73,213,210,10,51,"{'city': 'Frankfort', 'state': 'KY', 'country': 'USA', 'latitude': '38.2009055', 'longitude': '-84.8732836', 'countyFips': '21073'}"

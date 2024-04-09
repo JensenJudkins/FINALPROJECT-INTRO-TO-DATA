@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546052,46816,277,West Virginia,Big 12,Chicago,2015,7,1,7,Kevin White,Wide Receiver,75,215,7.0,2,93,"{'city': 'Plainfield', 'state': 'NJ', 'country': 'USA', 'latitude': '40.6337136', 'longitude': '-74.4073737', 'countyFips': '34039'}"
+-1042781,47034,277,West Virginia,Big 12,Seattle,2015,134,4,35,Mark Glowinski,Offensive Guard,76,307,225.0,16,43,"{'city': 'Wilkes-Barre', 'state': 'PA', 'country': 'USA', 'latitude': '41.2464824', 'longitude': '-75.8817316', 'countyFips': '42079'}"
+2589809,47283,277,West Virginia,Big 12,Arizona,2015,158,5,22,Shaq Riddick,Defensive End,78,244,,32,30,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+550507,47015,277,West Virginia,Big 12,Cincinnati,2015,238,7,21,Mario Alford,Wide Receiver,69,180,206.0,32,46,"{'city': 'Greenville', 'state': 'GA', 'country': 'USA', 'latitude': '33.0287373', 'longitude': '-84.7129848', 'countyFips': '13199'}"

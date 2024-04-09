@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+480399,33621,9,Arizona State,Pac-12,Chicago,2014,82,3,18,Will Sutton,Defensive Tackle,73,303,129,14,61,"{'city': 'Corona', 'state': 'CA', 'country': 'USA', 'latitude': '33.8752945', 'longitude': '-117.5664449', 'countyFips': '06065'}"
+504691,34828,9,Arizona State,Pac-12,Green Bay,2014,121,4,21,Carl Bradford,Outside Linebacker,73,250,119,11,64,"{'city': 'Norco', 'state': 'CA', 'country': 'USA', 'latitude': '33.9323307', 'longitude': '-117.5508901', 'countyFips': '06065'}"
+534757,34150,9,Arizona State,Pac-12,Los Angeles,2014,201,6,25,Marion Grice,Running Back,72,208,183,16,50,"{'city': 'Houston', 'state': 'TX', 'country': 'USA', 'latitude': '29.7589382', 'longitude': '-95.3676974', 'countyFips': '48201'}"

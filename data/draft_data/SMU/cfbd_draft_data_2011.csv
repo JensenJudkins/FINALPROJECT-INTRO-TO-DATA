@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+238159,26435,2567,SMU,Conference USA,Washington,2011,178,6,13,Aldrick Robinson,Wide Receiver,70,184,166,20,57,"{'city': 'Waxahachie', 'state': 'TX', 'country': 'USA', 'latitude': '32.3944908', 'longitude': '-96.8439365', 'countyFips': '48139'}"

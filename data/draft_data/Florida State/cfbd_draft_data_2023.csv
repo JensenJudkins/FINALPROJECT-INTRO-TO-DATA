@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4430411,106383,52,Florida State,ACC,Carolina,2023,145,5,11,Jammie Robinson,Safety,71,191,158,11,56,"{'city': 'Leesburg', 'state': 'GA', 'country': 'USA', 'latitude': '31.7324556', 'longitude': '-84.1711966', 'countyFips': '13177'}"

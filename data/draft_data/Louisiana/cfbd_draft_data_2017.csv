@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+545809,51905,309,Louisiana,Sun Belt,New York,2017,188,6,4,Elijah McGuire,Running Back,70,214,196,19,50,"{'city': 'Houma', 'state': 'LA', 'country': 'USA', 'latitude': '29.5957696', 'longitude': '-90.7195348', 'countyFips': '22109'}"

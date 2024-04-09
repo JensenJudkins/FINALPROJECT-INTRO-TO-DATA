@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+481315,29977,2628,TCU,Big 12,New England,2013,102,4,5,Josh Boyce,Wide Receiver,71,206,130,15,66,"{'city': 'Copperas Cove', 'state': 'TX', 'country': 'USA', 'latitude': '31.124062', 'longitude': '-97.9030785', 'countyFips': '48099'}"
+-1033673,30342,2628,TCU,Big 12,Atlanta,2013,153,5,20,Stansly Maponga,Defensive End,74,256,157,19,58,"{'city': 'Carrolton', 'state': 'TX', 'country': 'USA', 'latitude': '37.7985383', 'longitude': '-121.070216', 'countyFips': '06077'}"

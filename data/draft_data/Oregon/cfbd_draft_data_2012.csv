@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1028523,28787,2483,Oregon,Pac-12,San Francisco,2012,61,2,29,LaMichael James,Running Back,68,194,67.0,5,79,"{'city': 'Texarkana', 'state': 'TX', 'country': 'USA', 'latitude': '33.44628645', 'longitude': '-94.07638067493534', 'countyFips': '48037'}"
+-1028524,28163,2483,Oregon,Pac-12,Miami,2012,155,5,20,Josh Kaddu,Outside Linebacker,75,239,173.0,16,52,"{'city': 'Vacaville', 'state': 'CA', 'country': 'USA', 'latitude': '38.3565773', 'longitude': '-121.9877444', 'countyFips': '06095'}"
+-1028517,29045,2483,Oregon,Pac-12,Buffalo,2012,178,6,8,Mark Asper,Offensive Guard,78,319,,26,30,"{'city': 'Idaho Falls', 'state': 'ID', 'country': 'USA', 'latitude': '43.4935245', 'longitude': '-112.0400919', 'countyFips': '16019'}"
+246315,28788,2483,Oregon,Pac-12,Pittsburgh,2012,240,7,33,David Paulson,Tight End,75,246,,16,30,"{'city': 'Auburn', 'state': 'WA', 'country': 'USA', 'latitude': '47.3075369', 'longitude': '-122.2301808', 'countyFips': '53033'}"

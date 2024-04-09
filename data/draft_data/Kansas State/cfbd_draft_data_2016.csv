@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1015423,49833,2306,Kansas State,Big 12,Chicago,2016,56,2,25,Cody Whitehair,Offensive Guard,76,301,59,2,79,"{'city': 'Abilene', 'state': 'KS', 'country': 'USA', 'latitude': '38.917252', 'longitude': '-97.21377', 'countyFips': '20041'}"

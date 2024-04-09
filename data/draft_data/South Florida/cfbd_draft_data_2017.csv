@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3139605,51792,58,South Florida,American Athletic,Indianapolis,2017,143,4,37,Marlon Mack,Running Back,71,213,148.0,13,61,"{'city': 'Sarasota', 'state': 'FL', 'country': 'USA', 'latitude': '27.3364347', 'longitude': '-82.5306527', 'countyFips': '12115'}"
+552748,51945,58,South Florida,American Athletic,Minnesota,2017,170,5,27,Rodney Adams,Wide Receiver,73,189,303.0,51,35,"{'city': 'St. Petersburg', 'state': 'FL', 'country': 'USA', 'latitude': '27.7703796', 'longitude': '-82.6695085', 'countyFips': '12103'}"
+-1032340,101415,58,South Florida,American Athletic,Green Bay,2017,212,6,29,Kofi Amichia,Offensive Tackle,76,304,,44,30,"{'city': 'Powder Springs', 'state': 'GA', 'country': 'USA', 'latitude': '33.8595492', 'longitude': '-84.683824', 'countyFips': '13067'}"

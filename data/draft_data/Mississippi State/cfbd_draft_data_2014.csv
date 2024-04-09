@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+483168,34112,344,Mississippi State,SEC,Las Vegas,2014,81,3,17,Gabe Jackson,Offensive Guard,75,336,73,3,73,"{'city': 'Liberty', 'state': 'MS', 'country': 'USA', 'latitude': '31.1582312', 'longitude': '-90.8123243', 'countyFips': '28005'}"

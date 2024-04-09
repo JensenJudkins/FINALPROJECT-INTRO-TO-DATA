@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240754,105598,135,Minnesota,Big Ten,Seattle,2022,40,2,8,Boye Mafe,Outside Linebacker,76,261,38.0,2.0,87.0,"{'city': 'Golden Valley', 'state': 'MN', 'country': 'USA', 'latitude': '44.9861176', 'longitude': '-93.3784618', 'countyFips': '27053'}"
+4360964,105573,135,Minnesota,Big Ten,Baltimore,2022,110,4,5,Daniel Faalele,Offensive Tackle,80,384,84.0,10.0,76.0,"{'city': 'Melbourne', 'state': 'VIC', 'country': 'Australia', 'latitude': None, 'longitude': None, 'countyFips': None}"
+4240759,105908,135,Minnesota,Big Ten,Minnesota,2022,165,5,22,Esezi Otomewo,Defensive End,77,282,178.0,15.0,58.0,"{'city': 'Indianapolis', 'state': 'IN', 'country': 'USA', 'latitude': '39.7683331', 'longitude': '-86.1583502', 'countyFips': '18097'}"
+4034779,106253,135,Minnesota,Big Ten,Tampa Bay,2022,218,6,40,Ko Kieft,Tight End,77,265,,,,"{'city': 'Sioux Center', 'state': 'IA', 'country': 'USA', 'latitude': '43.079692', 'longitude': '-96.175672', 'countyFips': '19167'}"

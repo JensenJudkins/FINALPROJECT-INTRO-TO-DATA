@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4371986,105302,2,Auburn,SEC,Cleveland,2021,91,3,28,Anthony Schwartz,Wide Receiver,72,186,72,11,76,"{'city': 'Pembroke Pines', 'state': 'FL', 'country': 'USA', 'latitude': '26.02322025', 'longitude': '-80.34123906625615', 'countyFips': '12011'}"
+4361331,105284,2,Auburn,SEC,New York,2021,146,5,2,Jamien Sherwood,Safety,74,216,187,14,53,"{'city': 'Jensen Beach', 'state': 'FL', 'country': 'USA', 'latitude': '27.2379528', 'longitude': '-80.23898988902575', 'countyFips': '12085'}"
+4242521,104841,2,Auburn,SEC,Tampa Bay,2021,176,5,32,K.J. Britt,Inside Linebacker,73,235,131,11,66,"{'city': 'Oxford', 'state': 'AL', 'country': 'USA', 'latitude': '33.5853695', 'longitude': '-85.91428175037092', 'countyFips': '01121'}"
+4371974,105290,2,Auburn,SEC,Denver,2021,219,6,35,Seth Williams,Wide Receiver,75,211,165,27,59,"{'city': 'Cottondale', 'state': 'AL', 'country': 'USA', 'latitude': '33.1895629', 'longitude': '-87.4516703', 'countyFips': '01125'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4244300,106026,193,Miami (OH),Mid-American,Chicago,2022,174,5,31,Dominique Robinson,Outside Linebacker,77,253,179,12,58,"{'city': 'Canton', 'state': 'OH', 'country': 'USA', 'latitude': '40.7989522', 'longitude': '-81.3784445', 'countyFips': '39151'}"

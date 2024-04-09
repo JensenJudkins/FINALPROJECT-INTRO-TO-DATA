@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240861,104623,259,Virginia Tech,ACC,New England,2020,101,3,37,Dalton Keene,Tight End,76,253,197,13,49,"{'city': 'Littleton', 'state': 'CO', 'country': 'USA', 'latitude': '39.613321', 'longitude': '-105.0166498', 'countyFips': '08005'}"

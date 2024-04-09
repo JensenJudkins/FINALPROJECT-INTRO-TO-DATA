@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+483321,33428,2655,Tulane,Conference USA,Washington,2014,142,5,2,Ryan Grant,Wide Receiver,72,199,180,27,51,"{'city': 'Beaumont', 'state': 'TX', 'country': 'USA', 'latitude': '30.0860459', 'longitude': '-94.1018461', 'countyFips': '48245'}"

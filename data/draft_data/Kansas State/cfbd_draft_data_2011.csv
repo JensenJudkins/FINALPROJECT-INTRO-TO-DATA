@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+487957,27207,2306,Kansas State,Big 12,Miami,2011,62,2,30,Daniel Thomas,Running Back,72,230,70,4,78,"{'city': 'Hilliard', 'state': 'FL', 'country': 'USA', 'latitude': '30.691068', 'longitude': '-81.9173334', 'countyFips': '12089'}"

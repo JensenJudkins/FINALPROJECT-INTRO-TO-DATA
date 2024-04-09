@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4374045,105727,204,Oregon State,Pac-12,Houston,2022,170,5,27,Teagan Quitoriano,Tight End,78,256,313,20,37,"{'city': 'Salem', 'state': 'OR', 'country': 'USA', 'latitude': '44.9391565', 'longitude': '-123.033121', 'countyFips': '41047'}"

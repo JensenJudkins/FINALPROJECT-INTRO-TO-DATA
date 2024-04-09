@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3122672,101573,2483,Oregon,Pac-12,Denver,2018,71,3,7,Royce Freeman,Running Back,72,229,90,8,73,"{'city': 'Imperial', 'state': 'CA', 'country': 'USA', 'latitude': '32.8475529', 'longitude': '-115.5694391', 'countyFips': '06025'}"
+3122687,101537,2483,Oregon,Pac-12,Detroit,2018,153,5,16,Tyrell Crosby,Offensive Tackle,77,309,55,3,83,"{'city': 'Henderson', 'state': 'NV', 'country': 'USA', 'latitude': '36.0301134', 'longitude': '-114.9826194', 'countyFips': '32003'}"

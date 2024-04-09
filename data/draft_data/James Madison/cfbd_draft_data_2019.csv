@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3120508,103699,256,James Madison,CAA,Washington,2019,227,7,13,Jimmy Moreland,Cornerback,70,179,290,34,40,"{'city': 'Llano', 'state': 'TX', 'country': 'USA', 'latitude': '30.752919', 'longitude': '-98.6754992', 'countyFips': '48299'}"

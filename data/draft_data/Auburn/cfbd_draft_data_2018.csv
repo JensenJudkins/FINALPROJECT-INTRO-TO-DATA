@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3121595,101554,2,Auburn,SEC,Indianapolis,2018,37,2,5,Braden Smith,Offensive Guard,78,315,57,6,82,"{'city': 'Olathe', 'state': 'KS', 'country': 'USA', 'latitude': '38.8838856', 'longitude': '-94.81887', 'countyFips': '20091'}"
+3916925,101522,2,Auburn,SEC,Detroit,2018,43,2,11,Kerryon Johnson,Running Back,72,213,79,7,75,"{'city': 'Huntsville', 'state': 'AL', 'country': 'USA', 'latitude': '34.729847', 'longitude': '-86.5859011', 'countyFips': '01089'}"
+3916923,101841,2,Auburn,SEC,Tampa Bay,2018,63,2,31,Carlton Davis,Cornerback,73,206,83,9,74,"{'city': 'Miami', 'state': 'FL', 'country': 'USA', 'latitude': '25.7742658', 'longitude': '-80.1936589', 'countyFips': '12086'}"
+550032,101745,2,Auburn,SEC,Minnesota,2018,167,5,30,Daniel Carlson,Place Kicker,77,213,158,1,60,"{'city': 'Colorado Springs', 'state': 'CO', 'country': 'USA', 'latitude': '38.8339578', 'longitude': '-104.8253485', 'countyFips': '08041'}"

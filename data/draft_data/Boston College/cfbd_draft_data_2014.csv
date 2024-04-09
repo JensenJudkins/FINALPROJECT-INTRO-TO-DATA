@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501673,33246,103,Boston College,ACC,New York,2014,113,4,13,Andre Williams,Running Back,71,230,93.0,7,69,"{'city': 'Schnecksville', 'state': 'PA', 'country': 'USA', 'latitude': '40.6763665', 'longitude': '-75.62143246464903', 'countyFips': '42077'}"
+501664,34500,103,Boston College,ACC,Seattle,2014,132,4,32,Kevin Pierre-Louis,Outside Linebacker,73,232,253.0,21,39,"{'city': 'Norwalk', 'state': 'CT', 'country': 'USA', 'latitude': '41.1175966', 'longitude': '-73.4078968', 'countyFips': '09001'}"
+480675,33120,103,Boston College,ACC,Detroit,2014,229,7,14,Nate Freese,Place Kicker,71,189,,18,30,"{'city': 'Strongsville', 'state': 'OH', 'country': 'USA', 'latitude': '41.3144733', 'longitude': '-81.83511', 'countyFips': '39035'}"
+-1005364,33092,103,Boston College,ACC,San Francisco,2014,243,7,28,Kaleb Ramsey,Defensive Tackle,75,293,266.0,25,37,"{'city': 'Uniontown', 'state': 'PA', 'country': 'USA', 'latitude': '39.900076', 'longitude': '-79.7164326', 'countyFips': '42051'}"

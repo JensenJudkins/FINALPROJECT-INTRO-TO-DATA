@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3121541,103565,275,Wisconsin,Big Ten,Miami,2019,78,3,14,Michael Deiter,Offensive Guard,77,309,85,6,73,"{'city': 'Curtice', 'state': 'OH', 'country': 'USA', 'latitude': '41.618382', 'longitude': '-83.3677069', 'countyFips': '39123'}"
+3121538,103642,275,Wisconsin,Big Ten,New York,2019,143,5,5,Ryan Connelly,Inside Linebacker,74,242,202,11,55,"{'city': 'Eden Prairie', 'state': 'MN', 'country': 'USA', 'latitude': '44.8546856', 'longitude': '-93.470786', 'countyFips': '27053'}"
+3133487,103703,275,Wisconsin,Big Ten,Miami,2019,151,5,13,Andrew Van Ginkel,Outside Linebacker,76,241,291,25,40,"{'city': 'Rock Valley', 'state': 'IA', 'country': 'USA', 'latitude': '43.205241', 'longitude': '-96.294843', 'countyFips': '19167'}"
+3917660,103556,275,Wisconsin,Big Ten,Los Angeles,2019,169,5,31,David Edwards,Offensive Tackle,78,308,157,15,62,"{'city': 'Downers Grove', 'state': 'IL', 'country': 'USA', 'latitude': '41.7938195', 'longitude': '-88.010376', 'countyFips': '17043'}"

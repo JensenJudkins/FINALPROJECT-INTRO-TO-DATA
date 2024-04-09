@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501812,33053,142,Missouri,SEC,Carolina,2014,60,2,28,Kony Ealy,Defensive End,76,273,38,4,87,"{'city': 'New Madrid', 'state': 'MO', 'country': 'USA', 'latitude': '36.5864488', 'longitude': '-89.5278547', 'countyFips': '29143'}"
+481515,33684,142,Missouri,SEC,Seattle,2014,64,2,32,Justin Britt,Offensive Tackle,78,325,215,17,45,"{'city': 'Lebanon', 'state': 'MO', 'country': 'USA', 'latitude': '37.6806669', 'longitude': '-92.6637835', 'countyFips': '29105'}"
+501818,33663,142,Missouri,SEC,Los Angeles,2014,188,6,12,E.J. Gaines,Cornerback,70,190,212,29,45,"{'city': 'Independence', 'state': 'MO', 'country': 'USA', 'latitude': '39.0924792', 'longitude': '-94.4137923', 'countyFips': '29095'}"
+481535,33852,142,Missouri,SEC,Los Angeles,2014,249,7,34,Michael Sam,Defensive End,74,261,224,20,43,"{'city': 'Hitchcock', 'state': 'TX', 'country': 'USA', 'latitude': '29.3482905', 'longitude': '-95.0160368', 'countyFips': '48167'}"

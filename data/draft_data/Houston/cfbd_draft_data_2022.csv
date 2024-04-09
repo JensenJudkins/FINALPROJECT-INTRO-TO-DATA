@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4360189,105607,248,Houston,American Athletic,Tampa Bay,2022,33,2,1,Logan Hall,Defensive End,78,283,45,7,86,"{'city': 'Belton', 'state': 'TX', 'country': 'USA', 'latitude': '31.0560132', 'longitude': '-97.464453', 'countyFips': '48027'}"
+4241720,105882,248,Houston,American Athletic,New England,2022,85,3,21,Marcus Jones,Cornerback,68,174,91,12,73,"{'city': 'Enterprise', 'state': 'AL', 'country': 'USA', 'latitude': '31.3151708', 'longitude': '-85.8552161', 'countyFips': '01031'}"
+4567480,105937,248,Houston,American Athletic,Baltimore,2022,141,4,36,Damarion Williams,Cornerback,70,182,276,35,42,"{'city': 'Atlanta', 'state': 'GA', 'country': 'USA', 'latitude': '33.7490987', 'longitude': '-84.3901849', 'countyFips': '13121'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3918639,51669,6,South Alabama,Sun Belt,Los Angeles,2017,44,2,12,Gerald Everett,Tight End,75,239,96,7,73,"{'city': 'Lithonia', 'state': 'GA', 'country': 'USA', 'latitude': '33.7123305', 'longitude': '-84.1051939', 'countyFips': '13089'}"

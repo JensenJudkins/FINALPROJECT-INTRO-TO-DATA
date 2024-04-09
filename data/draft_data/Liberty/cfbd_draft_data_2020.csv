@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4029893,104394,2335,Liberty,FBS Independents,Washington,2020,142,4,36,Antonio Gandy-Golden,Wide Receiver,76,223,83,14,73,"{'city': 'Dallas', 'state': 'GA', 'country': 'USA', 'latitude': '33.9237141', 'longitude': '-84.8407732', 'countyFips': '13223'}"

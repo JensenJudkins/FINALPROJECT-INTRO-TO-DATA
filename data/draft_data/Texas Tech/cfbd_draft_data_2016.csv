@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+514483,50464,2641,Texas Tech,Big 12,Indianapolis,2016,82,3,19,Le'Raven Clark,Offensive Tackle,77,316,97,9,70,"{'city': 'Rockdale', 'state': 'TX', 'country': 'USA', 'latitude': '30.6549433', 'longitude': '-97.0058245', 'countyFips': '48331'}"
+2577654,50057,2641,Texas Tech,Big 12,Las Vegas,2016,143,5,4,Deandre Washington,Running Back,68,204,212,16,50,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+514493,50486,2641,Texas Tech,Big 12,Miami,2016,186,6,11,Jakeem Grant,Wide Receiver,66,165,303,47,35,"{'city': 'Mesquite', 'state': 'TX', 'country': 'USA', 'latitude': '32.7666103', 'longitude': '-96.599472', 'countyFips': '48113'}"

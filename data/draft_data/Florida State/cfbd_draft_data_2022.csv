@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4567962,105660,52,Florida State,ACC,New York,2022,26,1,26,Jermaine Johnson II,Defensive End,77,254,14,4,92,"{'city': 'Eden Prairie', 'state': 'MN', 'country': 'USA', 'latitude': '44.8546856', 'longitude': '-93.470786', 'countyFips': '27053'}"

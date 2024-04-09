@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4361662,105272,152,NC State,ACC,Detroit,2021,72,3,8,Alim McNeill,Defensive Tackle,74,317,70,3,77,"{'city': 'Raleigh', 'state': 'NC', 'country': 'USA', 'latitude': '35.7803977', 'longitude': '-78.6390989', 'countyFips': '37183'}"

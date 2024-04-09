@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+531973,100412,2084,Buffalo,Mid-American,Cincinnati,2017,251,7,33,Mason Schreck,Tight End,77,253,,48,30,"{'city': 'Medina', 'state': 'OH', 'country': 'USA', 'latitude': '41.1383878', 'longitude': '-81.8637474', 'countyFips': '39103'}"

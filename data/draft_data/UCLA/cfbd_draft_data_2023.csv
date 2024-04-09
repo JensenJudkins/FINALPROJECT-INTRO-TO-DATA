@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4426385,106439,26,UCLA,Pac-12,Seattle,2023,52,2,21,Zach Charbonnet,Running Back,72,214,64,3,79,"{'city': 'Camarillo', 'state': 'CA', 'country': 'USA', 'latitude': '34.2164099', 'longitude': '-119.0376573', 'countyFips': '06111'}"
+4367199,106892,26,UCLA,Pac-12,Arizona,2023,122,4,20,Jon Gaines II,Offensive Guard,76,303,254,15,40,"{'city': 'Wauwatosa', 'state': 'WI', 'country': 'USA', 'latitude': '43.0494122', 'longitude': '-88.0079271', 'countyFips': '55079'}"
+4367178,106682,26,UCLA,Pac-12,Cleveland,2023,140,5,6,Dorian Thompson-Robinson,Quarterback,74,203,143,8,60,"{'city': 'Las Vegas', 'state': 'NV', 'country': 'USA', 'latitude': '36.1672559', 'longitude': '-115.1485163', 'countyFips': '32003'}"
+4367202,106804,26,UCLA,Pac-12,New England,2023,144,5,10,Atonio Mafi,Offensive Guard,75,338,213,10,46,"{'city': 'San Mateo', 'state': 'CA', 'country': 'USA', 'latitude': '37.5439684', 'longitude': '-122.3066789', 'countyFips': '06081'}"

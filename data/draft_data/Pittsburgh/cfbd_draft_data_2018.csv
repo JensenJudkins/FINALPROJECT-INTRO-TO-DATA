@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3123954,101769,221,Pittsburgh,ACC,Minnesota,2018,62,2,30,Brian O'Neill,Offensive Tackle,79,297,69,5,77,"{'city': 'Wilmington', 'state': 'DE', 'country': 'USA', 'latitude': '39.7459468', 'longitude': '-75.546589', 'countyFips': '10003'}"
+3895798,101681,221,Pittsburgh,ACC,Tampa Bay,2018,117,4,17,Jordan Whitehead,Safety,70,198,227,21,47,"{'city': 'Aliquippa', 'state': 'PA', 'country': 'USA', 'latitude': '40.6102386', 'longitude': '-80.267726', 'countyFips': '42007'}"
+3123938,101865,221,Pittsburgh,ACC,Philadelphia,2018,125,4,25,Avonte Maddox,Cornerback,69,184,131,16,66,"{'city': 'Detroit', 'state': 'MI', 'country': 'USA', 'latitude': '42.3315509', 'longitude': '-83.0466403', 'countyFips': '26163'}"

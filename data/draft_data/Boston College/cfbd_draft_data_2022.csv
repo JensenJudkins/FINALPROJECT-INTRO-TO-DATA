@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4247347,105562,103,Boston College,ACC,Los Angeles,2022,17,1,17,Zion Johnson,Offensive Guard,75,312,28,2,88,"{'city': 'Bowie', 'state': 'MD', 'country': 'USA', 'latitude': '38.9429659', 'longitude': '-76.731234', 'countyFips': '24033'}"

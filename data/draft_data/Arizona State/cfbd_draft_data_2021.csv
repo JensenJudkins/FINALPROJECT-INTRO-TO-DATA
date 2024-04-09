@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4047836,105197,9,Arizona State,Pac-12,Atlanta,2021,187,6,3,Frank Darby,Wide Receiver,72,201,137,22,65,"{'city': 'Jersey City', 'state': 'NJ', 'country': 'USA', 'latitude': '40.7281575', 'longitude': '-74.0776417', 'countyFips': '34017'}"

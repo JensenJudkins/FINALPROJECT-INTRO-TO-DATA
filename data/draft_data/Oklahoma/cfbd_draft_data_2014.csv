@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+504939,33635,201,Oklahoma,Big 12,New York,2014,104,4,4,Jalen Saunders,Wide Receiver,69,165,131.0,19,61,"{'city': 'Elk Grove', 'state': 'CA', 'country': 'USA', 'latitude': '38.4087993', 'longitude': '-121.3716178', 'countyFips': '06067'}"
+501885,33062,201,Oklahoma,Big 12,Jacksonville,2014,114,4,14,Aaron Colvin,Cornerback,71,177,88.0,13,69,"{'city': 'Tulsa', 'state': 'OK', 'country': 'USA', 'latitude': '36.1556805', 'longitude': '-95.9929113', 'countyFips': '40143'}"
+501905,34502,201,Oklahoma,Big 12,Denver,2014,242,7,27,Corey Nelson,Outside Linebacker,73,220,,42,30,"{'city': 'Dallas', 'state': 'TX', 'country': 'USA', 'latitude': '32.7762719', 'longitude': '-96.7968559', 'countyFips': '48113'}"
+501902,33643,201,Oklahoma,Big 12,San Francisco,2014,245,7,30,Trey Millard,Fullback,74,247,248.0,1,40,"{'city': 'Columbia', 'state': 'MO', 'country': 'USA', 'latitude': '38.951883', 'longitude': '-92.3337366', 'countyFips': '29019'}"

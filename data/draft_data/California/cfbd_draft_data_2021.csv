@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4035861,104811,25,California,Pac-12,Minnesota,2021,125,4,20,Camryn Bynum,Cornerback,72,196,130,21,66,"{'city': 'Corona', 'state': 'CA', 'country': 'USA', 'latitude': '33.8752945', 'longitude': '-117.5664449', 'countyFips': '06065'}"

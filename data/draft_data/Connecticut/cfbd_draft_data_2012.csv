@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+237718,27589,41,Connecticut,Big East,Los Angeles,2012,49,2,17,Kendall Reyes,Defensive Tackle,76,299,50,7,86,"{'city': 'Nashua', 'state': 'NH', 'country': 'USA', 'latitude': '42.7653662', 'longitude': '-71.467566', 'countyFips': '33011'}"

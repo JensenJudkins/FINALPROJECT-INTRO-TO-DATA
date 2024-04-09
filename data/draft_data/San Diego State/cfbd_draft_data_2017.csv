@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1031066,51761,21,San Diego State,Mountain West,Baltimore,2017,122,4,16,Nico Siragusa,Offensive Guard,76,319,119,5,69,"{'city': 'Chula Vista', 'state': 'CA', 'country': 'USA', 'latitude': '32.6400541', 'longitude': '-117.0841955', 'countyFips': '06073'}"
+547571,52088,21,San Diego State,Mountain West,Philadelphia,2017,132,4,26,Donnel Pumphrey,Running Back,68,176,115,9,69,"{'city': 'Las Vegas', 'state': 'NV', 'country': 'USA', 'latitude': '36.1672559', 'longitude': '-115.1485163', 'countyFips': '32003'}"
+534370,51598,21,San Diego State,Mountain West,Atlanta,2017,149,5,5,Damontae Kazee,Cornerback,70,184,84,13,75,"{'city': 'San Bernardino', 'state': 'CA', 'country': 'USA', 'latitude': '34.1083449', 'longitude': '-117.2897652', 'countyFips': '06071'}"

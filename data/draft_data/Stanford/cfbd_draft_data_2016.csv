@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1032989,49829,24,Stanford,Pac-12,San Francisco,2016,28,1,28,Joshua Garnett,Offensive Guard,76,312,50,1,81,"{'city': 'Puyallup', 'state': 'WA', 'country': 'USA', 'latitude': '47.1849009', 'longitude': '-122.2921406', 'countyFips': '53053'}"
+546471,50098,24,Stanford,Pac-12,Atlanta,2016,81,3,18,Austin Hooper,Tight End,76,254,62,3,79,"{'city': 'San Ramon', 'state': 'CA', 'country': 'USA', 'latitude': '37.7799273', 'longitude': '-121.9780153', 'countyFips': '06013'}"
+535291,49760,24,Stanford,Pac-12,Green Bay,2016,131,4,33,Blake Martinez,Inside Linebacker,74,237,147,6,60,"{'city': 'Tucson', 'state': 'AZ', 'country': 'USA', 'latitude': '32.2228765', 'longitude': '-110.9748477', 'countyFips': '04019'}"
+516357,49998,24,Stanford,Pac-12,Kansas City,2016,162,5,23,Kevin Hogan,Quarterback,75,218,200,9,52,"{'city': 'McLean', 'state': 'VA', 'country': 'USA', 'latitude': '38.9342888', 'longitude': '-77.1776327', 'countyFips': '51059'}"
+-1032993,49922,24,Stanford,Pac-12,Green Bay,2016,200,6,25,Kyle Murphy,Offensive Tackle,78,305,166,13,58,"{'city': 'San Clemente', 'state': 'CA', 'country': 'USA', 'latitude': '33.4270275', 'longitude': '-117.6124179', 'countyFips': '06059'}"

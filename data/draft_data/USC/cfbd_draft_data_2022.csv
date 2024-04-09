@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4426502,105554,30,USC,Pac-12,Atlanta,2022,8,1,8,Drake London,Wide Receiver,76,219,11,2,92,"{'city': 'Moorpark', 'state': 'CA', 'country': 'USA', 'latitude': '34.285558', 'longitude': '-118.8820414', 'countyFips': '06111'}"
+4569511,105603,30,USC,Pac-12,San Francisco,2022,61,2,29,Drake Jackson,Outside Linebacker,75,254,53,3,84,"{'city': 'Corona', 'state': 'CA', 'country': 'USA', 'latitude': '33.8752945', 'longitude': '-117.5664449', 'countyFips': '06065'}"
+4362087,105999,30,USC,Pac-12,Arizona,2022,201,6,23,Keaontay Ingram,Running Back,72,221,242,21,47,"{'city': 'Carthage', 'state': 'TX', 'country': 'USA', 'latitude': '32.1570412', 'longitude': '-94.338114', 'countyFips': '48365'}"

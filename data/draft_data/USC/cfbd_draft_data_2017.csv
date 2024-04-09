@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3120347,51594,30,USC,Pac-12,Tennessee,2017,18,1,18,Adoree' Jackson,Cornerback,70,186,29.0,5,88,"{'city': 'Belleville', 'state': 'IL', 'country': 'USA', 'latitude': '38.5200504', 'longitude': '-89.9839935', 'countyFips': '17163'}"
+3120348,51581,30,USC,Pac-12,Pittsburgh,2017,62,2,30,JuJu Smith-Schuster,Wide Receiver,73,215,51.0,6,83,"{'city': 'Long Beach', 'state': 'CA', 'country': 'USA', 'latitude': '33.7690164', 'longitude': '-118.1916048', 'countyFips': '06037'}"
+531008,51652,30,USC,Pac-12,Indianapolis,2017,137,4,31,Zach Banner,Offensive Tackle,80,353,114.0,6,70,"{'city': 'Tacoma', 'state': 'WA', 'country': 'USA', 'latitude': '47.2495798', 'longitude': '-122.4398746', 'countyFips': '53053'}"
+546419,101406,30,USC,Pac-12,Kansas City,2017,218,6,35,Leon McQuay III,Safety,73,197,,41,30,"{'city': 'Seffner', 'state': 'FL', 'country': 'USA', 'latitude': '27.998541000000003', 'longitude': '-82.27488400114905', 'countyFips': '12057'}"
+3052515,51819,30,USC,Pac-12,Tampa Bay,2017,223,7,5,Stevie Tu'Ikolovatu,Defensive Tackle,73,331,125.0,10,68,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"

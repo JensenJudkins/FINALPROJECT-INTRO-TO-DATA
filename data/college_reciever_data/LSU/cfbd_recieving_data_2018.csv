@@ -1,0 +1,76 @@
+playerId,player,team,conference,category,statType,stat
+4395472,C Ed-Helaire,LSU,SEC,receiving,YPR,-1.0
+4035427,Dee Anderson,LSU,SEC,receiving,TD,1
+4395472,C Ed-Helaire,LSU,SEC,receiving,LONG,0
+3843945,Foster Moreau,LSU,SEC,receiving,LONG,24
+3915827,Jonathan Giles,LSU,SEC,receiving,REC,10
+4395472,C Ed-Helaire,LSU,SEC,receiving,REC,1
+4242209,Jontre Kirklin,LSU,SEC,receiving,REC,1
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,YDS,192
+3843640,Lanard Fournette,LSU,SEC,receiving,YPR,9.2
+3843640,Lanard Fournette,LSU,SEC,receiving,TD,0
+4242231,Racey McMath,LSU,SEC,receiving,YPR,21.0
+4242231,Racey McMath,LSU,SEC,receiving,TD,0
+4035426,Stephen Sullivan,LSU,SEC,receiving,TD,2
+4262921,Justin Jefferson,LSU,SEC,receiving,YPR,16.2
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,LONG,30
+3843640,Lanard Fournette,LSU,SEC,receiving,LONG,19
+4035426,Stephen Sullivan,LSU,SEC,receiving,YDS,363
+4035426,Stephen Sullivan,LSU,SEC,receiving,REC,23
+4242209,Jontre Kirklin,LSU,SEC,receiving,YPR,5.0
+4035427,Dee Anderson,LSU,SEC,receiving,YDS,274
+4242212,Tory Carter,LSU,SEC,receiving,YPR,9.8
+4362628,Ja'Marr Chase,LSU,SEC,receiving,LONG,45
+4242212,Tory Carter,LSU,SEC,receiving,REC,4
+4242212,Tory Carter,LSU,SEC,receiving,TD,1
+3843406,Nick Brossette,LSU,SEC,receiving,YDS,78
+4362628,Ja'Marr Chase,LSU,SEC,receiving,REC,23
+3843406,Nick Brossette,LSU,SEC,receiving,REC,14
+4242212,Tory Carter,LSU,SEC,receiving,LONG,12
+4035426,Stephen Sullivan,LSU,SEC,receiving,LONG,42
+4242209,Jontre Kirklin,LSU,SEC,receiving,YDS,5
+4242209,Jontre Kirklin,LSU,SEC,receiving,TD,0
+4262921,Justin Jefferson,LSU,SEC,receiving,YDS,874
+3843469,Derrick Dillon,LSU,SEC,receiving,REC,22
+3915827,Jonathan Giles,LSU,SEC,receiving,YDS,59
+4035426,Stephen Sullivan,LSU,SEC,receiving,YPR,15.8
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,REC,10
+3843640,Lanard Fournette,LSU,SEC,receiving,REC,6
+4262921,Justin Jefferson,LSU,SEC,receiving,TD,6
+4362628,Ja'Marr Chase,LSU,SEC,receiving,YPR,13.6
+3843406,Nick Brossette,LSU,SEC,receiving,YPR,5.6
+3915827,Jonathan Giles,LSU,SEC,receiving,YPR,5.9
+3843945,Foster Moreau,LSU,SEC,receiving,TD,2
+4362628,Ja'Marr Chase,LSU,SEC,receiving,TD,3
+4242209,Jontre Kirklin,LSU,SEC,receiving,LONG,5
+4262921,Justin Jefferson,LSU,SEC,receiving,REC,54
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,YPR,16.0
+4035427,Dee Anderson,LSU,SEC,receiving,LONG,28
+4242231,Racey McMath,LSU,SEC,receiving,LONG,23
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,TD,0
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,REC,12
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,TD,0
+3843945,Foster Moreau,LSU,SEC,receiving,REC,22
+4242231,Racey McMath,LSU,SEC,receiving,YDS,42
+3843406,Nick Brossette,LSU,SEC,receiving,TD,0
+4395472,C Ed-Helaire,LSU,SEC,receiving,TD,0
+3843469,Derrick Dillon,LSU,SEC,receiving,YDS,307
+4035427,Dee Anderson,LSU,SEC,receiving,YPR,13.7
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,YDS,97
+4262921,Justin Jefferson,LSU,SEC,receiving,LONG,65
+3843469,Derrick Dillon,LSU,SEC,receiving,LONG,71
+4362628,Ja'Marr Chase,LSU,SEC,receiving,YDS,313
+4242214,Clyde Edwards-Helaire,LSU,SEC,receiving,YPR,9.7
+4395472,C Ed-Helaire,LSU,SEC,receiving,YDS,-1
+4035427,Dee Anderson,LSU,SEC,receiving,REC,20
+3843406,Nick Brossette,LSU,SEC,receiving,LONG,15
+4362630,Terrace Marshall Jr.,LSU,SEC,receiving,LONG,52
+4242231,Racey McMath,LSU,SEC,receiving,REC,2
+4242212,Tory Carter,LSU,SEC,receiving,YDS,39
+3843469,Derrick Dillon,LSU,SEC,receiving,TD,2
+3843945,Foster Moreau,LSU,SEC,receiving,YDS,272
+3915827,Jonathan Giles,LSU,SEC,receiving,TD,0
+3843945,Foster Moreau,LSU,SEC,receiving,YPR,12.4
+3843469,Derrick Dillon,LSU,SEC,receiving,YPR,14.0
+3915827,Jonathan Giles,LSU,SEC,receiving,LONG,15
+3843640,Lanard Fournette,LSU,SEC,receiving,YDS,55

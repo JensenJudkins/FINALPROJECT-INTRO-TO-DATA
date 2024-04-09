@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3914630,104396,248,Houston,American Athletic,Arizona,2020,72,3,8,Josh Jones,Offensive Tackle,77,319,38,7,86,"{'city': 'Richmond', 'state': 'TX', 'country': 'USA', 'latitude': '29.5821811', 'longitude': '-95.7607832', 'countyFips': '48157'}"

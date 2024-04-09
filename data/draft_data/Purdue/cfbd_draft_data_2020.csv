@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3918003,104175,2509,Purdue,Big Ten,Los Angeles,2020,136,4,30,Brycen Hopkins,Tight End,76,245,160,9,56,"{'city': 'Nashville', 'state': 'TN', 'country': 'USA', 'latitude': '36.1622296', 'longitude': '-86.7743531', 'countyFips': '47037'}"
+3917992,104147,2509,Purdue,Big Ten,Cincinnati,2020,215,7,1,Markus Bailey,Inside Linebacker,72,235,131,5,62,"{'city': 'Columbus', 'state': 'OH', 'country': 'USA', 'latitude': '39.9622601', 'longitude': '-83.0007065', 'countyFips': '39049'}"

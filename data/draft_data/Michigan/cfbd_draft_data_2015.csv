@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+535145,46849,130,Michigan,Big Ten,Carolina,2015,41,2,9,Devin Funchess,Wide Receiver,76,232,40,9,87,"{'city': 'Farmington Hills', 'state': 'MI', 'country': 'USA', 'latitude': '42.4853125', 'longitude': '-83.3771553', 'countyFips': '26125'}"
+511704,47020,130,Michigan,Big Ten,Seattle,2015,63,2,31,Frank Clark,Defensive End,75,271,211,19,45,"{'city': 'Cleveland', 'state': 'OH', 'country': 'USA', 'latitude': '41.5051613', 'longitude': '-81.6934446', 'countyFips': '39035'}"
+503898,46946,130,Michigan,Big Ten,Green Bay,2015,129,4,30,Jake Ryan,Outside Linebacker,74,240,137,15,60,"{'city': 'Westlake', 'state': 'OH', 'country': 'USA', 'latitude': '41.4553232', 'longitude': '-81.9179174', 'countyFips': '39035'}"

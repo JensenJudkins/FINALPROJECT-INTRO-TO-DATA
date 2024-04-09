@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4426659,105549,2509,Purdue,Big Ten,Kansas City,2022,30,1,30,George Karlaftis,Defensive End,76,266,37.0,6.0,87.0,"{'city': 'West Lafayette', 'state': 'IN', 'country': 'USA', 'latitude': '40.4258686', 'longitude': '-86.9080655', 'countyFips': '18157'}"
+4570409,105594,2509,Purdue,Big Ten,Cleveland,2022,99,3,35,David Bell,Wide Receiver,73,212,94.0,15.0,73.0,"{'city': 'Indianapolis', 'state': 'IN', 'country': 'USA', 'latitude': '39.7683331', 'longitude': '-86.1583502', 'countyFips': '18097'}"
+4260406,106272,2509,Purdue,Big Ten,Los Angeles,2022,260,7,39,Zander Horvath,Fullback,75,230,,,,"{'city': 'Mishawaka', 'state': 'IN', 'country': 'USA', 'latitude': '41.6619927', 'longitude': '-86.1586156', 'countyFips': '18141'}"

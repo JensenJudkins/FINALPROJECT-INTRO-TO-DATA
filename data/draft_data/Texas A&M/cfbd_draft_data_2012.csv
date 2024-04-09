@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+232059,28393,245,Texas A&M,Big 12,Miami,2012,8,1,8,Ryan Tannehill,Quarterback,76,221,12.0,3,94,"{'city': 'Big Spring', 'state': 'TX', 'country': 'USA', 'latitude': '32.250398', 'longitude': '-101.4787356', 'countyFips': '48227'}"
+385266,29020,245,Texas A&M,Big 12,Houston,2012,161,5,26,Randy Bullock,Place Kicker,69,205,,3,30,"{'city': 'Klein', 'state': 'TX', 'country': 'USA', 'latitude': '30.0477196', 'longitude': '-95.5324412', 'countyFips': '48201'}"
+378051,28394,245,Texas A&M,Big 12,Kansas City,2012,182,6,12,Cyrus Gray,Running Back,70,206,184.0,14,50,"{'city': 'DeSoto', 'state': 'TX', 'country': 'USA', 'latitude': '32.6061241', 'longitude': '-96.865612653687', 'countyFips': '48113'}"
+378049,28395,245,Texas A&M,Big 12,Pittsburgh,2012,246,7,39,Terrence Frederick,Cornerback,70,187,,33,33,"{'city': 'Katy', 'state': 'TX', 'country': 'USA', 'latitude': '29.7857853', 'longitude': '-95.8243956', 'countyFips': '48157'}"

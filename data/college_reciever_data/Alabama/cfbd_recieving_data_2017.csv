@@ -1,0 +1,96 @@
+playerId,player,team,conference,category,statType,stat
+3925354,Da'Ron Payne,Alabama,SEC,receiving,YPR,1.0
+551293,Robert Foster,Alabama,SEC,receiving,YPR,12.4
+559702,Cam Sims,Alabama,SEC,receiving,LONG,60
+4241463,Jerry Jeudy,Alabama,SEC,receiving,LONG,36
+4241457,Najee Harris,Alabama,SEC,receiving,LONG,22
+551293,Robert Foster,Alabama,SEC,receiving,YDS,174
+4241480,Major Tennison,Alabama,SEC,receiving,YDS,30
+545975,Andy Pappanastos,Alabama,SEC,receiving,YDS,-9
+3925354,Da'Ron Payne,Alabama,SEC,receiving,LONG,1
+4040980,Irv Smith Jr.,Alabama,SEC,receiving,YDS,128
+3925354,Da'Ron Payne,Alabama,SEC,receiving,REC,1
+4040714,Miller Forristall,Alabama,SEC,receiving,YPR,12.0
+3925357,Calvin Ridley,Alabama,SEC,receiving,LONG,78
+3925348,Hale Hentges,Alabama,SEC,receiving,REC,7
+545975,Andy Pappanastos,Alabama,SEC,receiving,YPR,-9.0
+4241463,Jerry Jeudy,Alabama,SEC,receiving,TD,2
+4040715,Jalen Hurts,Alabama,SEC,receiving,YPR,-1.0
+4241457,Najee Harris,Alabama,SEC,receiving,TD,0
+3925347,Damien Harris,Alabama,SEC,receiving,REC,12
+4047365,Josh Jacobs,Alabama,SEC,receiving,YPR,12.0
+3925348,Hale Hentges,Alabama,SEC,receiving,LONG,23
+545975,Andy Pappanastos,Alabama,SEC,receiving,REC,1
+4047365,Josh Jacobs,Alabama,SEC,receiving,LONG,38
+4047365,Josh Jacobs,Alabama,SEC,receiving,REC,14
+3925347,Damien Harris,Alabama,SEC,receiving,LONG,17
+3126367,Bo Scarbrough,Alabama,SEC,receiving,LONG,15
+3126358,Derek Kief,Alabama,SEC,receiving,YPR,17.0
+4040715,Jalen Hurts,Alabama,SEC,receiving,TD,0
+3925348,Hale Hentges,Alabama,SEC,receiving,TD,3
+4040715,Jalen Hurts,Alabama,SEC,receiving,REC,1
+3925357,Calvin Ridley,Alabama,SEC,receiving,TD,5
+4241480,Major Tennison,Alabama,SEC,receiving,YPR,15.0
+3925357,Calvin Ridley,Alabama,SEC,receiving,YPR,15.3
+4241475,Henry Ruggs III,Alabama,SEC,receiving,REC,12
+4241478,DeVonta Smith,Alabama,SEC,receiving,TD,3
+545975,Andy Pappanastos,Alabama,SEC,receiving,LONG,-9
+3925347,Damien Harris,Alabama,SEC,receiving,YDS,91
+4241478,DeVonta Smith,Alabama,SEC,receiving,YDS,160
+4040980,Irv Smith Jr.,Alabama,SEC,receiving,REC,14
+4040980,Irv Smith Jr.,Alabama,SEC,receiving,LONG,34
+4241480,Major Tennison,Alabama,SEC,receiving,REC,2
+3925352,Xavian Marks,Alabama,SEC,receiving,REC,1
+551293,Robert Foster,Alabama,SEC,receiving,REC,14
+3925352,Xavian Marks,Alabama,SEC,receiving,YDS,24
+551293,Robert Foster,Alabama,SEC,receiving,TD,1
+4241463,Jerry Jeudy,Alabama,SEC,receiving,REC,14
+3925352,Xavian Marks,Alabama,SEC,receiving,YPR,24.0
+4040715,Jalen Hurts,Alabama,SEC,receiving,YDS,-1
+4040980,Irv Smith Jr.,Alabama,SEC,receiving,TD,3
+3925354,Da'Ron Payne,Alabama,SEC,receiving,YDS,1
+4040714,Miller Forristall,Alabama,SEC,receiving,YDS,12
+3925347,Damien Harris,Alabama,SEC,receiving,TD,0
+3925357,Calvin Ridley,Alabama,SEC,receiving,REC,63
+551293,Robert Foster,Alabama,SEC,receiving,LONG,52
+4241457,Najee Harris,Alabama,SEC,receiving,YPR,7.5
+4040714,Miller Forristall,Alabama,SEC,receiving,LONG,12
+3925354,Da'Ron Payne,Alabama,SEC,receiving,TD,1
+4241475,Henry Ruggs III,Alabama,SEC,receiving,YPR,19.1
+3925348,Hale Hentges,Alabama,SEC,receiving,YPR,10.7
+4241480,Major Tennison,Alabama,SEC,receiving,TD,0
+3126358,Derek Kief,Alabama,SEC,receiving,LONG,21
+4047365,Josh Jacobs,Alabama,SEC,receiving,YDS,168
+4040715,Jalen Hurts,Alabama,SEC,receiving,LONG,0
+3925352,Xavian Marks,Alabama,SEC,receiving,TD,0
+559702,Cam Sims,Alabama,SEC,receiving,TD,1
+4241457,Najee Harris,Alabama,SEC,receiving,REC,6
+3925357,Calvin Ridley,Alabama,SEC,receiving,YDS,967
+3126367,Bo Scarbrough,Alabama,SEC,receiving,TD,0
+4241463,Jerry Jeudy,Alabama,SEC,receiving,YDS,264
+545975,Andy Pappanastos,Alabama,SEC,receiving,TD,0
+3925347,Damien Harris,Alabama,SEC,receiving,YPR,7.6
+4241480,Major Tennison,Alabama,SEC,receiving,LONG,21
+4241478,DeVonta Smith,Alabama,SEC,receiving,LONG,41
+4241463,Jerry Jeudy,Alabama,SEC,receiving,YPR,18.9
+3126367,Bo Scarbrough,Alabama,SEC,receiving,REC,17
+3925348,Hale Hentges,Alabama,SEC,receiving,YDS,75
+4241475,Henry Ruggs III,Alabama,SEC,receiving,LONG,60
+4047365,Josh Jacobs,Alabama,SEC,receiving,TD,2
+3126358,Derek Kief,Alabama,SEC,receiving,REC,2
+3126358,Derek Kief,Alabama,SEC,receiving,TD,1
+559702,Cam Sims,Alabama,SEC,receiving,REC,14
+4241478,DeVonta Smith,Alabama,SEC,receiving,REC,8
+3925352,Xavian Marks,Alabama,SEC,receiving,LONG,24
+4040980,Irv Smith Jr.,Alabama,SEC,receiving,YPR,9.1
+3126367,Bo Scarbrough,Alabama,SEC,receiving,YPR,6.4
+3126358,Derek Kief,Alabama,SEC,receiving,YDS,34
+4241475,Henry Ruggs III,Alabama,SEC,receiving,YDS,229
+3126367,Bo Scarbrough,Alabama,SEC,receiving,YDS,109
+559702,Cam Sims,Alabama,SEC,receiving,YDS,207
+559702,Cam Sims,Alabama,SEC,receiving,YPR,14.8
+4040714,Miller Forristall,Alabama,SEC,receiving,TD,0
+4241478,DeVonta Smith,Alabama,SEC,receiving,YPR,20.0
+4241457,Najee Harris,Alabama,SEC,receiving,YDS,45
+4040714,Miller Forristall,Alabama,SEC,receiving,REC,1
+4241475,Henry Ruggs III,Alabama,SEC,receiving,TD,6

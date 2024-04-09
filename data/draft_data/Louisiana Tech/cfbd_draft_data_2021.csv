@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4239699,105278,2348,Louisiana Tech,Conference USA,Philadelphia,2021,73,3,9,Milton Williams,Defensive Tackle,75,284,80,4,75,"{'city': 'Crowley', 'state': 'TX', 'country': 'USA', 'latitude': '32.5782835', 'longitude': '-97.3609829', 'countyFips': '48439'}"

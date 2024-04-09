@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+503189,33051,127,Michigan State,Big Ten,Cincinnati,2014,24,1,24,Darqueze Dennard,Cornerback,71,199,12,1,92,"{'city': 'Dry Branch', 'state': 'GA', 'country': 'USA', 'latitude': '32.789151', 'longitude': '-84.046871', 'countyFips': '13079'}"

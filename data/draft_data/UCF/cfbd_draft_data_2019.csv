@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4042141,103870,2116,UCF,American Athletic,Dallas,2019,58,2,26,Trysten Hill,Defensive Tackle,75,308,87,9,73,"{'city': 'Lee', 'state': 'FL', 'country': 'USA', 'latitude': '30.4196584', 'longitude': '-83.3004216', 'countyFips': '12079'}"

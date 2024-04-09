@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+532175,46994,2655,Tulane,American Athletic,Denver,2015,164,5,28,Lorenzo Doss,Cornerback,70,182,185.0,23,49,"{'city': 'New Orleans', 'state': 'LA', 'country': 'USA', 'latitude': '29.9499323', 'longitude': '-90.0701156', 'countyFips': '22071'}"
+503373,47479,2655,Tulane,American Athletic,Denver,2015,251,7,34,Taurean Nixon,Cornerback,71,187,,58,30,"{'city': 'Baton Rouge', 'state': 'LA', 'country': 'USA', 'latitude': '30.4459596', 'longitude': '-91.18738', 'countyFips': '22033'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+380732,29289,26,UCLA,Pac-12,Green Bay,2013,26,1,26,Datone Jones,Defensive End,76,283,24,4,90,"{'city': 'Compton', 'state': 'CA', 'country': 'USA', 'latitude': '33.894927', 'longitude': '-118.226624', 'countyFips': '06037'}"
+380712,29292,26,UCLA,Pac-12,Green Bay,2013,125,4,28,Johnathan Franklin,Running Back,70,205,102,7,71,"{'city': 'Los Angeles', 'state': 'CA', 'country': 'USA', 'latitude': '34.0536909', 'longitude': '-118.2427666', 'countyFips': '06037'}"
+380723,30041,26,UCLA,Pac-12,Minnesota,2013,155,5,22,Jeff Locke,Punter,73,209,260,4,41,"{'city': 'Glendale', 'state': 'AZ', 'country': 'USA', 'latitude': '33.5386858', 'longitude': '-112.1859941', 'countyFips': '04013'}"
+-1038346,29702,26,UCLA,Pac-12,Minnesota,2013,196,6,28,Jeff Baca,Offensive Guard,75,302,132,8,65,"{'city': 'Mission Viego', 'state': 'CA', 'country': 'USA', 'latitude': None, 'longitude': None, 'countyFips': None}"

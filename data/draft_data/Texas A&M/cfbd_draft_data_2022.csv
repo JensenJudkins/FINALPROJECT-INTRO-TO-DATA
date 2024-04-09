@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4426327,105577,245,Texas A&M,SEC,Houston,2022,15,1,15,Kenyon Green,Offensive Guard,76,323,26,1,89,"{'city': 'Humble', 'state': 'TX', 'country': 'USA', 'latitude': '29.9988312', 'longitude': '-95.2621553', 'countyFips': '48201'}"
+4426359,105541,245,Texas A&M,SEC,Pittsburgh,2022,84,3,20,DeMarvin Leal,Defensive End,76,283,59,9,83,"{'city': 'San Antonio', 'state': 'TX', 'country': 'USA', 'latitude': '29.4246002', 'longitude': '-98.4951405', 'countyFips': '48029'}"
+4240896,105675,245,Texas A&M,SEC,New York,2022,117,4,12,Micheal Clemons,Defensive End,77,263,141,13,63,"{'city': 'Garland', 'state': 'TX', 'country': 'USA', 'latitude': '32.912624', 'longitude': '-96.6388833', 'countyFips': '48113'}"
+4426891,105581,245,Texas A&M,SEC,Los Angeles,2022,123,4,18,Isaiah Spiller,Running Back,72,217,89,4,74,"{'city': 'Spring', 'state': 'TX', 'country': 'USA', 'latitude': '30.0798826', 'longitude': '-95.4172549', 'countyFips': '48201'}"

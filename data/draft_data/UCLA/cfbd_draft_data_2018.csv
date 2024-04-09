@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3886377,101506,26,UCLA,Pac-12,Arizona,2018,10,1,10,Josh Rosen,Quarterback,76,226,9,2,92,"{'city': 'Manhattan Beach', 'state': 'CA', 'country': 'USA', 'latitude': '33.8915985', 'longitude': '-118.3951241', 'countyFips': '06037'}"
+3134312,101788,26,UCLA,Pac-12,Las Vegas,2018,15,1,15,Kolton Miller,Offensive Tackle,81,309,30,2,87,"{'city': 'Roseville', 'state': 'CA', 'country': 'USA', 'latitude': '38.7521235', 'longitude': '-121.2880059', 'countyFips': '06061'}"
+3134310,102393,26,UCLA,Pac-12,Baltimore,2018,122,4,22,Kenny Young,Inside Linebacker,73,236,334,18,31,"{'city': 'New Orleans', 'state': 'LA', 'country': 'USA', 'latitude': '29.9499323', 'longitude': '-90.0701156', 'countyFips': '22071'}"
+547610,101574,26,UCLA,Pac-12,Los Angeles,2018,155,5,18,Scott Quessenberry,Center,76,315,151,6,61,"{'city': 'La Costa', 'state': 'CA', 'country': 'USA', 'latitude': '33.6244781', 'longitude': '-117.6460494', 'countyFips': '06059'}"
+3134302,101839,26,UCLA,Pac-12,Baltimore,2018,162,5,25,Jordan Lasley,Wide Receiver,73,203,125,16,67,"{'city': 'Compton', 'state': 'CA', 'country': 'USA', 'latitude': '33.894927', 'longitude': '-118.226624', 'countyFips': '06037'}"

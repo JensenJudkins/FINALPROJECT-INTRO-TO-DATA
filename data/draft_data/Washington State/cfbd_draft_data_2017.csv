@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3894908,51967,265,Washington State,Pac-12,Las Vegas,2017,221,7,3,Shalom Luani,Safety,71,202,252,22,42,"{'city': 'Masausi', 'state': '', 'country': 'American Samoa', 'latitude': None, 'longitude': None, 'countyFips': None}"

@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501149,29234,152,NC State,ACC,Washington,2013,51,2,19,David Amerson,Cornerback,73,205,108,15,70,"{'city': 'Greensboro', 'state': 'NC', 'country': 'USA', 'latitude': '36.0726355', 'longitude': '-79.7919754', 'countyFips': '37081'}"
+381967,29224,152,NC State,ACC,Tampa Bay,2013,73,3,11,Mike Glennon,Quarterback,79,225,74,5,77,"{'city': 'Centreville', 'state': 'VA', 'country': 'USA', 'latitude': '38.8403909', 'longitude': '-77.4288769', 'countyFips': '51059'}"
+381571,29517,152,NC State,ACC,Philadelphia,2013,136,5,3,Earl Wolff,Safety,71,209,135,11,63,"{'city': 'Raeford', 'state': 'NC', 'country': 'USA', 'latitude': '34.9809996', 'longitude': '-79.2241998', 'countyFips': '37093'}"

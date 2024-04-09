@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4241344,105207,2306,Kansas State,Big 12,Cincinnati,2021,235,7,7,Wyatt Hubert,Defensive End,75,258,290,25,32,"{'city': 'Topeka', 'state': 'KS', 'country': 'USA', 'latitude': '39.049011', 'longitude': '-95.677556', 'countyFips': '20177'}"

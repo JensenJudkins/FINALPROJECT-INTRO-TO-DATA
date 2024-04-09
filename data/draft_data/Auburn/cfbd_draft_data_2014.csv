@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1003724,34748,2,Auburn,SEC,Los Angeles,2014,2,1,2,Greg Robinson,Offensive Tackle,77,332,2,1,97,"{'city': 'Thibodaux', 'state': 'LA', 'country': 'USA', 'latitude': '29.7957633', 'longitude': '-90.822871', 'countyFips': '22057'}"
+480378,33632,2,Auburn,SEC,Kansas City,2014,23,1,23,Dee Ford,Defensive End,74,244,29,3,89,"{'city': 'Odenville', 'state': 'AL', 'country': 'USA', 'latitude': '33.6773237', 'longitude': '-86.3966481', 'countyFips': '01115'}"
+511828,34767,2,Auburn,SEC,Los Angeles,2014,75,3,11,Tre Mason,Running Back,69,207,61,4,78,"{'city': 'Palm Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.7056172', 'longitude': '-80.0361517', 'countyFips': '12099'}"
+500498,33653,2,Auburn,SEC,Houston,2014,211,6,35,Jay Prosch,Fullback,73,256,275,3,36,"{'city': 'Mobile', 'state': 'AL', 'country': 'USA', 'latitude': '30.6943566', 'longitude': '-88.0430541', 'countyFips': '01097'}"

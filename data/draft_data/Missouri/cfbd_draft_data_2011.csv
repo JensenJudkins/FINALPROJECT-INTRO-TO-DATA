@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+381403,27334,142,Missouri,Big 12,San Francisco,2011,7,1,7,Aldon Smith,Defensive End,76,263,14.0,3,93,"{'city': 'Raytown', 'state': 'MO', 'country': 'USA', 'latitude': '39.0168425', 'longitude': '-94.4630468', 'countyFips': '29095'}"
+381364,27028,142,Missouri,Big 12,Jacksonville,2011,10,1,10,Blaine Gabbert,Quarterback,76,234,5.0,1,96,"{'city': 'Ballwin', 'state': 'MO', 'country': 'USA', 'latitude': '38.5936028', 'longitude': '-90.5385549', 'countyFips': '29189'}"
+240798,26589,142,Missouri,Big 12,Los Angeles,2011,234,7,31,Andrew Gachkar,Outside Linebacker,74,231,,65,30,"{'city': 'Overland Park', 'state': 'KS', 'country': 'USA', 'latitude': '38.9742502', 'longitude': '-94.6851702', 'countyFips': '20091'}"

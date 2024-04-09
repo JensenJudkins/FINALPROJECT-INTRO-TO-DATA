@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1041097,33071,258,Virginia,ACC,Washington,2014,66,3,2,Morgan Moses,Offensive Tackle,78,314,16.0,5,92,"{'city': 'Richmond', 'state': 'VA', 'country': 'USA', 'latitude': '37.5385087', 'longitude': '-77.43428', 'countyFips': '51760'}"
+-1041099,34182,258,Virginia,ACC,Baltimore,2014,134,4,34,Brent Urban,Defensive Tackle,79,295,67.0,6,76,"{'city': 'Mississauga', 'state': 'ON', 'country': 'Canada', 'latitude': None, 'longitude': None, 'countyFips': None}"
+-1041083,34388,258,Virginia,ACC,Jacksonville,2014,205,6,29,Luke Bowanko,Center,77,293,,32,30,"{'city': 'Clifton', 'state': 'VA', 'country': 'USA', 'latitude': '38.7802204', 'longitude': '-77.3864722', 'countyFips': '51059'}"

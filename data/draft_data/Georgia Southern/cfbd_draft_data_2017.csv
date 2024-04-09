@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+530291,51880,290,Georgia Southern,Sun Belt,Kansas City,2017,183,5,40,Ukeme Eligwe,Inside Linebacker,74,234,225,12,46,"{'city': 'Stone Mountain', 'state': 'GA', 'country': 'USA', 'latitude': '33.8080924', 'longitude': '-84.1706273', 'countyFips': '13089'}"

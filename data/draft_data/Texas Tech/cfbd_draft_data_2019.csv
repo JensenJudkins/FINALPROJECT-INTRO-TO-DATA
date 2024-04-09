@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3139453,103653,2641,Texas Tech,Big 12,Los Angeles,2019,251,7,37,Dakota Allen,Inside Linebacker,73,232,207,12,54,"{'city': 'Humble', 'state': 'TX', 'country': 'USA', 'latitude': '29.9988312', 'longitude': '-95.2621553', 'countyFips': '48201'}"

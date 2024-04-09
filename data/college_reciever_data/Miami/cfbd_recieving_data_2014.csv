@@ -1,0 +1,66 @@
+playerId,player,team,conference,category,statType,stat
+550055,Walter Tucker,Miami,ACC,receiving,REC,1
+530398,Duke Johnson Jr.,Miami,ACC,receiving,LONG,37
+545229,Standish Dobard,Miami,ACC,receiving,REC,7
+517570,Phillip Dorsett,Miami,ACC,receiving,YPR,24.2
+545229,Standish Dobard,Miami,ACC,receiving,YDS,147
+550049,Gus Edwards,Miami,ACC,receiving,YPR,22.0
+550055,Walter Tucker,Miami,ACC,receiving,TD,0
+530398,Duke Johnson Jr.,Miami,ACC,receiving,TD,3
+517570,Phillip Dorsett,Miami,ACC,receiving,REC,36
+530399,D'Mauri Jones,Miami,ACC,receiving,YDS,13
+530399,D'Mauri Jones,Miami,ACC,receiving,REC,1
+530409,Jake O'Donnell,Miami,ACC,receiving,TD,0
+530409,Jake O'Donnell,Miami,ACC,receiving,YDS,10
+550046,Stacy Coley,Miami,ACC,receiving,LONG,22
+530412,Herb Waters,Miami,ACC,receiving,REC,20
+530409,Jake O'Donnell,Miami,ACC,receiving,REC,1
+517570,Phillip Dorsett,Miami,ACC,receiving,YDS,871
+530399,D'Mauri Jones,Miami,ACC,receiving,YPR,13.0
+3123075,Braxton Berrios,Miami,ACC,receiving,TD,3
+550046,Stacy Coley,Miami,ACC,receiving,YPR,8.0
+3123075,Braxton Berrios,Miami,ACC,receiving,YPR,11.0
+501147,Clive Walford,Miami,ACC,receiving,YPR,15.4
+530412,Herb Waters,Miami,ACC,receiving,YPR,13.9
+550046,Stacy Coley,Miami,ACC,receiving,YDS,184
+530403,Malcolm Lewis,Miami,ACC,receiving,YDS,248
+530398,Duke Johnson Jr.,Miami,ACC,receiving,YPR,11.1
+3123042,Joseph Yearby,Miami,ACC,receiving,REC,8
+545229,Standish Dobard,Miami,ACC,receiving,LONG,33
+530412,Herb Waters,Miami,ACC,receiving,TD,1
+530398,Duke Johnson Jr.,Miami,ACC,receiving,REC,38
+550049,Gus Edwards,Miami,ACC,receiving,REC,2
+517570,Phillip Dorsett,Miami,ACC,receiving,TD,10
+501147,Clive Walford,Miami,ACC,receiving,TD,7
+530412,Herb Waters,Miami,ACC,receiving,YDS,277
+3123042,Joseph Yearby,Miami,ACC,receiving,TD,1
+545229,Standish Dobard,Miami,ACC,receiving,TD,0
+501147,Clive Walford,Miami,ACC,receiving,YDS,676
+530403,Malcolm Lewis,Miami,ACC,receiving,YPR,9.9
+517570,Phillip Dorsett,Miami,ACC,receiving,LONG,79
+530403,Malcolm Lewis,Miami,ACC,receiving,TD,1
+550055,Walter Tucker,Miami,ACC,receiving,LONG,8
+3123075,Braxton Berrios,Miami,ACC,receiving,REC,21
+530399,D'Mauri Jones,Miami,ACC,receiving,LONG,13
+550049,Gus Edwards,Miami,ACC,receiving,YDS,44
+530409,Jake O'Donnell,Miami,ACC,receiving,LONG,10
+550055,Walter Tucker,Miami,ACC,receiving,YDS,8
+545229,Standish Dobard,Miami,ACC,receiving,YPR,21.0
+530398,Duke Johnson Jr.,Miami,ACC,receiving,YDS,421
+530403,Malcolm Lewis,Miami,ACC,receiving,LONG,48
+550049,Gus Edwards,Miami,ACC,receiving,TD,0
+501147,Clive Walford,Miami,ACC,receiving,REC,44
+530409,Jake O'Donnell,Miami,ACC,receiving,YPR,10.0
+550046,Stacy Coley,Miami,ACC,receiving,TD,0
+3123042,Joseph Yearby,Miami,ACC,receiving,YDS,118
+3123042,Joseph Yearby,Miami,ACC,receiving,YPR,14.8
+530412,Herb Waters,Miami,ACC,receiving,LONG,28
+550046,Stacy Coley,Miami,ACC,receiving,REC,23
+550055,Walter Tucker,Miami,ACC,receiving,YPR,8.0
+3123042,Joseph Yearby,Miami,ACC,receiving,LONG,47
+501147,Clive Walford,Miami,ACC,receiving,LONG,61
+550049,Gus Edwards,Miami,ACC,receiving,LONG,25
+530399,D'Mauri Jones,Miami,ACC,receiving,TD,0
+3123075,Braxton Berrios,Miami,ACC,receiving,LONG,33
+530403,Malcolm Lewis,Miami,ACC,receiving,REC,25
+3123075,Braxton Berrios,Miami,ACC,receiving,YDS,232

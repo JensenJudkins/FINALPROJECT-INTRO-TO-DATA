@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+192640,27347,276,Marshall,Conference USA,New England,2011,159,5,28,Lee Smith,Tight End,78,266,155,8,59,"{'city': 'Powell', 'state': 'TN', 'country': 'USA', 'latitude': '36.0317472', 'longitude': '-84.0279677', 'countyFips': '47093'}"

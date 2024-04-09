@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+237674,28139,2459,Northern Illinois,Mid-American,Indianapolis,2012,253,7,46,Chandler Harnish,Quarterback,74,219,,11,33,"{'city': 'Bluffton', 'state': 'IN', 'country': 'USA', 'latitude': '40.7386579', 'longitude': '-85.1716368', 'countyFips': '18179'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+547019,51949,259,Virginia Tech,ACC,Baltimore,2017,186,6,2,Chuck Clark,Safety,72,208,288,25,37,"{'city': 'Suffolk', 'state': 'VA', 'country': 'USA', 'latitude': '36.7282096', 'longitude': '-76.5835703', 'countyFips': '51800'}"
+547022,51666,259,Virginia Tech,ACC,Minnesota,2017,201,6,17,Bucky Hodges,Tight End,78,257,107,8,72,"{'city': 'Virginia Beach', 'state': 'VA', 'country': 'USA', 'latitude': '36.8529841', 'longitude': '-75.9774183', 'countyFips': '51810'}"
+547028,51748,259,Virginia Tech,ACC,Los Angeles,2017,206,6,22,Sam Rogers,Fullback,70,231,291,2,37,"{'city': 'Mechanicsville', 'state': 'VA', 'country': 'USA', 'latitude': '37.6193174', 'longitude': '-77.3369627', 'countyFips': '51085'}"
+3124069,51709,259,Virginia Tech,ACC,Miami,2017,237,7,19,Isaiah Ford,Wide Receiver,73,194,218,35,47,"{'city': 'Jacksonville', 'state': 'FL', 'country': 'USA', 'latitude': '30.3321838', 'longitude': '-81.655651', 'countyFips': '12031'}"

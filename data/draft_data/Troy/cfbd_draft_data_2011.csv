@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+237263,27246,2653,Troy,Sun Belt,New York,2011,83,3,19,Jerrel Jernigan,Wide Receiver,69,185,74,10,78,"{'city': 'Eufaula', 'state': 'AL', 'country': 'USA', 'latitude': '31.905459999999998', 'longitude': '-85.15893958513422', 'countyFips': '01005'}"

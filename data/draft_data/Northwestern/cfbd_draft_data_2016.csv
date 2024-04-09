@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+533317,49538,77,Northwestern,Big Ten,Green Bay,2016,137,4,39,Dean Lowry,Defensive End,78,296,281,25,38,"{'city': 'Rockford', 'state': 'IL', 'country': 'USA', 'latitude': '42.2713945', 'longitude': '-89.093966', 'countyFips': '17201'}"
+-1026147,49718,77,Northwestern,Big Ten,Tampa Bay,2016,197,6,22,Dan Vitale,Fullback,73,239,259,1,41,"{'city': 'Wheaton', 'state': 'IL', 'country': 'USA', 'latitude': '41.8646959', 'longitude': '-88.1101709', 'countyFips': '17043'}"

@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4567399,105542,57,Florida,SEC,Buffalo,2022,23,1,23,Kaiir Elam,Cornerback,74,191,32,5,88,"{'city': 'Riviera Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.7753405', 'longitude': '-80.0580969', 'countyFips': '12099'}"
+4240619,105644,57,Florida,SEC,Cincinnati,2022,95,3,31,Zachary Carter,Defensive Tackle,76,282,115,6,70,"{'city': 'Tampa', 'state': 'FL', 'country': 'USA', 'latitude': '27.9477595', 'longitude': '-82.458444', 'countyFips': '12057'}"
+4360238,105918,57,Florida,SEC,Houston,2022,107,4,2,Dameon Pierce,Running Back,70,218,96,6,72,"{'city': 'Bainbridge', 'state': 'GA', 'country': 'USA', 'latitude': '30.9038252', 'longitude': '-84.5754768', 'countyFips': '13087'}"

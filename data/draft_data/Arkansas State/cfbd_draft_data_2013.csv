@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+384789,30074,2032,Arkansas State,Sun Belt,Miami,2013,250,7,44,Don Jones,Safety,,196,,,,"{'city': 'Town Creek', 'state': 'AL', 'country': 'USA', 'latitude': '34.6812012', 'longitude': '-87.4061342', 'countyFips': '01079'}"

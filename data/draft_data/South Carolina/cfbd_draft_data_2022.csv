@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4362840,105567,2579,South Carolina,SEC,Green Bay,2022,179,5,36,Kingsley Enagbare,Outside Linebacker,76,258,110.0,8.0,70.0,"{'city': 'Atlanta', 'state': 'GA', 'country': 'USA', 'latitude': '33.7490987', 'longitude': '-84.3901849', 'countyFips': '13121'}"
+4570674,106147,2579,South Carolina,SEC,New England,2022,183,6,4,Kevin Harris,Running Back,70,221,236.0,20.0,48.0,"{'city': 'Hinesville', 'state': 'GA', 'country': 'USA', 'latitude': '31.8477298', 'longitude': '-81.5960354', 'countyFips': '13179'}"
+4249624,106256,2579,South Carolina,SEC,Minnesota,2022,227,7,6,Nick Muse,Tight End,77,249,,,,"{'city': 'Belmont', 'state': 'NC', 'country': 'USA', 'latitude': '35.2438272', 'longitude': '-81.0377322', 'countyFips': '37071'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3122766,103537,2348,Louisiana Tech,Conference USA,Baltimore,2019,85,3,21,Jaylon Ferguson,Defensive End,77,271,63,7,79,"{'city': 'St. Francisville', 'state': 'LA', 'country': 'USA', 'latitude': '30.7807244', 'longitude': '-91.3763353', 'countyFips': '17101'}"

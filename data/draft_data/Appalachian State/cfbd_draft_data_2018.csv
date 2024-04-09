@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1001187,101810,2026,Appalachian State,Sun Belt,Minnesota,2018,213,6,39,Colby Gossett,Offensive Guard,77,315,172,8,58,"{'city': 'Cumming', 'state': 'GA', 'country': 'USA', 'latitude': '34.2073196', 'longitude': '-84.1401926', 'countyFips': '13117'}"

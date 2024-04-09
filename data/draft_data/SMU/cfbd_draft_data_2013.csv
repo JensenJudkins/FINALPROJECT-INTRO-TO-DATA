@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+483240,29617,2567,SMU,Conference USA,Cincinnati,2013,53,2,21,Margus Hunt,Defensive End,80,277,42,5,87,"{'city': 'Karksi-Nuia', 'state': '', 'country': 'Estonia', 'latitude': None, 'longitude': None, 'countyFips': None}"

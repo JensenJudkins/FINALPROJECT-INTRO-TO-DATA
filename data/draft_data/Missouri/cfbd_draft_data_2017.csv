@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+549904,51991,142,Missouri,SEC,Miami,2017,22,1,22,Charles Harris,Outside Linebacker,75,253,18,1,90,"{'city': 'Kansas City', 'state': 'MO', 'country': 'USA', 'latitude': '39.100105', 'longitude': '-94.5781416', 'countyFips': '29095'}"

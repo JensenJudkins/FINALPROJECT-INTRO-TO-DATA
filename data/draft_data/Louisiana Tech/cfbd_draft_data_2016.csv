@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1017020,49664,2348,Louisiana Tech,Conference USA,Carolina,2016,30,1,30,Vernon Butler,Defensive Tackle,76,323,26,4,89,"{'city': 'Summit', 'state': 'MS', 'country': 'USA', 'latitude': '31.2837867', 'longitude': '-90.4684315', 'countyFips': '28113'}"
+531310,50027,2348,Louisiana Tech,Conference USA,Baltimore,2016,134,4,36,Kenneth Dixon,Running Back,70,215,79,3,76,"{'city': 'Strong', 'state': 'AR', 'country': 'USA', 'latitude': '33.1103602', 'longitude': '-92.3565792', 'countyFips': '05139'}"
+511889,49999,2348,Louisiana Tech,Conference USA,San Francisco,2016,207,6,32,Jeff Driskel,Quarterback,76,234,214,11,49,"{'city': 'Oviedo', 'state': 'FL', 'country': 'USA', 'latitude': '28.6702526', 'longitude': '-81.2084941', 'countyFips': '12117'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1031126,47118,21,San Diego State,Mountain West,Seattle,2015,130,4,31,Terry Poole,Offensive Tackle,77,307,309,28,33,"{'city': 'Monterey', 'state': 'CA', 'country': 'USA', 'latitude': '36.600256', 'longitude': '-121.8946388', 'countyFips': '06053'}"

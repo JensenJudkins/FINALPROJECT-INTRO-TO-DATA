@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+517617,46987,87,Notre Dame,FBS Independents,Jacksonville,2015,229,7,12,Ben Koyack,Tight End,77,255,178,10,50,"{'city': 'Oil City', 'state': 'PA', 'country': 'USA', 'latitude': '41.433948', 'longitude': '-79.706441', 'countyFips': '42121'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1018469,34599,276,Marshall,Conference USA,Seattle,2014,199,6,23,Garrett Scott,Offensive Tackle,76,289,,42,30,"{'city': 'Douglas', 'state': 'GA', 'country': 'USA', 'latitude': '31.5088073', 'longitude': '-82.8498654', 'countyFips': '13069'}"

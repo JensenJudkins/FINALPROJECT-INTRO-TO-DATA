@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1005400,27019,103,Boston College,ACC,Indianapolis,2011,22,1,22,Anthony Castonzo,Offensive Tackle,79,311,12,2,94,"{'city': 'Hawthorn Woods', 'state': 'IL', 'country': 'USA', 'latitude': '42.2169686', 'longitude': '-88.0495211', 'countyFips': '17097'}"

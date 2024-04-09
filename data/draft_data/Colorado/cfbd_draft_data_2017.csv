@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+550668,52112,38,Colorado,Pac-12,Dallas,2017,60,2,28,Chidobe Awuzie,Cornerback,72,202,49.0,8,83,"{'city': 'San Jose', 'state': 'CA', 'country': 'USA', 'latitude': '37.3361905', 'longitude': '-121.8905833', 'countyFips': '06085'}"
+3122630,51977,38,Colorado,Pac-12,San Francisco,2017,66,3,2,Ahkello Witherspoon,Cornerback,75,198,85.0,14,74,"{'city': 'Sacramento', 'state': 'CA', 'country': 'USA', 'latitude': '38.5815719', 'longitude': '-121.4943996', 'countyFips': '06067'}"
+550285,51868,38,Colorado,Pac-12,Seattle,2017,111,4,4,Tedric Thompson,Safety,72,204,267.0,23,39,"{'city': 'Valencia', 'state': 'CA', 'country': 'USA', 'latitude': '34.1466768', 'longitude': '-117.2725427', 'countyFips': '06071'}"
+3895487,100206,38,Colorado,Pac-12,Dallas,2017,246,7,28,Jordan Carrell,Defensive Tackle,74,290,,56,30,"{'city': 'Roseville', 'state': 'CA', 'country': 'USA', 'latitude': '38.7521235', 'longitude': '-121.2880059', 'countyFips': '06061'}"

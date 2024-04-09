@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4241555,104852,309,Louisiana,Sun Belt,San Francisco,2021,194,6,10,Elijah Mitchell,Running Back,70,201,211,14,47,"{'city': 'Erath', 'state': 'LA', 'country': 'USA', 'latitude': '29.9582611', 'longitude': '-92.0359562', 'countyFips': '22113'}"

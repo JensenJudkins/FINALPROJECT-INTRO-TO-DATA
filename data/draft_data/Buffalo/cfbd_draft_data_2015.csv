@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1005952,47297,2084,Buffalo,Mid-American,Seattle,2015,214,6,38,Kristjan Sokoli,Defensive End,77,290,,33,30,"{'city': 'Bloomfield', 'state': 'NJ', 'country': 'USA', 'latitude': '40.806767', 'longitude': '-74.1854226', 'countyFips': '34013'}"

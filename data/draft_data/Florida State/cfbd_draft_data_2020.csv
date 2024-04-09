@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4240021,104135,52,Florida State,ACC,Los Angeles,2020,52,2,20,Cam Akers,Running Back,70,217,55,5,81,"{'city': 'Clinton', 'state': 'MS', 'country': 'USA', 'latitude': '32.3415342', 'longitude': '-90.3217585', 'countyFips': '28049'}"

@@ -1,0 +1,7 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+382702,27010,99,LSU,SEC,Arizona,2011,5,1,5,Patrick Peterson,Cornerback,72,219,4.0,1,97,"{'city': 'Pompano Beach', 'state': 'FL', 'country': 'USA', 'latitude': '26.2378597', 'longitude': '-80.1247667', 'countyFips': '12011'}"
+183548,27365,99,LSU,SEC,Buffalo,2011,68,3,4,Kelvin Sheppard,Inside Linebacker,74,250,64.0,2,80,"{'city': 'Stone Mountain', 'state': 'GA', 'country': 'USA', 'latitude': '33.8080924', 'longitude': '-84.1706273', 'countyFips': '13089'}"
+232428,27325,99,LSU,SEC,New England,2011,73,3,9,Stevan Ridley,Running Back,71,225,154.0,16,59,"{'city': 'Natchez', 'state': 'MS', 'country': 'USA', 'latitude': '31.5604442', 'longitude': '-91.403171', 'countyFips': '28001'}"
+232443,27263,99,LSU,SEC,Indianapolis,2011,87,3,23,Drake Nevis,Defensive Tackle,73,294,114.0,11,68,"{'city': 'Marrero', 'state': 'LA', 'country': 'USA', 'latitude': '29.8993723', 'longitude': '-90.1003506', 'countyFips': '22051'}"
+2267355,26144,99,LSU,SEC,Las Vegas,2011,92,3,28,Joe Barksdale,Offensive Tackle,77,325,139.0,13,63,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+-1016691,26158,99,LSU,SEC,Seattle,2011,205,7,2,Lazarius Levingston,Defensive End,76,292,,33,30,"{'city': 'Ruston', 'state': 'LA', 'country': 'USA', 'latitude': '32.5232053', 'longitude': '-92.637927', 'countyFips': '22061'}"

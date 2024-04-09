@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1020511,28001,130,Michigan,Big Ten,Tennessee,2012,82,3,19,Mike Martin,Defensive Tackle,73,306,75,10,78,"{'city': 'Redford', 'state': 'MI', 'country': 'USA', 'latitude': '42.3944', 'longitude': '-83.2974', 'countyFips': '29179'}"
+-1020512,28002,130,Michigan,Big Ten,Los Angeles,2012,226,7,19,David Molk,Center,73,298,129,4,63,"{'city': 'Lemont', 'state': 'IL', 'country': 'USA', 'latitude': '41.6737149', 'longitude': '-88.0016263', 'countyFips': '17031'}"
+240981,28003,130,Michigan,Big Ten,Kansas City,2012,238,7,31,Junior Hemingway,Wide Receiver,73,225,249,37,36,"{'city': 'Conway', 'state': 'SC', 'country': 'USA', 'latitude': '33.8360035', 'longitude': '-79.0478143', 'countyFips': '45051'}"

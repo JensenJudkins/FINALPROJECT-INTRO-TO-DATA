@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+501598,34122,197,Oklahoma State,Big 12,Cleveland,2014,8,1,8,Justin Gilbert,Cornerback,72,202,20,3,91,"{'city': 'Huntsville', 'state': 'TX', 'country': 'USA', 'latitude': '30.7235263', 'longitude': '-95.5507771', 'countyFips': '48471'}"

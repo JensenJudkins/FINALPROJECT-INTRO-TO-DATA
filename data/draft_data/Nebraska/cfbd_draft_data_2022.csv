@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4361178,105982,158,Nebraska,Big Ten,Philadelphia,2022,51,2,19,Cameron Jurgens,Center,75,303,62.0,2.0,81.0,"{'city': 'Beatrice', 'state': 'NE', 'country': 'USA', 'latitude': '40.266429', 'longitude': '-96.747369', 'countyFips': '31067'}"
+4361196,105748,158,Nebraska,Big Ten,Cincinnati,2022,60,2,28,Cam Taylor-Britt,Safety,71,196,71.0,8.0,79.0,"{'city': 'Montgomery', 'state': 'AL', 'country': 'USA', 'latitude': '32.3669656', 'longitude': '-86.3006485', 'countyFips': '01101'}"
+4027873,106270,158,Nebraska,Big Ten,Green Bay,2022,258,7,37,Samori Toure,Wide Receiver,75,190,,,,"{'city': 'Lubbock', 'state': 'TX', 'country': 'USA', 'latitude': '33.5635206', 'longitude': '-101.879336', 'countyFips': '48303'}"

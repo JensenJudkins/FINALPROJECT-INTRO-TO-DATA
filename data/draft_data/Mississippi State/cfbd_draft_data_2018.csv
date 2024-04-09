@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3894924,101529,344,Mississippi State,SEC,Houston,2018,80,3,16,Martinas Rankin,Center,76,308,88.0,4.0,73.0,"{'city': 'Mendenhall', 'state': 'MS', 'country': 'USA', 'latitude': '31.9622006', 'longitude': '-89.8702079', 'countyFips': '28127'}"
+4035379,101819,344,Mississippi State,SEC,Houston,2018,211,6,37,Jordan Thomas,Tight End,78,265,314.0,18.0,33.0,"{'city': 'Sumrall', 'state': 'MS', 'country': 'USA', 'latitude': '31.4173935', 'longitude': '-89.5422909', 'countyFips': '28073'}"
+-1022006,101954,344,Mississippi State,SEC,Green Bay,2018,239,7,21,Hunter Bradley,Long Snapper,75,241,,3.0,30.0,"{'city': 'Collierville', 'state': 'TN', 'country': 'USA', 'latitude': '35.042036', 'longitude': '-89.6645266', 'countyFips': '47157'}"
+559659,102746,344,Mississippi State,SEC,Jacksonville,2018,247,7,29,Logan Cooke,Punter,77,237,,,,"{'city': 'Darbun', 'state': 'MS', 'country': 'USA', 'latitude': '31.2762874', 'longitude': '-90.0470306', 'countyFips': '28147'}"

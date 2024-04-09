@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+514471,49970,183,Syracuse,ACC,Denver,2016,228,7,7,Riley Dixon,Punter,76,221,329,2,32,"{'city': 'Blossvale', 'state': 'NY', 'country': 'USA', 'latitude': '43.2797915', 'longitude': '-75.6435156', 'countyFips': '36065'}"

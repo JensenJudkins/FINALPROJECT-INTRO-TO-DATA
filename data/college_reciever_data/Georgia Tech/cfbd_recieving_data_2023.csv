@@ -1,0 +1,76 @@
+playerId,player,team,conference,category,statType,stat
+4587702,Christian Leary,Georgia Tech,ACC,receiving,YPR,12.4
+4360589,Dontae Smith,Georgia Tech,ACC,receiving,YDS,92
+5172523,"Eric Singleton, Jr.",Georgia Tech,ACC,receiving,REC,4
+4574777,Dylan Leonard,Georgia Tech,ACC,receiving,YPR,11.1
+5076122,Evan Dickens,Georgia Tech,ACC,receiving,YDS,5
+4426341,Dominick Blaylock,Georgia Tech,ACC,receiving,REC,21
+4694912,Abdul Janneh,Georgia Tech,ACC,receiving,LONG,33
+4574777,Dylan Leonard,Georgia Tech,ACC,receiving,REC,14
+4428451,Brett Seither,Georgia Tech,ACC,receiving,REC,7
+5172523,"Eric Singleton, Jr.",Georgia Tech,ACC,receiving,YDS,50
+4426459,Chase Lane,Georgia Tech,ACC,receiving,TD,1
+4426459,Chase Lane,Georgia Tech,ACC,receiving,YPR,15.0
+4603746,Malik Rutherford,Georgia Tech,ACC,receiving,YDS,502
+4360589,Dontae Smith,Georgia Tech,ACC,receiving,LONG,32
+4603746,Malik Rutherford,Georgia Tech,ACC,receiving,LONG,55
+4428451,Brett Seither,Georgia Tech,ACC,receiving,TD,4
+4577541,Avery Boyd,Georgia Tech,ACC,receiving,REC,6
+4360589,Dontae Smith,Georgia Tech,ACC,receiving,YPR,9.2
+4577541,Avery Boyd,Georgia Tech,ACC,receiving,LONG,31
+4611995,Jamal Haynes,Georgia Tech,ACC,receiving,REC,20
+4426692,Luke Benson,Georgia Tech,ACC,receiving,LONG,38
+4426692,Luke Benson,Georgia Tech,ACC,receiving,YPR,9.3
+4694912,Abdul Janneh,Georgia Tech,ACC,receiving,YPR,20.3
+4611995,Jamal Haynes,Georgia Tech,ACC,receiving,LONG,46
+4426341,Dominick Blaylock,Georgia Tech,ACC,receiving,YDS,337
+4360589,Dontae Smith,Georgia Tech,ACC,receiving,TD,1
+5076122,Evan Dickens,Georgia Tech,ACC,receiving,TD,0
+4426692,Luke Benson,Georgia Tech,ACC,receiving,TD,0
+4694912,Abdul Janneh,Georgia Tech,ACC,receiving,YDS,122
+4611995,Jamal Haynes,Georgia Tech,ACC,receiving,YPR,7.6
+4587702,Christian Leary,Georgia Tech,ACC,receiving,TD,2
+4426341,Dominick Blaylock,Georgia Tech,ACC,receiving,TD,2
+5095360,Eric Singleton Jr.,Georgia Tech,ACC,receiving,LONG,58
+4577541,Avery Boyd,Georgia Tech,ACC,receiving,YDS,81
+4574777,Dylan Leonard,Georgia Tech,ACC,receiving,YDS,156
+4601283,Trevion Cooley,Georgia Tech,ACC,receiving,LONG,55
+4426459,Chase Lane,Georgia Tech,ACC,receiving,LONG,48
+4603746,Malik Rutherford,Georgia Tech,ACC,receiving,TD,4
+5172523,"Eric Singleton, Jr.",Georgia Tech,ACC,receiving,TD,1
+5172523,"Eric Singleton, Jr.",Georgia Tech,ACC,receiving,LONG,31
+5076122,Evan Dickens,Georgia Tech,ACC,receiving,REC,1
+4603746,Malik Rutherford,Georgia Tech,ACC,receiving,YPR,10.9
+4601283,Trevion Cooley,Georgia Tech,ACC,receiving,REC,11
+4694912,Abdul Janneh,Georgia Tech,ACC,receiving,TD,2
+4587702,Christian Leary,Georgia Tech,ACC,receiving,YDS,309
+4601283,Trevion Cooley,Georgia Tech,ACC,receiving,YDS,112
+4426692,Luke Benson,Georgia Tech,ACC,receiving,REC,9
+4428451,Brett Seither,Georgia Tech,ACC,receiving,YPR,14.4
+4611995,Jamal Haynes,Georgia Tech,ACC,receiving,YDS,151
+5095360,Eric Singleton Jr.,Georgia Tech,ACC,receiving,YDS,664
+4603746,Malik Rutherford,Georgia Tech,ACC,receiving,REC,46
+4574777,Dylan Leonard,Georgia Tech,ACC,receiving,TD,1
+4428451,Brett Seither,Georgia Tech,ACC,receiving,YDS,101
+5095360,Eric Singleton Jr.,Georgia Tech,ACC,receiving,TD,5
+4426341,Dominick Blaylock,Georgia Tech,ACC,receiving,YPR,16.0
+4694912,Abdul Janneh,Georgia Tech,ACC,receiving,REC,6
+4577541,Avery Boyd,Georgia Tech,ACC,receiving,YPR,13.5
+5076122,Evan Dickens,Georgia Tech,ACC,receiving,LONG,5
+4587702,Christian Leary,Georgia Tech,ACC,receiving,LONG,44
+5095360,Eric Singleton Jr.,Georgia Tech,ACC,receiving,REC,44
+4426341,Dominick Blaylock,Georgia Tech,ACC,receiving,LONG,53
+4601283,Trevion Cooley,Georgia Tech,ACC,receiving,TD,1
+4587702,Christian Leary,Georgia Tech,ACC,receiving,REC,25
+4426459,Chase Lane,Georgia Tech,ACC,receiving,REC,7
+5076122,Evan Dickens,Georgia Tech,ACC,receiving,YPR,5.0
+4426459,Chase Lane,Georgia Tech,ACC,receiving,YDS,105
+4428451,Brett Seither,Georgia Tech,ACC,receiving,LONG,35
+4426692,Luke Benson,Georgia Tech,ACC,receiving,YDS,84
+5172523,"Eric Singleton, Jr.",Georgia Tech,ACC,receiving,YPR,12.5
+5095360,Eric Singleton Jr.,Georgia Tech,ACC,receiving,YPR,15.1
+4574777,Dylan Leonard,Georgia Tech,ACC,receiving,LONG,29
+4577541,Avery Boyd,Georgia Tech,ACC,receiving,TD,2
+4611995,Jamal Haynes,Georgia Tech,ACC,receiving,TD,1
+4360589,Dontae Smith,Georgia Tech,ACC,receiving,REC,10
+4601283,Trevion Cooley,Georgia Tech,ACC,receiving,YPR,10.2

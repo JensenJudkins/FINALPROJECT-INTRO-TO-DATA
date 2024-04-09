@@ -1,0 +1,76 @@
+playerId,player,team,conference,category,statType,stat
+4240626,Jeff Thomas,Miami,ACC,receiving,YPR,12.2
+4362499,Mark Pope,Miami,ACC,receiving,REC,18
+4240626,Jeff Thomas,Miami,ACC,receiving,YDS,379
+4240641,Michael Parrott,Miami,ACC,receiving,REC,2
+4240636,Robert Burns,Miami,ACC,receiving,YDS,21
+4240626,Jeff Thomas,Miami,ACC,receiving,REC,31
+4037458,Michael Irvin II,Miami,ACC,receiving,TD,0
+4362523,Will Mallory,Miami,ACC,receiving,REC,16
+4362501,Brian Hightower,Miami,ACC,receiving,YPR,11.0
+4362503,Dee Wiggins,Miami,ACC,receiving,YPR,16.8
+4037458,Michael Irvin II,Miami,ACC,receiving,REC,2
+4362501,Brian Hightower,Miami,ACC,receiving,LONG,19
+4426361,Jeremiah Payton,Miami,ACC,receiving,YDS,23
+4362523,Will Mallory,Miami,ACC,receiving,TD,2
+4362509,Cam'Ron Harris,Miami,ACC,receiving,REC,16
+4427491,Larry Hodges,Miami,ACC,receiving,TD,2
+4240636,Robert Burns,Miami,ACC,receiving,LONG,15
+4427491,Larry Hodges,Miami,ACC,receiving,REC,2
+4362504,Brevin Jordan,Miami,ACC,receiving,YPR,14.1
+4362509,Cam'Ron Harris,Miami,ACC,receiving,LONG,19
+4426361,Jeremiah Payton,Miami,ACC,receiving,LONG,23
+4362503,Dee Wiggins,Miami,ACC,receiving,REC,20
+3916566,K.J. Osborn,Miami,ACC,receiving,TD,5
+4362509,Cam'Ron Harris,Miami,ACC,receiving,YDS,118
+4240625,Mike Harley,Miami,ACC,receiving,LONG,41
+4362504,Brevin Jordan,Miami,ACC,receiving,YDS,495
+4362509,Cam'Ron Harris,Miami,ACC,receiving,YPR,7.4
+4240631,DeeJay Dallas,Miami,ACC,receiving,YDS,140
+4037458,Michael Irvin II,Miami,ACC,receiving,YPR,16.5
+4362523,Will Mallory,Miami,ACC,receiving,LONG,38
+4362499,Mark Pope,Miami,ACC,receiving,YDS,266
+4240641,Michael Parrott,Miami,ACC,receiving,LONG,11
+4362509,Cam'Ron Harris,Miami,ACC,receiving,TD,1
+4362499,Mark Pope,Miami,ACC,receiving,TD,2
+4240631,DeeJay Dallas,Miami,ACC,receiving,TD,2
+4240625,Mike Harley,Miami,ACC,receiving,YDS,485
+4240631,DeeJay Dallas,Miami,ACC,receiving,YPR,10.0
+4362503,Dee Wiggins,Miami,ACC,receiving,YDS,335
+4362501,Brian Hightower,Miami,ACC,receiving,TD,0
+4240636,Robert Burns,Miami,ACC,receiving,REC,2
+4240636,Robert Burns,Miami,ACC,receiving,YPR,10.5
+4240626,Jeff Thomas,Miami,ACC,receiving,LONG,39
+3916566,K.J. Osborn,Miami,ACC,receiving,YDS,547
+3916566,K.J. Osborn,Miami,ACC,receiving,REC,50
+4362503,Dee Wiggins,Miami,ACC,receiving,TD,4
+4240625,Mike Harley,Miami,ACC,receiving,TD,3
+4240625,Mike Harley,Miami,ACC,receiving,YPR,12.8
+3916566,K.J. Osborn,Miami,ACC,receiving,YPR,10.9
+4362523,Will Mallory,Miami,ACC,receiving,YPR,18.3
+4426361,Jeremiah Payton,Miami,ACC,receiving,TD,0
+4427491,Larry Hodges,Miami,ACC,receiving,YDS,3
+4240631,DeeJay Dallas,Miami,ACC,receiving,LONG,42
+4362504,Brevin Jordan,Miami,ACC,receiving,REC,35
+4240641,Michael Parrott,Miami,ACC,receiving,YDS,13
+4240641,Michael Parrott,Miami,ACC,receiving,TD,0
+4362504,Brevin Jordan,Miami,ACC,receiving,LONG,51
+4362503,Dee Wiggins,Miami,ACC,receiving,LONG,67
+4362501,Brian Hightower,Miami,ACC,receiving,YDS,88
+4240636,Robert Burns,Miami,ACC,receiving,TD,1
+4362504,Brevin Jordan,Miami,ACC,receiving,TD,2
+4427491,Larry Hodges,Miami,ACC,receiving,YPR,1.5
+4426361,Jeremiah Payton,Miami,ACC,receiving,REC,1
+4362523,Will Mallory,Miami,ACC,receiving,YDS,293
+4427491,Larry Hodges,Miami,ACC,receiving,LONG,2
+4240631,DeeJay Dallas,Miami,ACC,receiving,REC,14
+4240626,Jeff Thomas,Miami,ACC,receiving,TD,3
+4362501,Brian Hightower,Miami,ACC,receiving,REC,8
+4362499,Mark Pope,Miami,ACC,receiving,YPR,14.8
+4240641,Michael Parrott,Miami,ACC,receiving,YPR,6.5
+4037458,Michael Irvin II,Miami,ACC,receiving,LONG,25
+4037458,Michael Irvin II,Miami,ACC,receiving,YDS,33
+4426361,Jeremiah Payton,Miami,ACC,receiving,YPR,23.0
+3916566,K.J. Osborn,Miami,ACC,receiving,LONG,32
+4240625,Mike Harley,Miami,ACC,receiving,REC,38
+4362499,Mark Pope,Miami,ACC,receiving,LONG,54

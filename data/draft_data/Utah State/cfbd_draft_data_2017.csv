@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3918026,52068,328,Utah State,Mountain West,Green Bay,2017,238,7,20,Devante Mays,Running Back,70,230,,55,30,"{'city': 'Livingston', 'state': 'TX', 'country': 'USA', 'latitude': '30.711029', 'longitude': '-94.9329898', 'countyFips': '48373'}"

@@ -1,0 +1,5 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1023343,49653,158,Nebraska,Big Ten,Dallas,2016,67,3,4,Maliek Collins,Defensive Tackle,74,311,78,14,76,"{'city': 'Kansas City', 'state': 'MO', 'country': 'USA', 'latitude': '39.100105', 'longitude': '-94.5781416', 'countyFips': '29095'}"
+-1023366,50288,158,Nebraska,Big Ten,New England,2016,96,3,33,Vincent Valentine,Defensive Tackle,76,329,186,22,55,"{'city': 'Edwardsville', 'state': 'IL', 'country': 'USA', 'latitude': '38.8114364', 'longitude': '-89.953157', 'countyFips': '17119'}"
+3116110,49934,158,Nebraska,Big Ten,Baltimore,2016,130,4,32,Alex Lewis,Offensive Tackle,78,312,66,7,78,"{'city': 'Tempe', 'state': 'AZ', 'country': 'USA', 'latitude': '33.4255056', 'longitude': '-111.9400125', 'countyFips': '04013'}"
+533286,50470,158,Nebraska,Big Ten,Denver,2016,176,6,1,Andy Janovich,Fullback,73,238,273,2,39,"{'city': 'Gretna', 'state': 'NE', 'country': 'USA', 'latitude': '41.1469269', 'longitude': '-96.2390053', 'countyFips': '31153'}"

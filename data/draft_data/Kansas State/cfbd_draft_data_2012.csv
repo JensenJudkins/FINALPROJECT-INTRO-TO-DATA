@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+480207,29021,2306,Kansas State,Big 12,Philadelphia,2012,229,7,22,Bryce Brown,Running Back,72,219,,24,32,"{'city': 'Wichita', 'state': 'KS', 'country': 'USA', 'latitude': '37.6922361', 'longitude': '-97.3375448', 'countyFips': '20173'}"

@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+3116689,104043,153,North Carolina,ACC,Washington,2019,173,5,35,Cole Holcomb,Outside Linebacker,73,235,,,,"{'city': 'New Smyrna Beach', 'state': 'FL', 'country': 'USA', 'latitude': '29.0258132', 'longitude': '-80.9271271', 'countyFips': '12127'}"

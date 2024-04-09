@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+4362139,105728,41,Connecticut,FBS Independents,Baltimore,2022,76,3,12,Travis Jones,Defensive Tackle,76,325,42,3,86,"{'city': 'New Haven', 'state': 'CT', 'country': 'USA', 'latitude': '41.3082138', 'longitude': '-72.9250518', 'countyFips': '09009'}"

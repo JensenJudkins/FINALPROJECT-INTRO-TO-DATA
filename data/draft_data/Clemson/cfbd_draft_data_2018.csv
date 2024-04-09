@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+546638,101804,228,Clemson,ACC,Kansas City,2018,100,3,36,Dorian O'Daniel,Outside Linebacker,73,223,149,11,61,"{'city': 'Olney', 'state': 'MD', 'country': 'USA', 'latitude': '39.1532123', 'longitude': '-77.0668408', 'countyFips': '24031'}"
+3728254,101579,228,Clemson,ACC,Indianapolis,2018,185,6,11,Deon Cain,Wide Receiver,74,202,107,12,70,"{'city': 'Tampa', 'state': 'FL', 'country': 'USA', 'latitude': '27.9477595', 'longitude': '-82.458444', 'countyFips': '12057'}"
+3728262,101800,228,Clemson,ACC,Buffalo,2018,187,6,13,Ray-Ray McCloud,Wide Receiver,70,190,291,35,36,"{'city': 'Tampa', 'state': 'FL', 'country': 'USA', 'latitude': '27.9477595', 'longitude': '-82.458444', 'countyFips': '12057'}"

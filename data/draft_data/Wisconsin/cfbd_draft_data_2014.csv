@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+2468389,33647,275,Wisconsin,Big Ten,Atlanta,2014,68,3,4,Dez Southward,Safety,72,211,144,8,58,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+482392,33073,275,Wisconsin,Big Ten,San Francisco,2014,77,3,13,Chris Borland,Inside Linebacker,72,248,79,2,70,"{'city': 'Kettering', 'state': 'OH', 'country': 'USA', 'latitude': '39.6895036', 'longitude': '-84.1688274', 'countyFips': '39113'}"
+503422,34153,275,Wisconsin,Big Ten,New England,2014,130,4,30,James White,Running Back,69,204,263,21,38,"{'city': 'Fort Lauderdale', 'state': 'FL', 'country': 'USA', 'latitude': '26.1223084', 'longitude': '-80.1433786', 'countyFips': '12011'}"
+482381,34134,275,Wisconsin,Big Ten,Green Bay,2014,176,5,36,Jared Abbrederis,Wide Receiver,73,195,201,29,48,"{'city': 'Wautoma', 'state': 'WI', 'country': 'USA', 'latitude': '44.0746995', 'longitude': '-89.287897', 'countyFips': '55137'}"
+503388,34145,275,Wisconsin,Big Ten,Philadelphia,2014,224,7,9,Beau Allen,Defensive Tackle,75,333,274,26,36,"{'city': 'Minnetonka', 'state': 'MN', 'country': 'USA', 'latitude': '44.9127229', 'longitude': '-93.499059', 'countyFips': '27053'}"

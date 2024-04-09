@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1022388,50507,142,Missouri,SEC,Arizona,2016,128,4,30,Evan Boehm,Offensive Guard,74,302,121,5,66,"{'city': ""Lee's Summit"", 'state': 'MO', 'country': 'USA', 'latitude': '38.9107156', 'longitude': '-94.3821295', 'countyFips': '29095'}"
+2577367,49837,142,Missouri,SEC,Denver,2016,144,5,5,Connor Mcgovern,Offensive Guard,76,306,114,4,68,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+515208,49775,142,Missouri,SEC,Minnesota,2016,160,5,21,Kentrell Brothers,Inside Linebacker,72,245,182,10,55,"{'city': 'Guthrie', 'state': 'OK', 'country': 'USA', 'latitude': '35.8789231', 'longitude': '-97.4252772', 'countyFips': '40083'}"

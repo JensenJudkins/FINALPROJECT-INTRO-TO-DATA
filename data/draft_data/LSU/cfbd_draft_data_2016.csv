@@ -1,0 +1,6 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+534432,49883,99,LSU,SEC,Atlanta,2016,52,2,21,Deion Jones,Outside Linebacker,73,222,53,5,81,"{'city': 'New Orleans', 'state': 'LA', 'country': 'USA', 'latitude': '29.9499323', 'longitude': '-90.0701156', 'countyFips': '22071'}"
+534441,50393,99,LSU,SEC,Pittsburgh,2016,123,4,25,Jerald Hawkins,Offensive Tackle,78,305,126,10,65,"{'city': 'Baldwin', 'state': 'LA', 'country': 'USA', 'latitude': '29.8380', 'longitude': '-91.5443', 'countyFips': '26085'}"
+3042718,50252,99,LSU,SEC,San Francisco,2016,133,4,35,Rashard Robinson,Cornerback,74,171,222,26,49,"{'city': None, 'state': None, 'country': None, 'latitude': None, 'longitude': None, 'countyFips': None}"
+534427,49592,99,LSU,SEC,Philadelphia,2016,233,7,12,Jalen Mills,Safety,72,191,92,7,72,"{'city': 'DeSoto', 'state': 'TX', 'country': 'USA', 'latitude': '32.6061241', 'longitude': '-96.865612653687', 'countyFips': '48113'}"
+-1016533,49831,99,LSU,SEC,Las Vegas,2016,234,7,13,Vadal Alexander,Offensive Guard,77,326,150,9,59,"{'city': 'Buford', 'state': 'GA', 'country': 'USA', 'latitude': '34.1206564', 'longitude': '-84.0043513', 'countyFips': '13135'}"

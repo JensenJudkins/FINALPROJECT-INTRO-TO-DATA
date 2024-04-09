@@ -1,0 +1,2 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1007169,27369,2132,Cincinnati,Big East,Philadelphia,2011,191,6,26,Jason Kelce,Center,75,280,,9,30,"{'city': 'Cleveland Heights', 'state': 'OH', 'country': 'USA', 'latitude': '41.5200518', 'longitude': '-81.556235', 'countyFips': '39035'}"

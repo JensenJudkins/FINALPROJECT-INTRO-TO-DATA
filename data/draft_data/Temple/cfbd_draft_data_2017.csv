@@ -1,0 +1,4 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+536179,51931,218,Temple,American Athletic,Arizona,2017,13,1,13,Haason Reddick,Inside Linebacker,74,237,11,2,92,"{'city': 'Camden', 'state': 'NJ', 'country': 'USA', 'latitude': '39.9448402', 'longitude': '-75.1198911', 'countyFips': '34007'}"
+549775,51839,218,Temple,American Athletic,Buffalo,2017,63,2,31,Dion Dawkins,Offensive Guard,76,314,50,2,83,"{'city': 'Rahway', 'state': 'NJ', 'country': 'USA', 'latitude': '40.6081591', 'longitude': '-74.2776468', 'countyFips': '34039'}"
+534270,51829,218,Temple,American Athletic,Indianapolis,2017,158,5,14,Nate Hairston,Cornerback,72,196,144,22,62,"{'city': 'Frederick', 'state': 'MD', 'country': 'USA', 'latitude': '39.4142186', 'longitude': '-77.4109269', 'countyFips': '24021'}"

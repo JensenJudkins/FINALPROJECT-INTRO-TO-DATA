@@ -1,0 +1,3 @@
+collegeAthleteId,nflAthleteId,collegeId,collegeTeam,collegeConference,nflTeam,year,overall,round,pick,name,position,height,weight,preDraftRanking,preDraftPositionRanking,preDraftGrade,hometownInfo
+-1008795,46862,150,Duke,ACC,Detroit,2015,28,1,28,Laken Tomlinson,Offensive Guard,75,323,53,1,82,"{'city': 'Chicago', 'state': 'IL', 'country': 'USA', 'latitude': '41.8755616', 'longitude': '-87.6244212', 'countyFips': '17031'}"
+517452,46932,150,Duke,ACC,Washington,2015,105,4,6,Jamison Crowder,Wide Receiver,68,185,123,19,64,"{'city': 'Monroe', 'state': 'NC', 'country': 'USA', 'latitude': '34.9854275', 'longitude': '-80.5495112', 'countyFips': '37179'}"
