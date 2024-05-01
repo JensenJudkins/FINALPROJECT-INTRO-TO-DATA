@@ -1,7 +1,15 @@
-## Make sure att data is there or pull aditional data using the python files found in the data folder
+## Pulling Data
+Data has been provided in the repository, however if you wish to pull the data again you will need to run three different files in their corresponding dirrectories.
+
+1. College data
+```bash cd data && python3 draft_picks_data_pull.py```
+```bash cd data && python3 receiver_data_pull.py```
+
+2. NFL data
+```bash cd data/NFL_Stats-main && python3 scraper.py```
+
 
 ## Install dependencies
-
-pip install -r requirements.txt
+```bash pip install -r requirements.txt ```
 
 ## Main project file is project.ipynb
