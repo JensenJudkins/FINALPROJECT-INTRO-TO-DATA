@@ -1,5 +1,5 @@
 ## Pulling Data
-Data has been provided in the repository, however if you wish to pull the data again you will need to run three different files in their corresponding dirrectories.
+Data has been provided in the repository, however if you wish to pull the data again you will need to run four different files in their corresponding dirrectories.
 
 1. College data
 ```bash cd data && python3 draft_picks_data_pull.py```
@@ -7,6 +7,7 @@ Data has been provided in the repository, however if you wish to pull the data a
 
 2. NFL data
 ```bash cd data/NFL_Stats-main && python3 scraper.py```
+```bash cd data && python3 nfl_data_pull.py```
 
 
 ## Install dependencies
